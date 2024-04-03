@@ -1,0 +1,21 @@
+version: '3'
+
+volumes:
+  data:
+    driver: local
+
+services:
+  postgres:
+    # image: 172.20.1.22/proxy-cache/library/postgres:latest
+    image: postgres:15-alpine
+    restart: always
+    container_name: postgreSQL
+    environment:
+      POSTGRES_USER: postgres_user
+      POSTGRES_PASSWORD: 123456aA@
+      POSTGRES_DB: mypostgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - /data/postgres:/var/lib/postgresql/data:rw
+      - ./dev/docker_postgres_init:/docker-entrypoint-initdb.d  
