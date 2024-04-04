@@ -1,0 +1,56 @@
+#mongoDB Atlas: username: anhddhe170353 password: anhddhe170353
+version: '3'
+volumes:
+  data:
+    driver: local
+  conf:
+services:
+  mongodb:
+    image: mongo:6.0.2-focal
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_DATABASE=aiservice_dev
+      - MONGO_INITDB_ROOT_USERNAME=mongouser
+      - MONGO_INITDB_ROOT_PASSWORD=123456aA@
+    volumes:
+      # seeding scripts
+      - ./conf/mongodb:/docker-entrypoint-initdb.d
+      # named volumes
+      - ./data/mongodb_data:/data/db
+      - ./data/mongodb_config:/data/configdb
+
+
+# docker exec -it 0585fdc162ac /bin/bash
+# mongosh
+# use admin
+# db.auth("mongouser", "123456aA@")
+
+#       CREATE 
+# Insert One Document 
+# db.collectionName.insertOne({ field1: value1, field2: value2, ... })
+
+# Insert Many Documents
+# db.collectionName.insertMany([ { field1: value1, field2: value2, ... }, { field1: value1, field2: value2, ... }, ... ])
+
+
+# READ 
+# Find Documents 
+# db.collectionName.find({ field: value })
+# Find One Document 
+# db.collectionName.findOne({ field: value })
+
+
+# UPDATE 
+# Update One Document 
+# db.collectionName.updateOne({ filter }, { $set: { field: value } })
+# Update Many Documents 
+# db.collectionName.updateMany({ filter }, { $set: { field: value } })
+
+
+# DELETE
+# Delete One Document 
+# db.collectionName.deleteOne({ filter })
+# Delete Many Documents 
+# db.collectionName.deleteMany({ filter })
