@@ -1,0 +1,40 @@
+version: '3'
+volumes:
+  data:
+    driver: local
+  redisinsight:
+services:
+  # === Redis ===
+  redis:
+    # image: redis:7.0.5-alpine
+    image: redis:7.0.5
+    restart: always
+    container_name: redis
+    ports:
+      - "6379:6379"    
+    volumes: 
+      - ./data/redis_data:/data
+    # snapshotting https://redis.io/docs/management/persistence/
+    command: redis-server --save 60 1000 --loglevel warning --requirepass 123456aA@
+
+  redisinsight:
+    image: redislabs/redisinsight:latest
+    restart: always
+    ports:
+      - '8001:8001'
+    volumes:
+      - ./data/redisinsight:/db 
+
+
+  #docker exec -it <name> redis-cli
+  #AUTH 123456aA@
+  #SET key value
+  #get key
+  #exits key => return 0, 1
+  #del key key ....
+  #expire key time
+  #ttl key
+  #strlen key
+  #append key "string"
+  #
+
