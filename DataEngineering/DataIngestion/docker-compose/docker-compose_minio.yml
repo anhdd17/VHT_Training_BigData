@@ -1,0 +1,33 @@
+version: "3"
+
+
+networks:
+  data_centric:
+    driver: bridge
+
+volumes:
+  etcd_data:
+    driver: local
+  minio_data:
+
+
+services:
+  # === Storage ===
+  minio:
+    image: minio/minio:latest
+    container_name: minio
+    # restart: unless-stopped
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+
+    environment:
+      - MINIO_ACCESS_KEY
+      - MINIO_SECRET_KEY
+      - MINIO_PROMETHEUS_AUTH_TYPE=public
+      - MINIO_UPDATE=off
+    volumes:
+      - minio_data:/data
+    command: server /data --address ':9000' --console-address ':9001'
+    networks:
+      data_centric:

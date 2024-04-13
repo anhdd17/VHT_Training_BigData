@@ -1,0 +1,23 @@
+{
+    "info": {
+        "description": "COCO 2017 Dataset","url": "http://cocodataset.org","version": "1.0","year": 2017,"contributor": "COCO Consortium","date_created": "2017/09/01"
+    },
+    "licenses": [
+        {"url": "http://creativecommons.org/licenses/by/2.0/","id": 4,"name": "Attribution License"}
+    ],
+    "images": [
+        {"id": 1, "license": 4, "coco_url": "s3://datalake/dataRaw/animals_od/images/image_1.jpg", "flickr_url": "s3://datalake/dataRaw/animals_od/images/image_1.jpg", "s3_url": "s3://datalake/dataRaw/animals_od/images/image_1.jpg", "width": 426, "height": 640, "file_name": "image_1.jpg", "date_captured": "2013-11-15 02:41:42"},
+        {"id": 2, "license": 4, "coco_url": "s3://datalake/dataRaw/animals_od/images/image_2.jpg", "flickr_url": "s3://datalake/dataRaw/animals_od/images/image_2.jpg", "s3_url": "s3://datalake/dataRaw/animals_od/images/image_2.jpg", "width": 426, "height": 640, "file_name": "image_2.jpg", "date_captured": "2013-11-15 02:41:42"},
+        {"id": 3, "license": 4, "coco_url": "s3://datalake/dataRaw/animals_od/images/image_3.jpg", "flickr_url": "s3://datalake/dataRaw/animals_od/images/image_3.jpg", "s3_url": "s3://datalake/dataRaw/animals_od/images/image_3.jpg", "width": 426, "height": 640, "file_name": "image_3.jpg", "date_captured": "2013-11-15 02:41:42"}
+    ],
+    "annotations": [
+        {"id": 125686, "category_id": 0, "iscrowd": 0, "segmentation": [[164.81, 417.51, 167.55, 410.64]], "image_id": 1, "area": 42061.80340000001, "bbox": [0.49453125,0.5585480093676815,0.1484375,0.4894613583138173]},
+        {"id": 1409619, "category_id": 0, "iscrowd": 0, "segmentation": [[376.81, 238.8, 382.74, 241.17]], "image_id": 2, "area": 3556.2197000000015, "bbox": [0.421875,0.4546875,0.58125,0.6677083333333333]},
+        {"id": 1410165, "category_id": 0, "iscrowd": 0, "segmentation": [[486.34, 239.01, 495.95, 244.39]], "image_id": 3, "area": 1775.8932499999994, "bbox": [0.60859375,0.5645833333333333,0.6546875,0.5125]},
+        {"id": 1410163, "category_id": 1, "iscrowd": 0, "segmentation": [[486.34, 239.01, 495.95, 244.39]], "image_id": 3, "area": 1775.8932499999994, "bbox": [0.5765625,0.246875,0.271875,0.40208333333333335]}
+    ],
+    "categories": [
+        {"supercategory": "speaker","id": 0,"name": "cat"},
+        {"supercategory": "speaker","id": 1,"name": "dog"}
+    ]
+}
