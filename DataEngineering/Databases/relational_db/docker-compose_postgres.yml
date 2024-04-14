@@ -7,7 +7,7 @@ volumes:
 services:
   postgres:
     # image: 172.20.1.22/proxy-cache/library/postgres:latest
-    image: postgres:15-alpine
+    image: debezium/postgres:13
     restart: always
     container_name: postgreSQL
     environment:
@@ -17,5 +17,21 @@ services:
     ports:
       - "5432:5432"
     volumes:
-      - /data/postgres:/var/lib/postgresql/data:rw
-      - ./dev/docker_postgres_init:/docker-entrypoint-initdb.d  
+      - ./data/postgres:/var/lib/postgresql/data:rw
+      - ./dev/init.sql:/docker-entrypoint-initdb.d/create_tables.sql  
+
+
+  postgres2:
+    # image: 172.20.1.22/proxy-cache/library/postgres:latest
+    image: debezium/postgres:13
+    restart: always
+    container_name: postgreSQL2
+    environment:
+      POSTGRES_USER: postgres_user
+      POSTGRES_PASSWORD: 123456aA@
+      POSTGRES_DB: mypostgres2
+    ports:
+      - "5433:5432"
+    volumes:
+      - ./data/postgres2:/var/lib/postgresql/data:rw
+      - ./dev/init.sql:/docker-entrypoint-initdb.d/create_tables.sql   

@@ -27,7 +27,7 @@ services:
       - MINIO_PROMETHEUS_AUTH_TYPE=public
       - MINIO_UPDATE=off
     volumes:
-      - minio_data:/data
+      - ./data/minio_data:/data
     command: server /data --address ':9000' --console-address ':9001'
     networks:
       data_centric:

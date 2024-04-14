@@ -50,7 +50,7 @@ def getExpirationDateFromCurrentTime(expired_duration, time_unit):
 class S3Ceph():
     def __init__(self, aws_access_key_id, aws_secret_access_key, endpoint_url):
         # Set up our logger
-        logging.basicConfig(level=logging.INFO)
+        logging.basicConfig(filename='s3ceph_log.log', level=logging.INFO, format='%(asctime)s:%(levelname)s:%(message)s')
         self.logger = logging.getLogger()
 
         try:
@@ -62,7 +62,7 @@ class S3Ceph():
                 endpoint_url= endpoint_url
             )
         except Exception as err:
-            self.logger.info("An exception: %s", err)
+            self.logger.exception("An exception: %s", err)
             raise err
         
         self.logger.info("Server Conneted to Ceph: %s", endpoint_url)

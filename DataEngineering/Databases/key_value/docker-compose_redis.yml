@@ -8,7 +8,7 @@ services:
   redis:
     # image: redis:7.0.5-alpine
     image: redis:7.0.5
-    restart: always
+    #restart: always
     container_name: redis
     ports:
       - "6379:6379"    
@@ -19,7 +19,7 @@ services:
 
   redisinsight:
     image: redislabs/redisinsight:latest
-    restart: always
+    #restart: always
     ports:
       - '8001:8001'
     volumes:

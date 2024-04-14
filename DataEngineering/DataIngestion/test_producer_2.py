@@ -173,9 +173,9 @@ def fake_event_data():
 
 if __name__=="__main__":
     
-    s3_client = S3Ceph(aws_access_key_id=Setting.S3_ACCESS_KEY_ID,
-                    aws_secret_access_key=Setting.S3_SECRET_ACCESS_KEY,
-                    endpoint_url=Setting.S3_ENDPOINT_URL)
+    # s3_client = S3Ceph(aws_access_key_id=Setting.S3_ACCESS_KEY_ID,
+    #                 aws_secret_access_key=Setting.S3_SECRET_ACCESS_KEY,
+    #                 endpoint_url=Setting.S3_ENDPOINT_URL)
 
     producer = KafkaProducer(
         bootstrap_servers=[f"{Setting.KAFKA_HOST}:{Setting.KAFKA_PORT}", f"{Setting.KAFKA_HOST_2}:{Setting.KAFKA_PORT_2}"], 
@@ -203,8 +203,8 @@ if __name__=="__main__":
     events, list_path_images = fake_event_data()
     for i, event in enumerate(events):
         print("Message: ", event)
-        s3_client.upload_file(path=list_path_images[i], bucket_name=event["bucket"], name=event["image_path"])
+        #s3_client.upload_file(path=list_path_images[i], bucket_name=event["bucket"], name=event["image_path"])
         producer.send('event_topic_2', value=event)
         print('--------------------------------------------------')
         print(str(i)+ '\nTimestamp:' + time.ctime(time.time()))  # DEBUG
-        #sleep(1)
+        sleep(1)

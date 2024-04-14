@@ -16,12 +16,14 @@ class Consumer():
             # bootstrap_servers= [f"{host2}:{port2}"], 
             value_deserializer=lambda m: json.loads(m.decode('utf-8')))
         print("Infor: ", host, port, topic, group_id)
+
     def __call__(self):
         Logger.info("Staring call function")
         for message in self.consumer:
             Logger.info("Get Message")
             message = message.value
             message_after = message["after"]
+            #message_after = message
             print("Message: ", message_after)
             print("bbox: ", message_after["bbox"])
             res_insert = Database2.insert(
