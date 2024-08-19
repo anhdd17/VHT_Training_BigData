@@ -18,7 +18,13 @@ services:
       CASSANDRA_DC: DC1
       CASSANDRA_RACK: RACK1
       CASSANDRA_ENDPOINT_SNITCH: GossipingPropertyFileSnitch
-      CASSANDRA_NUM_TOKENS: 128
+      CASSANDRA_NUM_TOKENS: 64
+      MAX_HEAP_SIZE: 2G
+      HEAP_NEWSIZE: 800M
+    deploy:
+      resources:
+        limits:
+          memory: 3G
 
   cassandra2:
     image: cassandra:latest
@@ -34,9 +40,15 @@ services:
       CASSANDRA_DC: DC1
       CASSANDRA_RACK: RACK1
       CASSANDRA_ENDPOINT_SNITCH: GossipingPropertyFileSnitch
-      CASSANDRA_NUM_TOKENS: 128
+      CASSANDRA_NUM_TOKENS: 64
+      MAX_HEAP_SIZE: 2G
+      HEAP_NEWSIZE: 800M
     depends_on:
       - cassandra1
+    deploy:
+      resources:
+        limits:
+          memory: 3G
 
   cassandra3:
     image: cassandra:latest
@@ -52,6 +64,12 @@ services:
       CASSANDRA_DC: DC1
       CASSANDRA_RACK: RACK1
       CASSANDRA_ENDPOINT_SNITCH: GossipingPropertyFileSnitch
-      CASSANDRA_NUM_TOKENS: 128
+      CASSANDRA_NUM_TOKENS: 64
+      MAX_HEAP_SIZE: 2G
+      HEAP_NEWSIZE: 800M
     depends_on:
       - cassandra2
+    deploy:
+      resources:
+        limits:
+          memory: 3G

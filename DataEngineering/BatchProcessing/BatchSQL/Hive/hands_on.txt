@@ -1,0 +1,22 @@
+Step 1: Get a copy of the CSV file
+mkdir /home/anhdd/Downloads/VHT_Training_BigData/DataEngineering/BatchProcessing/data
+cd /home/anhdd/Downloads/VHT_Training_BigData/DataEngineering/BatchProcessing/data
+wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-BD0225EN-SkillsNetwork/data/emp.csv
+
+Step 2: Setup Hive and Bee
+docker pull apache/hive:4.0.0-alpha-1
+docker run -d -p 10000:10000 -p 10002:10002 --env SERVICE_NAME=hiveserver2 -v /home/anhdd/Downloads/VHT_Training_BigData/DataEngineering/BatchProcessing/data:/hive_custom_data --name myhiveserver apache/hive:4.0.0-alpha-1
+docker run -d -p 10000:10000 -p 10002:10002 --env SERVICE_NAME=hiveserver2 -v /home/project/data:/hive_custom_data --name myhiveserver apache/hive:4.0.0-alpha-1
+===> run localhost:10002 on web browser to see GUI
+
+This is a SQL cli where you can create, modify, delete table, and access data in the table:
+docker exec -it myhiveserver beeline -u 'jdbc:hive2://localhost:10000/'
+
+Step 3: Create table, add and view data
+create table Employee(emp_id string, emp_name string, salary  int)  row format delimited fields terminated by ',' ;
+show tables;
+LOAD DATA INPATH '/hive_custom_data/emp.csv' INTO TABLE Employee;
+SELECT * FROM employee;
+ctrl D to quit
+
+Hive internally uses MapReduce to process and analyze data. When you execute a Hive query, it generates MapReduce jobs that run on the Hadoop cluster.
