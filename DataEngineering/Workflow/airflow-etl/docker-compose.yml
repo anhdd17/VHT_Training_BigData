@@ -1,0 +1,53 @@
+version: '3'
+services:
+  postgres:
+    image: postgres:13
+    restart: always
+    environment:
+      POSTGRES_DB: airflow
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+    networks:
+      - airflow-net
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+
+  airflow-webserver:
+    image: apache/airflow:2.7.1
+    restart: always
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__LOAD_EXAMPLES: 'False'
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+    ports:
+      - "8080:8080"
+    networks:
+      - airflow-net
+    depends_on:
+      - postgres
+    volumes:
+      - ./dags:/opt/airflow/dags
+    command: >
+      bash -c "airflow db migrate && airflow webserver"
+
+  airflow-scheduler:
+    image: apache/airflow:2.7.1
+    restart: always
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+    networks:
+      - airflow-net
+    depends_on:
+      - postgres
+    volumes:
+      - ./dags:/opt/airflow/dags
+    command: "airflow scheduler"  # <-- Ensure this command is specified
+
+networks:
+  airflow-net:
+    driver: bridge
+volumes:
+  postgres-data:

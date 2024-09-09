@@ -1,0 +1,31 @@
+
+Make sure your Docker containers are running:
+
+docker-compose up -d
+Access the Airflow Webserver Container:
+
+Open a shell inside the Airflow webserver container:
+
+docker exec -it airflow-etl_airflow-webserver_1 bash
+Initialize the Airflow Database:
+
+Run the Airflow database migration command:
+airflow db upgrade
+Create an Airflow Admin User:
+
+You can use the Airflow CLI to create an admin user. Run the following command inside the container:
+
+airflow users create \
+  --username admin \
+  --password admin \
+  --firstname Admin \
+  --lastname User \
+  --role Admin \
+  --email admin@example.com
+Start the Airflow Webserver:
+
+If the webserver is not already running, you can start it from within the container:
+
+airflow webserver
+
+then exit
