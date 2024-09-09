@@ -30,7 +30,7 @@ services:
     volumes:
       - ./dags:/opt/airflow/dags
     command: >
-      bash -c "airflow db migrate && airflow webserver"
+      bash -c "(airflow db migrate && airflow users create --username user1 --password user1 --firstname User --lastname One --role Admin --email user1@example.com); airflow webserver"
 
   airflow-scheduler:
     image: apache/airflow:2.7.1
