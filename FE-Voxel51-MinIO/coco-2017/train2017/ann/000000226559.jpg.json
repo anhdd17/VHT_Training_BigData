@@ -1,0 +1,2364 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4621918,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A kitchen with sinks, oven, microwave and a refrigerator.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.614Z",
+            "updatedAt": "2023-09-20T10:39:00.614Z"
+        },
+        {
+            "id": 4621919,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a kitchen with silver appliances and a clear bowl of green apples.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.614Z",
+            "updatedAt": "2023-09-20T10:39:00.614Z"
+        },
+        {
+            "id": 4621920,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "an image of kitchen setting with stainless steel ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.614Z",
+            "updatedAt": "2023-09-20T10:39:00.614Z"
+        },
+        {
+            "id": 4621921,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A modern kitchen looks great with shiny black counters and stainless appliances.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.614Z",
+            "updatedAt": "2023-09-20T10:39:00.614Z"
+        },
+        {
+            "id": 4621922,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A kitchen with silver appliances has a vase of apples near the sink.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.614Z",
+            "updatedAt": "2023-09-20T10:39:00.614Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46457989,
+            "classId": 6461835,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.632Z",
+            "updatedAt": "2023-09-20T10:39:00.632Z",
+            "tags": [],
+            "classTitle": "refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        368,
+                        123
+                    ],
+                    [
+                        419,
+                        120
+                    ],
+                    [
+                        538,
+                        126
+                    ],
+                    [
+                        525,
+                        302
+                    ],
+                    [
+                        525,
+                        323
+                    ],
+                    [
+                        485,
+                        308
+                    ],
+                    [
+                        475,
+                        310
+                    ],
+                    [
+                        476,
+                        320
+                    ],
+                    [
+                        460,
+                        309
+                    ],
+                    [
+                        442,
+                        293
+                    ],
+                    [
+                        430,
+                        300
+                    ],
+                    [
+                        436,
+                        309
+                    ],
+                    [
+                        441,
+                        315
+                    ],
+                    [
+                        408,
+                        321
+                    ],
+                    [
+                        394,
+                        314
+                    ],
+                    [
+                        393,
+                        261
+                    ],
+                    [
+                        349,
+                        249
+                    ],
+                    [
+                        354,
+                        181
+                    ],
+                    [
+                        370,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457988,
+            "classId": 6461835,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.632Z",
+            "updatedAt": "2023-09-20T10:39:00.632Z",
+            "tags": [],
+            "classTitle": "refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        120
+                    ],
+                    [
+                        538,
+                        323
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457987,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.631Z",
+            "updatedAt": "2023-09-20T10:39:00.631Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        222,
+                        291
+                    ],
+                    [
+                        259,
+                        337
+                    ],
+                    [
+                        262,
+                        380
+                    ],
+                    [
+                        276,
+                        391
+                    ],
+                    [
+                        295,
+                        381
+                    ],
+                    [
+                        299,
+                        340
+                    ],
+                    [
+                        340,
+                        291
+                    ],
+                    [
+                        341,
+                        284
+                    ],
+                    [
+                        313,
+                        266
+                    ],
+                    [
+                        300,
+                        265
+                    ],
+                    [
+                        289,
+                        254
+                    ],
+                    [
+                        233,
+                        264
+                    ],
+                    [
+                        231,
+                        277
+                    ],
+                    [
+                        213,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457986,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.631Z",
+            "updatedAt": "2023-09-20T10:39:00.631Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        213,
+                        254
+                    ],
+                    [
+                        341,
+                        391
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457985,
+            "classId": 6461812,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.630Z",
+            "updatedAt": "2023-09-20T10:39:00.630Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        240
+                    ],
+                    [
+                        275,
+                        239
+                    ],
+                    [
+                        279,
+                        239
+                    ],
+                    [
+                        281,
+                        239
+                    ],
+                    [
+                        282,
+                        239
+                    ],
+                    [
+                        285,
+                        242
+                    ],
+                    [
+                        285,
+                        246
+                    ],
+                    [
+                        284,
+                        249
+                    ],
+                    [
+                        281,
+                        252
+                    ],
+                    [
+                        276,
+                        252
+                    ],
+                    [
+                        273,
+                        250
+                    ],
+                    [
+                        272,
+                        245
+                    ],
+                    [
+                        272,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457984,
+            "classId": 6461812,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.630Z",
+            "updatedAt": "2023-09-20T10:39:00.630Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        239
+                    ],
+                    [
+                        285,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457983,
+            "classId": 6461812,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.630Z",
+            "updatedAt": "2023-09-20T10:39:00.630Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        238
+                    ],
+                    [
+                        270,
+                        240
+                    ],
+                    [
+                        271,
+                        243
+                    ],
+                    [
+                        271,
+                        247
+                    ],
+                    [
+                        270,
+                        250
+                    ],
+                    [
+                        268,
+                        251
+                    ],
+                    [
+                        265,
+                        252
+                    ],
+                    [
+                        261,
+                        252
+                    ],
+                    [
+                        257,
+                        248
+                    ],
+                    [
+                        259,
+                        240
+                    ],
+                    [
+                        262,
+                        238
+                    ],
+                    [
+                        266,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457982,
+            "classId": 6461812,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.630Z",
+            "updatedAt": "2023-09-20T10:39:00.630Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        238
+                    ],
+                    [
+                        271,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457981,
+            "classId": 6461812,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.629Z",
+            "updatedAt": "2023-09-20T10:39:00.629Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        247
+                    ],
+                    [
+                        286,
+                        244
+                    ],
+                    [
+                        286,
+                        241
+                    ],
+                    [
+                        288,
+                        239
+                    ],
+                    [
+                        290,
+                        239
+                    ],
+                    [
+                        294,
+                        239
+                    ],
+                    [
+                        296,
+                        240
+                    ],
+                    [
+                        297,
+                        240
+                    ],
+                    [
+                        299,
+                        243
+                    ],
+                    [
+                        298,
+                        247
+                    ],
+                    [
+                        298,
+                        249
+                    ],
+                    [
+                        297,
+                        251
+                    ],
+                    [
+                        296,
+                        252
+                    ],
+                    [
+                        292,
+                        252
+                    ],
+                    [
+                        292,
+                        252
+                    ],
+                    [
+                        290,
+                        252
+                    ],
+                    [
+                        288,
+                        252
+                    ],
+                    [
+                        286,
+                        249
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457980,
+            "classId": 6461812,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.629Z",
+            "updatedAt": "2023-09-20T10:39:00.629Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        239
+                    ],
+                    [
+                        299,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457979,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.628Z",
+            "updatedAt": "2023-09-20T10:39:00.628Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        86
+                    ],
+                    [
+                        223,
+                        90
+                    ],
+                    [
+                        240,
+                        93
+                    ],
+                    [
+                        237,
+                        167
+                    ],
+                    [
+                        136,
+                        165
+                    ],
+                    [
+                        91,
+                        164
+                    ],
+                    [
+                        91,
+                        87
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457978,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.628Z",
+            "updatedAt": "2023-09-20T10:39:00.628Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        91,
+                        86
+                    ],
+                    [
+                        240,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457977,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.627Z",
+            "updatedAt": "2023-09-20T10:39:00.627Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        90,
+                        204
+                    ],
+                    [
+                        87,
+                        238
+                    ],
+                    [
+                        102,
+                        276
+                    ],
+                    [
+                        103,
+                        299
+                    ],
+                    [
+                        111,
+                        442
+                    ],
+                    [
+                        231,
+                        424
+                    ],
+                    [
+                        168,
+                        349
+                    ],
+                    [
+                        257,
+                        334
+                    ],
+                    [
+                        220,
+                        293
+                    ],
+                    [
+                        220,
+                        282
+                    ],
+                    [
+                        227,
+                        273
+                    ],
+                    [
+                        232,
+                        273
+                    ],
+                    [
+                        228,
+                        265
+                    ],
+                    [
+                        222,
+                        248
+                    ],
+                    [
+                        224,
+                        225
+                    ],
+                    [
+                        221,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457976,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.627Z",
+            "updatedAt": "2023-09-20T10:39:00.627Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        197
+                    ],
+                    [
+                        257,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457975,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.626Z",
+            "updatedAt": "2023-09-20T10:39:00.626Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        379
+                    ],
+                    [
+                        486,
+                        379
+                    ],
+                    [
+                        383,
+                        398
+                    ],
+                    [
+                        294,
+                        335
+                    ],
+                    [
+                        295,
+                        335
+                    ],
+                    [
+                        443,
+                        317
+                    ],
+                    [
+                        484,
+                        359
+                    ],
+                    [
+                        492,
+                        377
+                    ],
+                    [
+                        485,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457974,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.626Z",
+            "updatedAt": "2023-09-20T10:39:00.626Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        493,
+                        378
+                    ],
+                    [
+                        595,
+                        356
+                    ],
+                    [
+                        583,
+                        356
+                    ],
+                    [
+                        558,
+                        349
+                    ],
+                    [
+                        566,
+                        340
+                    ],
+                    [
+                        492,
+                        310
+                    ],
+                    [
+                        500,
+                        357
+                    ],
+                    [
+                        489,
+                        361
+                    ],
+                    [
+                        489,
+                        361
+                    ],
+                    [
+                        490,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457973,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.626Z",
+            "updatedAt": "2023-09-20T10:39:00.626Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        480,
+                        314
+                    ],
+                    [
+                        463,
+                        314
+                    ],
+                    [
+                        484,
+                        344
+                    ],
+                    [
+                        484,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457972,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.626Z",
+            "updatedAt": "2023-09-20T10:39:00.626Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        317
+                    ],
+                    [
+                        492,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457971,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.624Z",
+            "updatedAt": "2023-09-20T10:39:00.624Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        489,
+                        310
+                    ],
+                    [
+                        595,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457970,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.624Z",
+            "updatedAt": "2023-09-20T10:39:00.624Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        463,
+                        313
+                    ],
+                    [
+                        484,
+                        344
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457969,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.624Z",
+            "updatedAt": "2023-09-20T10:39:00.624Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        238
+                    ],
+                    [
+                        268,
+                        229
+                    ],
+                    [
+                        273,
+                        223
+                    ],
+                    [
+                        272,
+                        213
+                    ],
+                    [
+                        282,
+                        214
+                    ],
+                    [
+                        281,
+                        220
+                    ],
+                    [
+                        285,
+                        234
+                    ],
+                    [
+                        287,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457968,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.624Z",
+            "updatedAt": "2023-09-20T10:39:00.624Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        213
+                    ],
+                    [
+                        287,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457967,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.624Z",
+            "updatedAt": "2023-09-20T10:39:00.624Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        281
+                    ],
+                    [
+                        243,
+                        277
+                    ],
+                    [
+                        243,
+                        271
+                    ],
+                    [
+                        244,
+                        265
+                    ],
+                    [
+                        248,
+                        263
+                    ],
+                    [
+                        251,
+                        261
+                    ],
+                    [
+                        254,
+                        260
+                    ],
+                    [
+                        257,
+                        260
+                    ],
+                    [
+                        261,
+                        261
+                    ],
+                    [
+                        263,
+                        263
+                    ],
+                    [
+                        265,
+                        266
+                    ],
+                    [
+                        266,
+                        269
+                    ],
+                    [
+                        266,
+                        271
+                    ],
+                    [
+                        266,
+                        273
+                    ],
+                    [
+                        266,
+                        274
+                    ],
+                    [
+                        262,
+                        279
+                    ],
+                    [
+                        260,
+                        281
+                    ],
+                    [
+                        259,
+                        282
+                    ],
+                    [
+                        258,
+                        281
+                    ],
+                    [
+                        255,
+                        281
+                    ],
+                    [
+                        252,
+                        281
+                    ],
+                    [
+                        249,
+                        281
+                    ],
+                    [
+                        247,
+                        281
+                    ],
+                    [
+                        246,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457966,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.623Z",
+            "updatedAt": "2023-09-20T10:39:00.623Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        260
+                    ],
+                    [
+                        266,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457965,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.623Z",
+            "updatedAt": "2023-09-20T10:39:00.623Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        282,
+                        279
+                    ],
+                    [
+                        283,
+                        286
+                    ],
+                    [
+                        288,
+                        294
+                    ],
+                    [
+                        301,
+                        294
+                    ],
+                    [
+                        308,
+                        282
+                    ],
+                    [
+                        311,
+                        280
+                    ],
+                    [
+                        311,
+                        275
+                    ],
+                    [
+                        301,
+                        266
+                    ],
+                    [
+                        296,
+                        265
+                    ],
+                    [
+                        285,
+                        273
+                    ],
+                    [
+                        281,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457964,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.623Z",
+            "updatedAt": "2023-09-20T10:39:00.623Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        265
+                    ],
+                    [
+                        311,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457963,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.622Z",
+            "updatedAt": "2023-09-20T10:39:00.622Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        298
+                    ],
+                    [
+                        263,
+                        292
+                    ],
+                    [
+                        268,
+                        286
+                    ],
+                    [
+                        275,
+                        284
+                    ],
+                    [
+                        282,
+                        284
+                    ],
+                    [
+                        285,
+                        287
+                    ],
+                    [
+                        288,
+                        294
+                    ],
+                    [
+                        288,
+                        298
+                    ],
+                    [
+                        287,
+                        301
+                    ],
+                    [
+                        287,
+                        301
+                    ],
+                    [
+                        287,
+                        305
+                    ],
+                    [
+                        285,
+                        307
+                    ],
+                    [
+                        284,
+                        310
+                    ],
+                    [
+                        283,
+                        311
+                    ],
+                    [
+                        281,
+                        312
+                    ],
+                    [
+                        278,
+                        314
+                    ],
+                    [
+                        277,
+                        315
+                    ],
+                    [
+                        275,
+                        315
+                    ],
+                    [
+                        273,
+                        313
+                    ],
+                    [
+                        270,
+                        312
+                    ],
+                    [
+                        267,
+                        311
+                    ],
+                    [
+                        266,
+                        310
+                    ],
+                    [
+                        264,
+                        308
+                    ],
+                    [
+                        262,
+                        307
+                    ],
+                    [
+                        261,
+                        304
+                    ],
+                    [
+                        261,
+                        303
+                    ],
+                    [
+                        261,
+                        300
+                    ],
+                    [
+                        261,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457962,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.622Z",
+            "updatedAt": "2023-09-20T10:39:00.622Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        284
+                    ],
+                    [
+                        288,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457961,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.622Z",
+            "updatedAt": "2023-09-20T10:39:00.622Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        273
+                    ],
+                    [
+                        273,
+                        267
+                    ],
+                    [
+                        279,
+                        258
+                    ],
+                    [
+                        285,
+                        257
+                    ],
+                    [
+                        293,
+                        260
+                    ],
+                    [
+                        298,
+                        265
+                    ],
+                    [
+                        290,
+                        269
+                    ],
+                    [
+                        281,
+                        276
+                    ],
+                    [
+                        278,
+                        275
+                    ],
+                    [
+                        275,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457960,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.622Z",
+            "updatedAt": "2023-09-20T10:39:00.622Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        257
+                    ],
+                    [
+                        298,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457959,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.621Z",
+            "updatedAt": "2023-09-20T10:39:00.621Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        289
+                    ],
+                    [
+                        306,
+                        282
+                    ],
+                    [
+                        311,
+                        279
+                    ],
+                    [
+                        319,
+                        278
+                    ],
+                    [
+                        325,
+                        280
+                    ],
+                    [
+                        328,
+                        286
+                    ],
+                    [
+                        330,
+                        289
+                    ],
+                    [
+                        331,
+                        292
+                    ],
+                    [
+                        328,
+                        298
+                    ],
+                    [
+                        327,
+                        301
+                    ],
+                    [
+                        321,
+                        305
+                    ],
+                    [
+                        319,
+                        307
+                    ],
+                    [
+                        313,
+                        305
+                    ],
+                    [
+                        309,
+                        303
+                    ],
+                    [
+                        302,
+                        299
+                    ],
+                    [
+                        302,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457958,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.621Z",
+            "updatedAt": "2023-09-20T10:39:00.621Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        278
+                    ],
+                    [
+                        331,
+                        307
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457957,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.620Z",
+            "updatedAt": "2023-09-20T10:39:00.620Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        291
+                    ],
+                    [
+                        262,
+                        286
+                    ],
+                    [
+                        260,
+                        282
+                    ],
+                    [
+                        266,
+                        274
+                    ],
+                    [
+                        270,
+                        273
+                    ],
+                    [
+                        276,
+                        274
+                    ],
+                    [
+                        282,
+                        276
+                    ],
+                    [
+                        284,
+                        282
+                    ],
+                    [
+                        283,
+                        285
+                    ],
+                    [
+                        279,
+                        284
+                    ],
+                    [
+                        271,
+                        285
+                    ],
+                    [
+                        267,
+                        288
+                    ],
+                    [
+                        263,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457956,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.620Z",
+            "updatedAt": "2023-09-20T10:39:00.620Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        273
+                    ],
+                    [
+                        284,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457955,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.619Z",
+            "updatedAt": "2023-09-20T10:39:00.619Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        271
+                    ],
+                    [
+                        270,
+                        272
+                    ],
+                    [
+                        268,
+                        272
+                    ],
+                    [
+                        266,
+                        268
+                    ],
+                    [
+                        265,
+                        264
+                    ],
+                    [
+                        269,
+                        260
+                    ],
+                    [
+                        276,
+                        258
+                    ],
+                    [
+                        280,
+                        259
+                    ],
+                    [
+                        273,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457954,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.619Z",
+            "updatedAt": "2023-09-20T10:39:00.619Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        258
+                    ],
+                    [
+                        280,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457953,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.619Z",
+            "updatedAt": "2023-09-20T10:39:00.619Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        263
+                    ],
+                    [
+                        236,
+                        265
+                    ],
+                    [
+                        233,
+                        272
+                    ],
+                    [
+                        235,
+                        280
+                    ],
+                    [
+                        238,
+                        282
+                    ],
+                    [
+                        243,
+                        279
+                    ],
+                    [
+                        243,
+                        271
+                    ],
+                    [
+                        245,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457952,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.618Z",
+            "updatedAt": "2023-09-20T10:39:00.618Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        263
+                    ],
+                    [
+                        246,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457951,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.618Z",
+            "updatedAt": "2023-09-20T10:39:00.618Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        313
+                    ],
+                    [
+                        285,
+                        318
+                    ],
+                    [
+                        294,
+                        320
+                    ],
+                    [
+                        303,
+                        316
+                    ],
+                    [
+                        306,
+                        312
+                    ],
+                    [
+                        307,
+                        309
+                    ],
+                    [
+                        307,
+                        305
+                    ],
+                    [
+                        307,
+                        303
+                    ],
+                    [
+                        306,
+                        300
+                    ],
+                    [
+                        305,
+                        296
+                    ],
+                    [
+                        302,
+                        293
+                    ],
+                    [
+                        296,
+                        292
+                    ],
+                    [
+                        289,
+                        292
+                    ],
+                    [
+                        288,
+                        293
+                    ],
+                    [
+                        288,
+                        297
+                    ],
+                    [
+                        288,
+                        299
+                    ],
+                    [
+                        287,
+                        302
+                    ],
+                    [
+                        287,
+                        304
+                    ],
+                    [
+                        288,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457950,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.618Z",
+            "updatedAt": "2023-09-20T10:39:00.618Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        292
+                    ],
+                    [
+                        307,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457949,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.618Z",
+            "updatedAt": "2023-09-20T10:39:00.618Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        308
+                    ],
+                    [
+                        267,
+                        311
+                    ],
+                    [
+                        272,
+                        312
+                    ],
+                    [
+                        275,
+                        315
+                    ],
+                    [
+                        280,
+                        313
+                    ],
+                    [
+                        283,
+                        316
+                    ],
+                    [
+                        279,
+                        321
+                    ],
+                    [
+                        275,
+                        324
+                    ],
+                    [
+                        268,
+                        322
+                    ],
+                    [
+                        262,
+                        321
+                    ],
+                    [
+                        256,
+                        317
+                    ],
+                    [
+                        257,
+                        313
+                    ],
+                    [
+                        257,
+                        309
+                    ],
+                    [
+                        261,
+                        307
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457948,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.618Z",
+            "updatedAt": "2023-09-20T10:39:00.618Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        307
+                    ],
+                    [
+                        283,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457947,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.617Z",
+            "updatedAt": "2023-09-20T10:39:00.617Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        592,
+                        292
+                    ],
+                    [
+                        582,
+                        309
+                    ],
+                    [
+                        565,
+                        334
+                    ],
+                    [
+                        564,
+                        322
+                    ],
+                    [
+                        549,
+                        326
+                    ],
+                    [
+                        548,
+                        319
+                    ],
+                    [
+                        564,
+                        313
+                    ],
+                    [
+                        571,
+                        306
+                    ],
+                    [
+                        571,
+                        297
+                    ],
+                    [
+                        577,
+                        284
+                    ],
+                    [
+                        582,
+                        280
+                    ],
+                    [
+                        595,
+                        278
+                    ],
+                    [
+                        598,
+                        271
+                    ],
+                    [
+                        582,
+                        269
+                    ],
+                    [
+                        556,
+                        272
+                    ],
+                    [
+                        565,
+                        260
+                    ],
+                    [
+                        584,
+                        258
+                    ],
+                    [
+                        601,
+                        263
+                    ],
+                    [
+                        610,
+                        272
+                    ],
+                    [
+                        616,
+                        270
+                    ],
+                    [
+                        620,
+                        266
+                    ],
+                    [
+                        625,
+                        264
+                    ],
+                    [
+                        626,
+                        262
+                    ],
+                    [
+                        630,
+                        244
+                    ],
+                    [
+                        637,
+                        245
+                    ],
+                    [
+                        632,
+                        277
+                    ],
+                    [
+                        639,
+                        280
+                    ],
+                    [
+                        639,
+                        317
+                    ],
+                    [
+                        632,
+                        315
+                    ],
+                    [
+                        624,
+                        331
+                    ],
+                    [
+                        622,
+                        321
+                    ],
+                    [
+                        595,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457946,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.617Z",
+            "updatedAt": "2023-09-20T10:39:00.617Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        548,
+                        244
+                    ],
+                    [
+                        639,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457945,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.616Z",
+            "updatedAt": "2023-09-20T10:39:00.616Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        307
+                    ],
+                    [
+                        255,
+                        305
+                    ],
+                    [
+                        260,
+                        299
+                    ],
+                    [
+                        262,
+                        288
+                    ],
+                    [
+                        260,
+                        282
+                    ],
+                    [
+                        250,
+                        281
+                    ],
+                    [
+                        240,
+                        284
+                    ],
+                    [
+                        236,
+                        288
+                    ],
+                    [
+                        235,
+                        294
+                    ],
+                    [
+                        237,
+                        301
+                    ],
+                    [
+                        241,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457944,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.616Z",
+            "updatedAt": "2023-09-20T10:39:00.616Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        281
+                    ],
+                    [
+                        262,
+                        307
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457943,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.615Z",
+            "updatedAt": "2023-09-20T10:39:00.615Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        313,
+                        278
+                    ],
+                    [
+                        314,
+                        275
+                    ],
+                    [
+                        319,
+                        272
+                    ],
+                    [
+                        327,
+                        272
+                    ],
+                    [
+                        332,
+                        275
+                    ],
+                    [
+                        337,
+                        283
+                    ],
+                    [
+                        338,
+                        290
+                    ],
+                    [
+                        335,
+                        295
+                    ],
+                    [
+                        330,
+                        297
+                    ],
+                    [
+                        330,
+                        292
+                    ],
+                    [
+                        330,
+                        288
+                    ],
+                    [
+                        325,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46457942,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:00.615Z",
+            "updatedAt": "2023-09-20T10:39:00.615Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        313,
+                        272
+                    ],
+                    [
+                        338,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

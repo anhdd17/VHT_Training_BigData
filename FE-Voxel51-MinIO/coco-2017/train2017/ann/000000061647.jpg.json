@@ -1,0 +1,428 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4944769,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a teddy bear shaped cake resting on a cutting board",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:06.078Z",
+            "updatedAt": "2023-09-20T10:59:06.078Z"
+        },
+        {
+            "id": 4944770,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The cake is shaped like a teddy bear.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:06.078Z",
+            "updatedAt": "2023-09-20T10:59:06.078Z"
+        },
+        {
+            "id": 4944771,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A teddy bear cake with a candle and sparklers.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:06.078Z",
+            "updatedAt": "2023-09-20T10:59:06.078Z"
+        },
+        {
+            "id": 4944772,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A bear shaped cake with lit candles inserted.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:06.078Z",
+            "updatedAt": "2023-09-20T10:59:06.078Z"
+        },
+        {
+            "id": 4944773,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cake shaped like a bear has a sparkler and candle on it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:06.078Z",
+            "updatedAt": "2023-09-20T10:59:06.078Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47583880,
+            "classId": 6461818,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:06.079Z",
+            "updatedAt": "2023-09-20T10:59:06.079Z",
+            "tags": [],
+            "classTitle": "cake",
+            "points": {
+                "exterior": [
+                    [
+                        320,
+                        318
+                    ],
+                    [
+                        282,
+                        292
+                    ],
+                    [
+                        259,
+                        290
+                    ],
+                    [
+                        245,
+                        284
+                    ],
+                    [
+                        229,
+                        278
+                    ],
+                    [
+                        224,
+                        272
+                    ],
+                    [
+                        255,
+                        257
+                    ],
+                    [
+                        270,
+                        255
+                    ],
+                    [
+                        297,
+                        257
+                    ],
+                    [
+                        317,
+                        263
+                    ],
+                    [
+                        323,
+                        251
+                    ],
+                    [
+                        353,
+                        275
+                    ],
+                    [
+                        355,
+                        283
+                    ],
+                    [
+                        361,
+                        312
+                    ],
+                    [
+                        351,
+                        324
+                    ],
+                    [
+                        328,
+                        321
+                    ],
+                    [
+                        331,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47583879,
+            "classId": 6461818,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:06.079Z",
+            "updatedAt": "2023-09-20T10:59:06.079Z",
+            "tags": [],
+            "classTitle": "cake",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        251
+                    ],
+                    [
+                        361,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47583878,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:06.079Z",
+            "updatedAt": "2023-09-20T10:59:06.079Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        206
+                    ],
+                    [
+                        287,
+                        208
+                    ],
+                    [
+                        420,
+                        239
+                    ],
+                    [
+                        478,
+                        255
+                    ],
+                    [
+                        639,
+                        299
+                    ],
+                    [
+                        639,
+                        479
+                    ],
+                    [
+                        1,
+                        479
+                    ],
+                    [
+                        2,
+                        471
+                    ],
+                    [
+                        0,
+                        394
+                    ],
+                    [
+                        37,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47583877,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:06.078Z",
+            "updatedAt": "2023-09-20T10:59:06.078Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        206
+                    ],
+                    [
+                        639,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47583876,
+            "classId": 6461840,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:06.078Z",
+            "updatedAt": "2023-09-20T10:59:06.078Z",
+            "tags": [],
+            "classTitle": "teddy bear",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        366
+                    ],
+                    [
+                        184,
+                        366
+                    ],
+                    [
+                        137,
+                        355
+                    ],
+                    [
+                        123,
+                        341
+                    ],
+                    [
+                        128,
+                        304
+                    ],
+                    [
+                        145,
+                        278
+                    ],
+                    [
+                        189,
+                        273
+                    ],
+                    [
+                        203,
+                        273
+                    ],
+                    [
+                        209,
+                        248
+                    ],
+                    [
+                        222,
+                        242
+                    ],
+                    [
+                        270,
+                        242
+                    ],
+                    [
+                        278,
+                        226
+                    ],
+                    [
+                        285,
+                        202
+                    ],
+                    [
+                        298,
+                        198
+                    ],
+                    [
+                        317,
+                        202
+                    ],
+                    [
+                        348,
+                        212
+                    ],
+                    [
+                        377,
+                        218
+                    ],
+                    [
+                        399,
+                        221
+                    ],
+                    [
+                        438,
+                        236
+                    ],
+                    [
+                        448,
+                        250
+                    ],
+                    [
+                        417,
+                        285
+                    ],
+                    [
+                        415,
+                        300
+                    ],
+                    [
+                        424,
+                        324
+                    ],
+                    [
+                        405,
+                        332
+                    ],
+                    [
+                        386,
+                        335
+                    ],
+                    [
+                        369,
+                        340
+                    ],
+                    [
+                        369,
+                        362
+                    ],
+                    [
+                        371,
+                        376
+                    ],
+                    [
+                        356,
+                        396
+                    ],
+                    [
+                        343,
+                        399
+                    ],
+                    [
+                        324,
+                        404
+                    ],
+                    [
+                        302,
+                        408
+                    ],
+                    [
+                        265,
+                        410
+                    ],
+                    [
+                        253,
+                        404
+                    ],
+                    [
+                        250,
+                        399
+                    ],
+                    [
+                        240,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47583875,
+            "classId": 6461840,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:06.078Z",
+            "updatedAt": "2023-09-20T10:59:06.078Z",
+            "tags": [],
+            "classTitle": "teddy bear",
+            "points": {
+                "exterior": [
+                    [
+                        123,
+                        198
+                    ],
+                    [
+                        448,
+                        410
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

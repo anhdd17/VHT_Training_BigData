@@ -1,0 +1,192 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4857635,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There is a river shown and some traffic signs in front.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:49.227Z",
+            "updatedAt": "2023-09-20T10:53:49.227Z"
+        },
+        {
+            "id": 4857636,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two posts with street signs next to a light post and a canal.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:49.227Z",
+            "updatedAt": "2023-09-20T10:53:49.227Z"
+        },
+        {
+            "id": 4857637,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Street signs and a light pole next to some water.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:49.227Z",
+            "updatedAt": "2023-09-20T10:53:49.227Z"
+        },
+        {
+            "id": 4857638,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A few different signs and a street light near the water. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:49.227Z",
+            "updatedAt": "2023-09-20T10:53:49.227Z"
+        },
+        {
+            "id": 4857639,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "some signs a street light water grass and buildings",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:49.227Z",
+            "updatedAt": "2023-09-20T10:53:49.227Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 47281089,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:49.228Z",
+            "updatedAt": "2023-09-20T10:53:49.228Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        265
+                    ],
+                    [
+                        65,
+                        257
+                    ],
+                    [
+                        68,
+                        257
+                    ],
+                    [
+                        66,
+                        262
+                    ],
+                    [
+                        74,
+                        264
+                    ],
+                    [
+                        73,
+                        262
+                    ],
+                    [
+                        79,
+                        262
+                    ],
+                    [
+                        76,
+                        264
+                    ],
+                    [
+                        79,
+                        272
+                    ],
+                    [
+                        85,
+                        273
+                    ],
+                    [
+                        87,
+                        279
+                    ],
+                    [
+                        86,
+                        287
+                    ],
+                    [
+                        80,
+                        289
+                    ],
+                    [
+                        75,
+                        285
+                    ],
+                    [
+                        74,
+                        281
+                    ],
+                    [
+                        70,
+                        279
+                    ],
+                    [
+                        68,
+                        276
+                    ],
+                    [
+                        65,
+                        276
+                    ],
+                    [
+                        61,
+                        286
+                    ],
+                    [
+                        57,
+                        286
+                    ],
+                    [
+                        52,
+                        278
+                    ],
+                    [
+                        55,
+                        269
+                    ],
+                    [
+                        59,
+                        266
+                    ],
+                    [
+                        61,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47281088,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:49.227Z",
+            "updatedAt": "2023-09-20T10:53:49.227Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        257
+                    ],
+                    [
+                        87,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

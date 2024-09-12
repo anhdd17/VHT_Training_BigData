@@ -1,0 +1,700 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4950195,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Three hotdogs on buns with whole slices of relish sit on a white plate.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.307Z",
+            "updatedAt": "2023-09-20T10:59:27.307Z"
+        },
+        {
+            "id": 4950196,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The three hotdogs on a plate have pickles on them.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.307Z",
+            "updatedAt": "2023-09-20T10:59:27.307Z"
+        },
+        {
+            "id": 4950197,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A plate with three hot dogs in bun with peppers on top.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.307Z",
+            "updatedAt": "2023-09-20T10:59:27.307Z"
+        },
+        {
+            "id": 4950198,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Three hotdogs topped with tomatoes sitting on a white plate.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.307Z",
+            "updatedAt": "2023-09-20T10:59:27.307Z"
+        },
+        {
+            "id": 4950199,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Three hot dogs in buns with pepper toppings are on a white plate.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.307Z",
+            "updatedAt": "2023-09-20T10:59:27.307Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47603026,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.316Z",
+            "updatedAt": "2023-09-20T10:59:27.316Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        2
+                    ],
+                    [
+                        639,
+                        1
+                    ],
+                    [
+                        639,
+                        159
+                    ],
+                    [
+                        637,
+                        475
+                    ],
+                    [
+                        1,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47603025,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.315Z",
+            "updatedAt": "2023-09-20T10:59:27.315Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        1
+                    ],
+                    [
+                        639,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47603024,
+            "classId": 6461815,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.314Z",
+            "updatedAt": "2023-09-20T10:59:27.314Z",
+            "tags": [],
+            "classTitle": "hot dog",
+            "points": {
+                "exterior": [
+                    [
+                        320,
+                        402
+                    ],
+                    [
+                        374,
+                        352
+                    ],
+                    [
+                        437,
+                        252
+                    ],
+                    [
+                        480,
+                        181
+                    ],
+                    [
+                        486,
+                        161
+                    ],
+                    [
+                        487,
+                        155
+                    ],
+                    [
+                        474,
+                        143
+                    ],
+                    [
+                        468,
+                        141
+                    ],
+                    [
+                        448,
+                        157
+                    ],
+                    [
+                        437,
+                        144
+                    ],
+                    [
+                        431,
+                        144
+                    ],
+                    [
+                        424,
+                        131
+                    ],
+                    [
+                        414,
+                        118
+                    ],
+                    [
+                        403,
+                        114
+                    ],
+                    [
+                        376,
+                        120
+                    ],
+                    [
+                        359,
+                        132
+                    ],
+                    [
+                        285,
+                        226
+                    ],
+                    [
+                        260,
+                        271
+                    ],
+                    [
+                        252,
+                        298
+                    ],
+                    [
+                        241,
+                        335
+                    ],
+                    [
+                        244,
+                        368
+                    ],
+                    [
+                        267,
+                        389
+                    ],
+                    [
+                        290,
+                        387
+                    ],
+                    [
+                        291,
+                        396
+                    ],
+                    [
+                        299,
+                        409
+                    ],
+                    [
+                        316,
+                        408
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47603023,
+            "classId": 6461815,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.314Z",
+            "updatedAt": "2023-09-20T10:59:27.314Z",
+            "tags": [],
+            "classTitle": "hot dog",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        114
+                    ],
+                    [
+                        487,
+                        409
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47603022,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.313Z",
+            "updatedAt": "2023-09-20T10:59:27.313Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        306
+                    ],
+                    [
+                        190,
+                        315
+                    ],
+                    [
+                        130,
+                        259
+                    ],
+                    [
+                        126,
+                        241
+                    ],
+                    [
+                        145,
+                        164
+                    ],
+                    [
+                        221,
+                        61
+                    ],
+                    [
+                        279,
+                        22
+                    ],
+                    [
+                        308,
+                        30
+                    ],
+                    [
+                        328,
+                        52
+                    ],
+                    [
+                        329,
+                        82
+                    ],
+                    [
+                        358,
+                        70
+                    ],
+                    [
+                        372,
+                        74
+                    ],
+                    [
+                        369,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47603021,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.313Z",
+            "updatedAt": "2023-09-20T10:59:27.313Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        22
+                    ],
+                    [
+                        372,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47603020,
+            "classId": 6461815,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.312Z",
+            "updatedAt": "2023-09-20T10:59:27.312Z",
+            "tags": [],
+            "classTitle": "hot dog",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        272
+                    ],
+                    [
+                        121,
+                        240
+                    ],
+                    [
+                        170,
+                        123
+                    ],
+                    [
+                        267,
+                        38
+                    ],
+                    [
+                        299,
+                        27
+                    ],
+                    [
+                        329,
+                        57
+                    ],
+                    [
+                        325,
+                        82
+                    ],
+                    [
+                        338,
+                        87
+                    ],
+                    [
+                        363,
+                        70
+                    ],
+                    [
+                        374,
+                        90
+                    ],
+                    [
+                        363,
+                        119
+                    ],
+                    [
+                        347,
+                        143
+                    ],
+                    [
+                        312,
+                        184
+                    ],
+                    [
+                        266,
+                        267
+                    ],
+                    [
+                        228,
+                        311
+                    ],
+                    [
+                        198,
+                        313
+                    ],
+                    [
+                        173,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47603019,
+            "classId": 6461815,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.311Z",
+            "updatedAt": "2023-09-20T10:59:27.311Z",
+            "tags": [],
+            "classTitle": "hot dog",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        27
+                    ],
+                    [
+                        374,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47603018,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.311Z",
+            "updatedAt": "2023-09-20T10:59:27.311Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        438
+                    ],
+                    [
+                        343,
+                        408
+                    ],
+                    [
+                        374,
+                        335
+                    ],
+                    [
+                        499,
+                        158
+                    ],
+                    [
+                        542,
+                        171
+                    ],
+                    [
+                        543,
+                        199
+                    ],
+                    [
+                        579,
+                        203
+                    ],
+                    [
+                        598,
+                        214
+                    ],
+                    [
+                        602,
+                        244
+                    ],
+                    [
+                        590,
+                        279
+                    ],
+                    [
+                        522,
+                        389
+                    ],
+                    [
+                        445,
+                        452
+                    ],
+                    [
+                        410,
+                        466
+                    ],
+                    [
+                        381,
+                        446
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47603017,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.310Z",
+            "updatedAt": "2023-09-20T10:59:27.310Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        158
+                    ],
+                    [
+                        602,
+                        466
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47603016,
+            "classId": 6461815,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.309Z",
+            "updatedAt": "2023-09-20T10:59:27.309Z",
+            "tags": [],
+            "classTitle": "hot dog",
+            "points": {
+                "exterior": [
+                    [
+                        408,
+                        301
+                    ],
+                    [
+                        355,
+                        375
+                    ],
+                    [
+                        354,
+                        415
+                    ],
+                    [
+                        366,
+                        436
+                    ],
+                    [
+                        374,
+                        431
+                    ],
+                    [
+                        381,
+                        419
+                    ],
+                    [
+                        386,
+                        454
+                    ],
+                    [
+                        417,
+                        461
+                    ],
+                    [
+                        437,
+                        454
+                    ],
+                    [
+                        475,
+                        434
+                    ],
+                    [
+                        495,
+                        413
+                    ],
+                    [
+                        525,
+                        377
+                    ],
+                    [
+                        560,
+                        328
+                    ],
+                    [
+                        577,
+                        307
+                    ],
+                    [
+                        595,
+                        244
+                    ],
+                    [
+                        583,
+                        210
+                    ],
+                    [
+                        563,
+                        208
+                    ],
+                    [
+                        537,
+                        203
+                    ],
+                    [
+                        532,
+                        211
+                    ],
+                    [
+                        525,
+                        207
+                    ],
+                    [
+                        536,
+                        183
+                    ],
+                    [
+                        536,
+                        173
+                    ],
+                    [
+                        510,
+                        170
+                    ],
+                    [
+                        485,
+                        173
+                    ],
+                    [
+                        481,
+                        176
+                    ],
+                    [
+                        402,
+                        307
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47603015,
+            "classId": 6461815,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:27.308Z",
+            "updatedAt": "2023-09-20T10:59:27.308Z",
+            "tags": [],
+            "classTitle": "hot dog",
+            "points": {
+                "exterior": [
+                    [
+                        354,
+                        170
+                    ],
+                    [
+                        595,
+                        461
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

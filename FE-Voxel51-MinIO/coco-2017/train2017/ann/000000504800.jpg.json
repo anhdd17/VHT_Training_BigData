@@ -1,0 +1,612 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4633800,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A laptop sitting on a surface in front of a window.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.071Z",
+            "updatedAt": "2023-09-20T10:40:00.071Z"
+        },
+        {
+            "id": 4633801,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A laptop computer running Linux sits on a desk.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.071Z",
+            "updatedAt": "2023-09-20T10:40:00.071Z"
+        },
+        {
+            "id": 4633802,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A laptop is sitting on a table in front of plants",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.071Z",
+            "updatedAt": "2023-09-20T10:40:00.071Z"
+        },
+        {
+            "id": 4633803,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A laptop computer sitting on a towel covering a stand.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.071Z",
+            "updatedAt": "2023-09-20T10:40:00.071Z"
+        },
+        {
+            "id": 4633804,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A laptop displays a Linux desktop on its screen.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.071Z",
+            "updatedAt": "2023-09-20T10:40:00.071Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46500100,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.072Z",
+            "updatedAt": "2023-09-20T10:40:00.072Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        365
+                    ],
+                    [
+                        83,
+                        352
+                    ],
+                    [
+                        205,
+                        257
+                    ],
+                    [
+                        229,
+                        45
+                    ],
+                    [
+                        538,
+                        45
+                    ],
+                    [
+                        558,
+                        45
+                    ],
+                    [
+                        560,
+                        49
+                    ],
+                    [
+                        526,
+                        306
+                    ],
+                    [
+                        450,
+                        470
+                    ],
+                    [
+                        42,
+                        380
+                    ],
+                    [
+                        49,
+                        372
+                    ],
+                    [
+                        55,
+                        368
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46500099,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.072Z",
+            "updatedAt": "2023-09-20T10:40:00.072Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        42,
+                        45
+                    ],
+                    [
+                        560,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46500098,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.072Z",
+            "updatedAt": "2023-09-20T10:40:00.072Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        102
+                    ],
+                    [
+                        116,
+                        115
+                    ],
+                    [
+                        109,
+                        116
+                    ],
+                    [
+                        107,
+                        117
+                    ],
+                    [
+                        106,
+                        122
+                    ],
+                    [
+                        106,
+                        127
+                    ],
+                    [
+                        101,
+                        130
+                    ],
+                    [
+                        100,
+                        138
+                    ],
+                    [
+                        101,
+                        150
+                    ],
+                    [
+                        102,
+                        155
+                    ],
+                    [
+                        98,
+                        166
+                    ],
+                    [
+                        98,
+                        171
+                    ],
+                    [
+                        98,
+                        180
+                    ],
+                    [
+                        107,
+                        194
+                    ],
+                    [
+                        122,
+                        209
+                    ],
+                    [
+                        121,
+                        215
+                    ],
+                    [
+                        123,
+                        227
+                    ],
+                    [
+                        130,
+                        229
+                    ],
+                    [
+                        137,
+                        224
+                    ],
+                    [
+                        142,
+                        218
+                    ],
+                    [
+                        154,
+                        217
+                    ],
+                    [
+                        160,
+                        217
+                    ],
+                    [
+                        172,
+                        227
+                    ],
+                    [
+                        177,
+                        223
+                    ],
+                    [
+                        179,
+                        220
+                    ],
+                    [
+                        175,
+                        209
+                    ],
+                    [
+                        175,
+                        199
+                    ],
+                    [
+                        186,
+                        186
+                    ],
+                    [
+                        193,
+                        172
+                    ],
+                    [
+                        189,
+                        160
+                    ],
+                    [
+                        181,
+                        146
+                    ],
+                    [
+                        184,
+                        131
+                    ],
+                    [
+                        174,
+                        116
+                    ],
+                    [
+                        167,
+                        107
+                    ],
+                    [
+                        147,
+                        133
+                    ],
+                    [
+                        149,
+                        116
+                    ],
+                    [
+                        147,
+                        102
+                    ],
+                    [
+                        152,
+                        97
+                    ],
+                    [
+                        148,
+                        88
+                    ],
+                    [
+                        143,
+                        97
+                    ],
+                    [
+                        136,
+                        106
+                    ],
+                    [
+                        121,
+                        108
+                    ],
+                    [
+                        121,
+                        101
+                    ],
+                    [
+                        136,
+                        83
+                    ],
+                    [
+                        138,
+                        74
+                    ],
+                    [
+                        117,
+                        73
+                    ],
+                    [
+                        121,
+                        80
+                    ],
+                    [
+                        119,
+                        94
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46500097,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.072Z",
+            "updatedAt": "2023-09-20T10:40:00.072Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        73
+                    ],
+                    [
+                        193,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46500096,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.071Z",
+            "updatedAt": "2023-09-20T10:40:00.071Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        70,
+                        192
+                    ],
+                    [
+                        81,
+                        185
+                    ],
+                    [
+                        89,
+                        183
+                    ],
+                    [
+                        101,
+                        182
+                    ],
+                    [
+                        106,
+                        190
+                    ],
+                    [
+                        117,
+                        200
+                    ],
+                    [
+                        120,
+                        206
+                    ],
+                    [
+                        119,
+                        209
+                    ],
+                    [
+                        104,
+                        211
+                    ],
+                    [
+                        79,
+                        215
+                    ],
+                    [
+                        77,
+                        216
+                    ],
+                    [
+                        75,
+                        218
+                    ],
+                    [
+                        70,
+                        222
+                    ],
+                    [
+                        63,
+                        221
+                    ],
+                    [
+                        59,
+                        218
+                    ],
+                    [
+                        49,
+                        217
+                    ],
+                    [
+                        41,
+                        209
+                    ],
+                    [
+                        43,
+                        203
+                    ],
+                    [
+                        47,
+                        199
+                    ],
+                    [
+                        54,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46500095,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.071Z",
+            "updatedAt": "2023-09-20T10:40:00.071Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        182
+                    ],
+                    [
+                        120,
+                        222
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46500094,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.071Z",
+            "updatedAt": "2023-09-20T10:40:00.071Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        536,
+                        276
+                    ],
+                    [
+                        534,
+                        241
+                    ],
+                    [
+                        544,
+                        204
+                    ],
+                    [
+                        564,
+                        48
+                    ],
+                    [
+                        314,
+                        42
+                    ],
+                    [
+                        309,
+                        17
+                    ],
+                    [
+                        303,
+                        0
+                    ],
+                    [
+                        638,
+                        9
+                    ],
+                    [
+                        639,
+                        86
+                    ],
+                    [
+                        639,
+                        164
+                    ],
+                    [
+                        625,
+                        177
+                    ],
+                    [
+                        612,
+                        200
+                    ],
+                    [
+                        602,
+                        209
+                    ],
+                    [
+                        587,
+                        197
+                    ],
+                    [
+                        583,
+                        198
+                    ],
+                    [
+                        556,
+                        222
+                    ],
+                    [
+                        541,
+                        222
+                    ],
+                    [
+                        558,
+                        239
+                    ],
+                    [
+                        563,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46500093,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:00.071Z",
+            "updatedAt": "2023-09-20T10:40:00.071Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        0
+                    ],
+                    [
+                        639,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

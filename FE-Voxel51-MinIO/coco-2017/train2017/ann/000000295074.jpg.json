@@ -1,0 +1,636 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4663601,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A school bus moving along a road during the day.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.034Z",
+            "updatedAt": "2023-09-20T10:41:49.034Z"
+        },
+        {
+            "id": 4663602,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a yellow school bus is crossing an intersection",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.034Z",
+            "updatedAt": "2023-09-20T10:41:49.034Z"
+        },
+        {
+            "id": 4663603,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A yellow school bus driving down a street next to a red trucks.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.034Z",
+            "updatedAt": "2023-09-20T10:41:49.034Z"
+        },
+        {
+            "id": 4663604,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Yellow school bus passing through an intersection on the street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.034Z",
+            "updatedAt": "2023-09-20T10:41:49.034Z"
+        },
+        {
+            "id": 4663605,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A yellow school bus being driven down the street\n",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.034Z",
+            "updatedAt": "2023-09-20T10:41:49.034Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46603524,
+            "classId": 6461768,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.039Z",
+            "updatedAt": "2023-09-20T10:41:49.039Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        92,
+                        232
+                    ],
+                    [
+                        161,
+                        201
+                    ],
+                    [
+                        165,
+                        124
+                    ],
+                    [
+                        225,
+                        103
+                    ],
+                    [
+                        288,
+                        109
+                    ],
+                    [
+                        417,
+                        130
+                    ],
+                    [
+                        562,
+                        146
+                    ],
+                    [
+                        565,
+                        169
+                    ],
+                    [
+                        573,
+                        235
+                    ],
+                    [
+                        544,
+                        254
+                    ],
+                    [
+                        521,
+                        260
+                    ],
+                    [
+                        516,
+                        286
+                    ],
+                    [
+                        486,
+                        291
+                    ],
+                    [
+                        462,
+                        270
+                    ],
+                    [
+                        425,
+                        273
+                    ],
+                    [
+                        419,
+                        290
+                    ],
+                    [
+                        398,
+                        288
+                    ],
+                    [
+                        376,
+                        300
+                    ],
+                    [
+                        329,
+                        307
+                    ],
+                    [
+                        326,
+                        296
+                    ],
+                    [
+                        296,
+                        310
+                    ],
+                    [
+                        268,
+                        340
+                    ],
+                    [
+                        233,
+                        347
+                    ],
+                    [
+                        207,
+                        344
+                    ],
+                    [
+                        205,
+                        322
+                    ],
+                    [
+                        171,
+                        317
+                    ],
+                    [
+                        150,
+                        331
+                    ],
+                    [
+                        125,
+                        330
+                    ],
+                    [
+                        108,
+                        305
+                    ],
+                    [
+                        91,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46603523,
+            "classId": 6461768,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.038Z",
+            "updatedAt": "2023-09-20T10:41:49.038Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        91,
+                        103
+                    ],
+                    [
+                        573,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46603522,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.037Z",
+            "updatedAt": "2023-09-20T10:41:49.037Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        189
+                    ],
+                    [
+                        333,
+                        188
+                    ],
+                    [
+                        340,
+                        200
+                    ],
+                    [
+                        341,
+                        213
+                    ],
+                    [
+                        336,
+                        223
+                    ],
+                    [
+                        323,
+                        224
+                    ],
+                    [
+                        316,
+                        212
+                    ],
+                    [
+                        315,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46603521,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.037Z",
+            "updatedAt": "2023-09-20T10:41:49.037Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        188
+                    ],
+                    [
+                        341,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46603520,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.037Z",
+            "updatedAt": "2023-09-20T10:41:49.037Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        65
+                    ],
+                    [
+                        397,
+                        94
+                    ],
+                    [
+                        411,
+                        94
+                    ],
+                    [
+                        412,
+                        93
+                    ],
+                    [
+                        412,
+                        90
+                    ],
+                    [
+                        412,
+                        88
+                    ],
+                    [
+                        412,
+                        82
+                    ],
+                    [
+                        413,
+                        63
+                    ],
+                    [
+                        403,
+                        64
+                    ],
+                    [
+                        402,
+                        61
+                    ],
+                    [
+                        398,
+                        61
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46603519,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.036Z",
+            "updatedAt": "2023-09-20T10:41:49.036Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        61
+                    ],
+                    [
+                        413,
+                        94
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46603518,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.036Z",
+            "updatedAt": "2023-09-20T10:41:49.036Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        388,
+                        63
+                    ],
+                    [
+                        393,
+                        64
+                    ],
+                    [
+                        394,
+                        92
+                    ],
+                    [
+                        379,
+                        93
+                    ],
+                    [
+                        380,
+                        64
+                    ],
+                    [
+                        390,
+                        65
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46603517,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.036Z",
+            "updatedAt": "2023-09-20T10:41:49.036Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        63
+                    ],
+                    [
+                        394,
+                        93
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46603516,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.036Z",
+            "updatedAt": "2023-09-20T10:41:49.036Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        548,
+                        190
+                    ],
+                    [
+                        545,
+                        197
+                    ],
+                    [
+                        545,
+                        205
+                    ],
+                    [
+                        548,
+                        213
+                    ],
+                    [
+                        554,
+                        211
+                    ],
+                    [
+                        556,
+                        204
+                    ],
+                    [
+                        556,
+                        197
+                    ],
+                    [
+                        553,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46603515,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.035Z",
+            "updatedAt": "2023-09-20T10:41:49.035Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        545,
+                        190
+                    ],
+                    [
+                        556,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46603514,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.035Z",
+            "updatedAt": "2023-09-20T10:41:49.035Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        211
+                    ],
+                    [
+                        48,
+                        235
+                    ],
+                    [
+                        45,
+                        245
+                    ],
+                    [
+                        47,
+                        257
+                    ],
+                    [
+                        55,
+                        262
+                    ],
+                    [
+                        61,
+                        274
+                    ],
+                    [
+                        72,
+                        275
+                    ],
+                    [
+                        76,
+                        268
+                    ],
+                    [
+                        90,
+                        267
+                    ],
+                    [
+                        97,
+                        267
+                    ],
+                    [
+                        96,
+                        234
+                    ],
+                    [
+                        100,
+                        226
+                    ],
+                    [
+                        113,
+                        221
+                    ],
+                    [
+                        121,
+                        216
+                    ],
+                    [
+                        131,
+                        211
+                    ],
+                    [
+                        103,
+                        211
+                    ],
+                    [
+                        90,
+                        209
+                    ],
+                    [
+                        88,
+                        209
+                    ],
+                    [
+                        79,
+                        208
+                    ],
+                    [
+                        74,
+                        191
+                    ],
+                    [
+                        64,
+                        204
+                    ],
+                    [
+                        64,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46603513,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:49.035Z",
+            "updatedAt": "2023-09-20T10:41:49.035Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        45,
+                        191
+                    ],
+                    [
+                        131,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

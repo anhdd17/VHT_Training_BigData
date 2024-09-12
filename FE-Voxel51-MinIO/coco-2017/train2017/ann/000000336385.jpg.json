@@ -1,0 +1,1544 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4791998,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A metal pat with a slice of pizza on top of it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.411Z",
+            "updatedAt": "2023-09-20T10:49:43.411Z"
+        },
+        {
+            "id": 4791999,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A pan with one slice of square pizza in the middle.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.411Z",
+            "updatedAt": "2023-09-20T10:49:43.411Z"
+        },
+        {
+            "id": 4792000,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A piece of flatbread is being cooked in a wok.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.411Z",
+            "updatedAt": "2023-09-20T10:49:43.411Z"
+        },
+        {
+            "id": 4792001,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There are a lot of ripe yellow bananas on the counter.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.411Z",
+            "updatedAt": "2023-09-20T10:49:43.411Z"
+        },
+        {
+            "id": 4792002,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A piece of food that is on a lid.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.411Z",
+            "updatedAt": "2023-09-20T10:49:43.411Z"
+        }
+    ],
+    "size": {
+        "height": 376,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 47051053,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.421Z",
+            "updatedAt": "2023-09-20T10:49:43.421Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        25
+                    ],
+                    [
+                        325,
+                        10
+                    ],
+                    [
+                        359,
+                        5
+                    ],
+                    [
+                        382,
+                        15
+                    ],
+                    [
+                        385,
+                        27
+                    ],
+                    [
+                        381,
+                        28
+                    ],
+                    [
+                        352,
+                        23
+                    ],
+                    [
+                        330,
+                        29
+                    ],
+                    [
+                        315,
+                        33
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051052,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.421Z",
+            "updatedAt": "2023-09-20T10:49:43.421Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        5
+                    ],
+                    [
+                        385,
+                        33
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051051,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.421Z",
+            "updatedAt": "2023-09-20T10:49:43.421Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        84
+                    ],
+                    [
+                        346,
+                        66
+                    ],
+                    [
+                        366,
+                        57
+                    ],
+                    [
+                        386,
+                        55
+                    ],
+                    [
+                        399,
+                        57
+                    ],
+                    [
+                        403,
+                        62
+                    ],
+                    [
+                        406,
+                        70
+                    ],
+                    [
+                        406,
+                        75
+                    ],
+                    [
+                        403,
+                        75
+                    ],
+                    [
+                        387,
+                        75
+                    ],
+                    [
+                        371,
+                        74
+                    ],
+                    [
+                        358,
+                        77
+                    ],
+                    [
+                        356,
+                        78
+                    ],
+                    [
+                        352,
+                        86
+                    ],
+                    [
+                        338,
+                        93
+                    ],
+                    [
+                        331,
+                        98
+                    ],
+                    [
+                        325,
+                        103
+                    ],
+                    [
+                        320,
+                        108
+                    ],
+                    [
+                        315,
+                        114
+                    ],
+                    [
+                        310,
+                        114
+                    ],
+                    [
+                        310,
+                        103
+                    ],
+                    [
+                        316,
+                        95
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051050,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.420Z",
+            "updatedAt": "2023-09-20T10:49:43.420Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        310,
+                        55
+                    ],
+                    [
+                        406,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051049,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.419Z",
+            "updatedAt": "2023-09-20T10:49:43.419Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        48
+                    ],
+                    [
+                        324,
+                        45
+                    ],
+                    [
+                        322,
+                        43
+                    ],
+                    [
+                        324,
+                        41
+                    ],
+                    [
+                        327,
+                        36
+                    ],
+                    [
+                        332,
+                        31
+                    ],
+                    [
+                        337,
+                        29
+                    ],
+                    [
+                        342,
+                        27
+                    ],
+                    [
+                        350,
+                        27
+                    ],
+                    [
+                        357,
+                        26
+                    ],
+                    [
+                        366,
+                        26
+                    ],
+                    [
+                        376,
+                        26
+                    ],
+                    [
+                        383,
+                        26
+                    ],
+                    [
+                        393,
+                        36
+                    ],
+                    [
+                        393,
+                        39
+                    ],
+                    [
+                        394,
+                        47
+                    ],
+                    [
+                        391,
+                        51
+                    ],
+                    [
+                        387,
+                        52
+                    ],
+                    [
+                        379,
+                        46
+                    ],
+                    [
+                        369,
+                        40
+                    ],
+                    [
+                        363,
+                        38
+                    ],
+                    [
+                        358,
+                        37
+                    ],
+                    [
+                        354,
+                        38
+                    ],
+                    [
+                        350,
+                        45
+                    ],
+                    [
+                        347,
+                        46
+                    ],
+                    [
+                        340,
+                        46
+                    ],
+                    [
+                        332,
+                        46
+                    ],
+                    [
+                        328,
+                        46
+                    ],
+                    [
+                        327,
+                        46
+                    ],
+                    [
+                        327,
+                        46
+                    ],
+                    [
+                        327,
+                        46
+                    ],
+                    [
+                        327,
+                        46
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051048,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.419Z",
+            "updatedAt": "2023-09-20T10:49:43.419Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        26
+                    ],
+                    [
+                        394,
+                        52
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051047,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.419Z",
+            "updatedAt": "2023-09-20T10:49:43.419Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        70
+                    ],
+                    [
+                        321,
+                        65
+                    ],
+                    [
+                        322,
+                        59
+                    ],
+                    [
+                        325,
+                        54
+                    ],
+                    [
+                        329,
+                        50
+                    ],
+                    [
+                        333,
+                        47
+                    ],
+                    [
+                        336,
+                        47
+                    ],
+                    [
+                        342,
+                        46
+                    ],
+                    [
+                        347,
+                        44
+                    ],
+                    [
+                        351,
+                        41
+                    ],
+                    [
+                        357,
+                        40
+                    ],
+                    [
+                        362,
+                        39
+                    ],
+                    [
+                        368,
+                        40
+                    ],
+                    [
+                        372,
+                        46
+                    ],
+                    [
+                        376,
+                        48
+                    ],
+                    [
+                        376,
+                        48
+                    ],
+                    [
+                        378,
+                        48
+                    ],
+                    [
+                        383,
+                        50
+                    ],
+                    [
+                        386,
+                        51
+                    ],
+                    [
+                        387,
+                        53
+                    ],
+                    [
+                        384,
+                        54
+                    ],
+                    [
+                        378,
+                        55
+                    ],
+                    [
+                        371,
+                        56
+                    ],
+                    [
+                        362,
+                        57
+                    ],
+                    [
+                        352,
+                        57
+                    ],
+                    [
+                        344,
+                        58
+                    ],
+                    [
+                        337,
+                        60
+                    ],
+                    [
+                        336,
+                        60
+                    ],
+                    [
+                        336,
+                        61
+                    ],
+                    [
+                        322,
+                        67
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051046,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.418Z",
+            "updatedAt": "2023-09-20T10:49:43.418Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        39
+                    ],
+                    [
+                        387,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051045,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.418Z",
+            "updatedAt": "2023-09-20T10:49:43.418Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        111
+                    ],
+                    [
+                        326,
+                        99
+                    ],
+                    [
+                        335,
+                        94
+                    ],
+                    [
+                        343,
+                        91
+                    ],
+                    [
+                        353,
+                        87
+                    ],
+                    [
+                        354,
+                        87
+                    ],
+                    [
+                        354,
+                        94
+                    ],
+                    [
+                        343,
+                        99
+                    ],
+                    [
+                        338,
+                        103
+                    ],
+                    [
+                        337,
+                        106
+                    ],
+                    [
+                        336,
+                        116
+                    ],
+                    [
+                        325,
+                        120
+                    ],
+                    [
+                        318,
+                        120
+                    ],
+                    [
+                        316,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051044,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.418Z",
+            "updatedAt": "2023-09-20T10:49:43.418Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        87
+                    ],
+                    [
+                        354,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051043,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.417Z",
+            "updatedAt": "2023-09-20T10:49:43.417Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        97
+                    ],
+                    [
+                        459,
+                        65
+                    ],
+                    [
+                        458,
+                        51
+                    ],
+                    [
+                        459,
+                        42
+                    ],
+                    [
+                        458,
+                        33
+                    ],
+                    [
+                        463,
+                        24
+                    ],
+                    [
+                        469,
+                        13
+                    ],
+                    [
+                        469,
+                        11
+                    ],
+                    [
+                        473,
+                        0
+                    ],
+                    [
+                        499,
+                        0
+                    ],
+                    [
+                        499,
+                        84
+                    ],
+                    [
+                        495,
+                        83
+                    ],
+                    [
+                        490,
+                        85
+                    ],
+                    [
+                        488,
+                        94
+                    ],
+                    [
+                        483,
+                        105
+                    ],
+                    [
+                        480,
+                        113
+                    ],
+                    [
+                        480,
+                        122
+                    ],
+                    [
+                        481,
+                        127
+                    ],
+                    [
+                        478,
+                        129
+                    ],
+                    [
+                        476,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051042,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.416Z",
+            "updatedAt": "2023-09-20T10:49:43.416Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        0
+                    ],
+                    [
+                        499,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051041,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.416Z",
+            "updatedAt": "2023-09-20T10:49:43.416Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        95
+                    ],
+                    [
+                        354,
+                        110
+                    ],
+                    [
+                        353,
+                        125
+                    ],
+                    [
+                        352,
+                        139
+                    ],
+                    [
+                        342,
+                        135
+                    ],
+                    [
+                        338,
+                        131
+                    ],
+                    [
+                        336,
+                        127
+                    ],
+                    [
+                        334,
+                        105
+                    ],
+                    [
+                        335,
+                        102
+                    ],
+                    [
+                        340,
+                        97
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051040,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.415Z",
+            "updatedAt": "2023-09-20T10:49:43.415Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        409,
+                        97
+                    ],
+                    [
+                        422,
+                        103
+                    ],
+                    [
+                        426,
+                        110
+                    ],
+                    [
+                        423,
+                        128
+                    ],
+                    [
+                        421,
+                        132
+                    ],
+                    [
+                        407,
+                        134
+                    ],
+                    [
+                        408,
+                        120
+                    ],
+                    [
+                        407,
+                        110
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051039,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.415Z",
+            "updatedAt": "2023-09-20T10:49:43.415Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        95
+                    ],
+                    [
+                        354,
+                        139
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051038,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.415Z",
+            "updatedAt": "2023-09-20T10:49:43.415Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        407,
+                        97
+                    ],
+                    [
+                        426,
+                        134
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051037,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.415Z",
+            "updatedAt": "2023-09-20T10:49:43.415Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        2
+                    ],
+                    [
+                        160,
+                        10
+                    ],
+                    [
+                        165,
+                        24
+                    ],
+                    [
+                        188,
+                        27
+                    ],
+                    [
+                        188,
+                        20
+                    ],
+                    [
+                        192,
+                        24
+                    ],
+                    [
+                        199,
+                        20
+                    ],
+                    [
+                        215,
+                        22
+                    ],
+                    [
+                        225,
+                        23
+                    ],
+                    [
+                        231,
+                        20
+                    ],
+                    [
+                        234,
+                        15
+                    ],
+                    [
+                        240,
+                        10
+                    ],
+                    [
+                        237,
+                        2
+                    ],
+                    [
+                        220,
+                        8
+                    ],
+                    [
+                        201,
+                        9
+                    ],
+                    [
+                        183,
+                        8
+                    ],
+                    [
+                        166,
+                        4
+                    ],
+                    [
+                        162,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051036,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.415Z",
+            "updatedAt": "2023-09-20T10:49:43.415Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        0
+                    ],
+                    [
+                        240,
+                        27
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051035,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.414Z",
+            "updatedAt": "2023-09-20T10:49:43.414Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        53
+                    ],
+                    [
+                        426,
+                        8
+                    ],
+                    [
+                        429,
+                        3
+                    ],
+                    [
+                        430,
+                        1
+                    ],
+                    [
+                        430,
+                        0
+                    ],
+                    [
+                        466,
+                        1
+                    ],
+                    [
+                        462,
+                        11
+                    ],
+                    [
+                        462,
+                        19
+                    ],
+                    [
+                        446,
+                        75
+                    ],
+                    [
+                        439,
+                        76
+                    ],
+                    [
+                        436,
+                        76
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051034,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.414Z",
+            "updatedAt": "2023-09-20T10:49:43.414Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        62
+                    ],
+                    [
+                        413,
+                        69
+                    ],
+                    [
+                        423,
+                        73
+                    ],
+                    [
+                        428,
+                        74
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051033,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.414Z",
+            "updatedAt": "2023-09-20T10:49:43.414Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        0
+                    ],
+                    [
+                        466,
+                        76
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051032,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.413Z",
+            "updatedAt": "2023-09-20T10:49:43.413Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        62
+                    ],
+                    [
+                        428,
+                        74
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051031,
+            "classId": 6461807,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.413Z",
+            "updatedAt": "2023-09-20T10:49:43.413Z",
+            "tags": [],
+            "classTitle": "spoon",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        288
+                    ],
+                    [
+                        39,
+                        330
+                    ],
+                    [
+                        28,
+                        324
+                    ],
+                    [
+                        1,
+                        342
+                    ],
+                    [
+                        4,
+                        359
+                    ],
+                    [
+                        40,
+                        345
+                    ],
+                    [
+                        40,
+                        341
+                    ],
+                    [
+                        101,
+                        310
+                    ],
+                    [
+                        107,
+                        306
+                    ],
+                    [
+                        146,
+                        319
+                    ],
+                    [
+                        153,
+                        306
+                    ],
+                    [
+                        124,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051030,
+            "classId": 6461807,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.413Z",
+            "updatedAt": "2023-09-20T10:49:43.413Z",
+            "tags": [],
+            "classTitle": "spoon",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        320
+                    ],
+                    [
+                        185,
+                        330
+                    ],
+                    [
+                        186,
+                        325
+                    ],
+                    [
+                        160,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051029,
+            "classId": 6461807,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.413Z",
+            "updatedAt": "2023-09-20T10:49:43.413Z",
+            "tags": [],
+            "classTitle": "spoon",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        288
+                    ],
+                    [
+                        153,
+                        359
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051028,
+            "classId": 6461807,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.413Z",
+            "updatedAt": "2023-09-20T10:49:43.413Z",
+            "tags": [],
+            "classTitle": "spoon",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        309
+                    ],
+                    [
+                        186,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051027,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.413Z",
+            "updatedAt": "2023-09-20T10:49:43.413Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        18
+                    ],
+                    [
+                        307,
+                        26
+                    ],
+                    [
+                        293,
+                        34
+                    ],
+                    [
+                        288,
+                        43
+                    ],
+                    [
+                        289,
+                        49
+                    ],
+                    [
+                        294,
+                        48
+                    ],
+                    [
+                        286,
+                        60
+                    ],
+                    [
+                        292,
+                        68
+                    ],
+                    [
+                        291,
+                        74
+                    ],
+                    [
+                        314,
+                        74
+                    ],
+                    [
+                        322,
+                        68
+                    ],
+                    [
+                        325,
+                        53
+                    ],
+                    [
+                        332,
+                        45
+                    ],
+                    [
+                        321,
+                        41
+                    ],
+                    [
+                        334,
+                        31
+                    ],
+                    [
+                        324,
+                        32
+                    ],
+                    [
+                        314,
+                        36
+                    ],
+                    [
+                        316,
+                        23
+                    ],
+                    [
+                        319,
+                        18
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051026,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.412Z",
+            "updatedAt": "2023-09-20T10:49:43.412Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        18
+                    ],
+                    [
+                        334,
+                        74
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051025,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.412Z",
+            "updatedAt": "2023-09-20T10:49:43.412Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        105
+                    ],
+                    [
+                        299,
+                        90
+                    ],
+                    [
+                        313,
+                        74
+                    ],
+                    [
+                        326,
+                        64
+                    ],
+                    [
+                        342,
+                        58
+                    ],
+                    [
+                        366,
+                        57
+                    ],
+                    [
+                        341,
+                        71
+                    ],
+                    [
+                        322,
+                        84
+                    ],
+                    [
+                        306,
+                        107
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47051024,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:43.412Z",
+            "updatedAt": "2023-09-20T10:49:43.412Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        299,
+                        57
+                    ],
+                    [
+                        366,
+                        107
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

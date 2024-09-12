@@ -1,0 +1,124 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4530151,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A red stop sign sitting under two green street signs.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:33.183Z",
+            "updatedAt": "2023-09-20T10:33:33.183Z"
+        },
+        {
+            "id": 4530152,
+            "tagId": 20959,
+            "name": "caption",
+            "value": " Stop sign and other street signs with a building in the background",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:33.183Z",
+            "updatedAt": "2023-09-20T10:33:33.183Z"
+        },
+        {
+            "id": 4530153,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A stop sign at an intersection with trees and a building behind it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:33.183Z",
+            "updatedAt": "2023-09-20T10:33:33.183Z"
+        },
+        {
+            "id": 4530154,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two street signs on top of a stop sign.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:33.183Z",
+            "updatedAt": "2023-09-20T10:33:33.183Z"
+        },
+        {
+            "id": 4530155,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A stop sign on the corner of Spring Street and 11th Street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:33.183Z",
+            "updatedAt": "2023-09-20T10:33:33.183Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46140344,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:33.184Z",
+            "updatedAt": "2023-09-20T10:33:33.184Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        383
+                    ],
+                    [
+                        368,
+                        242
+                    ],
+                    [
+                        503,
+                        195
+                    ],
+                    [
+                        627,
+                        275
+                    ],
+                    [
+                        638,
+                        351
+                    ],
+                    [
+                        639,
+                        423
+                    ],
+                    [
+                        300,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46140343,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:33.184Z",
+            "updatedAt": "2023-09-20T10:33:33.184Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        195
+                    ],
+                    [
+                        639,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,648 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4490704,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man eating a hotdog in a kitchen",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.186Z",
+            "updatedAt": "2023-09-20T10:31:15.186Z"
+        },
+        {
+            "id": 4490705,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man eating a hot dog inside of a room.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.186Z",
+            "updatedAt": "2023-09-20T10:31:15.186Z"
+        },
+        {
+            "id": 4490706,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man eating bread in a restaurant ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.186Z",
+            "updatedAt": "2023-09-20T10:31:15.186Z"
+        },
+        {
+            "id": 4490707,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There is a man that is eating something and looking at sosthing",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.186Z",
+            "updatedAt": "2023-09-20T10:31:15.186Z"
+        },
+        {
+            "id": 4490708,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A guy makes a weird face as he eats what looks like a hot dog.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.186Z",
+            "updatedAt": "2023-09-20T10:31:15.186Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46003334,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.187Z",
+            "updatedAt": "2023-09-20T10:31:15.187Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        13,
+                        190
+                    ],
+                    [
+                        41,
+                        189
+                    ],
+                    [
+                        52,
+                        193
+                    ],
+                    [
+                        58,
+                        198
+                    ],
+                    [
+                        60,
+                        173
+                    ],
+                    [
+                        81,
+                        146
+                    ],
+                    [
+                        104,
+                        141
+                    ],
+                    [
+                        127,
+                        151
+                    ],
+                    [
+                        149,
+                        164
+                    ],
+                    [
+                        163,
+                        175
+                    ],
+                    [
+                        155,
+                        195
+                    ],
+                    [
+                        132,
+                        218
+                    ],
+                    [
+                        108,
+                        241
+                    ],
+                    [
+                        83,
+                        269
+                    ],
+                    [
+                        47,
+                        303
+                    ],
+                    [
+                        6,
+                        339
+                    ],
+                    [
+                        0,
+                        348
+                    ],
+                    [
+                        0,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46003333,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.187Z",
+            "updatedAt": "2023-09-20T10:31:15.187Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        141
+                    ],
+                    [
+                        163,
+                        348
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46003332,
+            "classId": 6461815,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.187Z",
+            "updatedAt": "2023-09-20T10:31:15.187Z",
+            "tags": [],
+            "classTitle": "hot dog",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        268
+                    ],
+                    [
+                        358,
+                        278
+                    ],
+                    [
+                        360,
+                        292
+                    ],
+                    [
+                        379,
+                        316
+                    ],
+                    [
+                        404,
+                        331
+                    ],
+                    [
+                        416,
+                        346
+                    ],
+                    [
+                        430,
+                        347
+                    ],
+                    [
+                        425,
+                        336
+                    ],
+                    [
+                        428,
+                        330
+                    ],
+                    [
+                        427,
+                        322
+                    ],
+                    [
+                        432,
+                        315
+                    ],
+                    [
+                        442,
+                        317
+                    ],
+                    [
+                        436,
+                        312
+                    ],
+                    [
+                        422,
+                        309
+                    ],
+                    [
+                        415,
+                        303
+                    ],
+                    [
+                        412,
+                        296
+                    ],
+                    [
+                        417,
+                        288
+                    ],
+                    [
+                        420,
+                        286
+                    ],
+                    [
+                        424,
+                        277
+                    ],
+                    [
+                        420,
+                        269
+                    ],
+                    [
+                        397,
+                        255
+                    ],
+                    [
+                        392,
+                        260
+                    ],
+                    [
+                        386,
+                        263
+                    ],
+                    [
+                        370,
+                        262
+                    ],
+                    [
+                        356,
+                        261
+                    ],
+                    [
+                        353,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46003331,
+            "classId": 6461815,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.187Z",
+            "updatedAt": "2023-09-20T10:31:15.187Z",
+            "tags": [],
+            "classTitle": "hot dog",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        255
+                    ],
+                    [
+                        442,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46003330,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.186Z",
+            "updatedAt": "2023-09-20T10:31:15.186Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        149
+                    ],
+                    [
+                        138,
+                        135
+                    ],
+                    [
+                        145,
+                        127
+                    ],
+                    [
+                        160,
+                        121
+                    ],
+                    [
+                        174,
+                        121
+                    ],
+                    [
+                        183,
+                        124
+                    ],
+                    [
+                        188,
+                        129
+                    ],
+                    [
+                        192,
+                        147
+                    ],
+                    [
+                        194,
+                        159
+                    ],
+                    [
+                        194,
+                        168
+                    ],
+                    [
+                        175,
+                        173
+                    ],
+                    [
+                        166,
+                        176
+                    ],
+                    [
+                        155,
+                        161
+                    ],
+                    [
+                        145,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46003329,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.186Z",
+            "updatedAt": "2023-09-20T10:31:15.186Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        121
+                    ],
+                    [
+                        194,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46003328,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.186Z",
+            "updatedAt": "2023-09-20T10:31:15.186Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        166
+                    ],
+                    [
+                        201,
+                        142
+                    ],
+                    [
+                        213,
+                        94
+                    ],
+                    [
+                        216,
+                        64
+                    ],
+                    [
+                        224,
+                        26
+                    ],
+                    [
+                        247,
+                        0
+                    ],
+                    [
+                        441,
+                        4
+                    ],
+                    [
+                        466,
+                        30
+                    ],
+                    [
+                        476,
+                        61
+                    ],
+                    [
+                        466,
+                        84
+                    ],
+                    [
+                        464,
+                        95
+                    ],
+                    [
+                        464,
+                        126
+                    ],
+                    [
+                        453,
+                        162
+                    ],
+                    [
+                        443,
+                        185
+                    ],
+                    [
+                        433,
+                        188
+                    ],
+                    [
+                        433,
+                        211
+                    ],
+                    [
+                        431,
+                        241
+                    ],
+                    [
+                        421,
+                        246
+                    ],
+                    [
+                        406,
+                        241
+                    ],
+                    [
+                        395,
+                        257
+                    ],
+                    [
+                        394,
+                        261
+                    ],
+                    [
+                        355,
+                        264
+                    ],
+                    [
+                        360,
+                        290
+                    ],
+                    [
+                        340,
+                        290
+                    ],
+                    [
+                        338,
+                        303
+                    ],
+                    [
+                        379,
+                        438
+                    ],
+                    [
+                        428,
+                        389
+                    ],
+                    [
+                        410,
+                        348
+                    ],
+                    [
+                        386,
+                        329
+                    ],
+                    [
+                        391,
+                        327
+                    ],
+                    [
+                        429,
+                        347
+                    ],
+                    [
+                        430,
+                        329
+                    ],
+                    [
+                        430,
+                        315
+                    ],
+                    [
+                        411,
+                        303
+                    ],
+                    [
+                        418,
+                        284
+                    ],
+                    [
+                        428,
+                        284
+                    ],
+                    [
+                        433,
+                        274
+                    ],
+                    [
+                        482,
+                        292
+                    ],
+                    [
+                        505,
+                        330
+                    ],
+                    [
+                        510,
+                        348
+                    ],
+                    [
+                        504,
+                        368
+                    ],
+                    [
+                        480,
+                        399
+                    ],
+                    [
+                        492,
+                        426
+                    ],
+                    [
+                        502,
+                        458
+                    ],
+                    [
+                        505,
+                        468
+                    ],
+                    [
+                        1,
+                        471
+                    ],
+                    [
+                        2,
+                        340
+                    ],
+                    [
+                        153,
+                        201
+                    ],
+                    [
+                        166,
+                        176
+                    ],
+                    [
+                        196,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46003327,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:15.186Z",
+            "updatedAt": "2023-09-20T10:31:15.186Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        510,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

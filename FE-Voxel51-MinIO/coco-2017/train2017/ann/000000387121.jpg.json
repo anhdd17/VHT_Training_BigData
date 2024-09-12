@@ -1,0 +1,396 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4920774,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man in a backpack leaves his helmet on the sink while using a hand dryer in a public restroom.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:36.520Z",
+            "updatedAt": "2023-09-20T10:57:36.520Z"
+        },
+        {
+            "id": 4920775,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man at a urinal with a backpack and a helmet at the counter.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:36.520Z",
+            "updatedAt": "2023-09-20T10:57:36.520Z"
+        },
+        {
+            "id": 4920776,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A helmet that is sitting next to a sink.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:36.520Z",
+            "updatedAt": "2023-09-20T10:57:36.520Z"
+        },
+        {
+            "id": 4920777,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a mans reflection in a mirror drying his hands and his helmet is on the counter",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:36.520Z",
+            "updatedAt": "2023-09-20T10:57:36.520Z"
+        },
+        {
+            "id": 4920778,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A picture taken in a bathroom of a mirror showing someone at a urinal.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:36.520Z",
+            "updatedAt": "2023-09-20T10:57:36.520Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 384
+    },
+    "objects": [
+        {
+            "id": 47499628,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:36.521Z",
+            "updatedAt": "2023-09-20T10:57:36.521Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        368
+                    ],
+                    [
+                        202,
+                        375
+                    ],
+                    [
+                        190,
+                        382
+                    ],
+                    [
+                        213,
+                        390
+                    ],
+                    [
+                        231,
+                        395
+                    ],
+                    [
+                        287,
+                        398
+                    ],
+                    [
+                        338,
+                        391
+                    ],
+                    [
+                        358,
+                        385
+                    ],
+                    [
+                        359,
+                        381
+                    ],
+                    [
+                        337,
+                        374
+                    ],
+                    [
+                        295,
+                        367
+                    ],
+                    [
+                        256,
+                        370
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47499627,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:36.520Z",
+            "updatedAt": "2023-09-20T10:57:36.520Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        367
+                    ],
+                    [
+                        359,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47499626,
+            "classId": 6461787,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:36.520Z",
+            "updatedAt": "2023-09-20T10:57:36.520Z",
+            "tags": [],
+            "classTitle": "backpack",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        146
+                    ],
+                    [
+                        267,
+                        174
+                    ],
+                    [
+                        263,
+                        203
+                    ],
+                    [
+                        261,
+                        238
+                    ],
+                    [
+                        276,
+                        243
+                    ],
+                    [
+                        290,
+                        253
+                    ],
+                    [
+                        337,
+                        251
+                    ],
+                    [
+                        344,
+                        246
+                    ],
+                    [
+                        353,
+                        245
+                    ],
+                    [
+                        355,
+                        234
+                    ],
+                    [
+                        355,
+                        222
+                    ],
+                    [
+                        343,
+                        209
+                    ],
+                    [
+                        349,
+                        178
+                    ],
+                    [
+                        349,
+                        170
+                    ],
+                    [
+                        326,
+                        144
+                    ],
+                    [
+                        299,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47499625,
+            "classId": 6461787,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:36.520Z",
+            "updatedAt": "2023-09-20T10:57:36.520Z",
+            "tags": [],
+            "classTitle": "backpack",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        142
+                    ],
+                    [
+                        355,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47499624,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:36.520Z",
+            "updatedAt": "2023-09-20T10:57:36.520Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        139
+                    ],
+                    [
+                        281,
+                        124
+                    ],
+                    [
+                        280,
+                        117
+                    ],
+                    [
+                        276,
+                        114
+                    ],
+                    [
+                        278,
+                        101
+                    ],
+                    [
+                        292,
+                        88
+                    ],
+                    [
+                        309,
+                        85
+                    ],
+                    [
+                        320,
+                        101
+                    ],
+                    [
+                        322,
+                        118
+                    ],
+                    [
+                        319,
+                        127
+                    ],
+                    [
+                        330,
+                        139
+                    ],
+                    [
+                        342,
+                        142
+                    ],
+                    [
+                        350,
+                        152
+                    ],
+                    [
+                        357,
+                        163
+                    ],
+                    [
+                        355,
+                        216
+                    ],
+                    [
+                        356,
+                        224
+                    ],
+                    [
+                        357,
+                        236
+                    ],
+                    [
+                        346,
+                        252
+                    ],
+                    [
+                        345,
+                        259
+                    ],
+                    [
+                        261,
+                        261
+                    ],
+                    [
+                        267,
+                        243
+                    ],
+                    [
+                        256,
+                        226
+                    ],
+                    [
+                        257,
+                        161
+                    ],
+                    [
+                        260,
+                        150
+                    ],
+                    [
+                        265,
+                        146
+                    ],
+                    [
+                        272,
+                        145
+                    ],
+                    [
+                        282,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47499623,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:36.520Z",
+            "updatedAt": "2023-09-20T10:57:36.520Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        85
+                    ],
+                    [
+                        357,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

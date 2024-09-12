@@ -1,0 +1,468 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4858461,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a black and white double decker bus and some cars",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:52.605Z",
+            "updatedAt": "2023-09-20T10:53:52.605Z"
+        },
+        {
+            "id": 4858462,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A black and white double decker bus is on the road.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:52.605Z",
+            "updatedAt": "2023-09-20T10:53:52.605Z"
+        },
+        {
+            "id": 4858463,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A black double decker bus that gives ghost tours",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:52.605Z",
+            "updatedAt": "2023-09-20T10:53:52.605Z"
+        },
+        {
+            "id": 4858464,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A double decked bus is stopped in traffic.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:52.605Z",
+            "updatedAt": "2023-09-20T10:53:52.605Z"
+        },
+        {
+            "id": 4858465,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A black double decker bus drives down the street with an advertisement on it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:52.605Z",
+            "updatedAt": "2023-09-20T10:53:52.605Z"
+        }
+    ],
+    "size": {
+        "height": 426,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47283692,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:52.607Z",
+            "updatedAt": "2023-09-20T10:53:52.607Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        367
+                    ],
+                    [
+                        452,
+                        334
+                    ],
+                    [
+                        478,
+                        298
+                    ],
+                    [
+                        597,
+                        281
+                    ],
+                    [
+                        633,
+                        255
+                    ],
+                    [
+                        639,
+                        421
+                    ],
+                    [
+                        481,
+                        419
+                    ],
+                    [
+                        478,
+                        410
+                    ],
+                    [
+                        464,
+                        410
+                    ],
+                    [
+                        447,
+                        388
+                    ],
+                    [
+                        445,
+                        370
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47283691,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:52.606Z",
+            "updatedAt": "2023-09-20T10:53:52.606Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        445,
+                        255
+                    ],
+                    [
+                        639,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47283690,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:52.606Z",
+            "updatedAt": "2023-09-20T10:53:52.606Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        272
+                    ],
+                    [
+                        24,
+                        266
+                    ],
+                    [
+                        15,
+                        266
+                    ],
+                    [
+                        11,
+                        266
+                    ],
+                    [
+                        1,
+                        264
+                    ],
+                    [
+                        0,
+                        268
+                    ],
+                    [
+                        0,
+                        218
+                    ],
+                    [
+                        6,
+                        219
+                    ],
+                    [
+                        20,
+                        219
+                    ],
+                    [
+                        28,
+                        221
+                    ],
+                    [
+                        34,
+                        224
+                    ],
+                    [
+                        37,
+                        226
+                    ],
+                    [
+                        39,
+                        236
+                    ],
+                    [
+                        40,
+                        241
+                    ],
+                    [
+                        44,
+                        246
+                    ],
+                    [
+                        44,
+                        256
+                    ],
+                    [
+                        45,
+                        259
+                    ],
+                    [
+                        43,
+                        263
+                    ],
+                    [
+                        41,
+                        267
+                    ],
+                    [
+                        39,
+                        267
+                    ],
+                    [
+                        35,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47283689,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:52.605Z",
+            "updatedAt": "2023-09-20T10:53:52.605Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        218
+                    ],
+                    [
+                        45,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47283688,
+            "classId": 6461768,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:52.605Z",
+            "updatedAt": "2023-09-20T10:53:52.605Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        56,
+                        177
+                    ],
+                    [
+                        67,
+                        107
+                    ],
+                    [
+                        74,
+                        91
+                    ],
+                    [
+                        79,
+                        87
+                    ],
+                    [
+                        188,
+                        59
+                    ],
+                    [
+                        245,
+                        49
+                    ],
+                    [
+                        375,
+                        23
+                    ],
+                    [
+                        450,
+                        10
+                    ],
+                    [
+                        485,
+                        6
+                    ],
+                    [
+                        507,
+                        3
+                    ],
+                    [
+                        523,
+                        3
+                    ],
+                    [
+                        544,
+                        14
+                    ],
+                    [
+                        552,
+                        21
+                    ],
+                    [
+                        558,
+                        31
+                    ],
+                    [
+                        585,
+                        62
+                    ],
+                    [
+                        593,
+                        110
+                    ],
+                    [
+                        602,
+                        208
+                    ],
+                    [
+                        603,
+                        280
+                    ],
+                    [
+                        578,
+                        287
+                    ],
+                    [
+                        547,
+                        291
+                    ],
+                    [
+                        466,
+                        303
+                    ],
+                    [
+                        465,
+                        322
+                    ],
+                    [
+                        443,
+                        334
+                    ],
+                    [
+                        449,
+                        338
+                    ],
+                    [
+                        416,
+                        336
+                    ],
+                    [
+                        383,
+                        357
+                    ],
+                    [
+                        346,
+                        348
+                    ],
+                    [
+                        340,
+                        337
+                    ],
+                    [
+                        95,
+                        303
+                    ],
+                    [
+                        91,
+                        313
+                    ],
+                    [
+                        71,
+                        312
+                    ],
+                    [
+                        61,
+                        302
+                    ],
+                    [
+                        56,
+                        289
+                    ],
+                    [
+                        56,
+                        279
+                    ],
+                    [
+                        46,
+                        267
+                    ],
+                    [
+                        52,
+                        256
+                    ],
+                    [
+                        70,
+                        248
+                    ],
+                    [
+                        88,
+                        232
+                    ],
+                    [
+                        91,
+                        230
+                    ],
+                    [
+                        96,
+                        186
+                    ],
+                    [
+                        56,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47283687,
+            "classId": 6461768,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:52.605Z",
+            "updatedAt": "2023-09-20T10:53:52.605Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        3
+                    ],
+                    [
+                        603,
+                        357
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

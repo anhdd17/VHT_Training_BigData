@@ -1,0 +1,376 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4758364,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A train is going down the track under a bridge.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:41.233Z",
+            "updatedAt": "2023-09-20T10:47:41.233Z"
+        },
+        {
+            "id": 4758365,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A passenger train is parked on the tracks.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:41.233Z",
+            "updatedAt": "2023-09-20T10:47:41.233Z"
+        },
+        {
+            "id": 4758366,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A large long train on a steel track.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:41.233Z",
+            "updatedAt": "2023-09-20T10:47:41.233Z"
+        },
+        {
+            "id": 4758367,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A train is traveling along train tracks under a signal.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:41.233Z",
+            "updatedAt": "2023-09-20T10:47:41.233Z"
+        },
+        {
+            "id": 4758368,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A passenger train is on the train track.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:41.233Z",
+            "updatedAt": "2023-09-20T10:47:41.233Z"
+        }
+    ],
+    "size": {
+        "height": 422,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46934697,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:41.236Z",
+            "updatedAt": "2023-09-20T10:47:41.236Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        71,
+                        136
+                    ],
+                    [
+                        104,
+                        117
+                    ],
+                    [
+                        123,
+                        110
+                    ],
+                    [
+                        169,
+                        112
+                    ],
+                    [
+                        350,
+                        136
+                    ],
+                    [
+                        415,
+                        146
+                    ],
+                    [
+                        487,
+                        154
+                    ],
+                    [
+                        502,
+                        165
+                    ],
+                    [
+                        531,
+                        172
+                    ],
+                    [
+                        558,
+                        177
+                    ],
+                    [
+                        572,
+                        184
+                    ],
+                    [
+                        589,
+                        181
+                    ],
+                    [
+                        610,
+                        185
+                    ],
+                    [
+                        611,
+                        194
+                    ],
+                    [
+                        610,
+                        230
+                    ],
+                    [
+                        544,
+                        241
+                    ],
+                    [
+                        494,
+                        265
+                    ],
+                    [
+                        431,
+                        275
+                    ],
+                    [
+                        350,
+                        291
+                    ],
+                    [
+                        330,
+                        283
+                    ],
+                    [
+                        306,
+                        294
+                    ],
+                    [
+                        285,
+                        295
+                    ],
+                    [
+                        264,
+                        294
+                    ],
+                    [
+                        255,
+                        302
+                    ],
+                    [
+                        250,
+                        318
+                    ],
+                    [
+                        195,
+                        332
+                    ],
+                    [
+                        180,
+                        318
+                    ],
+                    [
+                        165,
+                        309
+                    ],
+                    [
+                        136,
+                        305
+                    ],
+                    [
+                        132,
+                        318
+                    ],
+                    [
+                        127,
+                        318
+                    ],
+                    [
+                        127,
+                        326
+                    ],
+                    [
+                        113,
+                        322
+                    ],
+                    [
+                        103,
+                        304
+                    ],
+                    [
+                        87,
+                        296
+                    ],
+                    [
+                        65,
+                        286
+                    ],
+                    [
+                        56,
+                        269
+                    ],
+                    [
+                        69,
+                        257
+                    ],
+                    [
+                        68,
+                        208
+                    ],
+                    [
+                        70,
+                        160
+                    ],
+                    [
+                        73,
+                        136
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46934696,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:41.235Z",
+            "updatedAt": "2023-09-20T10:47:41.235Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        56,
+                        110
+                    ],
+                    [
+                        611,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46934695,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:41.234Z",
+            "updatedAt": "2023-09-20T10:47:41.234Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        512,
+                        58
+                    ],
+                    [
+                        526,
+                        59
+                    ],
+                    [
+                        530,
+                        67
+                    ],
+                    [
+                        530,
+                        75
+                    ],
+                    [
+                        524,
+                        126
+                    ],
+                    [
+                        520,
+                        126
+                    ],
+                    [
+                        507,
+                        128
+                    ],
+                    [
+                        501,
+                        129
+                    ],
+                    [
+                        500,
+                        124
+                    ],
+                    [
+                        501,
+                        120
+                    ],
+                    [
+                        503,
+                        114
+                    ],
+                    [
+                        495,
+                        112
+                    ],
+                    [
+                        493,
+                        107
+                    ],
+                    [
+                        492,
+                        99
+                    ],
+                    [
+                        493,
+                        94
+                    ],
+                    [
+                        503,
+                        88
+                    ],
+                    [
+                        502,
+                        71
+                    ],
+                    [
+                        502,
+                        65
+                    ],
+                    [
+                        503,
+                        61
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46934694,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:41.234Z",
+            "updatedAt": "2023-09-20T10:47:41.234Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        492,
+                        58
+                    ],
+                    [
+                        530,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,1144 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5009790,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Tomato, ham, and cheese sandwiches are ready to eat.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.244Z",
+            "updatedAt": "2023-09-20T11:03:15.244Z"
+        },
+        {
+            "id": 5009791,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A large sandwich cut up into many pieces.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.244Z",
+            "updatedAt": "2023-09-20T11:03:15.244Z"
+        },
+        {
+            "id": 5009792,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A close up of a large sandwich cut into smaller pieces.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.244Z",
+            "updatedAt": "2023-09-20T11:03:15.244Z"
+        },
+        {
+            "id": 5009793,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Large sandwich on a tray cut into ten pieces with a toothpick in each.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.244Z",
+            "updatedAt": "2023-09-20T11:03:15.244Z"
+        },
+        {
+            "id": 5009794,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A large sub sandwich sliced into smaller sandwiches with toothpicks in them.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.244Z",
+            "updatedAt": "2023-09-20T11:03:15.244Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47813343,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.257Z",
+            "updatedAt": "2023-09-20T11:03:15.257Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        372
+                    ],
+                    [
+                        359,
+                        335
+                    ],
+                    [
+                        360,
+                        295
+                    ],
+                    [
+                        364,
+                        255
+                    ],
+                    [
+                        364,
+                        228
+                    ],
+                    [
+                        357,
+                        187
+                    ],
+                    [
+                        334,
+                        170
+                    ],
+                    [
+                        305,
+                        166
+                    ],
+                    [
+                        297,
+                        165
+                    ],
+                    [
+                        283,
+                        165
+                    ],
+                    [
+                        256,
+                        168
+                    ],
+                    [
+                        233,
+                        173
+                    ],
+                    [
+                        223,
+                        178
+                    ],
+                    [
+                        212,
+                        202
+                    ],
+                    [
+                        209,
+                        235
+                    ],
+                    [
+                        206,
+                        282
+                    ],
+                    [
+                        207,
+                        303
+                    ],
+                    [
+                        209,
+                        329
+                    ],
+                    [
+                        211,
+                        346
+                    ],
+                    [
+                        285,
+                        365
+                    ],
+                    [
+                        354,
+                        379
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813342,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.257Z",
+            "updatedAt": "2023-09-20T11:03:15.257Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        165
+                    ],
+                    [
+                        364,
+                        379
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813341,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.256Z",
+            "updatedAt": "2023-09-20T11:03:15.256Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        384
+                    ],
+                    [
+                        383,
+                        288
+                    ],
+                    [
+                        378,
+                        244
+                    ],
+                    [
+                        401,
+                        173
+                    ],
+                    [
+                        412,
+                        166
+                    ],
+                    [
+                        454,
+                        176
+                    ],
+                    [
+                        490,
+                        179
+                    ],
+                    [
+                        525,
+                        184
+                    ],
+                    [
+                        551,
+                        260
+                    ],
+                    [
+                        550,
+                        336
+                    ],
+                    [
+                        554,
+                        404
+                    ],
+                    [
+                        548,
+                        413
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813340,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.256Z",
+            "updatedAt": "2023-09-20T11:03:15.256Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        166
+                    ],
+                    [
+                        554,
+                        413
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813339,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.255Z",
+            "updatedAt": "2023-09-20T11:03:15.255Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        550,
+                        184
+                    ],
+                    [
+                        576,
+                        189
+                    ],
+                    [
+                        608,
+                        192
+                    ],
+                    [
+                        636,
+                        206
+                    ],
+                    [
+                        639,
+                        210
+                    ],
+                    [
+                        639,
+                        367
+                    ],
+                    [
+                        639,
+                        432
+                    ],
+                    [
+                        613,
+                        438
+                    ],
+                    [
+                        592,
+                        442
+                    ],
+                    [
+                        577,
+                        448
+                    ],
+                    [
+                        567,
+                        447
+                    ],
+                    [
+                        556,
+                        434
+                    ],
+                    [
+                        574,
+                        436
+                    ],
+                    [
+                        588,
+                        428
+                    ],
+                    [
+                        578,
+                        422
+                    ],
+                    [
+                        567,
+                        411
+                    ],
+                    [
+                        560,
+                        400
+                    ],
+                    [
+                        554,
+                        394
+                    ],
+                    [
+                        552,
+                        284
+                    ],
+                    [
+                        552,
+                        255
+                    ],
+                    [
+                        536,
+                        203
+                    ],
+                    [
+                        550,
+                        182
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813338,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.254Z",
+            "updatedAt": "2023-09-20T11:03:15.254Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        536,
+                        182
+                    ],
+                    [
+                        639,
+                        448
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813337,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.254Z",
+            "updatedAt": "2023-09-20T11:03:15.254Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        316
+                    ],
+                    [
+                        67,
+                        222
+                    ],
+                    [
+                        103,
+                        140
+                    ],
+                    [
+                        123,
+                        144
+                    ],
+                    [
+                        115,
+                        105
+                    ],
+                    [
+                        124,
+                        108
+                    ],
+                    [
+                        131,
+                        146
+                    ],
+                    [
+                        238,
+                        162
+                    ],
+                    [
+                        235,
+                        172
+                    ],
+                    [
+                        212,
+                        205
+                    ],
+                    [
+                        206,
+                        291
+                    ],
+                    [
+                        202,
+                        364
+                    ],
+                    [
+                        168,
+                        354
+                    ],
+                    [
+                        139,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813336,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.253Z",
+            "updatedAt": "2023-09-20T11:03:15.253Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        105
+                    ],
+                    [
+                        238,
+                        364
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813335,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.253Z",
+            "updatedAt": "2023-09-20T11:03:15.253Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        170
+                    ],
+                    [
+                        253,
+                        126
+                    ],
+                    [
+                        359,
+                        136
+                    ],
+                    [
+                        371,
+                        174
+                    ],
+                    [
+                        370,
+                        233
+                    ],
+                    [
+                        361,
+                        213
+                    ],
+                    [
+                        354,
+                        180
+                    ],
+                    [
+                        335,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813334,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.253Z",
+            "updatedAt": "2023-09-20T11:03:15.253Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        126
+                    ],
+                    [
+                        371,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813333,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.252Z",
+            "updatedAt": "2023-09-20T11:03:15.252Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        136
+                    ],
+                    [
+                        238,
+                        160
+                    ],
+                    [
+                        134,
+                        146
+                    ],
+                    [
+                        151,
+                        129
+                    ],
+                    [
+                        158,
+                        127
+                    ],
+                    [
+                        168,
+                        129
+                    ],
+                    [
+                        177,
+                        132
+                    ],
+                    [
+                        182,
+                        132
+                    ],
+                    [
+                        188,
+                        131
+                    ],
+                    [
+                        197,
+                        131
+                    ],
+                    [
+                        208,
+                        132
+                    ],
+                    [
+                        225,
+                        133
+                    ],
+                    [
+                        229,
+                        131
+                    ],
+                    [
+                        242,
+                        133
+                    ],
+                    [
+                        250,
+                        133
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813332,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.252Z",
+            "updatedAt": "2023-09-20T11:03:15.252Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        127
+                    ],
+                    [
+                        250,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813331,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.251Z",
+            "updatedAt": "2023-09-20T11:03:15.251Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        335
+                    ],
+                    [
+                        59,
+                        343
+                    ],
+                    [
+                        210,
+                        371
+                    ],
+                    [
+                        435,
+                        398
+                    ],
+                    [
+                        513,
+                        414
+                    ],
+                    [
+                        586,
+                        433
+                    ],
+                    [
+                        639,
+                        439
+                    ],
+                    [
+                        639,
+                        444
+                    ],
+                    [
+                        634,
+                        472
+                    ],
+                    [
+                        521,
+                        472
+                    ],
+                    [
+                        384,
+                        472
+                    ],
+                    [
+                        146,
+                        473
+                    ],
+                    [
+                        1,
+                        473
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813330,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.250Z",
+            "updatedAt": "2023-09-20T11:03:15.250Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        335
+                    ],
+                    [
+                        639,
+                        473
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813329,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.249Z",
+            "updatedAt": "2023-09-20T11:03:15.249Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        163
+                    ],
+                    [
+                        19,
+                        152
+                    ],
+                    [
+                        35,
+                        147
+                    ],
+                    [
+                        48,
+                        142
+                    ],
+                    [
+                        79,
+                        141
+                    ],
+                    [
+                        99,
+                        143
+                    ],
+                    [
+                        100,
+                        144
+                    ],
+                    [
+                        68,
+                        223
+                    ],
+                    [
+                        60,
+                        316
+                    ],
+                    [
+                        38,
+                        316
+                    ],
+                    [
+                        8,
+                        316
+                    ],
+                    [
+                        1,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813328,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.249Z",
+            "updatedAt": "2023-09-20T11:03:15.249Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        141
+                    ],
+                    [
+                        100,
+                        316
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813327,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.248Z",
+            "updatedAt": "2023-09-20T11:03:15.248Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        497,
+                        180
+                    ],
+                    [
+                        487,
+                        172
+                    ],
+                    [
+                        472,
+                        159
+                    ],
+                    [
+                        466,
+                        154
+                    ],
+                    [
+                        472,
+                        152
+                    ],
+                    [
+                        516,
+                        155
+                    ],
+                    [
+                        531,
+                        154
+                    ],
+                    [
+                        547,
+                        154
+                    ],
+                    [
+                        555,
+                        154
+                    ],
+                    [
+                        570,
+                        160
+                    ],
+                    [
+                        578,
+                        163
+                    ],
+                    [
+                        594,
+                        176
+                    ],
+                    [
+                        596,
+                        181
+                    ],
+                    [
+                        610,
+                        189
+                    ],
+                    [
+                        606,
+                        190
+                    ],
+                    [
+                        547,
+                        188
+                    ],
+                    [
+                        537,
+                        205
+                    ],
+                    [
+                        533,
+                        208
+                    ],
+                    [
+                        529,
+                        195
+                    ],
+                    [
+                        528,
+                        184
+                    ],
+                    [
+                        526,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813326,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.248Z",
+            "updatedAt": "2023-09-20T11:03:15.248Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        466,
+                        152
+                    ],
+                    [
+                        610,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813325,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.247Z",
+            "updatedAt": "2023-09-20T11:03:15.247Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        139
+                    ],
+                    [
+                        51,
+                        136
+                    ],
+                    [
+                        58,
+                        129
+                    ],
+                    [
+                        77,
+                        120
+                    ],
+                    [
+                        94,
+                        113
+                    ],
+                    [
+                        108,
+                        109
+                    ],
+                    [
+                        120,
+                        112
+                    ],
+                    [
+                        134,
+                        114
+                    ],
+                    [
+                        149,
+                        113
+                    ],
+                    [
+                        162,
+                        113
+                    ],
+                    [
+                        164,
+                        123
+                    ],
+                    [
+                        156,
+                        128
+                    ],
+                    [
+                        138,
+                        143
+                    ],
+                    [
+                        89,
+                        138
+                    ],
+                    [
+                        58,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813324,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.246Z",
+            "updatedAt": "2023-09-20T11:03:15.246Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        51,
+                        109
+                    ],
+                    [
+                        164,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813323,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.246Z",
+            "updatedAt": "2023-09-20T11:03:15.246Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        219
+                    ],
+                    [
+                        371,
+                        219
+                    ],
+                    [
+                        369,
+                        138
+                    ],
+                    [
+                        463,
+                        157
+                    ],
+                    [
+                        487,
+                        183
+                    ],
+                    [
+                        411,
+                        170
+                    ],
+                    [
+                        411,
+                        170
+                    ],
+                    [
+                        377,
+                        234
+                    ],
+                    [
+                        369,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47813322,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:15.245Z",
+            "updatedAt": "2023-09-20T11:03:15.245Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        138
+                    ],
+                    [
+                        487,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,916 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4700437,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A bathroom with a toilet sitting next to a sink.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.888Z",
+            "updatedAt": "2023-09-20T10:44:03.888Z"
+        },
+        {
+            "id": 4700438,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A BATHROOM WITH A SINK AND A MIRROR ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.888Z",
+            "updatedAt": "2023-09-20T10:44:03.888Z"
+        },
+        {
+            "id": 4700439,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A nice clean bathroom with a large sink.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.888Z",
+            "updatedAt": "2023-09-20T10:44:03.888Z"
+        },
+        {
+            "id": 4700440,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A clean, well-lit and fully-stocked marble hotel bathroom ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.888Z",
+            "updatedAt": "2023-09-20T10:44:03.888Z"
+        },
+        {
+            "id": 4700441,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A small white bathroom with a toilet and a sink.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.888Z",
+            "updatedAt": "2023-09-20T10:44:03.888Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 448
+    },
+    "objects": [
+        {
+            "id": 46731660,
+            "classId": 6461824,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.892Z",
+            "updatedAt": "2023-09-20T10:44:03.892Z",
+            "tags": [],
+            "classTitle": "toilet",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        531
+                    ],
+                    [
+                        152,
+                        551
+                    ],
+                    [
+                        116,
+                        575
+                    ],
+                    [
+                        83,
+                        565
+                    ],
+                    [
+                        66,
+                        558
+                    ],
+                    [
+                        66,
+                        536
+                    ],
+                    [
+                        58,
+                        515
+                    ],
+                    [
+                        55,
+                        479
+                    ],
+                    [
+                        55,
+                        444
+                    ],
+                    [
+                        43,
+                        378
+                    ],
+                    [
+                        55,
+                        365
+                    ],
+                    [
+                        114,
+                        361
+                    ],
+                    [
+                        135,
+                        360
+                    ],
+                    [
+                        142,
+                        408
+                    ],
+                    [
+                        141,
+                        443
+                    ],
+                    [
+                        167,
+                        488
+                    ],
+                    [
+                        168,
+                        503
+                    ],
+                    [
+                        158,
+                        519
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731659,
+            "classId": 6461824,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.892Z",
+            "updatedAt": "2023-09-20T10:44:03.892Z",
+            "tags": [],
+            "classTitle": "toilet",
+            "points": {
+                "exterior": [
+                    [
+                        43,
+                        360
+                    ],
+                    [
+                        168,
+                        575
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731658,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.891Z",
+            "updatedAt": "2023-09-20T10:44:03.891Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        425,
+                        389
+                    ],
+                    [
+                        447,
+                        397
+                    ],
+                    [
+                        447,
+                        400
+                    ],
+                    [
+                        447,
+                        470
+                    ],
+                    [
+                        442,
+                        480
+                    ],
+                    [
+                        418,
+                        483
+                    ],
+                    [
+                        392,
+                        476
+                    ],
+                    [
+                        369,
+                        463
+                    ],
+                    [
+                        364,
+                        454
+                    ],
+                    [
+                        348,
+                        441
+                    ],
+                    [
+                        330,
+                        408
+                    ],
+                    [
+                        331,
+                        396
+                    ],
+                    [
+                        348,
+                        388
+                    ],
+                    [
+                        369,
+                        382
+                    ],
+                    [
+                        397,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731657,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.891Z",
+            "updatedAt": "2023-09-20T10:44:03.891Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        330,
+                        382
+                    ],
+                    [
+                        447,
+                        483
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731656,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.891Z",
+            "updatedAt": "2023-09-20T10:44:03.891Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        310,
+                        369
+                    ],
+                    [
+                        313,
+                        369
+                    ],
+                    [
+                        314,
+                        370
+                    ],
+                    [
+                        310,
+                        372
+                    ],
+                    [
+                        308,
+                        391
+                    ],
+                    [
+                        298,
+                        391
+                    ],
+                    [
+                        292,
+                        389
+                    ],
+                    [
+                        292,
+                        385
+                    ],
+                    [
+                        295,
+                        366
+                    ],
+                    [
+                        303,
+                        365
+                    ],
+                    [
+                        308,
+                        367
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731655,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.891Z",
+            "updatedAt": "2023-09-20T10:44:03.891Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        365
+                    ],
+                    [
+                        314,
+                        391
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731654,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.891Z",
+            "updatedAt": "2023-09-20T10:44:03.891Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        374
+                    ],
+                    [
+                        328,
+                        394
+                    ],
+                    [
+                        325,
+                        396
+                    ],
+                    [
+                        321,
+                        397
+                    ],
+                    [
+                        317,
+                        397
+                    ],
+                    [
+                        313,
+                        396
+                    ],
+                    [
+                        310,
+                        394
+                    ],
+                    [
+                        308,
+                        393
+                    ],
+                    [
+                        310,
+                        374
+                    ],
+                    [
+                        311,
+                        373
+                    ],
+                    [
+                        314,
+                        371
+                    ],
+                    [
+                        316,
+                        370
+                    ],
+                    [
+                        318,
+                        370
+                    ],
+                    [
+                        322,
+                        371
+                    ],
+                    [
+                        324,
+                        372
+                    ],
+                    [
+                        325,
+                        374
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731653,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.890Z",
+            "updatedAt": "2023-09-20T10:44:03.890Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        370
+                    ],
+                    [
+                        328,
+                        397
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731652,
+            "classId": 6461841,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.890Z",
+            "updatedAt": "2023-09-20T10:44:03.890Z",
+            "tags": [],
+            "classTitle": "hair drier",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        232
+                    ],
+                    [
+                        257,
+                        218
+                    ],
+                    [
+                        258,
+                        216
+                    ],
+                    [
+                        263,
+                        216
+                    ],
+                    [
+                        270,
+                        216
+                    ],
+                    [
+                        272,
+                        216
+                    ],
+                    [
+                        274,
+                        217
+                    ],
+                    [
+                        276,
+                        220
+                    ],
+                    [
+                        276,
+                        222
+                    ],
+                    [
+                        276,
+                        223
+                    ],
+                    [
+                        291,
+                        236
+                    ],
+                    [
+                        291,
+                        238
+                    ],
+                    [
+                        291,
+                        240
+                    ],
+                    [
+                        290,
+                        241
+                    ],
+                    [
+                        285,
+                        241
+                    ],
+                    [
+                        278,
+                        233
+                    ],
+                    [
+                        275,
+                        233
+                    ],
+                    [
+                        272,
+                        233
+                    ],
+                    [
+                        268,
+                        233
+                    ],
+                    [
+                        260,
+                        233
+                    ],
+                    [
+                        259,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731651,
+            "classId": 6461841,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.890Z",
+            "updatedAt": "2023-09-20T10:44:03.890Z",
+            "tags": [],
+            "classTitle": "hair drier",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        242
+                    ],
+                    [
+                        271,
+                        257
+                    ],
+                    [
+                        264,
+                        257
+                    ],
+                    [
+                        264,
+                        257
+                    ],
+                    [
+                        260,
+                        257
+                    ],
+                    [
+                        259,
+                        256
+                    ],
+                    [
+                        259,
+                        241
+                    ],
+                    [
+                        262,
+                        241
+                    ],
+                    [
+                        267,
+                        241
+                    ],
+                    [
+                        270,
+                        241
+                    ],
+                    [
+                        274,
+                        241
+                    ],
+                    [
+                        274,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731650,
+            "classId": 6461841,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.890Z",
+            "updatedAt": "2023-09-20T10:44:03.890Z",
+            "tags": [],
+            "classTitle": "hair drier",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        216
+                    ],
+                    [
+                        291,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731649,
+            "classId": 6461841,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.889Z",
+            "updatedAt": "2023-09-20T10:44:03.889Z",
+            "tags": [],
+            "classTitle": "hair drier",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        241
+                    ],
+                    [
+                        274,
+                        257
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731648,
+            "classId": 6461841,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.889Z",
+            "updatedAt": "2023-09-20T10:44:03.889Z",
+            "tags": [],
+            "classTitle": "hair drier",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        235
+                    ],
+                    [
+                        320,
+                        243
+                    ],
+                    [
+                        317,
+                        241
+                    ],
+                    [
+                        317,
+                        238
+                    ],
+                    [
+                        337,
+                        229
+                    ],
+                    [
+                        338,
+                        229
+                    ],
+                    [
+                        338,
+                        224
+                    ],
+                    [
+                        349,
+                        225
+                    ],
+                    [
+                        348,
+                        239
+                    ],
+                    [
+                        344,
+                        240
+                    ],
+                    [
+                        337,
+                        240
+                    ],
+                    [
+                        338,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731647,
+            "classId": 6461841,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.889Z",
+            "updatedAt": "2023-09-20T10:44:03.889Z",
+            "tags": [],
+            "classTitle": "hair drier",
+            "points": {
+                "exterior": [
+                    [
+                        347,
+                        247
+                    ],
+                    [
+                        347,
+                        257
+                    ],
+                    [
+                        347,
+                        257
+                    ],
+                    [
+                        339,
+                        259
+                    ],
+                    [
+                        336,
+                        258
+                    ],
+                    [
+                        337,
+                        255
+                    ],
+                    [
+                        337,
+                        254
+                    ],
+                    [
+                        335,
+                        251
+                    ],
+                    [
+                        335,
+                        246
+                    ],
+                    [
+                        348,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731646,
+            "classId": 6461841,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.889Z",
+            "updatedAt": "2023-09-20T10:44:03.889Z",
+            "tags": [],
+            "classTitle": "hair drier",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        224
+                    ],
+                    [
+                        349,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731645,
+            "classId": 6461841,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.889Z",
+            "updatedAt": "2023-09-20T10:44:03.889Z",
+            "tags": [],
+            "classTitle": "hair drier",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        246
+                    ],
+                    [
+                        348,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731644,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.889Z",
+            "updatedAt": "2023-09-20T10:44:03.889Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        378
+                    ],
+                    [
+                        338,
+                        367
+                    ],
+                    [
+                        339,
+                        365
+                    ],
+                    [
+                        342,
+                        363
+                    ],
+                    [
+                        345,
+                        363
+                    ],
+                    [
+                        350,
+                        364
+                    ],
+                    [
+                        351,
+                        366
+                    ],
+                    [
+                        352,
+                        374
+                    ],
+                    [
+                        351,
+                        383
+                    ],
+                    [
+                        338,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46731643,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:03.888Z",
+            "updatedAt": "2023-09-20T10:44:03.888Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        363
+                    ],
+                    [
+                        352,
+                        383
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,708 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4895893,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cat eating food off of a wooden floor.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.286Z",
+            "updatedAt": "2023-09-20T10:56:08.286Z"
+        },
+        {
+            "id": 4895894,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Cat eating food while another cat tries to take it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.286Z",
+            "updatedAt": "2023-09-20T10:56:08.286Z"
+        },
+        {
+            "id": 4895895,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a cat eating some food on the floor while another cat looks at it ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.286Z",
+            "updatedAt": "2023-09-20T10:56:08.286Z"
+        },
+        {
+            "id": 4895896,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two cats eat broccoli on a wood floor. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.286Z",
+            "updatedAt": "2023-09-20T10:56:08.286Z"
+        },
+        {
+            "id": 4895897,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two cats eating something on a wooden floor.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.286Z",
+            "updatedAt": "2023-09-20T10:56:08.286Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47412956,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.291Z",
+            "updatedAt": "2023-09-20T10:56:08.291Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        281
+                    ],
+                    [
+                        276,
+                        284
+                    ],
+                    [
+                        278,
+                        286
+                    ],
+                    [
+                        282,
+                        286
+                    ],
+                    [
+                        286,
+                        285
+                    ],
+                    [
+                        291,
+                        281
+                    ],
+                    [
+                        296,
+                        279
+                    ],
+                    [
+                        299,
+                        278
+                    ],
+                    [
+                        305,
+                        276
+                    ],
+                    [
+                        305,
+                        273
+                    ],
+                    [
+                        305,
+                        270
+                    ],
+                    [
+                        297,
+                        265
+                    ],
+                    [
+                        295,
+                        263
+                    ],
+                    [
+                        289,
+                        262
+                    ],
+                    [
+                        283,
+                        262
+                    ],
+                    [
+                        278,
+                        262
+                    ],
+                    [
+                        274,
+                        264
+                    ],
+                    [
+                        269,
+                        266
+                    ],
+                    [
+                        264,
+                        271
+                    ],
+                    [
+                        261,
+                        275
+                    ],
+                    [
+                        261,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47412955,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.290Z",
+            "updatedAt": "2023-09-20T10:56:08.290Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        262
+                    ],
+                    [
+                        305,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47412954,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.290Z",
+            "updatedAt": "2023-09-20T10:56:08.290Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        278
+                    ],
+                    [
+                        294,
+                        281
+                    ],
+                    [
+                        291,
+                        284
+                    ],
+                    [
+                        286,
+                        286
+                    ],
+                    [
+                        290,
+                        287
+                    ],
+                    [
+                        294,
+                        287
+                    ],
+                    [
+                        296,
+                        287
+                    ],
+                    [
+                        297,
+                        286
+                    ],
+                    [
+                        298,
+                        285
+                    ],
+                    [
+                        300,
+                        282
+                    ],
+                    [
+                        304,
+                        280
+                    ],
+                    [
+                        305,
+                        279
+                    ],
+                    [
+                        304,
+                        278
+                    ],
+                    [
+                        304,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47412953,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.290Z",
+            "updatedAt": "2023-09-20T10:56:08.290Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        277
+                    ],
+                    [
+                        305,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47412952,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.289Z",
+            "updatedAt": "2023-09-20T10:56:08.289Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        131
+                    ],
+                    [
+                        307,
+                        160
+                    ],
+                    [
+                        327,
+                        160
+                    ],
+                    [
+                        370,
+                        160
+                    ],
+                    [
+                        388,
+                        216
+                    ],
+                    [
+                        382,
+                        222
+                    ],
+                    [
+                        378,
+                        224
+                    ],
+                    [
+                        342,
+                        226
+                    ],
+                    [
+                        334,
+                        229
+                    ],
+                    [
+                        314,
+                        262
+                    ],
+                    [
+                        279,
+                        263
+                    ],
+                    [
+                        266,
+                        261
+                    ],
+                    [
+                        269,
+                        243
+                    ],
+                    [
+                        252,
+                        222
+                    ],
+                    [
+                        253,
+                        185
+                    ],
+                    [
+                        256,
+                        165
+                    ],
+                    [
+                        248,
+                        148
+                    ],
+                    [
+                        247,
+                        133
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47412951,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.289Z",
+            "updatedAt": "2023-09-20T10:56:08.289Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        478,
+                        281
+                    ],
+                    [
+                        497,
+                        276
+                    ],
+                    [
+                        509,
+                        247
+                    ],
+                    [
+                        554,
+                        242
+                    ],
+                    [
+                        547,
+                        262
+                    ],
+                    [
+                        566,
+                        268
+                    ],
+                    [
+                        622,
+                        251
+                    ],
+                    [
+                        622,
+                        143
+                    ],
+                    [
+                        618,
+                        135
+                    ],
+                    [
+                        603,
+                        136
+                    ],
+                    [
+                        561,
+                        161
+                    ],
+                    [
+                        534,
+                        217
+                    ],
+                    [
+                        514,
+                        239
+                    ],
+                    [
+                        481,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47412950,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.289Z",
+            "updatedAt": "2023-09-20T10:56:08.289Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        131
+                    ],
+                    [
+                        388,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47412949,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.287Z",
+            "updatedAt": "2023-09-20T10:56:08.287Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        478,
+                        135
+                    ],
+                    [
+                        622,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47412948,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.287Z",
+            "updatedAt": "2023-09-20T10:56:08.287Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        526,
+                        230
+                    ],
+                    [
+                        437,
+                        324
+                    ],
+                    [
+                        385,
+                        364
+                    ],
+                    [
+                        343,
+                        395
+                    ],
+                    [
+                        311,
+                        399
+                    ],
+                    [
+                        293,
+                        394
+                    ],
+                    [
+                        282,
+                        378
+                    ],
+                    [
+                        282,
+                        350
+                    ],
+                    [
+                        295,
+                        338
+                    ],
+                    [
+                        314,
+                        343
+                    ],
+                    [
+                        327,
+                        343
+                    ],
+                    [
+                        342,
+                        301
+                    ],
+                    [
+                        354,
+                        269
+                    ],
+                    [
+                        366,
+                        245
+                    ],
+                    [
+                        382,
+                        204
+                    ],
+                    [
+                        369,
+                        222
+                    ],
+                    [
+                        359,
+                        226
+                    ],
+                    [
+                        335,
+                        197
+                    ],
+                    [
+                        304,
+                        185
+                    ],
+                    [
+                        274,
+                        172
+                    ],
+                    [
+                        261,
+                        158
+                    ],
+                    [
+                        238,
+                        113
+                    ],
+                    [
+                        240,
+                        79
+                    ],
+                    [
+                        232,
+                        32
+                    ],
+                    [
+                        243,
+                        0
+                    ],
+                    [
+                        370,
+                        0
+                    ],
+                    [
+                        639,
+                        0
+                    ],
+                    [
+                        639,
+                        381
+                    ],
+                    [
+                        638,
+                        392
+                    ],
+                    [
+                        636,
+                        448
+                    ],
+                    [
+                        606,
+                        442
+                    ],
+                    [
+                        575,
+                        428
+                    ],
+                    [
+                        559,
+                        410
+                    ],
+                    [
+                        578,
+                        377
+                    ],
+                    [
+                        606,
+                        369
+                    ],
+                    [
+                        619,
+                        356
+                    ],
+                    [
+                        620,
+                        329
+                    ],
+                    [
+                        616,
+                        282
+                    ],
+                    [
+                        617,
+                        249
+                    ],
+                    [
+                        624,
+                        187
+                    ],
+                    [
+                        624,
+                        144
+                    ],
+                    [
+                        618,
+                        127
+                    ],
+                    [
+                        584,
+                        141
+                    ],
+                    [
+                        563,
+                        160
+                    ],
+                    [
+                        539,
+                        196
+                    ],
+                    [
+                        528,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47412947,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:08.287Z",
+            "updatedAt": "2023-09-20T10:56:08.287Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        0
+                    ],
+                    [
+                        639,
+                        448
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

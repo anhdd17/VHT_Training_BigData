@@ -1,0 +1,1048 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5023234,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A person is cutting up a slice of pizza.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.173Z",
+            "updatedAt": "2023-09-20T11:04:07.173Z"
+        },
+        {
+            "id": 5023235,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a person is cutting into some food on a plate",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.173Z",
+            "updatedAt": "2023-09-20T11:04:07.173Z"
+        },
+        {
+            "id": 5023236,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A person cutting a slice of pizza with a knife and fork. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.173Z",
+            "updatedAt": "2023-09-20T11:04:07.173Z"
+        },
+        {
+            "id": 5023237,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Person cutting into a slice of pizza with a fork and knife. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.173Z",
+            "updatedAt": "2023-09-20T11:04:07.173Z"
+        },
+        {
+            "id": 5023238,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A person uses a knife and fork to cut apart food.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.173Z",
+            "updatedAt": "2023-09-20T11:04:07.173Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47859065,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.177Z",
+            "updatedAt": "2023-09-20T11:04:07.177Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        435,
+                        3
+                    ],
+                    [
+                        450,
+                        16
+                    ],
+                    [
+                        452,
+                        92
+                    ],
+                    [
+                        465,
+                        111
+                    ],
+                    [
+                        478,
+                        120
+                    ],
+                    [
+                        491,
+                        119
+                    ],
+                    [
+                        495,
+                        115
+                    ],
+                    [
+                        505,
+                        108
+                    ],
+                    [
+                        507,
+                        108
+                    ],
+                    [
+                        510,
+                        108
+                    ],
+                    [
+                        522,
+                        111
+                    ],
+                    [
+                        526,
+                        111
+                    ],
+                    [
+                        535,
+                        108
+                    ],
+                    [
+                        546,
+                        98
+                    ],
+                    [
+                        551,
+                        88
+                    ],
+                    [
+                        559,
+                        78
+                    ],
+                    [
+                        560,
+                        74
+                    ],
+                    [
+                        563,
+                        69
+                    ],
+                    [
+                        568,
+                        65
+                    ],
+                    [
+                        578,
+                        56
+                    ],
+                    [
+                        589,
+                        50
+                    ],
+                    [
+                        598,
+                        40
+                    ],
+                    [
+                        606,
+                        33
+                    ],
+                    [
+                        618,
+                        14
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859064,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.177Z",
+            "updatedAt": "2023-09-20T11:04:07.177Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        87
+                    ],
+                    [
+                        6,
+                        94
+                    ],
+                    [
+                        32,
+                        89
+                    ],
+                    [
+                        38,
+                        85
+                    ],
+                    [
+                        57,
+                        100
+                    ],
+                    [
+                        66,
+                        102
+                    ],
+                    [
+                        71,
+                        107
+                    ],
+                    [
+                        97,
+                        115
+                    ],
+                    [
+                        38,
+                        60
+                    ],
+                    [
+                        59,
+                        27
+                    ],
+                    [
+                        98,
+                        63
+                    ],
+                    [
+                        107,
+                        86
+                    ],
+                    [
+                        118,
+                        110
+                    ],
+                    [
+                        132,
+                        124
+                    ],
+                    [
+                        155,
+                        122
+                    ],
+                    [
+                        161,
+                        121
+                    ],
+                    [
+                        172,
+                        112
+                    ],
+                    [
+                        173,
+                        101
+                    ],
+                    [
+                        171,
+                        81
+                    ],
+                    [
+                        165,
+                        17
+                    ],
+                    [
+                        157,
+                        3
+                    ],
+                    [
+                        1,
+                        2
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859063,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.177Z",
+            "updatedAt": "2023-09-20T11:04:07.177Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        435,
+                        3
+                    ],
+                    [
+                        618,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859062,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.177Z",
+            "updatedAt": "2023-09-20T11:04:07.177Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        173,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859061,
+            "classId": 6461806,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.176Z",
+            "updatedAt": "2023-09-20T11:04:07.176Z",
+            "tags": [],
+            "classTitle": "knife",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        121
+                    ],
+                    [
+                        444,
+                        325
+                    ],
+                    [
+                        470,
+                        352
+                    ],
+                    [
+                        457,
+                        369
+                    ],
+                    [
+                        420,
+                        368
+                    ],
+                    [
+                        392,
+                        331
+                    ],
+                    [
+                        368,
+                        306
+                    ],
+                    [
+                        341,
+                        292
+                    ],
+                    [
+                        257,
+                        270
+                    ],
+                    [
+                        126,
+                        133
+                    ],
+                    [
+                        46,
+                        66
+                    ],
+                    [
+                        47,
+                        31
+                    ],
+                    [
+                        105,
+                        68
+                    ],
+                    [
+                        126,
+                        125
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859060,
+            "classId": 6461806,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.176Z",
+            "updatedAt": "2023-09-20T11:04:07.176Z",
+            "tags": [],
+            "classTitle": "knife",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        31
+                    ],
+                    [
+                        470,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859059,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.176Z",
+            "updatedAt": "2023-09-20T11:04:07.176Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        438
+                    ],
+                    [
+                        176,
+                        384
+                    ],
+                    [
+                        172,
+                        348
+                    ],
+                    [
+                        161,
+                        334
+                    ],
+                    [
+                        125,
+                        330
+                    ],
+                    [
+                        110,
+                        301
+                    ],
+                    [
+                        134,
+                        264
+                    ],
+                    [
+                        192,
+                        242
+                    ],
+                    [
+                        211,
+                        252
+                    ],
+                    [
+                        222,
+                        238
+                    ],
+                    [
+                        292,
+                        289
+                    ],
+                    [
+                        376,
+                        324
+                    ],
+                    [
+                        417,
+                        359
+                    ],
+                    [
+                        422,
+                        366
+                    ],
+                    [
+                        338,
+                        402
+                    ],
+                    [
+                        198,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859058,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.175Z",
+            "updatedAt": "2023-09-20T11:04:07.175Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        247
+                    ],
+                    [
+                        390,
+                        290
+                    ],
+                    [
+                        440,
+                        329
+                    ],
+                    [
+                        467,
+                        291
+                    ],
+                    [
+                        435,
+                        279
+                    ],
+                    [
+                        443,
+                        260
+                    ],
+                    [
+                        424,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859057,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.175Z",
+            "updatedAt": "2023-09-20T11:04:07.175Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        245
+                    ],
+                    [
+                        370,
+                        270
+                    ],
+                    [
+                        382,
+                        280
+                    ],
+                    [
+                        397,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859056,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.175Z",
+            "updatedAt": "2023-09-20T11:04:07.175Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        110,
+                        238
+                    ],
+                    [
+                        422,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859055,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.175Z",
+            "updatedAt": "2023-09-20T11:04:07.175Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        390,
+                        247
+                    ],
+                    [
+                        467,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859054,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.175Z",
+            "updatedAt": "2023-09-20T11:04:07.175Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        245
+                    ],
+                    [
+                        397,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859053,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.175Z",
+            "updatedAt": "2023-09-20T11:04:07.175Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        96
+                    ],
+                    [
+                        453,
+                        104
+                    ],
+                    [
+                        444,
+                        119
+                    ],
+                    [
+                        402,
+                        133
+                    ],
+                    [
+                        355,
+                        153
+                    ],
+                    [
+                        345,
+                        191
+                    ],
+                    [
+                        321,
+                        227
+                    ],
+                    [
+                        162,
+                        122
+                    ],
+                    [
+                        162,
+                        118
+                    ],
+                    [
+                        169,
+                        90
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859052,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.174Z",
+            "updatedAt": "2023-09-20T11:04:07.174Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        142
+                    ],
+                    [
+                        131,
+                        137
+                    ],
+                    [
+                        141,
+                        145
+                    ],
+                    [
+                        163,
+                        162
+                    ],
+                    [
+                        256,
+                        266
+                    ],
+                    [
+                        298,
+                        286
+                    ],
+                    [
+                        360,
+                        311
+                    ],
+                    [
+                        425,
+                        367
+                    ],
+                    [
+                        463,
+                        370
+                    ],
+                    [
+                        467,
+                        352
+                    ],
+                    [
+                        395,
+                        288
+                    ],
+                    [
+                        392,
+                        274
+                    ],
+                    [
+                        398,
+                        268
+                    ],
+                    [
+                        404,
+                        259
+                    ],
+                    [
+                        414,
+                        237
+                    ],
+                    [
+                        442,
+                        210
+                    ],
+                    [
+                        463,
+                        179
+                    ],
+                    [
+                        467,
+                        160
+                    ],
+                    [
+                        479,
+                        126
+                    ],
+                    [
+                        519,
+                        118
+                    ],
+                    [
+                        567,
+                        110
+                    ],
+                    [
+                        631,
+                        113
+                    ],
+                    [
+                        639,
+                        239
+                    ],
+                    [
+                        639,
+                        452
+                    ],
+                    [
+                        636,
+                        460
+                    ],
+                    [
+                        208,
+                        461
+                    ],
+                    [
+                        4,
+                        457
+                    ],
+                    [
+                        2,
+                        368
+                    ],
+                    [
+                        9,
+                        99
+                    ],
+                    [
+                        40,
+                        102
+                    ],
+                    [
+                        99,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859051,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.174Z",
+            "updatedAt": "2023-09-20T11:04:07.174Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        162,
+                        90
+                    ],
+                    [
+                        453,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859050,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.174Z",
+            "updatedAt": "2023-09-20T11:04:07.174Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        99
+                    ],
+                    [
+                        639,
+                        461
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859049,
+            "classId": 6461805,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.174Z",
+            "updatedAt": "2023-09-20T11:04:07.174Z",
+            "tags": [],
+            "classTitle": "fork",
+            "points": {
+                "exterior": [
+                    [
+                        470,
+                        106
+                    ],
+                    [
+                        460,
+                        118
+                    ],
+                    [
+                        445,
+                        128
+                    ],
+                    [
+                        405,
+                        129
+                    ],
+                    [
+                        374,
+                        137
+                    ],
+                    [
+                        339,
+                        192
+                    ],
+                    [
+                        328,
+                        234
+                    ],
+                    [
+                        342,
+                        248
+                    ],
+                    [
+                        371,
+                        176
+                    ],
+                    [
+                        384,
+                        161
+                    ],
+                    [
+                        358,
+                        227
+                    ],
+                    [
+                        348,
+                        259
+                    ],
+                    [
+                        356,
+                        259
+                    ],
+                    [
+                        388,
+                        196
+                    ],
+                    [
+                        398,
+                        189
+                    ],
+                    [
+                        361,
+                        262
+                    ],
+                    [
+                        372,
+                        273
+                    ],
+                    [
+                        381,
+                        239
+                    ],
+                    [
+                        411,
+                        192
+                    ],
+                    [
+                        418,
+                        192
+                    ],
+                    [
+                        395,
+                        248
+                    ],
+                    [
+                        381,
+                        276
+                    ],
+                    [
+                        396,
+                        288
+                    ],
+                    [
+                        415,
+                        243
+                    ],
+                    [
+                        461,
+                        189
+                    ],
+                    [
+                        475,
+                        168
+                    ],
+                    [
+                        469,
+                        146
+                    ],
+                    [
+                        468,
+                        134
+                    ],
+                    [
+                        489,
+                        114
+                    ],
+                    [
+                        469,
+                        111
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47859048,
+            "classId": 6461805,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:07.174Z",
+            "updatedAt": "2023-09-20T11:04:07.174Z",
+            "tags": [],
+            "classTitle": "fork",
+            "points": {
+                "exterior": [
+                    [
+                        328,
+                        106
+                    ],
+                    [
+                        489,
+                        288
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

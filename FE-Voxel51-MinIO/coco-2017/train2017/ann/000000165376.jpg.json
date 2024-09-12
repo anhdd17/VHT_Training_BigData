@@ -1,0 +1,2080 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4545262,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A room is filled with sunshine and furniture.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.907Z",
+            "updatedAt": "2023-09-20T10:34:25.907Z"
+        },
+        {
+            "id": 4545263,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A room with a yellow lamp and lots of glare.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.907Z",
+            "updatedAt": "2023-09-20T10:34:25.907Z"
+        },
+        {
+            "id": 4545264,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A living room with lots of windows filled with odd furniture and a lamp.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.907Z",
+            "updatedAt": "2023-09-20T10:34:25.907Z"
+        },
+        {
+            "id": 4545265,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "some lamps a couch windows trees and a rug",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.907Z",
+            "updatedAt": "2023-09-20T10:34:25.907Z"
+        },
+        {
+            "id": 4545266,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A room with a large lamp on the floor.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.907Z",
+            "updatedAt": "2023-09-20T10:34:25.907Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46192065,
+            "classId": 6461820,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.920Z",
+            "updatedAt": "2023-09-20T10:34:25.920Z",
+            "tags": [],
+            "classTitle": "couch",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        237
+                    ],
+                    [
+                        314,
+                        229
+                    ],
+                    [
+                        314,
+                        246
+                    ],
+                    [
+                        321,
+                        264
+                    ],
+                    [
+                        321,
+                        318
+                    ],
+                    [
+                        285,
+                        319
+                    ],
+                    [
+                        275,
+                        309
+                    ],
+                    [
+                        266,
+                        308
+                    ],
+                    [
+                        255,
+                        283
+                    ],
+                    [
+                        195,
+                        282
+                    ],
+                    [
+                        193,
+                        245
+                    ],
+                    [
+                        136,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192064,
+            "classId": 6461820,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.920Z",
+            "updatedAt": "2023-09-20T10:34:25.920Z",
+            "tags": [],
+            "classTitle": "couch",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        229
+                    ],
+                    [
+                        321,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192063,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.919Z",
+            "updatedAt": "2023-09-20T10:34:25.919Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        504,
+                        400
+                    ],
+                    [
+                        492,
+                        398
+                    ],
+                    [
+                        484,
+                        390
+                    ],
+                    [
+                        482,
+                        382
+                    ],
+                    [
+                        489,
+                        375
+                    ],
+                    [
+                        493,
+                        367
+                    ],
+                    [
+                        510,
+                        369
+                    ],
+                    [
+                        509,
+                        379
+                    ],
+                    [
+                        506,
+                        384
+                    ],
+                    [
+                        498,
+                        387
+                    ],
+                    [
+                        502,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192062,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.919Z",
+            "updatedAt": "2023-09-20T10:34:25.919Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        482,
+                        367
+                    ],
+                    [
+                        510,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192061,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.919Z",
+            "updatedAt": "2023-09-20T10:34:25.919Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        480,
+                        348
+                    ],
+                    [
+                        486,
+                        348
+                    ],
+                    [
+                        494,
+                        349
+                    ],
+                    [
+                        495,
+                        353
+                    ],
+                    [
+                        498,
+                        355
+                    ],
+                    [
+                        496,
+                        366
+                    ],
+                    [
+                        494,
+                        367
+                    ],
+                    [
+                        490,
+                        373
+                    ],
+                    [
+                        483,
+                        381
+                    ],
+                    [
+                        480,
+                        385
+                    ],
+                    [
+                        477,
+                        384
+                    ],
+                    [
+                        478,
+                        376
+                    ],
+                    [
+                        476,
+                        373
+                    ],
+                    [
+                        475,
+                        369
+                    ],
+                    [
+                        473,
+                        366
+                    ],
+                    [
+                        472,
+                        354
+                    ],
+                    [
+                        473,
+                        353
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192060,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.919Z",
+            "updatedAt": "2023-09-20T10:34:25.919Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        472,
+                        348
+                    ],
+                    [
+                        498,
+                        385
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192059,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.919Z",
+            "updatedAt": "2023-09-20T10:34:25.919Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        469,
+                        392
+                    ],
+                    [
+                        460,
+                        391
+                    ],
+                    [
+                        457,
+                        389
+                    ],
+                    [
+                        453,
+                        387
+                    ],
+                    [
+                        452,
+                        384
+                    ],
+                    [
+                        451,
+                        380
+                    ],
+                    [
+                        450,
+                        376
+                    ],
+                    [
+                        449,
+                        372
+                    ],
+                    [
+                        453,
+                        370
+                    ],
+                    [
+                        452,
+                        365
+                    ],
+                    [
+                        455,
+                        364
+                    ],
+                    [
+                        460,
+                        364
+                    ],
+                    [
+                        474,
+                        366
+                    ],
+                    [
+                        475,
+                        369
+                    ],
+                    [
+                        475,
+                        372
+                    ],
+                    [
+                        478,
+                        375
+                    ],
+                    [
+                        476,
+                        382
+                    ],
+                    [
+                        474,
+                        388
+                    ],
+                    [
+                        472,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192058,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.919Z",
+            "updatedAt": "2023-09-20T10:34:25.919Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        449,
+                        364
+                    ],
+                    [
+                        478,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192057,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.918Z",
+            "updatedAt": "2023-09-20T10:34:25.918Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        503,
+                        245
+                    ],
+                    [
+                        504,
+                        243
+                    ],
+                    [
+                        518,
+                        238
+                    ],
+                    [
+                        528,
+                        239
+                    ],
+                    [
+                        539,
+                        244
+                    ],
+                    [
+                        548,
+                        253
+                    ],
+                    [
+                        557,
+                        263
+                    ],
+                    [
+                        557,
+                        268
+                    ],
+                    [
+                        552,
+                        268
+                    ],
+                    [
+                        544,
+                        270
+                    ],
+                    [
+                        535,
+                        270
+                    ],
+                    [
+                        530,
+                        268
+                    ],
+                    [
+                        529,
+                        266
+                    ],
+                    [
+                        526,
+                        266
+                    ],
+                    [
+                        525,
+                        262
+                    ],
+                    [
+                        524,
+                        257
+                    ],
+                    [
+                        503,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192056,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.918Z",
+            "updatedAt": "2023-09-20T10:34:25.918Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        503,
+                        238
+                    ],
+                    [
+                        557,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192055,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.918Z",
+            "updatedAt": "2023-09-20T10:34:25.918Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        412,
+                        332
+                    ],
+                    [
+                        398,
+                        317
+                    ],
+                    [
+                        402,
+                        312
+                    ],
+                    [
+                        438,
+                        311
+                    ],
+                    [
+                        439,
+                        328
+                    ],
+                    [
+                        439,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192054,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.918Z",
+            "updatedAt": "2023-09-20T10:34:25.918Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        311
+                    ],
+                    [
+                        439,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192053,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.918Z",
+            "updatedAt": "2023-09-20T10:34:25.918Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        286
+                    ],
+                    [
+                        379,
+                        295
+                    ],
+                    [
+                        401,
+                        294
+                    ],
+                    [
+                        402,
+                        296
+                    ],
+                    [
+                        401,
+                        298
+                    ],
+                    [
+                        380,
+                        298
+                    ],
+                    [
+                        370,
+                        287
+                    ],
+                    [
+                        371,
+                        287
+                    ],
+                    [
+                        371,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192052,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.917Z",
+            "updatedAt": "2023-09-20T10:34:25.917Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        408,
+                        293
+                    ],
+                    [
+                        413,
+                        294
+                    ],
+                    [
+                        412,
+                        297
+                    ],
+                    [
+                        402,
+                        297
+                    ],
+                    [
+                        402,
+                        296
+                    ],
+                    [
+                        407,
+                        295
+                    ],
+                    [
+                        407,
+                        294
+                    ],
+                    [
+                        408,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192051,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.917Z",
+            "updatedAt": "2023-09-20T10:34:25.917Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        286
+                    ],
+                    [
+                        402,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192050,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.917Z",
+            "updatedAt": "2023-09-20T10:34:25.917Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        402,
+                        293
+                    ],
+                    [
+                        413,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192049,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.916Z",
+            "updatedAt": "2023-09-20T10:34:25.916Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        381,
+                        292
+                    ],
+                    [
+                        399,
+                        290
+                    ],
+                    [
+                        397,
+                        287
+                    ],
+                    [
+                        381,
+                        287
+                    ],
+                    [
+                        376,
+                        279
+                    ],
+                    [
+                        374,
+                        279
+                    ],
+                    [
+                        381,
+                        292
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192048,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.916Z",
+            "updatedAt": "2023-09-20T10:34:25.916Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        374,
+                        279
+                    ],
+                    [
+                        399,
+                        292
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192047,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.916Z",
+            "updatedAt": "2023-09-20T10:34:25.916Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        286
+                    ],
+                    [
+                        384,
+                        287
+                    ],
+                    [
+                        376,
+                        279
+                    ],
+                    [
+                        377,
+                        276
+                    ],
+                    [
+                        397,
+                        275
+                    ],
+                    [
+                        399,
+                        277
+                    ],
+                    [
+                        398,
+                        286
+                    ],
+                    [
+                        397,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192046,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.916Z",
+            "updatedAt": "2023-09-20T10:34:25.916Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        376,
+                        275
+                    ],
+                    [
+                        399,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192045,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.915Z",
+            "updatedAt": "2023-09-20T10:34:25.915Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        406
+                    ],
+                    [
+                        544,
+                        393
+                    ],
+                    [
+                        575,
+                        438
+                    ],
+                    [
+                        570,
+                        448
+                    ],
+                    [
+                        516,
+                        453
+                    ],
+                    [
+                        484,
+                        409
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192044,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.915Z",
+            "updatedAt": "2023-09-20T10:34:25.915Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        393
+                    ],
+                    [
+                        575,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192043,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.915Z",
+            "updatedAt": "2023-09-20T10:34:25.915Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        416
+                    ],
+                    [
+                        486,
+                        420
+                    ],
+                    [
+                        511,
+                        452
+                    ],
+                    [
+                        572,
+                        452
+                    ],
+                    [
+                        572,
+                        448
+                    ],
+                    [
+                        520,
+                        452
+                    ],
+                    [
+                        514,
+                        451
+                    ],
+                    [
+                        487,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192042,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.914Z",
+            "updatedAt": "2023-09-20T10:34:25.914Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        416
+                    ],
+                    [
+                        572,
+                        452
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192041,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.914Z",
+            "updatedAt": "2023-09-20T10:34:25.914Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        417
+                    ],
+                    [
+                        486,
+                        420
+                    ],
+                    [
+                        510,
+                        451
+                    ],
+                    [
+                        511,
+                        452
+                    ],
+                    [
+                        508,
+                        453
+                    ],
+                    [
+                        504,
+                        450
+                    ],
+                    [
+                        483,
+                        422
+                    ],
+                    [
+                        483,
+                        420
+                    ],
+                    [
+                        484,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192040,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.914Z",
+            "updatedAt": "2023-09-20T10:34:25.914Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        417
+                    ],
+                    [
+                        511,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192039,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.914Z",
+            "updatedAt": "2023-09-20T10:34:25.914Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        312
+                    ],
+                    [
+                        257,
+                        310
+                    ],
+                    [
+                        257,
+                        314
+                    ],
+                    [
+                        254,
+                        322
+                    ],
+                    [
+                        211,
+                        323
+                    ],
+                    [
+                        212,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192038,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.914Z",
+            "updatedAt": "2023-09-20T10:34:25.914Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        310
+                    ],
+                    [
+                        257,
+                        323
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192037,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.914Z",
+            "updatedAt": "2023-09-20T10:34:25.914Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        285
+                    ],
+                    [
+                        379,
+                        295
+                    ],
+                    [
+                        401,
+                        294
+                    ],
+                    [
+                        400,
+                        291
+                    ],
+                    [
+                        389,
+                        292
+                    ],
+                    [
+                        381,
+                        292
+                    ],
+                    [
+                        372,
+                        281
+                    ],
+                    [
+                        371,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192036,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.913Z",
+            "updatedAt": "2023-09-20T10:34:25.913Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        281
+                    ],
+                    [
+                        401,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192035,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.913Z",
+            "updatedAt": "2023-09-20T10:34:25.913Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        295
+                    ],
+                    [
+                        365,
+                        317
+                    ],
+                    [
+                        368,
+                        318
+                    ],
+                    [
+                        368,
+                        297
+                    ],
+                    [
+                        365,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192034,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.913Z",
+            "updatedAt": "2023-09-20T10:34:25.913Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        295
+                    ],
+                    [
+                        368,
+                        318
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192033,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.912Z",
+            "updatedAt": "2023-09-20T10:34:25.912Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        374,
+                        307
+                    ],
+                    [
+                        373,
+                        322
+                    ],
+                    [
+                        374,
+                        324
+                    ],
+                    [
+                        376,
+                        324
+                    ],
+                    [
+                        377,
+                        310
+                    ],
+                    [
+                        378,
+                        308
+                    ],
+                    [
+                        378,
+                        306
+                    ],
+                    [
+                        377,
+                        306
+                    ],
+                    [
+                        374,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192032,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.912Z",
+            "updatedAt": "2023-09-20T10:34:25.912Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        373,
+                        306
+                    ],
+                    [
+                        378,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192031,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.912Z",
+            "updatedAt": "2023-09-20T10:34:25.912Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        320
+                    ],
+                    [
+                        369,
+                        300
+                    ],
+                    [
+                        372,
+                        301
+                    ],
+                    [
+                        370,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192030,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.912Z",
+            "updatedAt": "2023-09-20T10:34:25.912Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        300
+                    ],
+                    [
+                        372,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192029,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.911Z",
+            "updatedAt": "2023-09-20T10:34:25.911Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        284
+                    ],
+                    [
+                        207,
+                        311
+                    ],
+                    [
+                        258,
+                        310
+                    ],
+                    [
+                        256,
+                        282
+                    ],
+                    [
+                        203,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192028,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.911Z",
+            "updatedAt": "2023-09-20T10:34:25.911Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        282
+                    ],
+                    [
+                        258,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192027,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.911Z",
+            "updatedAt": "2023-09-20T10:34:25.911Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        384,
+                        274
+                    ],
+                    [
+                        381,
+                        271
+                    ],
+                    [
+                        379,
+                        268
+                    ],
+                    [
+                        378,
+                        264
+                    ],
+                    [
+                        376,
+                        263
+                    ],
+                    [
+                        372,
+                        264
+                    ],
+                    [
+                        371,
+                        263
+                    ],
+                    [
+                        370,
+                        260
+                    ],
+                    [
+                        373,
+                        257
+                    ],
+                    [
+                        377,
+                        255
+                    ],
+                    [
+                        381,
+                        255
+                    ],
+                    [
+                        388,
+                        256
+                    ],
+                    [
+                        389,
+                        258
+                    ],
+                    [
+                        390,
+                        261
+                    ],
+                    [
+                        390,
+                        265
+                    ],
+                    [
+                        390,
+                        269
+                    ],
+                    [
+                        387,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192026,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.911Z",
+            "updatedAt": "2023-09-20T10:34:25.911Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        255
+                    ],
+                    [
+                        390,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192025,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.909Z",
+            "updatedAt": "2023-09-20T10:34:25.909Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        265
+                    ],
+                    [
+                        368,
+                        267
+                    ],
+                    [
+                        365,
+                        269
+                    ],
+                    [
+                        363,
+                        272
+                    ],
+                    [
+                        364,
+                        274
+                    ],
+                    [
+                        368,
+                        279
+                    ],
+                    [
+                        374,
+                        278
+                    ],
+                    [
+                        377,
+                        275
+                    ],
+                    [
+                        381,
+                        274
+                    ],
+                    [
+                        382,
+                        272
+                    ],
+                    [
+                        381,
+                        270
+                    ],
+                    [
+                        379,
+                        267
+                    ],
+                    [
+                        376,
+                        264
+                    ],
+                    [
+                        373,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192024,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.909Z",
+            "updatedAt": "2023-09-20T10:34:25.909Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        264
+                    ],
+                    [
+                        382,
+                        279
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192023,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.909Z",
+            "updatedAt": "2023-09-20T10:34:25.909Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        382,
+                        334
+                    ],
+                    [
+                        380,
+                        333
+                    ],
+                    [
+                        380,
+                        316
+                    ],
+                    [
+                        383,
+                        317
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192022,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.909Z",
+            "updatedAt": "2023-09-20T10:34:25.909Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        316
+                    ],
+                    [
+                        383,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192021,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.909Z",
+            "updatedAt": "2023-09-20T10:34:25.909Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        301
+                    ],
+                    [
+                        372,
+                        302
+                    ],
+                    [
+                        372,
+                        310
+                    ],
+                    [
+                        371,
+                        311
+                    ],
+                    [
+                        371,
+                        321
+                    ],
+                    [
+                        370,
+                        322
+                    ],
+                    [
+                        369,
+                        321
+                    ],
+                    [
+                        369,
+                        303
+                    ],
+                    [
+                        368,
+                        302
+                    ],
+                    [
+                        368,
+                        304
+                    ],
+                    [
+                        369,
+                        305
+                    ],
+                    [
+                        369,
+                        318
+                    ],
+                    [
+                        368,
+                        319
+                    ],
+                    [
+                        367,
+                        318
+                    ],
+                    [
+                        366,
+                        318
+                    ],
+                    [
+                        365,
+                        317
+                    ],
+                    [
+                        365,
+                        305
+                    ],
+                    [
+                        365,
+                        306
+                    ],
+                    [
+                        364,
+                        307
+                    ],
+                    [
+                        364,
+                        309
+                    ],
+                    [
+                        363,
+                        310
+                    ],
+                    [
+                        363,
+                        314
+                    ],
+                    [
+                        362,
+                        315
+                    ],
+                    [
+                        362,
+                        324
+                    ],
+                    [
+                        365,
+                        327
+                    ],
+                    [
+                        367,
+                        327
+                    ],
+                    [
+                        368,
+                        328
+                    ],
+                    [
+                        369,
+                        327
+                    ],
+                    [
+                        372,
+                        327
+                    ],
+                    [
+                        374,
+                        329
+                    ],
+                    [
+                        376,
+                        329
+                    ],
+                    [
+                        377,
+                        330
+                    ],
+                    [
+                        378,
+                        330
+                    ],
+                    [
+                        379,
+                        329
+                    ],
+                    [
+                        379,
+                        327
+                    ],
+                    [
+                        380,
+                        326
+                    ],
+                    [
+                        380,
+                        316
+                    ],
+                    [
+                        381,
+                        315
+                    ],
+                    [
+                        382,
+                        316
+                    ],
+                    [
+                        383,
+                        316
+                    ],
+                    [
+                        384,
+                        317
+                    ],
+                    [
+                        384,
+                        321
+                    ],
+                    [
+                        383,
+                        322
+                    ],
+                    [
+                        383,
+                        327
+                    ],
+                    [
+                        383,
+                        326
+                    ],
+                    [
+                        384,
+                        325
+                    ],
+                    [
+                        384,
+                        314
+                    ],
+                    [
+                        383,
+                        313
+                    ],
+                    [
+                        383,
+                        312
+                    ],
+                    [
+                        381,
+                        310
+                    ],
+                    [
+                        378,
+                        310
+                    ],
+                    [
+                        377,
+                        311
+                    ],
+                    [
+                        377,
+                        320
+                    ],
+                    [
+                        376,
+                        321
+                    ],
+                    [
+                        376,
+                        324
+                    ],
+                    [
+                        375,
+                        325
+                    ],
+                    [
+                        372,
+                        322
+                    ],
+                    [
+                        372,
+                        317
+                    ],
+                    [
+                        373,
+                        316
+                    ],
+                    [
+                        373,
+                        307
+                    ],
+                    [
+                        375,
+                        305
+                    ],
+                    [
+                        377,
+                        305
+                    ],
+                    [
+                        378,
+                        306
+                    ],
+                    [
+                        378,
+                        305
+                    ],
+                    [
+                        377,
+                        304
+                    ],
+                    [
+                        377,
+                        303
+                    ],
+                    [
+                        375,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46192020,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:25.908Z",
+            "updatedAt": "2023-09-20T10:34:25.908Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        301
+                    ],
+                    [
+                        384,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

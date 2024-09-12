@@ -1,0 +1,596 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4815573,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The cat is sitting by the microwave in the kitchen.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.784Z",
+            "updatedAt": "2023-09-20T10:51:07.784Z"
+        },
+        {
+            "id": 4815574,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "there is a cat that is sitting on the kitchen counter",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.784Z",
+            "updatedAt": "2023-09-20T10:51:07.784Z"
+        },
+        {
+            "id": 4815575,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A close up of a cat's face on a kitchen counter ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.784Z",
+            "updatedAt": "2023-09-20T10:51:07.784Z"
+        },
+        {
+            "id": 4815576,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cat sitting in front of a microwave oven on a table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.784Z",
+            "updatedAt": "2023-09-20T10:51:07.784Z"
+        },
+        {
+            "id": 4815577,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a close up ofa cat near a microwave ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.784Z",
+            "updatedAt": "2023-09-20T10:51:07.784Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47132546,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.786Z",
+            "updatedAt": "2023-09-20T10:51:07.786Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        83
+                    ],
+                    [
+                        350,
+                        82
+                    ],
+                    [
+                        394,
+                        83
+                    ],
+                    [
+                        443,
+                        72
+                    ],
+                    [
+                        473,
+                        49
+                    ],
+                    [
+                        498,
+                        45
+                    ],
+                    [
+                        492,
+                        68
+                    ],
+                    [
+                        472,
+                        94
+                    ],
+                    [
+                        461,
+                        124
+                    ],
+                    [
+                        447,
+                        151
+                    ],
+                    [
+                        443,
+                        181
+                    ],
+                    [
+                        461,
+                        225
+                    ],
+                    [
+                        455,
+                        266
+                    ],
+                    [
+                        470,
+                        300
+                    ],
+                    [
+                        493,
+                        330
+                    ],
+                    [
+                        507,
+                        389
+                    ],
+                    [
+                        506,
+                        421
+                    ],
+                    [
+                        488,
+                        461
+                    ],
+                    [
+                        483,
+                        474
+                    ],
+                    [
+                        425,
+                        473
+                    ],
+                    [
+                        330,
+                        475
+                    ],
+                    [
+                        275,
+                        471
+                    ],
+                    [
+                        224,
+                        475
+                    ],
+                    [
+                        213,
+                        452
+                    ],
+                    [
+                        218,
+                        403
+                    ],
+                    [
+                        205,
+                        358
+                    ],
+                    [
+                        209,
+                        319
+                    ],
+                    [
+                        207,
+                        284
+                    ],
+                    [
+                        186,
+                        262
+                    ],
+                    [
+                        178,
+                        231
+                    ],
+                    [
+                        184,
+                        184
+                    ],
+                    [
+                        185,
+                        146
+                    ],
+                    [
+                        183,
+                        111
+                    ],
+                    [
+                        175,
+                        74
+                    ],
+                    [
+                        170,
+                        44
+                    ],
+                    [
+                        179,
+                        24
+                    ],
+                    [
+                        221,
+                        35
+                    ],
+                    [
+                        249,
+                        63
+                    ],
+                    [
+                        276,
+                        77
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47132545,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.786Z",
+            "updatedAt": "2023-09-20T10:51:07.786Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        24
+                    ],
+                    [
+                        507,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47132544,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.785Z",
+            "updatedAt": "2023-09-20T10:51:07.785Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        443,
+                        165
+                    ],
+                    [
+                        527,
+                        173
+                    ],
+                    [
+                        618,
+                        184
+                    ],
+                    [
+                        621,
+                        193
+                    ],
+                    [
+                        619,
+                        287
+                    ],
+                    [
+                        603,
+                        358
+                    ],
+                    [
+                        593,
+                        414
+                    ],
+                    [
+                        547,
+                        414
+                    ],
+                    [
+                        510,
+                        418
+                    ],
+                    [
+                        503,
+                        399
+                    ],
+                    [
+                        501,
+                        376
+                    ],
+                    [
+                        495,
+                        354
+                    ],
+                    [
+                        481,
+                        302
+                    ],
+                    [
+                        463,
+                        281
+                    ],
+                    [
+                        452,
+                        266
+                    ],
+                    [
+                        454,
+                        222
+                    ],
+                    [
+                        448,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47132543,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.785Z",
+            "updatedAt": "2023-09-20T10:51:07.785Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        443,
+                        165
+                    ],
+                    [
+                        621,
+                        418
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47132542,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.785Z",
+            "updatedAt": "2023-09-20T10:51:07.785Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        469,
+                        97
+                    ],
+                    [
+                        527,
+                        103
+                    ],
+                    [
+                        559,
+                        105
+                    ],
+                    [
+                        549,
+                        128
+                    ],
+                    [
+                        529,
+                        167
+                    ],
+                    [
+                        517,
+                        173
+                    ],
+                    [
+                        481,
+                        171
+                    ],
+                    [
+                        474,
+                        150
+                    ],
+                    [
+                        467,
+                        130
+                    ],
+                    [
+                        465,
+                        121
+                    ],
+                    [
+                        469,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47132541,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.785Z",
+            "updatedAt": "2023-09-20T10:51:07.785Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        465,
+                        97
+                    ],
+                    [
+                        559,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47132540,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.785Z",
+            "updatedAt": "2023-09-20T10:51:07.785Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        109,
+                        200
+                    ],
+                    [
+                        123,
+                        200
+                    ],
+                    [
+                        132,
+                        200
+                    ],
+                    [
+                        136,
+                        204
+                    ],
+                    [
+                        138,
+                        208
+                    ],
+                    [
+                        131,
+                        236
+                    ],
+                    [
+                        128,
+                        285
+                    ],
+                    [
+                        140,
+                        308
+                    ],
+                    [
+                        149,
+                        327
+                    ],
+                    [
+                        151,
+                        341
+                    ],
+                    [
+                        153,
+                        358
+                    ],
+                    [
+                        141,
+                        396
+                    ],
+                    [
+                        136,
+                        408
+                    ],
+                    [
+                        136,
+                        413
+                    ],
+                    [
+                        133,
+                        419
+                    ],
+                    [
+                        129,
+                        423
+                    ],
+                    [
+                        123,
+                        427
+                    ],
+                    [
+                        117,
+                        429
+                    ],
+                    [
+                        107,
+                        432
+                    ],
+                    [
+                        108,
+                        366
+                    ],
+                    [
+                        111,
+                        359
+                    ],
+                    [
+                        111,
+                        353
+                    ],
+                    [
+                        111,
+                        346
+                    ],
+                    [
+                        111,
+                        342
+                    ],
+                    [
+                        108,
+                        336
+                    ],
+                    [
+                        109,
+                        278
+                    ],
+                    [
+                        109,
+                        265
+                    ],
+                    [
+                        109,
+                        200
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47132539,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:51:07.784Z",
+            "updatedAt": "2023-09-20T10:51:07.784Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        200
+                    ],
+                    [
+                        153,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4519352,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "some food is laying on some circular bread",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:56.210Z",
+            "updatedAt": "2023-09-20T10:32:56.210Z"
+        },
+        {
+            "id": 4519353,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Personal size white proscuitto, tomato, and herb pizza.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:56.210Z",
+            "updatedAt": "2023-09-20T10:32:56.210Z"
+        },
+        {
+            "id": 4519354,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cooked pizza that has several toppings on it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:56.210Z",
+            "updatedAt": "2023-09-20T10:32:56.210Z"
+        },
+        {
+            "id": 4519355,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A pizza on a plate on top of the table",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:56.210Z",
+            "updatedAt": "2023-09-20T10:32:56.210Z"
+        },
+        {
+            "id": 4519356,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A pizza covered in cheese and veggies on top of a board..",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:56.210Z",
+            "updatedAt": "2023-09-20T10:32:56.210Z"
+        }
+    ],
+    "size": {
+        "height": 456,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46101613,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:56.211Z",
+            "updatedAt": "2023-09-20T10:32:56.211Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        96,
+                        436
+                    ],
+                    [
+                        68,
+                        413
+                    ],
+                    [
+                        25,
+                        408
+                    ],
+                    [
+                        1,
+                        367
+                    ],
+                    [
+                        4,
+                        166
+                    ],
+                    [
+                        26,
+                        127
+                    ],
+                    [
+                        101,
+                        86
+                    ],
+                    [
+                        193,
+                        55
+                    ],
+                    [
+                        323,
+                        37
+                    ],
+                    [
+                        411,
+                        38
+                    ],
+                    [
+                        522,
+                        73
+                    ],
+                    [
+                        608,
+                        116
+                    ],
+                    [
+                        635,
+                        168
+                    ],
+                    [
+                        639,
+                        290
+                    ],
+                    [
+                        639,
+                        322
+                    ],
+                    [
+                        625,
+                        347
+                    ],
+                    [
+                        567,
+                        385
+                    ],
+                    [
+                        495,
+                        416
+                    ],
+                    [
+                        445,
+                        427
+                    ],
+                    [
+                        410,
+                        436
+                    ],
+                    [
+                        364,
+                        436
+                    ],
+                    [
+                        312,
+                        437
+                    ],
+                    [
+                        221,
+                        434
+                    ],
+                    [
+                        137,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46101612,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:56.211Z",
+            "updatedAt": "2023-09-20T10:32:56.211Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        37
+                    ],
+                    [
+                        639,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

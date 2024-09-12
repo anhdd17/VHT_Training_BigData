@@ -1,0 +1,516 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4780687,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A woman wearing a white shirt and red tie.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.215Z",
+            "updatedAt": "2023-09-20T10:49:03.215Z"
+        },
+        {
+            "id": 4780688,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A woman wearing a white shirt, red necktie, and black pants.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.215Z",
+            "updatedAt": "2023-09-20T10:49:03.215Z"
+        },
+        {
+            "id": 4780689,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A heavy set lady wearing a red tie.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.215Z",
+            "updatedAt": "2023-09-20T10:49:03.215Z"
+        },
+        {
+            "id": 4780690,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A woman in a 18th century costume is standing there.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.215Z",
+            "updatedAt": "2023-09-20T10:49:03.215Z"
+        },
+        {
+            "id": 4780691,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A woman in a red tie and a white shirt.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.215Z",
+            "updatedAt": "2023-09-20T10:49:03.215Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 47011986,
+            "classId": 6461790,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.223Z",
+            "updatedAt": "2023-09-20T10:49:03.223Z",
+            "tags": [],
+            "classTitle": "tie",
+            "points": {
+                "exterior": [
+                    [
+                        291,
+                        384
+                    ],
+                    [
+                        271,
+                        370
+                    ],
+                    [
+                        261,
+                        296
+                    ],
+                    [
+                        237,
+                        262
+                    ],
+                    [
+                        204,
+                        226
+                    ],
+                    [
+                        188,
+                        215
+                    ],
+                    [
+                        181,
+                        197
+                    ],
+                    [
+                        189,
+                        195
+                    ],
+                    [
+                        224,
+                        238
+                    ],
+                    [
+                        244,
+                        243
+                    ],
+                    [
+                        257,
+                        266
+                    ],
+                    [
+                        290,
+                        302
+                    ],
+                    [
+                        301,
+                        332
+                    ],
+                    [
+                        307,
+                        364
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47011985,
+            "classId": 6461790,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.223Z",
+            "updatedAt": "2023-09-20T10:49:03.223Z",
+            "tags": [],
+            "classTitle": "tie",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        195
+                    ],
+                    [
+                        307,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47011984,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.222Z",
+            "updatedAt": "2023-09-20T10:49:03.222Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        306
+                    ],
+                    [
+                        69,
+                        262
+                    ],
+                    [
+                        70,
+                        232
+                    ],
+                    [
+                        82,
+                        224
+                    ],
+                    [
+                        114,
+                        219
+                    ],
+                    [
+                        151,
+                        203
+                    ],
+                    [
+                        167,
+                        193
+                    ],
+                    [
+                        183,
+                        181
+                    ],
+                    [
+                        193,
+                        167
+                    ],
+                    [
+                        196,
+                        140
+                    ],
+                    [
+                        211,
+                        114
+                    ],
+                    [
+                        242,
+                        104
+                    ],
+                    [
+                        270,
+                        114
+                    ],
+                    [
+                        295,
+                        128
+                    ],
+                    [
+                        299,
+                        142
+                    ],
+                    [
+                        299,
+                        160
+                    ],
+                    [
+                        299,
+                        171
+                    ],
+                    [
+                        299,
+                        183
+                    ],
+                    [
+                        299,
+                        187
+                    ],
+                    [
+                        295,
+                        193
+                    ],
+                    [
+                        278,
+                        207
+                    ],
+                    [
+                        270,
+                        211
+                    ],
+                    [
+                        269,
+                        220
+                    ],
+                    [
+                        270,
+                        233
+                    ],
+                    [
+                        279,
+                        246
+                    ],
+                    [
+                        289,
+                        257
+                    ],
+                    [
+                        291,
+                        265
+                    ],
+                    [
+                        293,
+                        275
+                    ],
+                    [
+                        298,
+                        286
+                    ],
+                    [
+                        305,
+                        306
+                    ],
+                    [
+                        303,
+                        324
+                    ],
+                    [
+                        302,
+                        337
+                    ],
+                    [
+                        309,
+                        357
+                    ],
+                    [
+                        303,
+                        368
+                    ],
+                    [
+                        293,
+                        378
+                    ],
+                    [
+                        292,
+                        387
+                    ],
+                    [
+                        275,
+                        384
+                    ],
+                    [
+                        275,
+                        388
+                    ],
+                    [
+                        288,
+                        414
+                    ],
+                    [
+                        377,
+                        623
+                    ],
+                    [
+                        378,
+                        633
+                    ],
+                    [
+                        9,
+                        633
+                    ],
+                    [
+                        45,
+                        396
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47011983,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.220Z",
+            "updatedAt": "2023-09-20T10:49:03.220Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        104
+                    ],
+                    [
+                        378,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47011982,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.219Z",
+            "updatedAt": "2023-09-20T10:49:03.219Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        42,
+                        190
+                    ],
+                    [
+                        49,
+                        255
+                    ],
+                    [
+                        49,
+                        259
+                    ],
+                    [
+                        45,
+                        258
+                    ],
+                    [
+                        33,
+                        201
+                    ],
+                    [
+                        31,
+                        187
+                    ],
+                    [
+                        42,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47011981,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.217Z",
+            "updatedAt": "2023-09-20T10:49:03.217Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        31,
+                        186
+                    ],
+                    [
+                        49,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47011980,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.216Z",
+            "updatedAt": "2023-09-20T10:49:03.216Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        182
+                    ],
+                    [
+                        111,
+                        180
+                    ],
+                    [
+                        120,
+                        215
+                    ],
+                    [
+                        110,
+                        211
+                    ],
+                    [
+                        96,
+                        215
+                    ],
+                    [
+                        85,
+                        220
+                    ],
+                    [
+                        80,
+                        222
+                    ],
+                    [
+                        72,
+                        239
+                    ],
+                    [
+                        65,
+                        264
+                    ],
+                    [
+                        50,
+                        260
+                    ],
+                    [
+                        40,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47011979,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:03.216Z",
+            "updatedAt": "2023-09-20T10:49:03.216Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        40,
+                        180
+                    ],
+                    [
+                        120,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

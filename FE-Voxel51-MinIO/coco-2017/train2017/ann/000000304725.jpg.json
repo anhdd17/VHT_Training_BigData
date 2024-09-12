@@ -1,0 +1,372 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4784308,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A traffic light sitting next to a chair on a hard wood floor.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:15.321Z",
+            "updatedAt": "2023-09-20T10:49:15.321Z"
+        },
+        {
+            "id": 4784309,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A leather chair sitting next to a street light to compare the size.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:15.321Z",
+            "updatedAt": "2023-09-20T10:49:15.321Z"
+        },
+        {
+            "id": 4784310,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A disassembled traffic light next to a chair in a warehouse.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:15.321Z",
+            "updatedAt": "2023-09-20T10:49:15.321Z"
+        },
+        {
+            "id": 4784311,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A stop light and a home built chair on a brick floor",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:15.321Z",
+            "updatedAt": "2023-09-20T10:49:15.321Z"
+        },
+        {
+            "id": 4784312,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A stop light is on the ground by a ratty chair.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:15.321Z",
+            "updatedAt": "2023-09-20T10:49:15.321Z"
+        }
+    ],
+    "size": {
+        "height": 600,
+        "width": 400
+    },
+    "objects": [
+        {
+            "id": 47024127,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:15.324Z",
+            "updatedAt": "2023-09-20T10:49:15.324Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        470
+                    ],
+                    [
+                        227,
+                        326
+                    ],
+                    [
+                        217,
+                        316
+                    ],
+                    [
+                        210,
+                        268
+                    ],
+                    [
+                        218,
+                        264
+                    ],
+                    [
+                        204,
+                        225
+                    ],
+                    [
+                        200,
+                        82
+                    ],
+                    [
+                        222,
+                        64
+                    ],
+                    [
+                        307,
+                        48
+                    ],
+                    [
+                        334,
+                        91
+                    ],
+                    [
+                        348,
+                        244
+                    ],
+                    [
+                        345,
+                        249
+                    ],
+                    [
+                        391,
+                        260
+                    ],
+                    [
+                        394,
+                        338
+                    ],
+                    [
+                        387,
+                        339
+                    ],
+                    [
+                        382,
+                        511
+                    ],
+                    [
+                        235,
+                        521
+                    ],
+                    [
+                        221,
+                        462
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47024126,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:15.323Z",
+            "updatedAt": "2023-09-20T10:49:15.323Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        200,
+                        48
+                    ],
+                    [
+                        394,
+                        521
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47024125,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:15.323Z",
+            "updatedAt": "2023-09-20T10:49:15.323Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        54,
+                        501
+                    ],
+                    [
+                        46,
+                        389
+                    ],
+                    [
+                        46,
+                        150
+                    ],
+                    [
+                        158,
+                        148
+                    ],
+                    [
+                        161,
+                        326
+                    ],
+                    [
+                        160,
+                        471
+                    ],
+                    [
+                        144,
+                        509
+                    ],
+                    [
+                        117,
+                        514
+                    ],
+                    [
+                        71,
+                        514
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47024124,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:15.323Z",
+            "updatedAt": "2023-09-20T10:49:15.323Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        148
+                    ],
+                    [
+                        161,
+                        514
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47024123,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:15.322Z",
+            "updatedAt": "2023-09-20T10:49:15.322Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        187
+                    ],
+                    [
+                        356,
+                        192
+                    ],
+                    [
+                        351,
+                        193
+                    ],
+                    [
+                        347,
+                        190
+                    ],
+                    [
+                        345,
+                        185
+                    ],
+                    [
+                        344,
+                        147
+                    ],
+                    [
+                        343,
+                        142
+                    ],
+                    [
+                        343,
+                        139
+                    ],
+                    [
+                        347,
+                        134
+                    ],
+                    [
+                        359,
+                        119
+                    ],
+                    [
+                        361,
+                        116
+                    ],
+                    [
+                        367,
+                        110
+                    ],
+                    [
+                        381,
+                        108
+                    ],
+                    [
+                        389,
+                        108
+                    ],
+                    [
+                        399,
+                        111
+                    ],
+                    [
+                        399,
+                        190
+                    ],
+                    [
+                        397,
+                        193
+                    ],
+                    [
+                        388,
+                        194
+                    ],
+                    [
+                        376,
+                        194
+                    ],
+                    [
+                        373,
+                        190
+                    ],
+                    [
+                        370,
+                        185
+                    ],
+                    [
+                        368,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47024122,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:15.321Z",
+            "updatedAt": "2023-09-20T10:49:15.321Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        108
+                    ],
+                    [
+                        399,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

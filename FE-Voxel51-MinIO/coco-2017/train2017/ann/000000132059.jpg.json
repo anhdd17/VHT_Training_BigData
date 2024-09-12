@@ -1,0 +1,436 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4564777,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A yellow tray topped with a cup of coffee and a donut.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:35.894Z",
+            "updatedAt": "2023-09-20T10:35:35.894Z"
+        },
+        {
+            "id": 4564778,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A dining tray holding a donut, spoon, and cup of coffee.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:35.894Z",
+            "updatedAt": "2023-09-20T10:35:35.894Z"
+        },
+        {
+            "id": 4564779,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There is a pastry and a cup of coffee on the tray.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:35.894Z",
+            "updatedAt": "2023-09-20T10:35:35.894Z"
+        },
+        {
+            "id": 4564780,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There is coffee, butter, a donut and a spoon on a tray.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:35.894Z",
+            "updatedAt": "2023-09-20T10:35:35.894Z"
+        },
+        {
+            "id": 4564781,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A yellow tray containing a pastry and a cup of coffee.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:35.894Z",
+            "updatedAt": "2023-09-20T10:35:35.894Z"
+        }
+    ],
+    "size": {
+        "height": 478,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46259164,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:35.895Z",
+            "updatedAt": "2023-09-20T10:35:35.895Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        1
+                    ],
+                    [
+                        344,
+                        18
+                    ],
+                    [
+                        342,
+                        46
+                    ],
+                    [
+                        366,
+                        182
+                    ],
+                    [
+                        414,
+                        207
+                    ],
+                    [
+                        451,
+                        199
+                    ],
+                    [
+                        477,
+                        182
+                    ],
+                    [
+                        491,
+                        141
+                    ],
+                    [
+                        549,
+                        122
+                    ],
+                    [
+                        573,
+                        100
+                    ],
+                    [
+                        581,
+                        77
+                    ],
+                    [
+                        574,
+                        46
+                    ],
+                    [
+                        552,
+                        42
+                    ],
+                    [
+                        531,
+                        44
+                    ],
+                    [
+                        531,
+                        27
+                    ],
+                    [
+                        512,
+                        2
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46259163,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:35.895Z",
+            "updatedAt": "2023-09-20T10:35:35.895Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        1
+                    ],
+                    [
+                        581,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46259162,
+            "classId": 6461807,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:35.895Z",
+            "updatedAt": "2023-09-20T10:35:35.895Z",
+            "tags": [],
+            "classTitle": "spoon",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        389
+                    ],
+                    [
+                        484,
+                        368
+                    ],
+                    [
+                        454,
+                        368
+                    ],
+                    [
+                        429,
+                        383
+                    ],
+                    [
+                        393,
+                        383
+                    ],
+                    [
+                        366,
+                        363
+                    ],
+                    [
+                        355,
+                        344
+                    ],
+                    [
+                        357,
+                        330
+                    ],
+                    [
+                        364,
+                        320
+                    ],
+                    [
+                        385,
+                        316
+                    ],
+                    [
+                        411,
+                        323
+                    ],
+                    [
+                        440,
+                        343
+                    ],
+                    [
+                        460,
+                        351
+                    ],
+                    [
+                        498,
+                        349
+                    ],
+                    [
+                        601,
+                        360
+                    ],
+                    [
+                        639,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46259161,
+            "classId": 6461807,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:35.895Z",
+            "updatedAt": "2023-09-20T10:35:35.895Z",
+            "tags": [],
+            "classTitle": "spoon",
+            "points": {
+                "exterior": [
+                    [
+                        355,
+                        316
+                    ],
+                    [
+                        639,
+                        389
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46259160,
+            "classId": 6461817,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:35.894Z",
+            "updatedAt": "2023-09-20T10:35:35.894Z",
+            "tags": [],
+            "classTitle": "donut",
+            "points": {
+                "exterior": [
+                    [
+                        89,
+                        103
+                    ],
+                    [
+                        75,
+                        106
+                    ],
+                    [
+                        65,
+                        121
+                    ],
+                    [
+                        64,
+                        130
+                    ],
+                    [
+                        38,
+                        148
+                    ],
+                    [
+                        34,
+                        161
+                    ],
+                    [
+                        40,
+                        178
+                    ],
+                    [
+                        49,
+                        190
+                    ],
+                    [
+                        51,
+                        205
+                    ],
+                    [
+                        63,
+                        221
+                    ],
+                    [
+                        89,
+                        230
+                    ],
+                    [
+                        107,
+                        227
+                    ],
+                    [
+                        110,
+                        225
+                    ],
+                    [
+                        127,
+                        236
+                    ],
+                    [
+                        150,
+                        236
+                    ],
+                    [
+                        165,
+                        230
+                    ],
+                    [
+                        179,
+                        217
+                    ],
+                    [
+                        211,
+                        215
+                    ],
+                    [
+                        223,
+                        207
+                    ],
+                    [
+                        229,
+                        181
+                    ],
+                    [
+                        230,
+                        172
+                    ],
+                    [
+                        239,
+                        156
+                    ],
+                    [
+                        241,
+                        140
+                    ],
+                    [
+                        228,
+                        126
+                    ],
+                    [
+                        218,
+                        119
+                    ],
+                    [
+                        209,
+                        101
+                    ],
+                    [
+                        192,
+                        88
+                    ],
+                    [
+                        175,
+                        93
+                    ],
+                    [
+                        156,
+                        100
+                    ],
+                    [
+                        151,
+                        86
+                    ],
+                    [
+                        129,
+                        83
+                    ],
+                    [
+                        115,
+                        98
+                    ],
+                    [
+                        93,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46259159,
+            "classId": 6461817,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:35.894Z",
+            "updatedAt": "2023-09-20T10:35:35.894Z",
+            "tags": [],
+            "classTitle": "donut",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        83
+                    ],
+                    [
+                        241,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

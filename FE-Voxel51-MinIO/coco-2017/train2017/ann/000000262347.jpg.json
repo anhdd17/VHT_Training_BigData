@@ -1,0 +1,160 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4795931,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A metal bench between two white flowering bushes.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:57.890Z",
+            "updatedAt": "2023-09-20T10:49:57.890Z"
+        },
+        {
+            "id": 4795932,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A garden containing white flowers and a black bench.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:57.890Z",
+            "updatedAt": "2023-09-20T10:49:57.890Z"
+        },
+        {
+            "id": 4795933,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a bench sits inside of a garden with flowers ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:57.890Z",
+            "updatedAt": "2023-09-20T10:49:57.890Z"
+        },
+        {
+            "id": 4795934,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There is a walkway lined with white flowers",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:57.890Z",
+            "updatedAt": "2023-09-20T10:49:57.890Z"
+        },
+        {
+            "id": 4795935,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A gray mesh park bench sitting in a peaceful setting surrounded by flowers and plants.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:57.890Z",
+            "updatedAt": "2023-09-20T10:49:57.890Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47064502,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:57.890Z",
+            "updatedAt": "2023-09-20T10:49:57.890Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        287
+                    ],
+                    [
+                        418,
+                        260
+                    ],
+                    [
+                        383,
+                        246
+                    ],
+                    [
+                        371,
+                        272
+                    ],
+                    [
+                        368,
+                        264
+                    ],
+                    [
+                        371,
+                        194
+                    ],
+                    [
+                        342,
+                        179
+                    ],
+                    [
+                        484,
+                        154
+                    ],
+                    [
+                        545,
+                        168
+                    ],
+                    [
+                        529,
+                        231
+                    ],
+                    [
+                        530,
+                        264
+                    ],
+                    [
+                        525,
+                        264
+                    ],
+                    [
+                        521,
+                        235
+                    ],
+                    [
+                        438,
+                        261
+                    ],
+                    [
+                        429,
+                        263
+                    ],
+                    [
+                        422,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47064501,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:57.890Z",
+            "updatedAt": "2023-09-20T10:49:57.890Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        154
+                    ],
+                    [
+                        545,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

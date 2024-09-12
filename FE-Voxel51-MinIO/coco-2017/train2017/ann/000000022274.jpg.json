@@ -1,0 +1,232 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4835207,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A double deck tour bus sitting on the side of a street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.315Z",
+            "updatedAt": "2023-09-20T10:52:20.315Z"
+        },
+        {
+            "id": 4835208,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A blue double deck bus on the street next to a brick wall.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.315Z",
+            "updatedAt": "2023-09-20T10:52:20.315Z"
+        },
+        {
+            "id": 4835209,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A blue double decker bus heading to New Brighton",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.315Z",
+            "updatedAt": "2023-09-20T10:52:20.315Z"
+        },
+        {
+            "id": 4835210,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A big blue double decker bus is stopped on the side of the road.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.315Z",
+            "updatedAt": "2023-09-20T10:52:20.315Z"
+        },
+        {
+            "id": 4835211,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A passenger bus that is driving down the street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.315Z",
+            "updatedAt": "2023-09-20T10:52:20.315Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47199919,
+            "classId": 6461768,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.316Z",
+            "updatedAt": "2023-09-20T10:52:20.316Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        88,
+                        165
+                    ],
+                    [
+                        350,
+                        152
+                    ],
+                    [
+                        418,
+                        145
+                    ],
+                    [
+                        429,
+                        142
+                    ],
+                    [
+                        437,
+                        142
+                    ],
+                    [
+                        443,
+                        144
+                    ],
+                    [
+                        445,
+                        147
+                    ],
+                    [
+                        510,
+                        153
+                    ],
+                    [
+                        524,
+                        150
+                    ],
+                    [
+                        535,
+                        157
+                    ],
+                    [
+                        543,
+                        174
+                    ],
+                    [
+                        558,
+                        252
+                    ],
+                    [
+                        580,
+                        257
+                    ],
+                    [
+                        574,
+                        281
+                    ],
+                    [
+                        575,
+                        290
+                    ],
+                    [
+                        567,
+                        288
+                    ],
+                    [
+                        567,
+                        273
+                    ],
+                    [
+                        574,
+                        269
+                    ],
+                    [
+                        575,
+                        264
+                    ],
+                    [
+                        559,
+                        257
+                    ],
+                    [
+                        558,
+                        351
+                    ],
+                    [
+                        558,
+                        385
+                    ],
+                    [
+                        458,
+                        386
+                    ],
+                    [
+                        374,
+                        386
+                    ],
+                    [
+                        363,
+                        392
+                    ],
+                    [
+                        352,
+                        392
+                    ],
+                    [
+                        331,
+                        388
+                    ],
+                    [
+                        330,
+                        381
+                    ],
+                    [
+                        151,
+                        371
+                    ],
+                    [
+                        143,
+                        376
+                    ],
+                    [
+                        109,
+                        368
+                    ],
+                    [
+                        109,
+                        362
+                    ],
+                    [
+                        58,
+                        359
+                    ],
+                    [
+                        73,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47199918,
+            "classId": 6461768,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.316Z",
+            "updatedAt": "2023-09-20T10:52:20.316Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        142
+                    ],
+                    [
+                        580,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

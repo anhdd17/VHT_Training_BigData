@@ -1,0 +1,724 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4672829,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man standing on a tennis court holding a racquet.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.127Z",
+            "updatedAt": "2023-09-20T10:42:22.127Z"
+        },
+        {
+            "id": 4672830,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A tennis player preparing to hit a tennis ball.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.127Z",
+            "updatedAt": "2023-09-20T10:42:22.127Z"
+        },
+        {
+            "id": 4672831,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A tennis player in the middle of a serve.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.127Z",
+            "updatedAt": "2023-09-20T10:42:22.127Z"
+        },
+        {
+            "id": 4672832,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Man in all white on a clay tennis court looking at a tennis ball. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.127Z",
+            "updatedAt": "2023-09-20T10:42:22.127Z"
+        },
+        {
+            "id": 4672833,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a male tennis player in white is playing tennis",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.127Z",
+            "updatedAt": "2023-09-20T10:42:22.127Z"
+        }
+    ],
+    "size": {
+        "height": 500,
+        "width": 375
+    },
+    "objects": [
+        {
+            "id": 46634804,
+            "classId": 6461795,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.131Z",
+            "updatedAt": "2023-09-20T10:42:22.131Z",
+            "tags": [],
+            "classTitle": "sports ball",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        73
+                    ],
+                    [
+                        302,
+                        72
+                    ],
+                    [
+                        303,
+                        69
+                    ],
+                    [
+                        303,
+                        66
+                    ],
+                    [
+                        302,
+                        64
+                    ],
+                    [
+                        300,
+                        63
+                    ],
+                    [
+                        298,
+                        63
+                    ],
+                    [
+                        296,
+                        63
+                    ],
+                    [
+                        294,
+                        64
+                    ],
+                    [
+                        292,
+                        66
+                    ],
+                    [
+                        292,
+                        68
+                    ],
+                    [
+                        293,
+                        71
+                    ],
+                    [
+                        293,
+                        72
+                    ],
+                    [
+                        294,
+                        73
+                    ],
+                    [
+                        296,
+                        74
+                    ],
+                    [
+                        297,
+                        74
+                    ],
+                    [
+                        299,
+                        74
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46634803,
+            "classId": 6461795,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.131Z",
+            "updatedAt": "2023-09-20T10:42:22.131Z",
+            "tags": [],
+            "classTitle": "sports ball",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        63
+                    ],
+                    [
+                        303,
+                        74
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46634802,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.131Z",
+            "updatedAt": "2023-09-20T10:42:22.131Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        195
+                    ],
+                    [
+                        246,
+                        179
+                    ],
+                    [
+                        244,
+                        176
+                    ],
+                    [
+                        245,
+                        165
+                    ],
+                    [
+                        254,
+                        159
+                    ],
+                    [
+                        260,
+                        158
+                    ],
+                    [
+                        266,
+                        162
+                    ],
+                    [
+                        271,
+                        171
+                    ],
+                    [
+                        270,
+                        182
+                    ],
+                    [
+                        266,
+                        187
+                    ],
+                    [
+                        268,
+                        192
+                    ],
+                    [
+                        281,
+                        190
+                    ],
+                    [
+                        296,
+                        196
+                    ],
+                    [
+                        308,
+                        205
+                    ],
+                    [
+                        332,
+                        209
+                    ],
+                    [
+                        338,
+                        208
+                    ],
+                    [
+                        343,
+                        212
+                    ],
+                    [
+                        353,
+                        210
+                    ],
+                    [
+                        355,
+                        218
+                    ],
+                    [
+                        355,
+                        221
+                    ],
+                    [
+                        346,
+                        220
+                    ],
+                    [
+                        346,
+                        224
+                    ],
+                    [
+                        338,
+                        228
+                    ],
+                    [
+                        336,
+                        221
+                    ],
+                    [
+                        319,
+                        219
+                    ],
+                    [
+                        307,
+                        218
+                    ],
+                    [
+                        293,
+                        213
+                    ],
+                    [
+                        286,
+                        208
+                    ],
+                    [
+                        282,
+                        220
+                    ],
+                    [
+                        281,
+                        234
+                    ],
+                    [
+                        279,
+                        243
+                    ],
+                    [
+                        277,
+                        257
+                    ],
+                    [
+                        281,
+                        270
+                    ],
+                    [
+                        279,
+                        280
+                    ],
+                    [
+                        277,
+                        305
+                    ],
+                    [
+                        274,
+                        311
+                    ],
+                    [
+                        263,
+                        309
+                    ],
+                    [
+                        260,
+                        318
+                    ],
+                    [
+                        256,
+                        323
+                    ],
+                    [
+                        243,
+                        347
+                    ],
+                    [
+                        240,
+                        351
+                    ],
+                    [
+                        239,
+                        355
+                    ],
+                    [
+                        238,
+                        359
+                    ],
+                    [
+                        241,
+                        362
+                    ],
+                    [
+                        241,
+                        370
+                    ],
+                    [
+                        246,
+                        374
+                    ],
+                    [
+                        244,
+                        379
+                    ],
+                    [
+                        233,
+                        378
+                    ],
+                    [
+                        224,
+                        365
+                    ],
+                    [
+                        221,
+                        368
+                    ],
+                    [
+                        217,
+                        380
+                    ],
+                    [
+                        210,
+                        381
+                    ],
+                    [
+                        205,
+                        373
+                    ],
+                    [
+                        205,
+                        363
+                    ],
+                    [
+                        208,
+                        346
+                    ],
+                    [
+                        214,
+                        344
+                    ],
+                    [
+                        217,
+                        343
+                    ],
+                    [
+                        223,
+                        331
+                    ],
+                    [
+                        226,
+                        323
+                    ],
+                    [
+                        231,
+                        316
+                    ],
+                    [
+                        236,
+                        310
+                    ],
+                    [
+                        235,
+                        298
+                    ],
+                    [
+                        234,
+                        281
+                    ],
+                    [
+                        231,
+                        276
+                    ],
+                    [
+                        230,
+                        268
+                    ],
+                    [
+                        233,
+                        250
+                    ],
+                    [
+                        236,
+                        243
+                    ],
+                    [
+                        232,
+                        236
+                    ],
+                    [
+                        226,
+                        219
+                    ],
+                    [
+                        223,
+                        216
+                    ],
+                    [
+                        214,
+                        218
+                    ],
+                    [
+                        206,
+                        219
+                    ],
+                    [
+                        201,
+                        217
+                    ],
+                    [
+                        196,
+                        215
+                    ],
+                    [
+                        198,
+                        208
+                    ],
+                    [
+                        203,
+                        199
+                    ],
+                    [
+                        209,
+                        193
+                    ],
+                    [
+                        214,
+                        192
+                    ],
+                    [
+                        220,
+                        195
+                    ],
+                    [
+                        221,
+                        193
+                    ],
+                    [
+                        224,
+                        192
+                    ],
+                    [
+                        223,
+                        198
+                    ],
+                    [
+                        219,
+                        200
+                    ],
+                    [
+                        226,
+                        200
+                    ],
+                    [
+                        233,
+                        197
+                    ],
+                    [
+                        240,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46634801,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.131Z",
+            "updatedAt": "2023-09-20T10:42:22.131Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        158
+                    ],
+                    [
+                        355,
+                        381
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46634800,
+            "classId": 6461801,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.130Z",
+            "updatedAt": "2023-09-20T10:42:22.130Z",
+            "tags": [],
+            "classTitle": "tennis racket",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        201
+                    ],
+                    [
+                        220,
+                        199
+                    ],
+                    [
+                        224,
+                        197
+                    ],
+                    [
+                        226,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46634799,
+            "classId": 6461801,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.130Z",
+            "updatedAt": "2023-09-20T10:42:22.130Z",
+            "tags": [],
+            "classTitle": "tennis racket",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        194
+                    ],
+                    [
+                        215,
+                        192
+                    ],
+                    [
+                        215,
+                        189
+                    ],
+                    [
+                        217,
+                        189
+                    ],
+                    [
+                        218,
+                        192
+                    ],
+                    [
+                        217,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46634798,
+            "classId": 6461801,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.129Z",
+            "updatedAt": "2023-09-20T10:42:22.129Z",
+            "tags": [],
+            "classTitle": "tennis racket",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        243
+                    ],
+                    [
+                        231,
+                        233
+                    ],
+                    [
+                        236,
+                        236
+                    ],
+                    [
+                        236,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46634797,
+            "classId": 6461801,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.128Z",
+            "updatedAt": "2023-09-20T10:42:22.128Z",
+            "tags": [],
+            "classTitle": "tennis racket",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        197
+                    ],
+                    [
+                        226,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46634796,
+            "classId": 6461801,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.128Z",
+            "updatedAt": "2023-09-20T10:42:22.128Z",
+            "tags": [],
+            "classTitle": "tennis racket",
+            "points": {
+                "exterior": [
+                    [
+                        215,
+                        189
+                    ],
+                    [
+                        218,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46634795,
+            "classId": 6461801,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.128Z",
+            "updatedAt": "2023-09-20T10:42:22.128Z",
+            "tags": [],
+            "classTitle": "tennis racket",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        233
+                    ],
+                    [
+                        236,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

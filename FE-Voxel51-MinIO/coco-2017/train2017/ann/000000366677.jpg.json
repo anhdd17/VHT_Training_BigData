@@ -1,0 +1,204 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4952596,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A pizza sitting on a table, it appears to have everything on it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:36.117Z",
+            "updatedAt": "2023-09-20T10:59:36.117Z"
+        },
+        {
+            "id": 4952597,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A pizza is shown with several toppings on it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:36.117Z",
+            "updatedAt": "2023-09-20T10:59:36.117Z"
+        },
+        {
+            "id": 4952598,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The pizza has black olives and green peppers on it. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:36.117Z",
+            "updatedAt": "2023-09-20T10:59:36.117Z"
+        },
+        {
+            "id": 4952599,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There is a pizza with olives, peppers, meat, and cheese on the table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:36.117Z",
+            "updatedAt": "2023-09-20T10:59:36.117Z"
+        },
+        {
+            "id": 4952600,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Baked pizza ready to slice and serve displayed on wooden table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:36.117Z",
+            "updatedAt": "2023-09-20T10:59:36.117Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47611265,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:36.118Z",
+            "updatedAt": "2023-09-20T10:59:36.118Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        4
+                    ],
+                    [
+                        637,
+                        2
+                    ],
+                    [
+                        637,
+                        472
+                    ],
+                    [
+                        8,
+                        474
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47611264,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:36.118Z",
+            "updatedAt": "2023-09-20T10:59:36.118Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        2
+                    ],
+                    [
+                        637,
+                        474
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47611263,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:36.117Z",
+            "updatedAt": "2023-09-20T10:59:36.117Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        297,
+                        34
+                    ],
+                    [
+                        386,
+                        30
+                    ],
+                    [
+                        480,
+                        82
+                    ],
+                    [
+                        529,
+                        152
+                    ],
+                    [
+                        550,
+                        260
+                    ],
+                    [
+                        529,
+                        344
+                    ],
+                    [
+                        433,
+                        418
+                    ],
+                    [
+                        316,
+                        431
+                    ],
+                    [
+                        195,
+                        412
+                    ],
+                    [
+                        97,
+                        332
+                    ],
+                    [
+                        64,
+                        206
+                    ],
+                    [
+                        130,
+                        91
+                    ],
+                    [
+                        234,
+                        44
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47611262,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:36.117Z",
+            "updatedAt": "2023-09-20T10:59:36.117Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        64,
+                        30
+                    ],
+                    [
+                        550,
+                        431
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

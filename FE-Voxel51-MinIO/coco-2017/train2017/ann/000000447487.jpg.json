@@ -1,0 +1,324 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4724044,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two parking meters sitting on a sidewalk near a building.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:31.747Z",
+            "updatedAt": "2023-09-20T10:45:31.747Z"
+        },
+        {
+            "id": 4724045,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A parking meter is on the side walk.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:31.747Z",
+            "updatedAt": "2023-09-20T10:45:31.747Z"
+        },
+        {
+            "id": 4724046,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A pole holding two expired parking meters.  ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:31.747Z",
+            "updatedAt": "2023-09-20T10:45:31.747Z"
+        },
+        {
+            "id": 4724047,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "two parking meters sitting on the side of the road",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:31.747Z",
+            "updatedAt": "2023-09-20T10:45:31.747Z"
+        },
+        {
+            "id": 4724048,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a couple of parking meters sitting in front of a side walk ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:31.747Z",
+            "updatedAt": "2023-09-20T10:45:31.747Z"
+        }
+    ],
+    "size": {
+        "height": 500,
+        "width": 375
+    },
+    "objects": [
+        {
+            "id": 46814575,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:31.749Z",
+            "updatedAt": "2023-09-20T10:45:31.749Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        419
+                    ],
+                    [
+                        160,
+                        412
+                    ],
+                    [
+                        176,
+                        401
+                    ],
+                    [
+                        176,
+                        381
+                    ],
+                    [
+                        198,
+                        350
+                    ],
+                    [
+                        182,
+                        301
+                    ],
+                    [
+                        204,
+                        192
+                    ],
+                    [
+                        185,
+                        184
+                    ],
+                    [
+                        155,
+                        140
+                    ],
+                    [
+                        124,
+                        140
+                    ],
+                    [
+                        98,
+                        143
+                    ],
+                    [
+                        73,
+                        173
+                    ],
+                    [
+                        61,
+                        204
+                    ],
+                    [
+                        84,
+                        297
+                    ],
+                    [
+                        72,
+                        327
+                    ],
+                    [
+                        69,
+                        350
+                    ],
+                    [
+                        70,
+                        369
+                    ],
+                    [
+                        82,
+                        385
+                    ],
+                    [
+                        81,
+                        402
+                    ],
+                    [
+                        108,
+                        420
+                    ],
+                    [
+                        106,
+                        467
+                    ],
+                    [
+                        110,
+                        481
+                    ],
+                    [
+                        137,
+                        482
+                    ],
+                    [
+                        152,
+                        463
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46814574,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:31.748Z",
+            "updatedAt": "2023-09-20T10:45:31.748Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        140
+                    ],
+                    [
+                        204,
+                        482
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46814573,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:31.748Z",
+            "updatedAt": "2023-09-20T10:45:31.748Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        210,
+                        191
+                    ],
+                    [
+                        200,
+                        209
+                    ],
+                    [
+                        203,
+                        226
+                    ],
+                    [
+                        203,
+                        232
+                    ],
+                    [
+                        219,
+                        288
+                    ],
+                    [
+                        207,
+                        332
+                    ],
+                    [
+                        210,
+                        351
+                    ],
+                    [
+                        226,
+                        372
+                    ],
+                    [
+                        243,
+                        379
+                    ],
+                    [
+                        305,
+                        380
+                    ],
+                    [
+                        320,
+                        349
+                    ],
+                    [
+                        320,
+                        323
+                    ],
+                    [
+                        305,
+                        297
+                    ],
+                    [
+                        311,
+                        281
+                    ],
+                    [
+                        321,
+                        201
+                    ],
+                    [
+                        307,
+                        195
+                    ],
+                    [
+                        296,
+                        182
+                    ],
+                    [
+                        288,
+                        162
+                    ],
+                    [
+                        261,
+                        156
+                    ],
+                    [
+                        249,
+                        154
+                    ],
+                    [
+                        233,
+                        160
+                    ],
+                    [
+                        210,
+                        182
+                    ],
+                    [
+                        206,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46814572,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:31.747Z",
+            "updatedAt": "2023-09-20T10:45:31.747Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        200,
+                        154
+                    ],
+                    [
+                        321,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

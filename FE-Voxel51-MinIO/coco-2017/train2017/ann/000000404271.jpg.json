@@ -1,0 +1,744 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4658675,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A bowl filled with fruit next to a giant penny.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.986Z",
+            "updatedAt": "2023-09-20T10:41:30.986Z"
+        },
+        {
+            "id": 4658676,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A tiny ceramic bowl of fruit and a US penny",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.986Z",
+            "updatedAt": "2023-09-20T10:41:30.986Z"
+        },
+        {
+            "id": 4658677,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A small bowl features fruit such as apples, oranges and bananas. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.986Z",
+            "updatedAt": "2023-09-20T10:41:30.986Z"
+        },
+        {
+            "id": 4658678,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A tiny bowl of fruit and a penny",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.986Z",
+            "updatedAt": "2023-09-20T10:41:30.986Z"
+        },
+        {
+            "id": 4658679,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Small blue bowl filled with fruit the size of a penny. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.986Z",
+            "updatedAt": "2023-09-20T10:41:30.986Z"
+        }
+    ],
+    "size": {
+        "height": 318,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 46586476,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.989Z",
+            "updatedAt": "2023-09-20T10:41:30.989Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        85
+                    ],
+                    [
+                        270,
+                        107
+                    ],
+                    [
+                        281,
+                        136
+                    ],
+                    [
+                        274,
+                        169
+                    ],
+                    [
+                        263,
+                        204
+                    ],
+                    [
+                        242,
+                        232
+                    ],
+                    [
+                        182,
+                        261
+                    ],
+                    [
+                        155,
+                        260
+                    ],
+                    [
+                        117,
+                        246
+                    ],
+                    [
+                        103,
+                        233
+                    ],
+                    [
+                        89,
+                        214
+                    ],
+                    [
+                        77,
+                        188
+                    ],
+                    [
+                        66,
+                        174
+                    ],
+                    [
+                        62,
+                        147
+                    ],
+                    [
+                        75,
+                        113
+                    ],
+                    [
+                        94,
+                        90
+                    ],
+                    [
+                        135,
+                        71
+                    ],
+                    [
+                        155,
+                        68
+                    ],
+                    [
+                        190,
+                        68
+                    ],
+                    [
+                        223,
+                        73
+                    ],
+                    [
+                        231,
+                        73
+                    ],
+                    [
+                        240,
+                        77
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46586475,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.989Z",
+            "updatedAt": "2023-09-20T10:41:30.989Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        62,
+                        68
+                    ],
+                    [
+                        281,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46586474,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.988Z",
+            "updatedAt": "2023-09-20T10:41:30.988Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        144,
+                        146
+                    ],
+                    [
+                        124,
+                        134
+                    ],
+                    [
+                        112,
+                        133
+                    ],
+                    [
+                        91,
+                        143
+                    ],
+                    [
+                        83,
+                        136
+                    ],
+                    [
+                        80,
+                        117
+                    ],
+                    [
+                        92,
+                        108
+                    ],
+                    [
+                        114,
+                        104
+                    ],
+                    [
+                        151,
+                        95
+                    ],
+                    [
+                        178,
+                        84
+                    ],
+                    [
+                        199,
+                        81
+                    ],
+                    [
+                        206,
+                        82
+                    ],
+                    [
+                        228,
+                        74
+                    ],
+                    [
+                        241,
+                        78
+                    ],
+                    [
+                        240,
+                        84
+                    ],
+                    [
+                        217,
+                        100
+                    ],
+                    [
+                        212,
+                        111
+                    ],
+                    [
+                        197,
+                        125
+                    ],
+                    [
+                        196,
+                        127
+                    ],
+                    [
+                        184,
+                        121
+                    ],
+                    [
+                        165,
+                        123
+                    ],
+                    [
+                        146,
+                        135
+                    ],
+                    [
+                        145,
+                        144
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46586473,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.988Z",
+            "updatedAt": "2023-09-20T10:41:30.988Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        80,
+                        74
+                    ],
+                    [
+                        241,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46586472,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.988Z",
+            "updatedAt": "2023-09-20T10:41:30.988Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        150
+                    ],
+                    [
+                        153,
+                        162
+                    ],
+                    [
+                        148,
+                        164
+                    ],
+                    [
+                        143,
+                        172
+                    ],
+                    [
+                        140,
+                        188
+                    ],
+                    [
+                        138,
+                        201
+                    ],
+                    [
+                        122,
+                        204
+                    ],
+                    [
+                        117,
+                        205
+                    ],
+                    [
+                        149,
+                        215
+                    ],
+                    [
+                        181,
+                        215
+                    ],
+                    [
+                        207,
+                        209
+                    ],
+                    [
+                        231,
+                        201
+                    ],
+                    [
+                        255,
+                        184
+                    ],
+                    [
+                        262,
+                        172
+                    ],
+                    [
+                        264,
+                        166
+                    ],
+                    [
+                        260,
+                        154
+                    ],
+                    [
+                        249,
+                        144
+                    ],
+                    [
+                        229,
+                        137
+                    ],
+                    [
+                        225,
+                        137
+                    ],
+                    [
+                        208,
+                        147
+                    ],
+                    [
+                        207,
+                        138
+                    ],
+                    [
+                        197,
+                        125
+                    ],
+                    [
+                        184,
+                        120
+                    ],
+                    [
+                        169,
+                        121
+                    ],
+                    [
+                        156,
+                        128
+                    ],
+                    [
+                        146,
+                        138
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46586471,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.988Z",
+            "updatedAt": "2023-09-20T10:41:30.988Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        117,
+                        120
+                    ],
+                    [
+                        264,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46586470,
+            "classId": 6461812,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.987Z",
+            "updatedAt": "2023-09-20T10:41:30.987Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        205
+                    ],
+                    [
+                        97,
+                        194
+                    ],
+                    [
+                        90,
+                        188
+                    ],
+                    [
+                        87,
+                        177
+                    ],
+                    [
+                        85,
+                        167
+                    ],
+                    [
+                        86,
+                        156
+                    ],
+                    [
+                        91,
+                        147
+                    ],
+                    [
+                        97,
+                        141
+                    ],
+                    [
+                        103,
+                        138
+                    ],
+                    [
+                        111,
+                        135
+                    ],
+                    [
+                        119,
+                        134
+                    ],
+                    [
+                        126,
+                        136
+                    ],
+                    [
+                        132,
+                        138
+                    ],
+                    [
+                        136,
+                        140
+                    ],
+                    [
+                        140,
+                        142
+                    ],
+                    [
+                        143,
+                        145
+                    ],
+                    [
+                        145,
+                        148
+                    ],
+                    [
+                        147,
+                        150
+                    ],
+                    [
+                        150,
+                        155
+                    ],
+                    [
+                        150,
+                        159
+                    ],
+                    [
+                        151,
+                        164
+                    ],
+                    [
+                        148,
+                        167
+                    ],
+                    [
+                        144,
+                        171
+                    ],
+                    [
+                        140,
+                        179
+                    ],
+                    [
+                        139,
+                        186
+                    ],
+                    [
+                        140,
+                        194
+                    ],
+                    [
+                        140,
+                        200
+                    ],
+                    [
+                        136,
+                        201
+                    ],
+                    [
+                        122,
+                        204
+                    ],
+                    [
+                        118,
+                        204
+                    ],
+                    [
+                        116,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46586469,
+            "classId": 6461812,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.987Z",
+            "updatedAt": "2023-09-20T10:41:30.987Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        134
+                    ],
+                    [
+                        151,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46586468,
+            "classId": 6461812,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.987Z",
+            "updatedAt": "2023-09-20T10:41:30.987Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        127
+                    ],
+                    [
+                        197,
+                        127
+                    ],
+                    [
+                        204,
+                        116
+                    ],
+                    [
+                        214,
+                        110
+                    ],
+                    [
+                        227,
+                        107
+                    ],
+                    [
+                        240,
+                        110
+                    ],
+                    [
+                        253,
+                        120
+                    ],
+                    [
+                        259,
+                        130
+                    ],
+                    [
+                        261,
+                        142
+                    ],
+                    [
+                        257,
+                        153
+                    ],
+                    [
+                        247,
+                        143
+                    ],
+                    [
+                        233,
+                        137
+                    ],
+                    [
+                        224,
+                        138
+                    ],
+                    [
+                        224,
+                        138
+                    ],
+                    [
+                        215,
+                        143
+                    ],
+                    [
+                        206,
+                        151
+                    ],
+                    [
+                        208,
+                        145
+                    ],
+                    [
+                        208,
+                        144
+                    ],
+                    [
+                        206,
+                        138
+                    ],
+                    [
+                        200,
+                        131
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46586467,
+            "classId": 6461812,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:30.987Z",
+            "updatedAt": "2023-09-20T10:41:30.987Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        107
+                    ],
+                    [
+                        261,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

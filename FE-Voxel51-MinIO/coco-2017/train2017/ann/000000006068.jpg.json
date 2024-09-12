@@ -1,0 +1,436 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4912487,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A very big train and another train car on the tracks.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:06.418Z",
+            "updatedAt": "2023-09-20T10:57:06.418Z"
+        },
+        {
+            "id": 4912488,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Large long sized train running down a large track way.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:06.418Z",
+            "updatedAt": "2023-09-20T10:57:06.418Z"
+        },
+        {
+            "id": 4912489,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two trains going down the train track. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:06.418Z",
+            "updatedAt": "2023-09-20T10:57:06.418Z"
+        },
+        {
+            "id": 4912490,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A train driving down the train tracks during the day.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:06.418Z",
+            "updatedAt": "2023-09-20T10:57:06.418Z"
+        },
+        {
+            "id": 4912491,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "THERE IS A FREIGHT TRAIN THAT IS ON THE TRACKS",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:06.418Z",
+            "updatedAt": "2023-09-20T10:57:06.418Z"
+        }
+    ],
+    "size": {
+        "height": 361,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47469878,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:06.422Z",
+            "updatedAt": "2023-09-20T10:57:06.422Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        145
+                    ],
+                    [
+                        146,
+                        136
+                    ],
+                    [
+                        150,
+                        132
+                    ],
+                    [
+                        165,
+                        134
+                    ],
+                    [
+                        203,
+                        143
+                    ],
+                    [
+                        200,
+                        147
+                    ],
+                    [
+                        344,
+                        172
+                    ],
+                    [
+                        349,
+                        187
+                    ],
+                    [
+                        353,
+                        205
+                    ],
+                    [
+                        368,
+                        205
+                    ],
+                    [
+                        381,
+                        205
+                    ],
+                    [
+                        383,
+                        210
+                    ],
+                    [
+                        357,
+                        217
+                    ],
+                    [
+                        333,
+                        221
+                    ],
+                    [
+                        318,
+                        221
+                    ],
+                    [
+                        295,
+                        217
+                    ],
+                    [
+                        242,
+                        223
+                    ],
+                    [
+                        223,
+                        222
+                    ],
+                    [
+                        220,
+                        229
+                    ],
+                    [
+                        184,
+                        237
+                    ],
+                    [
+                        144,
+                        235
+                    ],
+                    [
+                        137,
+                        221
+                    ],
+                    [
+                        116,
+                        217
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47469877,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:06.421Z",
+            "updatedAt": "2023-09-20T10:57:06.421Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        132
+                    ],
+                    [
+                        383,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47469876,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:06.420Z",
+            "updatedAt": "2023-09-20T10:57:06.420Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        217
+                    ],
+                    [
+                        387,
+                        216
+                    ],
+                    [
+                        385,
+                        213
+                    ],
+                    [
+                        385,
+                        210
+                    ],
+                    [
+                        385,
+                        208
+                    ],
+                    [
+                        385,
+                        202
+                    ],
+                    [
+                        385,
+                        199
+                    ],
+                    [
+                        386,
+                        186
+                    ],
+                    [
+                        386,
+                        181
+                    ],
+                    [
+                        386,
+                        179
+                    ],
+                    [
+                        386,
+                        176
+                    ],
+                    [
+                        387,
+                        172
+                    ],
+                    [
+                        388,
+                        170
+                    ],
+                    [
+                        389,
+                        167
+                    ],
+                    [
+                        390,
+                        166
+                    ],
+                    [
+                        392,
+                        162
+                    ],
+                    [
+                        395,
+                        160
+                    ],
+                    [
+                        397,
+                        158
+                    ],
+                    [
+                        401,
+                        156
+                    ],
+                    [
+                        407,
+                        156
+                    ],
+                    [
+                        411,
+                        155
+                    ],
+                    [
+                        418,
+                        155
+                    ],
+                    [
+                        424,
+                        155
+                    ],
+                    [
+                        437,
+                        157
+                    ],
+                    [
+                        441,
+                        160
+                    ],
+                    [
+                        445,
+                        164
+                    ],
+                    [
+                        453,
+                        167
+                    ],
+                    [
+                        458,
+                        171
+                    ],
+                    [
+                        460,
+                        173
+                    ],
+                    [
+                        464,
+                        175
+                    ],
+                    [
+                        468,
+                        178
+                    ],
+                    [
+                        472,
+                        181
+                    ],
+                    [
+                        475,
+                        182
+                    ],
+                    [
+                        478,
+                        186
+                    ],
+                    [
+                        482,
+                        188
+                    ],
+                    [
+                        488,
+                        192
+                    ],
+                    [
+                        493,
+                        195
+                    ],
+                    [
+                        496,
+                        196
+                    ],
+                    [
+                        496,
+                        200
+                    ],
+                    [
+                        495,
+                        202
+                    ],
+                    [
+                        495,
+                        204
+                    ],
+                    [
+                        490,
+                        208
+                    ],
+                    [
+                        485,
+                        209
+                    ],
+                    [
+                        481,
+                        210
+                    ],
+                    [
+                        421,
+                        222
+                    ],
+                    [
+                        414,
+                        225
+                    ],
+                    [
+                        409,
+                        224
+                    ],
+                    [
+                        404,
+                        222
+                    ],
+                    [
+                        400,
+                        220
+                    ],
+                    [
+                        396,
+                        219
+                    ],
+                    [
+                        392,
+                        218
+                    ],
+                    [
+                        388,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47469875,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:06.419Z",
+            "updatedAt": "2023-09-20T10:57:06.419Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        385,
+                        155
+                    ],
+                    [
+                        496,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

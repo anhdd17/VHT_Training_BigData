@@ -1,0 +1,692 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5013724,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "there is a small bottle of hand soap on the sink",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.693Z",
+            "updatedAt": "2023-09-20T11:03:29.693Z"
+        },
+        {
+            "id": 5013725,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A white sink with a metallic faucet on top of it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.693Z",
+            "updatedAt": "2023-09-20T11:03:29.693Z"
+        },
+        {
+            "id": 5013726,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a sink and some tooth brush and hand wash",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.693Z",
+            "updatedAt": "2023-09-20T11:03:29.693Z"
+        },
+        {
+            "id": 5013727,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A bottle of soap and cup with toothbrushes sit around a sink.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.693Z",
+            "updatedAt": "2023-09-20T11:03:29.693Z"
+        },
+        {
+            "id": 5013728,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A sink with a cup full of assorted toothbrushes sitting on it. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.693Z",
+            "updatedAt": "2023-09-20T11:03:29.693Z"
+        }
+    ],
+    "size": {
+        "height": 600,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 47825965,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.706Z",
+            "updatedAt": "2023-09-20T11:03:29.706Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        391,
+                        411
+                    ],
+                    [
+                        405,
+                        401
+                    ],
+                    [
+                        444,
+                        397
+                    ],
+                    [
+                        447,
+                        406
+                    ],
+                    [
+                        435,
+                        410
+                    ],
+                    [
+                        434,
+                        420
+                    ],
+                    [
+                        444,
+                        422
+                    ],
+                    [
+                        444,
+                        432
+                    ],
+                    [
+                        455,
+                        442
+                    ],
+                    [
+                        467,
+                        477
+                    ],
+                    [
+                        472,
+                        540
+                    ],
+                    [
+                        466,
+                        559
+                    ],
+                    [
+                        419,
+                        550
+                    ],
+                    [
+                        409,
+                        494
+                    ],
+                    [
+                        408,
+                        443
+                    ],
+                    [
+                        416,
+                        439
+                    ],
+                    [
+                        416,
+                        423
+                    ],
+                    [
+                        421,
+                        420
+                    ],
+                    [
+                        421,
+                        410
+                    ],
+                    [
+                        405,
+                        408
+                    ],
+                    [
+                        393,
+                        416
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825964,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.705Z",
+            "updatedAt": "2023-09-20T11:03:29.705Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        391,
+                        397
+                    ],
+                    [
+                        472,
+                        559
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825963,
+            "classId": 6461842,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.702Z",
+            "updatedAt": "2023-09-20T11:03:29.702Z",
+            "tags": [],
+            "classTitle": "toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        375
+                    ],
+                    [
+                        154,
+                        372
+                    ],
+                    [
+                        154,
+                        368
+                    ],
+                    [
+                        154,
+                        363
+                    ],
+                    [
+                        155,
+                        360
+                    ],
+                    [
+                        157,
+                        360
+                    ],
+                    [
+                        161,
+                        362
+                    ],
+                    [
+                        165,
+                        362
+                    ],
+                    [
+                        165,
+                        366
+                    ],
+                    [
+                        164,
+                        377
+                    ],
+                    [
+                        163,
+                        379
+                    ],
+                    [
+                        162,
+                        383
+                    ],
+                    [
+                        162,
+                        386
+                    ],
+                    [
+                        161,
+                        385
+                    ],
+                    [
+                        159,
+                        379
+                    ],
+                    [
+                        158,
+                        377
+                    ],
+                    [
+                        156,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825962,
+            "classId": 6461842,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.702Z",
+            "updatedAt": "2023-09-20T11:03:29.702Z",
+            "tags": [],
+            "classTitle": "toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        154,
+                        360
+                    ],
+                    [
+                        165,
+                        386
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825961,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.701Z",
+            "updatedAt": "2023-09-20T11:03:29.701Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        420
+                    ],
+                    [
+                        119,
+                        472
+                    ],
+                    [
+                        127,
+                        497
+                    ],
+                    [
+                        130,
+                        501
+                    ],
+                    [
+                        125,
+                        510
+                    ],
+                    [
+                        138,
+                        515
+                    ],
+                    [
+                        167,
+                        513
+                    ],
+                    [
+                        181,
+                        505
+                    ],
+                    [
+                        175,
+                        493
+                    ],
+                    [
+                        181,
+                        464
+                    ],
+                    [
+                        181,
+                        417
+                    ],
+                    [
+                        167,
+                        424
+                    ],
+                    [
+                        135,
+                        427
+                    ],
+                    [
+                        119,
+                        419
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825960,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.700Z",
+            "updatedAt": "2023-09-20T11:03:29.700Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        417
+                    ],
+                    [
+                        181,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825959,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.699Z",
+            "updatedAt": "2023-09-20T11:03:29.699Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        487
+                    ],
+                    [
+                        424,
+                        496
+                    ],
+                    [
+                        424,
+                        506
+                    ],
+                    [
+                        421,
+                        516
+                    ],
+                    [
+                        420,
+                        543
+                    ],
+                    [
+                        452,
+                        552
+                    ],
+                    [
+                        473,
+                        535
+                    ],
+                    [
+                        470,
+                        502
+                    ],
+                    [
+                        572,
+                        514
+                    ],
+                    [
+                        579,
+                        585
+                    ],
+                    [
+                        494,
+                        589
+                    ],
+                    [
+                        360,
+                        587
+                    ],
+                    [
+                        192,
+                        592
+                    ],
+                    [
+                        153,
+                        591
+                    ],
+                    [
+                        11,
+                        589
+                    ],
+                    [
+                        2,
+                        512
+                    ],
+                    [
+                        53,
+                        494
+                    ],
+                    [
+                        115,
+                        478
+                    ],
+                    [
+                        133,
+                        514
+                    ],
+                    [
+                        176,
+                        503
+                    ],
+                    [
+                        184,
+                        473
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825958,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.699Z",
+            "updatedAt": "2023-09-20T11:03:29.699Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        473
+                    ],
+                    [
+                        579,
+                        592
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825957,
+            "classId": 6461842,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.697Z",
+            "updatedAt": "2023-09-20T11:03:29.697Z",
+            "tags": [],
+            "classTitle": "toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        427
+                    ],
+                    [
+                        147,
+                        424
+                    ],
+                    [
+                        149,
+                        397
+                    ],
+                    [
+                        151,
+                        393
+                    ],
+                    [
+                        157,
+                        388
+                    ],
+                    [
+                        160,
+                        391
+                    ],
+                    [
+                        162,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825956,
+            "classId": 6461842,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.697Z",
+            "updatedAt": "2023-09-20T11:03:29.697Z",
+            "tags": [],
+            "classTitle": "toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        388
+                    ],
+                    [
+                        165,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825955,
+            "classId": 6461842,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.695Z",
+            "updatedAt": "2023-09-20T11:03:29.695Z",
+            "tags": [],
+            "classTitle": "toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        378
+                    ],
+                    [
+                        146,
+                        390
+                    ],
+                    [
+                        148,
+                        409
+                    ],
+                    [
+                        149,
+                        425
+                    ],
+                    [
+                        137,
+                        426
+                    ],
+                    [
+                        133,
+                        423
+                    ],
+                    [
+                        133,
+                        418
+                    ],
+                    [
+                        135,
+                        389
+                    ],
+                    [
+                        135,
+                        384
+                    ],
+                    [
+                        135,
+                        363
+                    ],
+                    [
+                        135,
+                        355
+                    ],
+                    [
+                        136,
+                        348
+                    ],
+                    [
+                        138,
+                        345
+                    ],
+                    [
+                        142,
+                        344
+                    ],
+                    [
+                        149,
+                        345
+                    ],
+                    [
+                        150,
+                        349
+                    ],
+                    [
+                        150,
+                        364
+                    ],
+                    [
+                        145,
+                        368
+                    ],
+                    [
+                        143,
+                        370
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825954,
+            "classId": 6461842,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:29.694Z",
+            "updatedAt": "2023-09-20T11:03:29.694Z",
+            "tags": [],
+            "classTitle": "toothbrush",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        344
+                    ],
+                    [
+                        150,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

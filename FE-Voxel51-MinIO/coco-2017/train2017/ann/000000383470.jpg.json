@@ -1,0 +1,244 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4549301,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A freshly plowed street is a winter wonderland.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:40.641Z",
+            "updatedAt": "2023-09-20T10:34:40.641Z"
+        },
+        {
+            "id": 4549302,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a stop sign  with lots of snow on the ground   ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:40.641Z",
+            "updatedAt": "2023-09-20T10:34:40.641Z"
+        },
+        {
+            "id": 4549303,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A red stop sign sits in the snow along suburban streets.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:40.641Z",
+            "updatedAt": "2023-09-20T10:34:40.641Z"
+        },
+        {
+            "id": 4549304,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A stop sign stands along a snow filled street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:40.641Z",
+            "updatedAt": "2023-09-20T10:34:40.641Z"
+        },
+        {
+            "id": 4549305,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A snow covered but recently plowed street in the city.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:40.641Z",
+            "updatedAt": "2023-09-20T10:34:40.641Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46205421,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:40.642Z",
+            "updatedAt": "2023-09-20T10:34:40.642Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        394,
+                        258
+                    ],
+                    [
+                        368,
+                        234
+                    ],
+                    [
+                        367,
+                        194
+                    ],
+                    [
+                        393,
+                        167
+                    ],
+                    [
+                        429,
+                        164
+                    ],
+                    [
+                        460,
+                        191
+                    ],
+                    [
+                        462,
+                        230
+                    ],
+                    [
+                        435,
+                        258
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46205420,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:40.642Z",
+            "updatedAt": "2023-09-20T10:34:40.642Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        367,
+                        164
+                    ],
+                    [
+                        462,
+                        258
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46205419,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:40.642Z",
+            "updatedAt": "2023-09-20T10:34:40.642Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        162,
+                        245
+                    ],
+                    [
+                        161,
+                        242
+                    ],
+                    [
+                        161,
+                        237
+                    ],
+                    [
+                        164,
+                        236
+                    ],
+                    [
+                        165,
+                        234
+                    ],
+                    [
+                        164,
+                        224
+                    ],
+                    [
+                        165,
+                        213
+                    ],
+                    [
+                        166,
+                        211
+                    ],
+                    [
+                        169,
+                        210
+                    ],
+                    [
+                        174,
+                        210
+                    ],
+                    [
+                        174,
+                        231
+                    ],
+                    [
+                        174,
+                        233
+                    ],
+                    [
+                        174,
+                        244
+                    ],
+                    [
+                        172,
+                        244
+                    ],
+                    [
+                        172,
+                        243
+                    ],
+                    [
+                        169,
+                        241
+                    ],
+                    [
+                        166,
+                        241
+                    ],
+                    [
+                        165,
+                        243
+                    ],
+                    [
+                        163,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46205418,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:40.641Z",
+            "updatedAt": "2023-09-20T10:34:40.641Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        210
+                    ],
+                    [
+                        174,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5019546,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A view at dusk of a small river and bridge.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:53.003Z",
+            "updatedAt": "2023-09-20T11:03:53.003Z"
+        },
+        {
+            "id": 5019547,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A scene of a river with a bridge in the distance.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:53.003Z",
+            "updatedAt": "2023-09-20T11:03:53.003Z"
+        },
+        {
+            "id": 5019548,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "THERE IS AN IMAGE OF A BIRDGE GOING OVER THE LAKE ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:53.003Z",
+            "updatedAt": "2023-09-20T11:03:53.003Z"
+        },
+        {
+            "id": 5019549,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A narrow canal has shiny reflections in the water.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:53.003Z",
+            "updatedAt": "2023-09-20T11:03:53.003Z"
+        },
+        {
+            "id": 5019550,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a body of water with a bridge over it",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:53.003Z",
+            "updatedAt": "2023-09-20T11:03:53.003Z"
+        }
+    ],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 47846105,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:53.004Z",
+            "updatedAt": "2023-09-20T11:03:53.004Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        82,
+                        149
+                    ],
+                    [
+                        313,
+                        143
+                    ],
+                    [
+                        317,
+                        151
+                    ],
+                    [
+                        80,
+                        157
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47846104,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:53.004Z",
+            "updatedAt": "2023-09-20T11:03:53.004Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        80,
+                        143
+                    ],
+                    [
+                        317,
+                        157
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

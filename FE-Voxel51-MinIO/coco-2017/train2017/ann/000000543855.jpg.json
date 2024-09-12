@@ -1,0 +1,128 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4582630,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a stop sign below two street signs on a pole",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:38.354Z",
+            "updatedAt": "2023-09-20T10:36:38.354Z"
+        },
+        {
+            "id": 4582631,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A red stop sign sitting under two green street signs.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:38.354Z",
+            "updatedAt": "2023-09-20T10:36:38.354Z"
+        },
+        {
+            "id": 4582632,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There is a stop sign with two road signs on top of it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:38.354Z",
+            "updatedAt": "2023-09-20T10:36:38.354Z"
+        },
+        {
+            "id": 4582633,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a pole with a stop sign and a couple of street signs",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:38.354Z",
+            "updatedAt": "2023-09-20T10:36:38.354Z"
+        },
+        {
+            "id": 4582634,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a stop sign and a street sign on a forested road",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:38.354Z",
+            "updatedAt": "2023-09-20T10:36:38.354Z"
+        }
+    ],
+    "size": {
+        "height": 426,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46321331,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:38.354Z",
+            "updatedAt": "2023-09-20T10:36:38.354Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        224
+                    ],
+                    [
+                        351,
+                        229
+                    ],
+                    [
+                        397,
+                        278
+                    ],
+                    [
+                        396,
+                        346
+                    ],
+                    [
+                        353,
+                        387
+                    ],
+                    [
+                        285,
+                        386
+                    ],
+                    [
+                        239,
+                        342
+                    ],
+                    [
+                        239,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46321330,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:38.354Z",
+            "updatedAt": "2023-09-20T10:36:38.354Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        224
+                    ],
+                    [
+                        397,
+                        387
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

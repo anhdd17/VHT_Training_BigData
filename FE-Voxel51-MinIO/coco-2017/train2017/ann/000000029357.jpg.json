@@ -1,0 +1,268 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4946955,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "This pizza is cut into eight equal slices.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:14.418Z",
+            "updatedAt": "2023-09-20T10:59:14.418Z"
+        },
+        {
+            "id": 4946956,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A sliced whole pizza with red peppers on a white plate.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:14.418Z",
+            "updatedAt": "2023-09-20T10:59:14.418Z"
+        },
+        {
+            "id": 4946957,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A sliced pizza on a plate with different toppings.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:14.418Z",
+            "updatedAt": "2023-09-20T10:59:14.418Z"
+        },
+        {
+            "id": 4946958,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a white plate of some kind of bread dish with peppers in it",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:14.418Z",
+            "updatedAt": "2023-09-20T10:59:14.418Z"
+        },
+        {
+            "id": 4946959,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A pizza has red and green peppers embedded in the cheese.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:14.418Z",
+            "updatedAt": "2023-09-20T10:59:14.418Z"
+        }
+    ],
+    "size": {
+        "height": 612,
+        "width": 612
+    },
+    "objects": [
+        {
+            "id": 47590913,
+            "classId": 6461805,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:14.424Z",
+            "updatedAt": "2023-09-20T10:59:14.424Z",
+            "tags": [],
+            "classTitle": "fork",
+            "points": {
+                "exterior": [
+                    [
+                        491,
+                        11
+                    ],
+                    [
+                        512,
+                        11
+                    ],
+                    [
+                        533,
+                        11
+                    ],
+                    [
+                        555,
+                        11
+                    ],
+                    [
+                        552,
+                        18
+                    ],
+                    [
+                        533,
+                        29
+                    ],
+                    [
+                        518,
+                        28
+                    ],
+                    [
+                        512,
+                        26
+                    ],
+                    [
+                        504,
+                        23
+                    ],
+                    [
+                        489,
+                        17
+                    ],
+                    [
+                        485,
+                        14
+                    ],
+                    [
+                        487,
+                        12
+                    ],
+                    [
+                        487,
+                        12
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47590912,
+            "classId": 6461805,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:14.422Z",
+            "updatedAt": "2023-09-20T10:59:14.422Z",
+            "tags": [],
+            "classTitle": "fork",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        11
+                    ],
+                    [
+                        555,
+                        29
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47590911,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:14.421Z",
+            "updatedAt": "2023-09-20T10:59:14.421Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        67
+                    ],
+                    [
+                        231,
+                        65
+                    ],
+                    [
+                        166,
+                        88
+                    ],
+                    [
+                        91,
+                        129
+                    ],
+                    [
+                        26,
+                        205
+                    ],
+                    [
+                        18,
+                        243
+                    ],
+                    [
+                        19,
+                        381
+                    ],
+                    [
+                        32,
+                        424
+                    ],
+                    [
+                        85,
+                        492
+                    ],
+                    [
+                        158,
+                        547
+                    ],
+                    [
+                        285,
+                        572
+                    ],
+                    [
+                        373,
+                        573
+                    ],
+                    [
+                        463,
+                        540
+                    ],
+                    [
+                        543,
+                        476
+                    ],
+                    [
+                        590,
+                        391
+                    ],
+                    [
+                        597,
+                        305
+                    ],
+                    [
+                        589,
+                        221
+                    ],
+                    [
+                        545,
+                        157
+                    ],
+                    [
+                        458,
+                        98
+                    ],
+                    [
+                        371,
+                        67
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47590910,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:14.418Z",
+            "updatedAt": "2023-09-20T10:59:14.418Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        65
+                    ],
+                    [
+                        597,
+                        573
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

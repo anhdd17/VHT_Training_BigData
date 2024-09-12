@@ -1,0 +1,528 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4965954,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A bunch of vegetables including cucumbers, green beans and broccoli.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.193Z",
+            "updatedAt": "2023-09-20T11:00:30.193Z"
+        },
+        {
+            "id": 4965955,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Several types of freshly gathered vegetables about to be washed, sliced and served.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.193Z",
+            "updatedAt": "2023-09-20T11:00:30.193Z"
+        },
+        {
+            "id": 4965956,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Several cucumbers, zucchini, tomatoes, broccoli and carrots in a pile.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.193Z",
+            "updatedAt": "2023-09-20T11:00:30.193Z"
+        },
+        {
+            "id": 4965957,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Tomatoes, cucumbers, and celery are lying amongst the vegetables.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.193Z",
+            "updatedAt": "2023-09-20T11:00:30.193Z"
+        },
+        {
+            "id": 4965958,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The vegetables on the table look very fresh. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.193Z",
+            "updatedAt": "2023-09-20T11:00:30.193Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47657859,
+            "classId": 6461814,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.195Z",
+            "updatedAt": "2023-09-20T11:00:30.195Z",
+            "tags": [],
+            "classTitle": "carrot",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        244
+                    ],
+                    [
+                        139,
+                        205
+                    ],
+                    [
+                        127,
+                        185
+                    ],
+                    [
+                        117,
+                        159
+                    ],
+                    [
+                        112,
+                        133
+                    ],
+                    [
+                        126,
+                        118
+                    ],
+                    [
+                        147,
+                        116
+                    ],
+                    [
+                        160,
+                        126
+                    ],
+                    [
+                        141,
+                        140
+                    ],
+                    [
+                        139,
+                        153
+                    ],
+                    [
+                        154,
+                        149
+                    ],
+                    [
+                        150,
+                        159
+                    ],
+                    [
+                        155,
+                        162
+                    ],
+                    [
+                        165,
+                        189
+                    ],
+                    [
+                        174,
+                        244
+                    ],
+                    [
+                        162,
+                        241
+                    ],
+                    [
+                        153,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47657858,
+            "classId": 6461814,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.195Z",
+            "updatedAt": "2023-09-20T11:00:30.195Z",
+            "tags": [],
+            "classTitle": "carrot",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        116
+                    ],
+                    [
+                        174,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47657857,
+            "classId": 6461814,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.194Z",
+            "updatedAt": "2023-09-20T11:00:30.194Z",
+            "tags": [],
+            "classTitle": "carrot",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        199
+                    ],
+                    [
+                        138,
+                        211
+                    ],
+                    [
+                        148,
+                        245
+                    ],
+                    [
+                        141,
+                        255
+                    ],
+                    [
+                        135,
+                        257
+                    ],
+                    [
+                        135,
+                        260
+                    ],
+                    [
+                        107,
+                        211
+                    ],
+                    [
+                        111,
+                        193
+                    ],
+                    [
+                        110,
+                        177
+                    ],
+                    [
+                        119,
+                        177
+                    ],
+                    [
+                        128,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47657856,
+            "classId": 6461814,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.194Z",
+            "updatedAt": "2023-09-20T11:00:30.194Z",
+            "tags": [],
+            "classTitle": "carrot",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        177
+                    ],
+                    [
+                        148,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47657855,
+            "classId": 6461814,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.194Z",
+            "updatedAt": "2023-09-20T11:00:30.194Z",
+            "tags": [],
+            "classTitle": "carrot",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        278
+                    ],
+                    [
+                        195,
+                        255
+                    ],
+                    [
+                        185,
+                        237
+                    ],
+                    [
+                        182,
+                        227
+                    ],
+                    [
+                        183,
+                        223
+                    ],
+                    [
+                        195,
+                        230
+                    ],
+                    [
+                        204,
+                        239
+                    ],
+                    [
+                        214,
+                        257
+                    ],
+                    [
+                        219,
+                        267
+                    ],
+                    [
+                        209,
+                        269
+                    ],
+                    [
+                        213,
+                        280
+                    ],
+                    [
+                        209,
+                        279
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47657854,
+            "classId": 6461814,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.194Z",
+            "updatedAt": "2023-09-20T11:00:30.194Z",
+            "tags": [],
+            "classTitle": "carrot",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        223
+                    ],
+                    [
+                        219,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47657853,
+            "classId": 6461814,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.194Z",
+            "updatedAt": "2023-09-20T11:00:30.194Z",
+            "tags": [],
+            "classTitle": "carrot",
+            "points": {
+                "exterior": [
+                    [
+                        200,
+                        202
+                    ],
+                    [
+                        215,
+                        233
+                    ],
+                    [
+                        231,
+                        263
+                    ],
+                    [
+                        230,
+                        265
+                    ],
+                    [
+                        216,
+                        248
+                    ],
+                    [
+                        192,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47657852,
+            "classId": 6461814,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.193Z",
+            "updatedAt": "2023-09-20T11:00:30.193Z",
+            "tags": [],
+            "classTitle": "carrot",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        202
+                    ],
+                    [
+                        231,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47657851,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.193Z",
+            "updatedAt": "2023-09-20T11:00:30.193Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        152
+                    ],
+                    [
+                        264,
+                        146
+                    ],
+                    [
+                        271,
+                        135
+                    ],
+                    [
+                        266,
+                        117
+                    ],
+                    [
+                        248,
+                        101
+                    ],
+                    [
+                        235,
+                        105
+                    ],
+                    [
+                        226,
+                        98
+                    ],
+                    [
+                        218,
+                        101
+                    ],
+                    [
+                        211,
+                        96
+                    ],
+                    [
+                        194,
+                        96
+                    ],
+                    [
+                        182,
+                        102
+                    ],
+                    [
+                        167,
+                        114
+                    ],
+                    [
+                        160,
+                        125
+                    ],
+                    [
+                        166,
+                        150
+                    ],
+                    [
+                        158,
+                        166
+                    ],
+                    [
+                        168,
+                        200
+                    ],
+                    [
+                        182,
+                        206
+                    ],
+                    [
+                        195,
+                        203
+                    ],
+                    [
+                        214,
+                        212
+                    ],
+                    [
+                        256,
+                        198
+                    ],
+                    [
+                        263,
+                        159
+                    ],
+                    [
+                        269,
+                        152
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47657850,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:30.193Z",
+            "updatedAt": "2023-09-20T11:00:30.193Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        96
+                    ],
+                    [
+                        271,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

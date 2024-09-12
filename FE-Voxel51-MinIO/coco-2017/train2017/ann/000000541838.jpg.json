@@ -1,0 +1,596 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4492764,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man is standing next to a refrigerator.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:23.168Z",
+            "updatedAt": "2023-09-20T10:31:23.168Z"
+        },
+        {
+            "id": 4492765,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man standing next to a refrigerator freezer.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:23.168Z",
+            "updatedAt": "2023-09-20T10:31:23.168Z"
+        },
+        {
+            "id": 4492766,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man standing next to a metal appliance",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:23.168Z",
+            "updatedAt": "2023-09-20T10:31:23.168Z"
+        },
+        {
+            "id": 4492767,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man standing next to a refrigerator and pointing to it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:23.168Z",
+            "updatedAt": "2023-09-20T10:31:23.168Z"
+        },
+        {
+            "id": 4492768,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man is standing next to a stainless steal appliance\n",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:23.168Z",
+            "updatedAt": "2023-09-20T10:31:23.168Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 46010954,
+            "classId": 6461835,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:23.173Z",
+            "updatedAt": "2023-09-20T10:31:23.173Z",
+            "tags": [],
+            "classTitle": "refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        452,
+                        88
+                    ],
+                    [
+                        259,
+                        75
+                    ],
+                    [
+                        242,
+                        115
+                    ],
+                    [
+                        224,
+                        130
+                    ],
+                    [
+                        214,
+                        144
+                    ],
+                    [
+                        223,
+                        406
+                    ],
+                    [
+                        226,
+                        616
+                    ],
+                    [
+                        237,
+                        633
+                    ],
+                    [
+                        257,
+                        633
+                    ],
+                    [
+                        433,
+                        623
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46010953,
+            "classId": 6461835,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:23.172Z",
+            "updatedAt": "2023-09-20T10:31:23.172Z",
+            "tags": [],
+            "classTitle": "refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        75
+                    ],
+                    [
+                        452,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46010952,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:23.171Z",
+            "updatedAt": "2023-09-20T10:31:23.171Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        633
+                    ],
+                    [
+                        72,
+                        594
+                    ],
+                    [
+                        68,
+                        577
+                    ],
+                    [
+                        63,
+                        552
+                    ],
+                    [
+                        59,
+                        536
+                    ],
+                    [
+                        56,
+                        525
+                    ],
+                    [
+                        55,
+                        489
+                    ],
+                    [
+                        40,
+                        434
+                    ],
+                    [
+                        37,
+                        401
+                    ],
+                    [
+                        39,
+                        371
+                    ],
+                    [
+                        42,
+                        368
+                    ],
+                    [
+                        40,
+                        355
+                    ],
+                    [
+                        43,
+                        344
+                    ],
+                    [
+                        37,
+                        332
+                    ],
+                    [
+                        47,
+                        321
+                    ],
+                    [
+                        47,
+                        303
+                    ],
+                    [
+                        49,
+                        285
+                    ],
+                    [
+                        45,
+                        276
+                    ],
+                    [
+                        36,
+                        275
+                    ],
+                    [
+                        29,
+                        219
+                    ],
+                    [
+                        27,
+                        191
+                    ],
+                    [
+                        32,
+                        175
+                    ],
+                    [
+                        39,
+                        171
+                    ],
+                    [
+                        58,
+                        158
+                    ],
+                    [
+                        68,
+                        155
+                    ],
+                    [
+                        81,
+                        150
+                    ],
+                    [
+                        78,
+                        141
+                    ],
+                    [
+                        68,
+                        128
+                    ],
+                    [
+                        63,
+                        121
+                    ],
+                    [
+                        69,
+                        112
+                    ],
+                    [
+                        70,
+                        85
+                    ],
+                    [
+                        76,
+                        75
+                    ],
+                    [
+                        99,
+                        63
+                    ],
+                    [
+                        115,
+                        69
+                    ],
+                    [
+                        132,
+                        83
+                    ],
+                    [
+                        138,
+                        125
+                    ],
+                    [
+                        134,
+                        132
+                    ],
+                    [
+                        128,
+                        147
+                    ],
+                    [
+                        141,
+                        144
+                    ],
+                    [
+                        174,
+                        134
+                    ],
+                    [
+                        190,
+                        127
+                    ],
+                    [
+                        207,
+                        106
+                    ],
+                    [
+                        256,
+                        45
+                    ],
+                    [
+                        295,
+                        46
+                    ],
+                    [
+                        303,
+                        62
+                    ],
+                    [
+                        302,
+                        76
+                    ],
+                    [
+                        291,
+                        78
+                    ],
+                    [
+                        283,
+                        82
+                    ],
+                    [
+                        269,
+                        66
+                    ],
+                    [
+                        262,
+                        73
+                    ],
+                    [
+                        244,
+                        101
+                    ],
+                    [
+                        237,
+                        122
+                    ],
+                    [
+                        229,
+                        134
+                    ],
+                    [
+                        198,
+                        155
+                    ],
+                    [
+                        200,
+                        175
+                    ],
+                    [
+                        183,
+                        184
+                    ],
+                    [
+                        173,
+                        204
+                    ],
+                    [
+                        171,
+                        232
+                    ],
+                    [
+                        171,
+                        256
+                    ],
+                    [
+                        197,
+                        240
+                    ],
+                    [
+                        201,
+                        239
+                    ],
+                    [
+                        206,
+                        242
+                    ],
+                    [
+                        201,
+                        246
+                    ],
+                    [
+                        200,
+                        250
+                    ],
+                    [
+                        193,
+                        256
+                    ],
+                    [
+                        196,
+                        260
+                    ],
+                    [
+                        214,
+                        262
+                    ],
+                    [
+                        219,
+                        266
+                    ],
+                    [
+                        224,
+                        266
+                    ],
+                    [
+                        217,
+                        279
+                    ],
+                    [
+                        211,
+                        282
+                    ],
+                    [
+                        201,
+                        293
+                    ],
+                    [
+                        187,
+                        295
+                    ],
+                    [
+                        171,
+                        295
+                    ],
+                    [
+                        178,
+                        328
+                    ],
+                    [
+                        187,
+                        349
+                    ],
+                    [
+                        175,
+                        361
+                    ],
+                    [
+                        183,
+                        414
+                    ],
+                    [
+                        181,
+                        431
+                    ],
+                    [
+                        178,
+                        499
+                    ],
+                    [
+                        180,
+                        561
+                    ],
+                    [
+                        188,
+                        601
+                    ],
+                    [
+                        188,
+                        626
+                    ],
+                    [
+                        193,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46010951,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:23.170Z",
+            "updatedAt": "2023-09-20T10:31:23.170Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        45
+                    ],
+                    [
+                        303,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46010950,
+            "classId": 6461837,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:23.170Z",
+            "updatedAt": "2023-09-20T10:31:23.170Z",
+            "tags": [],
+            "classTitle": "clock",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        274
+                    ],
+                    [
+                        153,
+                        274
+                    ],
+                    [
+                        153,
+                        276
+                    ],
+                    [
+                        151,
+                        278
+                    ],
+                    [
+                        151,
+                        286
+                    ],
+                    [
+                        153,
+                        289
+                    ],
+                    [
+                        156,
+                        290
+                    ],
+                    [
+                        163,
+                        289
+                    ],
+                    [
+                        164,
+                        286
+                    ],
+                    [
+                        165,
+                        281
+                    ],
+                    [
+                        161,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46010949,
+            "classId": 6461837,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:31:23.169Z",
+            "updatedAt": "2023-09-20T10:31:23.169Z",
+            "tags": [],
+            "classTitle": "clock",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        274
+                    ],
+                    [
+                        165,
+                        290
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

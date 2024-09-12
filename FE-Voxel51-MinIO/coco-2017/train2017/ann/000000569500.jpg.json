@@ -1,0 +1,284 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4909799,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A goat leaning over a fence towards the camera.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:57.015Z",
+            "updatedAt": "2023-09-20T10:56:57.015Z"
+        },
+        {
+            "id": 4909800,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A sheep stands next to a fence and building.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:57.015Z",
+            "updatedAt": "2023-09-20T10:56:57.015Z"
+        },
+        {
+            "id": 4909801,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A close up of a sheep standing in the fenced area. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:57.015Z",
+            "updatedAt": "2023-09-20T10:56:57.015Z"
+        },
+        {
+            "id": 4909802,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A black and white sheep sticking its head over a wooden fence.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:57.015Z",
+            "updatedAt": "2023-09-20T10:56:57.015Z"
+        },
+        {
+            "id": 4909803,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A sheep looks over the top of a fence post. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:57.015Z",
+            "updatedAt": "2023-09-20T10:56:57.015Z"
+        }
+    ],
+    "size": {
+        "height": 426,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47460781,
+            "classId": 6461781,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:57.016Z",
+            "updatedAt": "2023-09-20T10:56:57.016Z",
+            "tags": [],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        208
+                    ],
+                    [
+                        173,
+                        199
+                    ],
+                    [
+                        195,
+                        183
+                    ],
+                    [
+                        216,
+                        170
+                    ],
+                    [
+                        231,
+                        159
+                    ],
+                    [
+                        267,
+                        131
+                    ],
+                    [
+                        289,
+                        113
+                    ],
+                    [
+                        324,
+                        101
+                    ],
+                    [
+                        362,
+                        93
+                    ],
+                    [
+                        382,
+                        100
+                    ],
+                    [
+                        405,
+                        107
+                    ],
+                    [
+                        423,
+                        116
+                    ],
+                    [
+                        429,
+                        121
+                    ],
+                    [
+                        434,
+                        140
+                    ],
+                    [
+                        440,
+                        155
+                    ],
+                    [
+                        449,
+                        172
+                    ],
+                    [
+                        457,
+                        183
+                    ],
+                    [
+                        469,
+                        204
+                    ],
+                    [
+                        472,
+                        216
+                    ],
+                    [
+                        446,
+                        208
+                    ],
+                    [
+                        438,
+                        205
+                    ],
+                    [
+                        440,
+                        220
+                    ],
+                    [
+                        445,
+                        244
+                    ],
+                    [
+                        451,
+                        267
+                    ],
+                    [
+                        452,
+                        296
+                    ],
+                    [
+                        454,
+                        329
+                    ],
+                    [
+                        444,
+                        350
+                    ],
+                    [
+                        428,
+                        357
+                    ],
+                    [
+                        399,
+                        360
+                    ],
+                    [
+                        395,
+                        359
+                    ],
+                    [
+                        394,
+                        364
+                    ],
+                    [
+                        391,
+                        370
+                    ],
+                    [
+                        379,
+                        379
+                    ],
+                    [
+                        341,
+                        386
+                    ],
+                    [
+                        275,
+                        397
+                    ],
+                    [
+                        238,
+                        402
+                    ],
+                    [
+                        180,
+                        406
+                    ],
+                    [
+                        176,
+                        404
+                    ],
+                    [
+                        194,
+                        374
+                    ],
+                    [
+                        208,
+                        348
+                    ],
+                    [
+                        216,
+                        333
+                    ],
+                    [
+                        232,
+                        306
+                    ],
+                    [
+                        240,
+                        281
+                    ],
+                    [
+                        248,
+                        239
+                    ],
+                    [
+                        254,
+                        216
+                    ],
+                    [
+                        257,
+                        198
+                    ],
+                    [
+                        255,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47460780,
+            "classId": 6461781,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:57.016Z",
+            "updatedAt": "2023-09-20T10:56:57.016Z",
+            "tags": [],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        93
+                    ],
+                    [
+                        472,
+                        406
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

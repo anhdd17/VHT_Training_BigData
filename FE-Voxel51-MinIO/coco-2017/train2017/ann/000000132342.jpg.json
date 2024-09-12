@@ -1,0 +1,360 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4608516,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A green tile bathroom with sink, drawers, toilet, and window.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.796Z",
+            "updatedAt": "2023-09-20T10:38:10.796Z"
+        },
+        {
+            "id": 4608517,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A sink with wooden cabinets in a tile bathroom",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.796Z",
+            "updatedAt": "2023-09-20T10:38:10.796Z"
+        },
+        {
+            "id": 4608518,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A bathroom with green tiled walls and a white vanity.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.796Z",
+            "updatedAt": "2023-09-20T10:38:10.796Z"
+        },
+        {
+            "id": 4608519,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A tiled bathroom with a white single sink vanity.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.796Z",
+            "updatedAt": "2023-09-20T10:38:10.796Z"
+        },
+        {
+            "id": 4608520,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A bathroom with many green tiles line the walls. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.796Z",
+            "updatedAt": "2023-09-20T10:38:10.796Z"
+        }
+    ],
+    "size": {
+        "height": 500,
+        "width": 339
+    },
+    "objects": [
+        {
+            "id": 46411234,
+            "classId": 6461824,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.798Z",
+            "updatedAt": "2023-09-20T10:38:10.798Z",
+            "tags": [],
+            "classTitle": "toilet",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        470
+                    ],
+                    [
+                        338,
+                        499
+                    ],
+                    [
+                        284,
+                        499
+                    ],
+                    [
+                        288,
+                        490
+                    ],
+                    [
+                        291,
+                        478
+                    ],
+                    [
+                        307,
+                        471
+                    ],
+                    [
+                        322,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46411233,
+            "classId": 6461824,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.798Z",
+            "updatedAt": "2023-09-20T10:38:10.798Z",
+            "tags": [],
+            "classTitle": "toilet",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        468
+                    ],
+                    [
+                        338,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46411232,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.798Z",
+            "updatedAt": "2023-09-20T10:38:10.798Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        311
+                    ],
+                    [
+                        200,
+                        317
+                    ],
+                    [
+                        248,
+                        313
+                    ],
+                    [
+                        255,
+                        311
+                    ],
+                    [
+                        249,
+                        305
+                    ],
+                    [
+                        228,
+                        305
+                    ],
+                    [
+                        204,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46411231,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.797Z",
+            "updatedAt": "2023-09-20T10:38:10.797Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        305
+                    ],
+                    [
+                        255,
+                        317
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46411230,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.797Z",
+            "updatedAt": "2023-09-20T10:38:10.797Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        315
+                    ],
+                    [
+                        89,
+                        304
+                    ],
+                    [
+                        88,
+                        292
+                    ],
+                    [
+                        84,
+                        282
+                    ],
+                    [
+                        80,
+                        281
+                    ],
+                    [
+                        54,
+                        282
+                    ],
+                    [
+                        47,
+                        288
+                    ],
+                    [
+                        44,
+                        303
+                    ],
+                    [
+                        44,
+                        308
+                    ],
+                    [
+                        47,
+                        314
+                    ],
+                    [
+                        51,
+                        316
+                    ],
+                    [
+                        53,
+                        317
+                    ],
+                    [
+                        57,
+                        317
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46411229,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.797Z",
+            "updatedAt": "2023-09-20T10:38:10.797Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        44,
+                        281
+                    ],
+                    [
+                        89,
+                        317
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46411228,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.796Z",
+            "updatedAt": "2023-09-20T10:38:10.796Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        258
+                    ],
+                    [
+                        243,
+                        258
+                    ],
+                    [
+                        243,
+                        286
+                    ],
+                    [
+                        243,
+                        298
+                    ],
+                    [
+                        247,
+                        302
+                    ],
+                    [
+                        246,
+                        304
+                    ],
+                    [
+                        232,
+                        304
+                    ],
+                    [
+                        234,
+                        299
+                    ],
+                    [
+                        237,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46411227,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:10.796Z",
+            "updatedAt": "2023-09-20T10:38:10.796Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        258
+                    ],
+                    [
+                        247,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

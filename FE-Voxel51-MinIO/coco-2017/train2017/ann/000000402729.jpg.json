@@ -1,0 +1,292 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4684037,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The cat is laying down on the bed by itself.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:04.072Z",
+            "updatedAt": "2023-09-20T10:43:04.072Z"
+        },
+        {
+            "id": 4684038,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a brown cat laying on the bed and looking a little sad",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:04.072Z",
+            "updatedAt": "2023-09-20T10:43:04.072Z"
+        },
+        {
+            "id": 4684039,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A gray and white cat lying on a bed.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:04.072Z",
+            "updatedAt": "2023-09-20T10:43:04.072Z"
+        },
+        {
+            "id": 4684040,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A gray cat is laying down on it's side.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:04.072Z",
+            "updatedAt": "2023-09-20T10:43:04.072Z"
+        },
+        {
+            "id": 4684041,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cat is laying on cozy white sheets.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:04.072Z",
+            "updatedAt": "2023-09-20T10:43:04.072Z"
+        }
+    ],
+    "size": {
+        "height": 426,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46675113,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:04.073Z",
+            "updatedAt": "2023-09-20T10:43:04.073Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        79
+                    ],
+                    [
+                        212,
+                        124
+                    ],
+                    [
+                        294,
+                        102
+                    ],
+                    [
+                        305,
+                        100
+                    ],
+                    [
+                        406,
+                        8
+                    ],
+                    [
+                        426,
+                        5
+                    ],
+                    [
+                        431,
+                        12
+                    ],
+                    [
+                        431,
+                        23
+                    ],
+                    [
+                        437,
+                        61
+                    ],
+                    [
+                        425,
+                        115
+                    ],
+                    [
+                        423,
+                        135
+                    ],
+                    [
+                        510,
+                        214
+                    ],
+                    [
+                        622,
+                        222
+                    ],
+                    [
+                        620,
+                        232
+                    ],
+                    [
+                        610,
+                        250
+                    ],
+                    [
+                        586,
+                        278
+                    ],
+                    [
+                        556,
+                        284
+                    ],
+                    [
+                        500,
+                        297
+                    ],
+                    [
+                        457,
+                        325
+                    ],
+                    [
+                        384,
+                        357
+                    ],
+                    [
+                        297,
+                        366
+                    ],
+                    [
+                        231,
+                        381
+                    ],
+                    [
+                        96,
+                        425
+                    ],
+                    [
+                        47,
+                        425
+                    ],
+                    [
+                        1,
+                        424
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46675112,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:04.073Z",
+            "updatedAt": "2023-09-20T10:43:04.073Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        5
+                    ],
+                    [
+                        622,
+                        425
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46675111,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:04.072Z",
+            "updatedAt": "2023-09-20T10:43:04.072Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        420
+                    ],
+                    [
+                        639,
+                        421
+                    ],
+                    [
+                        636,
+                        165
+                    ],
+                    [
+                        575,
+                        155
+                    ],
+                    [
+                        544,
+                        120
+                    ],
+                    [
+                        433,
+                        119
+                    ],
+                    [
+                        512,
+                        212
+                    ],
+                    [
+                        574,
+                        210
+                    ],
+                    [
+                        615,
+                        215
+                    ],
+                    [
+                        624,
+                        240
+                    ],
+                    [
+                        594,
+                        274
+                    ],
+                    [
+                        527,
+                        287
+                    ],
+                    [
+                        417,
+                        345
+                    ],
+                    [
+                        259,
+                        385
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46675110,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:04.072Z",
+            "updatedAt": "2023-09-20T10:43:04.072Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        119
+                    ],
+                    [
+                        639,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

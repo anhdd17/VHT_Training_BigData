@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5016055,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a stop sign leaving a shadow on the grass beside it ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:38.878Z",
+            "updatedAt": "2023-09-20T11:03:38.878Z"
+        },
+        {
+            "id": 5016056,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A stop sign at an intersection beside a street sign.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:38.878Z",
+            "updatedAt": "2023-09-20T11:03:38.878Z"
+        },
+        {
+            "id": 5016057,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A patch of grass with a stop sign and its shadow.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:38.878Z",
+            "updatedAt": "2023-09-20T11:03:38.878Z"
+        },
+        {
+            "id": 5016058,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A red stop sign on a grassy lawn.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:38.878Z",
+            "updatedAt": "2023-09-20T11:03:38.878Z"
+        },
+        {
+            "id": 5016059,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A stop sign is in an area of grass bordered with bushes.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:38.878Z",
+            "updatedAt": "2023-09-20T11:03:38.878Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47833943,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:38.881Z",
+            "updatedAt": "2023-09-20T11:03:38.881Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        134
+                    ],
+                    [
+                        136,
+                        112
+                    ],
+                    [
+                        154,
+                        115
+                    ],
+                    [
+                        166,
+                        139
+                    ],
+                    [
+                        168,
+                        177
+                    ],
+                    [
+                        154,
+                        200
+                    ],
+                    [
+                        138,
+                        197
+                    ],
+                    [
+                        127,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47833942,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:38.880Z",
+            "updatedAt": "2023-09-20T11:03:38.880Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        112
+                    ],
+                    [
+                        168,
+                        200
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47833941,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:38.879Z",
+            "updatedAt": "2023-09-20T11:03:38.879Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        569,
+                        240
+                    ],
+                    [
+                        575,
+                        229
+                    ],
+                    [
+                        639,
+                        223
+                    ],
+                    [
+                        639,
+                        236
+                    ],
+                    [
+                        634,
+                        238
+                    ],
+                    [
+                        613,
+                        236
+                    ],
+                    [
+                        595,
+                        236
+                    ],
+                    [
+                        589,
+                        235
+                    ],
+                    [
+                        581,
+                        239
+                    ],
+                    [
+                        575,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47833940,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:38.879Z",
+            "updatedAt": "2023-09-20T11:03:38.879Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        569,
+                        223
+                    ],
+                    [
+                        639,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

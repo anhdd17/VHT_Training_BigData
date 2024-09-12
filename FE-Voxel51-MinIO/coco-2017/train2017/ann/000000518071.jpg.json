@@ -1,0 +1,116 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4775470,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A smart phone sitting on top of a blanket next to a red case.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:44.787Z",
+            "updatedAt": "2023-09-20T10:48:44.787Z"
+        },
+        {
+            "id": 4775471,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cell phone has been placed next to a battery on a blanket.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:44.787Z",
+            "updatedAt": "2023-09-20T10:48:44.787Z"
+        },
+        {
+            "id": 4775472,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cell phone laying face down with the battery taken out of it",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:44.787Z",
+            "updatedAt": "2023-09-20T10:48:44.787Z"
+        },
+        {
+            "id": 4775473,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cellphone and a battery sitting on a towel.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:44.787Z",
+            "updatedAt": "2023-09-20T10:48:44.787Z"
+        },
+        {
+            "id": 4775474,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cell phone next to a small red device.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:44.787Z",
+            "updatedAt": "2023-09-20T10:48:44.787Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46994011,
+            "classId": 6461830,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:44.789Z",
+            "updatedAt": "2023-09-20T10:48:44.789Z",
+            "tags": [],
+            "classTitle": "cell phone",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        347
+                    ],
+                    [
+                        319,
+                        86
+                    ],
+                    [
+                        167,
+                        99
+                    ],
+                    [
+                        167,
+                        383
+                    ],
+                    [
+                        358,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46994010,
+            "classId": 6461830,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:44.788Z",
+            "updatedAt": "2023-09-20T10:48:44.788Z",
+            "tags": [],
+            "classTitle": "cell phone",
+            "points": {
+                "exterior": [
+                    [
+                        167,
+                        86
+                    ],
+                    [
+                        362,
+                        383
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

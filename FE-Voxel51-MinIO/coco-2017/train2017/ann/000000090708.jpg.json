@@ -1,0 +1,524 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4557693,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A kitchen scene with focus on the oven, range and microwave.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.651Z",
+            "updatedAt": "2023-09-20T10:35:10.651Z"
+        },
+        {
+            "id": 4557694,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A demo kitchen setup with new appliances and furnishings.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.651Z",
+            "updatedAt": "2023-09-20T10:35:10.651Z"
+        },
+        {
+            "id": 4557695,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "White compact kitchen with black and stainless steel appliances.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.651Z",
+            "updatedAt": "2023-09-20T10:35:10.651Z"
+        },
+        {
+            "id": 4557696,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a kitchen with a refrigerator a stove a microwave",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.651Z",
+            "updatedAt": "2023-09-20T10:35:10.651Z"
+        },
+        {
+            "id": 4557697,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a kitchen with brand new appliances in the room",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.651Z",
+            "updatedAt": "2023-09-20T10:35:10.651Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 46234966,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.652Z",
+            "updatedAt": "2023-09-20T10:35:10.652Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        305
+                    ],
+                    [
+                        47,
+                        316
+                    ],
+                    [
+                        66,
+                        341
+                    ],
+                    [
+                        87,
+                        353
+                    ],
+                    [
+                        96,
+                        360
+                    ],
+                    [
+                        87,
+                        407
+                    ],
+                    [
+                        88,
+                        456
+                    ],
+                    [
+                        92,
+                        508
+                    ],
+                    [
+                        82,
+                        506
+                    ],
+                    [
+                        82,
+                        480
+                    ],
+                    [
+                        72,
+                        482
+                    ],
+                    [
+                        65,
+                        462
+                    ],
+                    [
+                        0,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46234965,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.652Z",
+            "updatedAt": "2023-09-20T10:35:10.652Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        305
+                    ],
+                    [
+                        96,
+                        508
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46234964,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.652Z",
+            "updatedAt": "2023-09-20T10:35:10.652Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        381,
+                        184
+                    ],
+                    [
+                        396,
+                        192
+                    ],
+                    [
+                        405,
+                        212
+                    ],
+                    [
+                        389,
+                        304
+                    ],
+                    [
+                        370,
+                        305
+                    ],
+                    [
+                        374,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46234963,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.652Z",
+            "updatedAt": "2023-09-20T10:35:10.652Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        184
+                    ],
+                    [
+                        405,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46234962,
+            "classId": 6461835,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.652Z",
+            "updatedAt": "2023-09-20T10:35:10.652Z",
+            "tags": [],
+            "classTitle": "refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        29,
+                        151
+                    ],
+                    [
+                        93,
+                        151
+                    ],
+                    [
+                        148,
+                        159
+                    ],
+                    [
+                        163,
+                        157
+                    ],
+                    [
+                        158,
+                        255
+                    ],
+                    [
+                        118,
+                        271
+                    ],
+                    [
+                        112,
+                        279
+                    ],
+                    [
+                        112,
+                        397
+                    ],
+                    [
+                        92,
+                        404
+                    ],
+                    [
+                        96,
+                        377
+                    ],
+                    [
+                        82,
+                        363
+                    ],
+                    [
+                        76,
+                        351
+                    ],
+                    [
+                        65,
+                        340
+                    ],
+                    [
+                        43,
+                        314
+                    ],
+                    [
+                        20,
+                        305
+                    ],
+                    [
+                        17,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46234961,
+            "classId": 6461835,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.652Z",
+            "updatedAt": "2023-09-20T10:35:10.652Z",
+            "tags": [],
+            "classTitle": "refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        151
+                    ],
+                    [
+                        163,
+                        404
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46234960,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.652Z",
+            "updatedAt": "2023-09-20T10:35:10.652Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        122
+                    ],
+                    [
+                        223,
+                        190
+                    ],
+                    [
+                        332,
+                        195
+                    ],
+                    [
+                        336,
+                        119
+                    ],
+                    [
+                        227,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46234959,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.652Z",
+            "updatedAt": "2023-09-20T10:35:10.652Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        223,
+                        119
+                    ],
+                    [
+                        336,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46234958,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.652Z",
+            "updatedAt": "2023-09-20T10:35:10.652Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        281
+                    ],
+                    [
+                        289,
+                        311
+                    ],
+                    [
+                        271,
+                        468
+                    ],
+                    [
+                        117,
+                        404
+                    ],
+                    [
+                        120,
+                        398
+                    ],
+                    [
+                        119,
+                        392
+                    ],
+                    [
+                        113,
+                        391
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46234957,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.651Z",
+            "updatedAt": "2023-09-20T10:35:10.651Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        281
+                    ],
+                    [
+                        289,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46234956,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.651Z",
+            "updatedAt": "2023-09-20T10:35:10.651Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        269
+                    ],
+                    [
+                        179,
+                        272
+                    ],
+                    [
+                        186,
+                        273
+                    ],
+                    [
+                        193,
+                        275
+                    ],
+                    [
+                        190,
+                        280
+                    ],
+                    [
+                        165,
+                        284
+                    ],
+                    [
+                        135,
+                        279
+                    ],
+                    [
+                        113,
+                        274
+                    ],
+                    [
+                        128,
+                        271
+                    ],
+                    [
+                        163,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46234955,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:35:10.651Z",
+            "updatedAt": "2023-09-20T10:35:10.651Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        268
+                    ],
+                    [
+                        193,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,612 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4510840,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man and two dogs are in a backyard.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:28.067Z",
+            "updatedAt": "2023-09-20T10:32:28.067Z"
+        },
+        {
+            "id": 4510841,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man stands in a yard with two dogs. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:28.067Z",
+            "updatedAt": "2023-09-20T10:32:28.067Z"
+        },
+        {
+            "id": 4510842,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man scolds one of two dogs in a backyard",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:28.067Z",
+            "updatedAt": "2023-09-20T10:32:28.067Z"
+        },
+        {
+            "id": 4510843,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man standing next to a dog on top of a grass yard.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:28.067Z",
+            "updatedAt": "2023-09-20T10:32:28.067Z"
+        },
+        {
+            "id": 4510844,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Little dog lays on the ground as owner and other dog stands near garden",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:28.067Z",
+            "updatedAt": "2023-09-20T10:32:28.067Z"
+        }
+    ],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 46072757,
+            "classId": 6461779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:28.068Z",
+            "updatedAt": "2023-09-20T10:32:28.068Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        66,
+                        292
+                    ],
+                    [
+                        86,
+                        290
+                    ],
+                    [
+                        91,
+                        291
+                    ],
+                    [
+                        96,
+                        299
+                    ],
+                    [
+                        96,
+                        306
+                    ],
+                    [
+                        90,
+                        307
+                    ],
+                    [
+                        90,
+                        307
+                    ],
+                    [
+                        67,
+                        313
+                    ],
+                    [
+                        58,
+                        312
+                    ],
+                    [
+                        52,
+                        315
+                    ],
+                    [
+                        34,
+                        321
+                    ],
+                    [
+                        18,
+                        323
+                    ],
+                    [
+                        31,
+                        314
+                    ],
+                    [
+                        41,
+                        307
+                    ],
+                    [
+                        34,
+                        303
+                    ],
+                    [
+                        34,
+                        303
+                    ],
+                    [
+                        30,
+                        300
+                    ],
+                    [
+                        28,
+                        296
+                    ],
+                    [
+                        30,
+                        289
+                    ],
+                    [
+                        39,
+                        282
+                    ],
+                    [
+                        47,
+                        277
+                    ],
+                    [
+                        50,
+                        277
+                    ],
+                    [
+                        51,
+                        285
+                    ],
+                    [
+                        51,
+                        285
+                    ],
+                    [
+                        59,
+                        290
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46072756,
+            "classId": 6461779,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:28.068Z",
+            "updatedAt": "2023-09-20T10:32:28.068Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        277
+                    ],
+                    [
+                        96,
+                        323
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46072755,
+            "classId": 6461779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:28.068Z",
+            "updatedAt": "2023-09-20T10:32:28.068Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        228
+                    ],
+                    [
+                        268,
+                        226
+                    ],
+                    [
+                        270,
+                        223
+                    ],
+                    [
+                        272,
+                        220
+                    ],
+                    [
+                        275,
+                        216
+                    ],
+                    [
+                        276,
+                        219
+                    ],
+                    [
+                        278,
+                        222
+                    ],
+                    [
+                        282,
+                        223
+                    ],
+                    [
+                        285,
+                        224
+                    ],
+                    [
+                        291,
+                        225
+                    ],
+                    [
+                        298,
+                        226
+                    ],
+                    [
+                        303,
+                        229
+                    ],
+                    [
+                        306,
+                        232
+                    ],
+                    [
+                        308,
+                        236
+                    ],
+                    [
+                        309,
+                        240
+                    ],
+                    [
+                        309,
+                        242
+                    ],
+                    [
+                        310,
+                        245
+                    ],
+                    [
+                        311,
+                        248
+                    ],
+                    [
+                        311,
+                        250
+                    ],
+                    [
+                        311,
+                        252
+                    ],
+                    [
+                        309,
+                        251
+                    ],
+                    [
+                        308,
+                        249
+                    ],
+                    [
+                        308,
+                        246
+                    ],
+                    [
+                        306,
+                        244
+                    ],
+                    [
+                        305,
+                        242
+                    ],
+                    [
+                        302,
+                        240
+                    ],
+                    [
+                        301,
+                        243
+                    ],
+                    [
+                        300,
+                        245
+                    ],
+                    [
+                        300,
+                        247
+                    ],
+                    [
+                        301,
+                        250
+                    ],
+                    [
+                        301,
+                        251
+                    ],
+                    [
+                        301,
+                        252
+                    ],
+                    [
+                        301,
+                        253
+                    ],
+                    [
+                        299,
+                        253
+                    ],
+                    [
+                        299,
+                        251
+                    ],
+                    [
+                        298,
+                        249
+                    ],
+                    [
+                        297,
+                        246
+                    ],
+                    [
+                        297,
+                        243
+                    ],
+                    [
+                        296,
+                        242
+                    ],
+                    [
+                        294,
+                        241
+                    ],
+                    [
+                        291,
+                        240
+                    ],
+                    [
+                        288,
+                        239
+                    ],
+                    [
+                        288,
+                        241
+                    ],
+                    [
+                        288,
+                        244
+                    ],
+                    [
+                        288,
+                        247
+                    ],
+                    [
+                        288,
+                        247
+                    ],
+                    [
+                        286,
+                        247
+                    ],
+                    [
+                        286,
+                        245
+                    ],
+                    [
+                        285,
+                        242
+                    ],
+                    [
+                        284,
+                        245
+                    ],
+                    [
+                        284,
+                        249
+                    ],
+                    [
+                        282,
+                        248
+                    ],
+                    [
+                        281,
+                        246
+                    ],
+                    [
+                        281,
+                        241
+                    ],
+                    [
+                        280,
+                        238
+                    ],
+                    [
+                        278,
+                        235
+                    ],
+                    [
+                        276,
+                        232
+                    ],
+                    [
+                        275,
+                        232
+                    ],
+                    [
+                        273,
+                        232
+                    ],
+                    [
+                        270,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46072754,
+            "classId": 6461779,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:28.068Z",
+            "updatedAt": "2023-09-20T10:32:28.068Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        216
+                    ],
+                    [
+                        311,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46072753,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:28.067Z",
+            "updatedAt": "2023-09-20T10:32:28.067Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        236
+                    ],
+                    [
+                        217,
+                        198
+                    ],
+                    [
+                        209,
+                        175
+                    ],
+                    [
+                        205,
+                        172
+                    ],
+                    [
+                        211,
+                        155
+                    ],
+                    [
+                        203,
+                        145
+                    ],
+                    [
+                        215,
+                        128
+                    ],
+                    [
+                        235,
+                        117
+                    ],
+                    [
+                        244,
+                        123
+                    ],
+                    [
+                        238,
+                        134
+                    ],
+                    [
+                        232,
+                        135
+                    ],
+                    [
+                        234,
+                        145
+                    ],
+                    [
+                        235,
+                        150
+                    ],
+                    [
+                        233,
+                        165
+                    ],
+                    [
+                        231,
+                        191
+                    ],
+                    [
+                        228,
+                        214
+                    ],
+                    [
+                        227,
+                        220
+                    ],
+                    [
+                        230,
+                        229
+                    ],
+                    [
+                        238,
+                        235
+                    ],
+                    [
+                        233,
+                        239
+                    ],
+                    [
+                        223,
+                        237
+                    ],
+                    [
+                        221,
+                        241
+                    ],
+                    [
+                        210,
+                        242
+                    ],
+                    [
+                        207,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46072752,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:28.067Z",
+            "updatedAt": "2023-09-20T10:32:28.067Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        117
+                    ],
+                    [
+                        244,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

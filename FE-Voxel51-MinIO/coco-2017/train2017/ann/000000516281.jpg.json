@@ -1,0 +1,376 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4689248,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A blue and white bus on street next to a bus stop.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:22.640Z",
+            "updatedAt": "2023-09-20T10:43:22.640Z"
+        },
+        {
+            "id": 4689249,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A city bus that is parked both the curb letting on some people. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:22.640Z",
+            "updatedAt": "2023-09-20T10:43:22.640Z"
+        },
+        {
+            "id": 4689250,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A blue bus stops near the side of the street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:22.640Z",
+            "updatedAt": "2023-09-20T10:43:22.640Z"
+        },
+        {
+            "id": 4689251,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A bus sits on the side of a street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:22.640Z",
+            "updatedAt": "2023-09-20T10:43:22.640Z"
+        },
+        {
+            "id": 4689252,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "there is a blue and black bus stopped at a bus stop",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:22.640Z",
+            "updatedAt": "2023-09-20T10:43:22.640Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46692178,
+            "classId": 6461768,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:22.642Z",
+            "updatedAt": "2023-09-20T10:43:22.642Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        151
+                    ],
+                    [
+                        192,
+                        135
+                    ],
+                    [
+                        254,
+                        144
+                    ],
+                    [
+                        326,
+                        144
+                    ],
+                    [
+                        379,
+                        142
+                    ],
+                    [
+                        438,
+                        145
+                    ],
+                    [
+                        461,
+                        151
+                    ],
+                    [
+                        463,
+                        157
+                    ],
+                    [
+                        546,
+                        165
+                    ],
+                    [
+                        603,
+                        171
+                    ],
+                    [
+                        611,
+                        244
+                    ],
+                    [
+                        607,
+                        292
+                    ],
+                    [
+                        576,
+                        310
+                    ],
+                    [
+                        543,
+                        311
+                    ],
+                    [
+                        535,
+                        325
+                    ],
+                    [
+                        521,
+                        325
+                    ],
+                    [
+                        514,
+                        316
+                    ],
+                    [
+                        407,
+                        328
+                    ],
+                    [
+                        336,
+                        336
+                    ],
+                    [
+                        337,
+                        347
+                    ],
+                    [
+                        317,
+                        356
+                    ],
+                    [
+                        304,
+                        362
+                    ],
+                    [
+                        295,
+                        356
+                    ],
+                    [
+                        285,
+                        347
+                    ],
+                    [
+                        211,
+                        354
+                    ],
+                    [
+                        68,
+                        345
+                    ],
+                    [
+                        55,
+                        325
+                    ],
+                    [
+                        52,
+                        260
+                    ],
+                    [
+                        68,
+                        186
+                    ],
+                    [
+                        74,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46692177,
+            "classId": 6461768,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:22.642Z",
+            "updatedAt": "2023-09-20T10:43:22.642Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        135
+                    ],
+                    [
+                        611,
+                        362
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46692176,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:22.642Z",
+            "updatedAt": "2023-09-20T10:43:22.642Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        188,
+                        242
+                    ],
+                    [
+                        194,
+                        236
+                    ],
+                    [
+                        199,
+                        230
+                    ],
+                    [
+                        197,
+                        218
+                    ],
+                    [
+                        199,
+                        215
+                    ],
+                    [
+                        202,
+                        214
+                    ],
+                    [
+                        205,
+                        213
+                    ],
+                    [
+                        207,
+                        259
+                    ],
+                    [
+                        206,
+                        258
+                    ],
+                    [
+                        201,
+                        248
+                    ],
+                    [
+                        198,
+                        246
+                    ],
+                    [
+                        193,
+                        245
+                    ],
+                    [
+                        188,
+                        248
+                    ],
+                    [
+                        187,
+                        247
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46692175,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:22.641Z",
+            "updatedAt": "2023-09-20T10:43:22.641Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        229
+                    ],
+                    [
+                        221,
+                        235
+                    ],
+                    [
+                        225,
+                        244
+                    ],
+                    [
+                        226,
+                        257
+                    ],
+                    [
+                        213,
+                        257
+                    ],
+                    [
+                        214,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46692174,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:22.640Z",
+            "updatedAt": "2023-09-20T10:43:22.640Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        213
+                    ],
+                    [
+                        207,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46692173,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:22.640Z",
+            "updatedAt": "2023-09-20T10:43:22.640Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        213,
+                        229
+                    ],
+                    [
+                        226,
+                        257
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

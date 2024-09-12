@@ -1,0 +1,692 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4842114,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a bedroom with a couch tv and bed sitting on a hardwood floor",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.136Z",
+            "updatedAt": "2023-09-20T10:52:47.136Z"
+        },
+        {
+            "id": 4842115,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A studio apartment has a bed and sofa",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.136Z",
+            "updatedAt": "2023-09-20T10:52:47.136Z"
+        },
+        {
+            "id": 4842116,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A very nice looking room with a very bright window.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.136Z",
+            "updatedAt": "2023-09-20T10:52:47.136Z"
+        },
+        {
+            "id": 4842117,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The bare essentials are needed in a new apartment.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.136Z",
+            "updatedAt": "2023-09-20T10:52:47.136Z"
+        },
+        {
+            "id": 4842118,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a living room with a couch and cardboard boxes behind it ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.136Z",
+            "updatedAt": "2023-09-20T10:52:47.136Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47225251,
+            "classId": 6461825,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.144Z",
+            "updatedAt": "2023-09-20T10:52:47.144Z",
+            "tags": [],
+            "classTitle": "tv",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        156
+                    ],
+                    [
+                        237,
+                        133
+                    ],
+                    [
+                        248,
+                        189
+                    ],
+                    [
+                        200,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47225250,
+            "classId": 6461825,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.144Z",
+            "updatedAt": "2023-09-20T10:52:47.144Z",
+            "tags": [],
+            "classTitle": "tv",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        133
+                    ],
+                    [
+                        248,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47225249,
+            "classId": 6461820,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.143Z",
+            "updatedAt": "2023-09-20T10:52:47.143Z",
+            "tags": [],
+            "classTitle": "couch",
+            "points": {
+                "exterior": [
+                    [
+                        449,
+                        150
+                    ],
+                    [
+                        451,
+                        141
+                    ],
+                    [
+                        457,
+                        134
+                    ],
+                    [
+                        485,
+                        133
+                    ],
+                    [
+                        493,
+                        116
+                    ],
+                    [
+                        506,
+                        108
+                    ],
+                    [
+                        514,
+                        106
+                    ],
+                    [
+                        521,
+                        108
+                    ],
+                    [
+                        525,
+                        111
+                    ],
+                    [
+                        526,
+                        120
+                    ],
+                    [
+                        530,
+                        121
+                    ],
+                    [
+                        531,
+                        123
+                    ],
+                    [
+                        530,
+                        168
+                    ],
+                    [
+                        514,
+                        245
+                    ],
+                    [
+                        517,
+                        279
+                    ],
+                    [
+                        508,
+                        284
+                    ],
+                    [
+                        392,
+                        277
+                    ],
+                    [
+                        393,
+                        270
+                    ],
+                    [
+                        388,
+                        273
+                    ],
+                    [
+                        394,
+                        235
+                    ],
+                    [
+                        389,
+                        229
+                    ],
+                    [
+                        388,
+                        211
+                    ],
+                    [
+                        409,
+                        181
+                    ],
+                    [
+                        416,
+                        176
+                    ],
+                    [
+                        418,
+                        170
+                    ],
+                    [
+                        429,
+                        157
+                    ],
+                    [
+                        438,
+                        149
+                    ],
+                    [
+                        449,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47225248,
+            "classId": 6461820,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.143Z",
+            "updatedAt": "2023-09-20T10:52:47.143Z",
+            "tags": [],
+            "classTitle": "couch",
+            "points": {
+                "exterior": [
+                    [
+                        388,
+                        106
+                    ],
+                    [
+                        531,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47225247,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.142Z",
+            "updatedAt": "2023-09-20T10:52:47.142Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        286
+                    ],
+                    [
+                        23,
+                        288
+                    ],
+                    [
+                        37,
+                        293
+                    ],
+                    [
+                        68,
+                        296
+                    ],
+                    [
+                        110,
+                        301
+                    ],
+                    [
+                        146,
+                        305
+                    ],
+                    [
+                        196,
+                        316
+                    ],
+                    [
+                        233,
+                        320
+                    ],
+                    [
+                        259,
+                        336
+                    ],
+                    [
+                        280,
+                        363
+                    ],
+                    [
+                        288,
+                        373
+                    ],
+                    [
+                        287,
+                        394
+                    ],
+                    [
+                        287,
+                        406
+                    ],
+                    [
+                        290,
+                        415
+                    ],
+                    [
+                        277,
+                        410
+                    ],
+                    [
+                        269,
+                        403
+                    ],
+                    [
+                        263,
+                        399
+                    ],
+                    [
+                        265,
+                        421
+                    ],
+                    [
+                        0,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47225246,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.140Z",
+            "updatedAt": "2023-09-20T10:52:47.140Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        286
+                    ],
+                    [
+                        290,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47225245,
+            "classId": 6461828,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.139Z",
+            "updatedAt": "2023-09-20T10:52:47.139Z",
+            "tags": [],
+            "classTitle": "remote",
+            "points": {
+                "exterior": [
+                    [
+                        456,
+                        167
+                    ],
+                    [
+                        446,
+                        161
+                    ],
+                    [
+                        445,
+                        159
+                    ],
+                    [
+                        450,
+                        157
+                    ],
+                    [
+                        461,
+                        165
+                    ],
+                    [
+                        462,
+                        168
+                    ],
+                    [
+                        456,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47225244,
+            "classId": 6461828,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.139Z",
+            "updatedAt": "2023-09-20T10:52:47.139Z",
+            "tags": [],
+            "classTitle": "remote",
+            "points": {
+                "exterior": [
+                    [
+                        445,
+                        157
+                    ],
+                    [
+                        462,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47225243,
+            "classId": 6461787,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.139Z",
+            "updatedAt": "2023-09-20T10:52:47.139Z",
+            "tags": [],
+            "classTitle": "backpack",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        340
+                    ],
+                    [
+                        65,
+                        334
+                    ],
+                    [
+                        73,
+                        329
+                    ],
+                    [
+                        80,
+                        326
+                    ],
+                    [
+                        90,
+                        324
+                    ],
+                    [
+                        98,
+                        323
+                    ],
+                    [
+                        115,
+                        323
+                    ],
+                    [
+                        127,
+                        324
+                    ],
+                    [
+                        145,
+                        329
+                    ],
+                    [
+                        152,
+                        337
+                    ],
+                    [
+                        154,
+                        343
+                    ],
+                    [
+                        152,
+                        359
+                    ],
+                    [
+                        150,
+                        361
+                    ],
+                    [
+                        143,
+                        366
+                    ],
+                    [
+                        127,
+                        377
+                    ],
+                    [
+                        120,
+                        393
+                    ],
+                    [
+                        106,
+                        400
+                    ],
+                    [
+                        91,
+                        406
+                    ],
+                    [
+                        79,
+                        411
+                    ],
+                    [
+                        67,
+                        414
+                    ],
+                    [
+                        59,
+                        419
+                    ],
+                    [
+                        26,
+                        415
+                    ],
+                    [
+                        22,
+                        394
+                    ],
+                    [
+                        18,
+                        382
+                    ],
+                    [
+                        13,
+                        372
+                    ],
+                    [
+                        10,
+                        364
+                    ],
+                    [
+                        8,
+                        352
+                    ],
+                    [
+                        8,
+                        346
+                    ],
+                    [
+                        14,
+                        340
+                    ],
+                    [
+                        31,
+                        339
+                    ],
+                    [
+                        43,
+                        339
+                    ],
+                    [
+                        45,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47225242,
+            "classId": 6461787,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.138Z",
+            "updatedAt": "2023-09-20T10:52:47.138Z",
+            "tags": [],
+            "classTitle": "backpack",
+            "points": {
+                "exterior": [
+                    [
+                        8,
+                        323
+                    ],
+                    [
+                        154,
+                        419
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47225241,
+            "classId": 6461828,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.137Z",
+            "updatedAt": "2023-09-20T10:52:47.137Z",
+            "tags": [],
+            "classTitle": "remote",
+            "points": {
+                "exterior": [
+                    [
+                        459,
+                        156
+                    ],
+                    [
+                        452,
+                        158
+                    ],
+                    [
+                        450,
+                        156
+                    ],
+                    [
+                        443,
+                        161
+                    ],
+                    [
+                        441,
+                        161
+                    ],
+                    [
+                        439,
+                        160
+                    ],
+                    [
+                        438,
+                        158
+                    ],
+                    [
+                        450,
+                        156
+                    ],
+                    [
+                        457,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47225240,
+            "classId": 6461828,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.137Z",
+            "updatedAt": "2023-09-20T10:52:47.137Z",
+            "tags": [],
+            "classTitle": "remote",
+            "points": {
+                "exterior": [
+                    [
+                        438,
+                        154
+                    ],
+                    [
+                        459,
+                        161
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

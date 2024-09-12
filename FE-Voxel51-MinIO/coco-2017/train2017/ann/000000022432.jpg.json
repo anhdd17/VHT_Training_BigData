@@ -1,0 +1,340 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4506157,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A very clean bedroom with two beds, lights and a TV.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:11.057Z",
+            "updatedAt": "2023-09-20T10:32:11.057Z"
+        },
+        {
+            "id": 4506158,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There are two beds and lamps in the bedroom.  ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:11.057Z",
+            "updatedAt": "2023-09-20T10:32:11.057Z"
+        },
+        {
+            "id": 4506159,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A room with two beds, a dresser drawer and flat screen TV. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:11.057Z",
+            "updatedAt": "2023-09-20T10:32:11.057Z"
+        },
+        {
+            "id": 4506160,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A hotel room with two beds, a television and two lamps.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:11.057Z",
+            "updatedAt": "2023-09-20T10:32:11.057Z"
+        },
+        {
+            "id": 4506161,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "It is a double occupancy hotel room with two beds and a television.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:11.057Z",
+            "updatedAt": "2023-09-20T10:32:11.057Z"
+        }
+    ],
+    "size": {
+        "height": 426,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46056730,
+            "classId": 6461825,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:11.059Z",
+            "updatedAt": "2023-09-20T10:32:11.059Z",
+            "tags": [],
+            "classTitle": "tv",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        13
+                    ],
+                    [
+                        54,
+                        9
+                    ],
+                    [
+                        54,
+                        9
+                    ],
+                    [
+                        60,
+                        5
+                    ],
+                    [
+                        130,
+                        107
+                    ],
+                    [
+                        126,
+                        218
+                    ],
+                    [
+                        56,
+                        239
+                    ],
+                    [
+                        39,
+                        231
+                    ],
+                    [
+                        18,
+                        219
+                    ],
+                    [
+                        23,
+                        35
+                    ],
+                    [
+                        38,
+                        28
+                    ],
+                    [
+                        40,
+                        20
+                    ],
+                    [
+                        41,
+                        15
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46056729,
+            "classId": 6461825,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:11.058Z",
+            "updatedAt": "2023-09-20T10:32:11.058Z",
+            "tags": [],
+            "classTitle": "tv",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        5
+                    ],
+                    [
+                        130,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46056728,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:11.058Z",
+            "updatedAt": "2023-09-20T10:32:11.058Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        288
+                    ],
+                    [
+                        321,
+                        302
+                    ],
+                    [
+                        445,
+                        283
+                    ],
+                    [
+                        453,
+                        250
+                    ],
+                    [
+                        438,
+                        211
+                    ],
+                    [
+                        379,
+                        215
+                    ],
+                    [
+                        373,
+                        239
+                    ],
+                    [
+                        266,
+                        251
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46056727,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:11.058Z",
+            "updatedAt": "2023-09-20T10:32:11.058Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        211
+                    ],
+                    [
+                        453,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46056726,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:11.057Z",
+            "updatedAt": "2023-09-20T10:32:11.057Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        404,
+                        415
+                    ],
+                    [
+                        394,
+                        403
+                    ],
+                    [
+                        398,
+                        319
+                    ],
+                    [
+                        420,
+                        303
+                    ],
+                    [
+                        497,
+                        288
+                    ],
+                    [
+                        520,
+                        286
+                    ],
+                    [
+                        543,
+                        281
+                    ],
+                    [
+                        560,
+                        257
+                    ],
+                    [
+                        562,
+                        231
+                    ],
+                    [
+                        639,
+                        243
+                    ],
+                    [
+                        639,
+                        261
+                    ],
+                    [
+                        636,
+                        315
+                    ],
+                    [
+                        639,
+                        369
+                    ],
+                    [
+                        639,
+                        418
+                    ],
+                    [
+                        638,
+                        421
+                    ],
+                    [
+                        525,
+                        418
+                    ],
+                    [
+                        479,
+                        420
+                    ],
+                    [
+                        434,
+                        420
+                    ],
+                    [
+                        404,
+                        417
+                    ],
+                    [
+                        401,
+                        414
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46056725,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:11.057Z",
+            "updatedAt": "2023-09-20T10:32:11.057Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        394,
+                        231
+                    ],
+                    [
+                        639,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

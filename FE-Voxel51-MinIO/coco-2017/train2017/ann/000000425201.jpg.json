@@ -1,0 +1,876 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4842559,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Some cut bananas on a cutting tray near a microwave.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.966Z",
+            "updatedAt": "2023-09-20T10:52:47.966Z"
+        },
+        {
+            "id": 4842560,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A plate topped with two bananas and a couple of sliced ones.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.966Z",
+            "updatedAt": "2023-09-20T10:52:47.966Z"
+        },
+        {
+            "id": 4842561,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a cutting board filled with some sliced bananas ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.966Z",
+            "updatedAt": "2023-09-20T10:52:47.966Z"
+        },
+        {
+            "id": 4842562,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Bananas are being cut into pieces on a kitchen counter.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.966Z",
+            "updatedAt": "2023-09-20T10:52:47.966Z"
+        },
+        {
+            "id": 4842563,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Bananas sliced with a knife in front of the microwave",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.966Z",
+            "updatedAt": "2023-09-20T10:52:47.966Z"
+        }
+    ],
+    "size": {
+        "height": 478,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47226747,
+            "classId": 6461806,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "knife",
+            "points": {
+                "exterior": [
+                    [
+                        478,
+                        298
+                    ],
+                    [
+                        523,
+                        405
+                    ],
+                    [
+                        569,
+                        396
+                    ],
+                    [
+                        525,
+                        302
+                    ],
+                    [
+                        527,
+                        290
+                    ],
+                    [
+                        513,
+                        289
+                    ],
+                    [
+                        472,
+                        227
+                    ],
+                    [
+                        462,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226746,
+            "classId": 6461806,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "knife",
+            "points": {
+                "exterior": [
+                    [
+                        462,
+                        227
+                    ],
+                    [
+                        569,
+                        405
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226745,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        377
+                    ],
+                    [
+                        435,
+                        343
+                    ],
+                    [
+                        419,
+                        310
+                    ],
+                    [
+                        414,
+                        277
+                    ],
+                    [
+                        440,
+                        242
+                    ],
+                    [
+                        462,
+                        213
+                    ],
+                    [
+                        459,
+                        190
+                    ],
+                    [
+                        444,
+                        187
+                    ],
+                    [
+                        406,
+                        214
+                    ],
+                    [
+                        374,
+                        248
+                    ],
+                    [
+                        365,
+                        301
+                    ],
+                    [
+                        373,
+                        358
+                    ],
+                    [
+                        419,
+                        393
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226744,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        187
+                    ],
+                    [
+                        462,
+                        393
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226743,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        389
+                    ],
+                    [
+                        379,
+                        390
+                    ],
+                    [
+                        388,
+                        384
+                    ],
+                    [
+                        389,
+                        371
+                    ],
+                    [
+                        380,
+                        351
+                    ],
+                    [
+                        367,
+                        328
+                    ],
+                    [
+                        362,
+                        309
+                    ],
+                    [
+                        360,
+                        293
+                    ],
+                    [
+                        363,
+                        271
+                    ],
+                    [
+                        368,
+                        257
+                    ],
+                    [
+                        378,
+                        238
+                    ],
+                    [
+                        392,
+                        224
+                    ],
+                    [
+                        405,
+                        209
+                    ],
+                    [
+                        411,
+                        205
+                    ],
+                    [
+                        403,
+                        200
+                    ],
+                    [
+                        383,
+                        201
+                    ],
+                    [
+                        358,
+                        212
+                    ],
+                    [
+                        337,
+                        228
+                    ],
+                    [
+                        324,
+                        248
+                    ],
+                    [
+                        318,
+                        267
+                    ],
+                    [
+                        315,
+                        285
+                    ],
+                    [
+                        316,
+                        308
+                    ],
+                    [
+                        317,
+                        321
+                    ],
+                    [
+                        321,
+                        338
+                    ],
+                    [
+                        330,
+                        357
+                    ],
+                    [
+                        341,
+                        372
+                    ],
+                    [
+                        349,
+                        381
+                    ],
+                    [
+                        361,
+                        387
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226742,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        200
+                    ],
+                    [
+                        411,
+                        390
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226741,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        178
+                    ],
+                    [
+                        142,
+                        189
+                    ],
+                    [
+                        196,
+                        180
+                    ],
+                    [
+                        235,
+                        177
+                    ],
+                    [
+                        268,
+                        173
+                    ],
+                    [
+                        283,
+                        182
+                    ],
+                    [
+                        279,
+                        193
+                    ],
+                    [
+                        253,
+                        201
+                    ],
+                    [
+                        219,
+                        210
+                    ],
+                    [
+                        182,
+                        213
+                    ],
+                    [
+                        135,
+                        208
+                    ],
+                    [
+                        98,
+                        206
+                    ],
+                    [
+                        105,
+                        177
+                    ],
+                    [
+                        115,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226740,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        173
+                    ],
+                    [
+                        283,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226739,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        1
+                    ],
+                    [
+                        629,
+                        3
+                    ],
+                    [
+                        602,
+                        128
+                    ],
+                    [
+                        574,
+                        133
+                    ],
+                    [
+                        165,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226738,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        1
+                    ],
+                    [
+                        629,
+                        133
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226737,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        280
+                    ],
+                    [
+                        73,
+                        282
+                    ],
+                    [
+                        62,
+                        282
+                    ],
+                    [
+                        56,
+                        271
+                    ],
+                    [
+                        56,
+                        259
+                    ],
+                    [
+                        62,
+                        252
+                    ],
+                    [
+                        70,
+                        246
+                    ],
+                    [
+                        77,
+                        244
+                    ],
+                    [
+                        82,
+                        244
+                    ],
+                    [
+                        88,
+                        242
+                    ],
+                    [
+                        106,
+                        246
+                    ],
+                    [
+                        112,
+                        248
+                    ],
+                    [
+                        112,
+                        252
+                    ],
+                    [
+                        143,
+                        249
+                    ],
+                    [
+                        160,
+                        244
+                    ],
+                    [
+                        162,
+                        248
+                    ],
+                    [
+                        190,
+                        234
+                    ],
+                    [
+                        202,
+                        256
+                    ],
+                    [
+                        201,
+                        243
+                    ],
+                    [
+                        226,
+                        228
+                    ],
+                    [
+                        233,
+                        234
+                    ],
+                    [
+                        241,
+                        254
+                    ],
+                    [
+                        244,
+                        258
+                    ],
+                    [
+                        208,
+                        280
+                    ],
+                    [
+                        206,
+                        270
+                    ],
+                    [
+                        177,
+                        290
+                    ],
+                    [
+                        173,
+                        281
+                    ],
+                    [
+                        142,
+                        293
+                    ],
+                    [
+                        116,
+                        295
+                    ],
+                    [
+                        114,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226736,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        263
+                    ],
+                    [
+                        247,
+                        251
+                    ],
+                    [
+                        256,
+                        234
+                    ],
+                    [
+                        262,
+                        228
+                    ],
+                    [
+                        273,
+                        227
+                    ],
+                    [
+                        284,
+                        229
+                    ],
+                    [
+                        286,
+                        247
+                    ],
+                    [
+                        286,
+                        260
+                    ],
+                    [
+                        280,
+                        272
+                    ],
+                    [
+                        266,
+                        279
+                    ],
+                    [
+                        252,
+                        283
+                    ],
+                    [
+                        247,
+                        278
+                    ],
+                    [
+                        245,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226735,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        56,
+                        228
+                    ],
+                    [
+                        244,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226734,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.967Z",
+            "updatedAt": "2023-09-20T10:52:47.967Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        227
+                    ],
+                    [
+                        286,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226733,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.966Z",
+            "updatedAt": "2023-09-20T10:52:47.966Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        208
+                    ],
+                    [
+                        175,
+                        216
+                    ],
+                    [
+                        264,
+                        197
+                    ],
+                    [
+                        269,
+                        216
+                    ],
+                    [
+                        241,
+                        237
+                    ],
+                    [
+                        226,
+                        232
+                    ],
+                    [
+                        204,
+                        246
+                    ],
+                    [
+                        188,
+                        235
+                    ],
+                    [
+                        114,
+                        255
+                    ],
+                    [
+                        85,
+                        242
+                    ],
+                    [
+                        62,
+                        240
+                    ],
+                    [
+                        60,
+                        226
+                    ],
+                    [
+                        78,
+                        212
+                    ],
+                    [
+                        99,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47226732,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:47.966Z",
+            "updatedAt": "2023-09-20T10:52:47.966Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        197
+                    ],
+                    [
+                        269,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

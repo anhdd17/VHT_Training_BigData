@@ -1,0 +1,264 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5004313,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "AN APPLE AND BROWNING BANANA SITTING ON WINDOW SEAL",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:54.890Z",
+            "updatedAt": "2023-09-20T11:02:54.890Z"
+        },
+        {
+            "id": 5004314,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A window that has an apple and a banana sitting in front of it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:54.890Z",
+            "updatedAt": "2023-09-20T11:02:54.890Z"
+        },
+        {
+            "id": 5004315,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An apple sitting on top of a window sill next to a rotten banana.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:54.890Z",
+            "updatedAt": "2023-09-20T11:02:54.890Z"
+        },
+        {
+            "id": 5004316,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Closeup on the corner of a dark window with a half browning banana in front of a green apple on the sill.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:54.890Z",
+            "updatedAt": "2023-09-20T11:02:54.890Z"
+        },
+        {
+            "id": 5004317,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A apple and a banana on a window sill.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:54.890Z",
+            "updatedAt": "2023-09-20T11:02:54.890Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 47794221,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:54.891Z",
+            "updatedAt": "2023-09-20T11:02:54.891Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        482
+                    ],
+                    [
+                        190,
+                        492
+                    ],
+                    [
+                        204,
+                        498
+                    ],
+                    [
+                        232,
+                        504
+                    ],
+                    [
+                        267,
+                        503
+                    ],
+                    [
+                        283,
+                        502
+                    ],
+                    [
+                        300,
+                        496
+                    ],
+                    [
+                        307,
+                        488
+                    ],
+                    [
+                        313,
+                        484
+                    ],
+                    [
+                        315,
+                        480
+                    ],
+                    [
+                        316,
+                        477
+                    ],
+                    [
+                        305,
+                        479
+                    ],
+                    [
+                        302,
+                        480
+                    ],
+                    [
+                        292,
+                        476
+                    ],
+                    [
+                        241,
+                        473
+                    ],
+                    [
+                        199,
+                        470
+                    ],
+                    [
+                        193,
+                        472
+                    ],
+                    [
+                        186,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47794220,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:54.891Z",
+            "updatedAt": "2023-09-20T11:02:54.891Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        470
+                    ],
+                    [
+                        316,
+                        504
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47794219,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:54.890Z",
+            "updatedAt": "2023-09-20T11:02:54.890Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        440
+                    ],
+                    [
+                        258,
+                        436
+                    ],
+                    [
+                        265,
+                        436
+                    ],
+                    [
+                        280,
+                        442
+                    ],
+                    [
+                        284,
+                        446
+                    ],
+                    [
+                        286,
+                        455
+                    ],
+                    [
+                        285,
+                        463
+                    ],
+                    [
+                        280,
+                        475
+                    ],
+                    [
+                        273,
+                        478
+                    ],
+                    [
+                        256,
+                        477
+                    ],
+                    [
+                        238,
+                        473
+                    ],
+                    [
+                        235,
+                        467
+                    ],
+                    [
+                        236,
+                        459
+                    ],
+                    [
+                        239,
+                        451
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47794218,
+            "classId": 6461810,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:54.890Z",
+            "updatedAt": "2023-09-20T11:02:54.890Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        436
+                    ],
+                    [
+                        286,
+                        478
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

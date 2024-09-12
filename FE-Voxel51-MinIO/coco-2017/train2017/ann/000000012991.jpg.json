@@ -1,0 +1,824 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5011002,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A woman chopping vegetables in the kitchen looking at a recipe",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.320Z",
+            "updatedAt": "2023-09-20T11:03:19.320Z"
+        },
+        {
+            "id": 5011003,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Woman standing in a kitchen holding a knife looking at a computer screen. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.320Z",
+            "updatedAt": "2023-09-20T11:03:19.320Z"
+        },
+        {
+            "id": 5011004,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a woman looking at a laptop while slicing something up in the kitchen",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.320Z",
+            "updatedAt": "2023-09-20T11:03:19.320Z"
+        },
+        {
+            "id": 5011005,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A woman holds a knife and looks at a computer.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.320Z",
+            "updatedAt": "2023-09-20T11:03:19.320Z"
+        },
+        {
+            "id": 5011006,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a person looking at her laptop while cooking",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.320Z",
+            "updatedAt": "2023-09-20T11:03:19.320Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47817168,
+            "classId": 6461805,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.327Z",
+            "updatedAt": "2023-09-20T11:03:19.327Z",
+            "tags": [],
+            "classTitle": "fork",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        314
+                    ],
+                    [
+                        250,
+                        265
+                    ],
+                    [
+                        253,
+                        262
+                    ],
+                    [
+                        263,
+                        278
+                    ],
+                    [
+                        255,
+                        262
+                    ],
+                    [
+                        260,
+                        260
+                    ],
+                    [
+                        270,
+                        277
+                    ],
+                    [
+                        262,
+                        259
+                    ],
+                    [
+                        268,
+                        259
+                    ],
+                    [
+                        284,
+                        300
+                    ],
+                    [
+                        288,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47817167,
+            "classId": 6461805,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.327Z",
+            "updatedAt": "2023-09-20T11:03:19.327Z",
+            "tags": [],
+            "classTitle": "fork",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        259
+                    ],
+                    [
+                        288,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47817166,
+            "classId": 6461806,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.326Z",
+            "updatedAt": "2023-09-20T11:03:19.326Z",
+            "tags": [],
+            "classTitle": "knife",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        343
+                    ],
+                    [
+                        213,
+                        347
+                    ],
+                    [
+                        219,
+                        361
+                    ],
+                    [
+                        223,
+                        361
+                    ],
+                    [
+                        226,
+                        358
+                    ],
+                    [
+                        227,
+                        355
+                    ],
+                    [
+                        229,
+                        355
+                    ],
+                    [
+                        233,
+                        355
+                    ],
+                    [
+                        235,
+                        354
+                    ],
+                    [
+                        234,
+                        349
+                    ],
+                    [
+                        232,
+                        345
+                    ],
+                    [
+                        224,
+                        343
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47817165,
+            "classId": 6461806,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.325Z",
+            "updatedAt": "2023-09-20T11:03:19.325Z",
+            "tags": [],
+            "classTitle": "knife",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        332
+                    ],
+                    [
+                        307,
+                        315
+                    ],
+                    [
+                        312,
+                        321
+                    ],
+                    [
+                        300,
+                        330
+                    ],
+                    [
+                        278,
+                        339
+                    ],
+                    [
+                        265,
+                        347
+                    ],
+                    [
+                        258,
+                        352
+                    ],
+                    [
+                        256,
+                        350
+                    ],
+                    [
+                        258,
+                        344
+                    ],
+                    [
+                        260,
+                        335
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47817164,
+            "classId": 6461806,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.325Z",
+            "updatedAt": "2023-09-20T11:03:19.325Z",
+            "tags": [],
+            "classTitle": "knife",
+            "points": {
+                "exterior": [
+                    [
+                        213,
+                        343
+                    ],
+                    [
+                        235,
+                        361
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47817163,
+            "classId": 6461806,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.324Z",
+            "updatedAt": "2023-09-20T11:03:19.324Z",
+            "tags": [],
+            "classTitle": "knife",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        315
+                    ],
+                    [
+                        312,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47817162,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.324Z",
+            "updatedAt": "2023-09-20T11:03:19.324Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        312,
+                        472
+                    ],
+                    [
+                        185,
+                        450
+                    ],
+                    [
+                        184,
+                        439
+                    ],
+                    [
+                        187,
+                        436
+                    ],
+                    [
+                        317,
+                        424
+                    ],
+                    [
+                        329,
+                        393
+                    ],
+                    [
+                        342,
+                        323
+                    ],
+                    [
+                        366,
+                        228
+                    ],
+                    [
+                        637,
+                        229
+                    ],
+                    [
+                        639,
+                        272
+                    ],
+                    [
+                        639,
+                        297
+                    ],
+                    [
+                        596,
+                        444
+                    ],
+                    [
+                        313,
+                        472
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47817161,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.323Z",
+            "updatedAt": "2023-09-20T11:03:19.323Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        228
+                    ],
+                    [
+                        639,
+                        472
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47817160,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.323Z",
+            "updatedAt": "2023-09-20T11:03:19.323Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        472
+                    ],
+                    [
+                        55,
+                        434
+                    ],
+                    [
+                        57,
+                        411
+                    ],
+                    [
+                        58,
+                        394
+                    ],
+                    [
+                        61,
+                        380
+                    ],
+                    [
+                        57,
+                        371
+                    ],
+                    [
+                        52,
+                        367
+                    ],
+                    [
+                        52,
+                        362
+                    ],
+                    [
+                        56,
+                        229
+                    ],
+                    [
+                        72,
+                        170
+                    ],
+                    [
+                        100,
+                        134
+                    ],
+                    [
+                        113,
+                        125
+                    ],
+                    [
+                        111,
+                        97
+                    ],
+                    [
+                        111,
+                        84
+                    ],
+                    [
+                        113,
+                        76
+                    ],
+                    [
+                        113,
+                        73
+                    ],
+                    [
+                        113,
+                        60
+                    ],
+                    [
+                        118,
+                        49
+                    ],
+                    [
+                        125,
+                        35
+                    ],
+                    [
+                        138,
+                        26
+                    ],
+                    [
+                        153,
+                        22
+                    ],
+                    [
+                        190,
+                        23
+                    ],
+                    [
+                        201,
+                        29
+                    ],
+                    [
+                        208,
+                        37
+                    ],
+                    [
+                        215,
+                        56
+                    ],
+                    [
+                        218,
+                        72
+                    ],
+                    [
+                        218,
+                        85
+                    ],
+                    [
+                        216,
+                        96
+                    ],
+                    [
+                        212,
+                        104
+                    ],
+                    [
+                        207,
+                        112
+                    ],
+                    [
+                        206,
+                        112
+                    ],
+                    [
+                        197,
+                        120
+                    ],
+                    [
+                        192,
+                        128
+                    ],
+                    [
+                        187,
+                        139
+                    ],
+                    [
+                        177,
+                        145
+                    ],
+                    [
+                        166,
+                        154
+                    ],
+                    [
+                        162,
+                        167
+                    ],
+                    [
+                        162,
+                        177
+                    ],
+                    [
+                        161,
+                        206
+                    ],
+                    [
+                        180,
+                        246
+                    ],
+                    [
+                        186,
+                        264
+                    ],
+                    [
+                        187,
+                        274
+                    ],
+                    [
+                        187,
+                        278
+                    ],
+                    [
+                        187,
+                        294
+                    ],
+                    [
+                        188,
+                        304
+                    ],
+                    [
+                        221,
+                        308
+                    ],
+                    [
+                        238,
+                        313
+                    ],
+                    [
+                        249,
+                        317
+                    ],
+                    [
+                        255,
+                        318
+                    ],
+                    [
+                        258,
+                        321
+                    ],
+                    [
+                        263,
+                        327
+                    ],
+                    [
+                        262,
+                        335
+                    ],
+                    [
+                        257,
+                        344
+                    ],
+                    [
+                        248,
+                        352
+                    ],
+                    [
+                        243,
+                        355
+                    ],
+                    [
+                        242,
+                        355
+                    ],
+                    [
+                        234,
+                        345
+                    ],
+                    [
+                        230,
+                        343
+                    ],
+                    [
+                        222,
+                        341
+                    ],
+                    [
+                        216,
+                        337
+                    ],
+                    [
+                        198,
+                        335
+                    ],
+                    [
+                        197,
+                        335
+                    ],
+                    [
+                        191,
+                        338
+                    ],
+                    [
+                        201,
+                        384
+                    ],
+                    [
+                        203,
+                        411
+                    ],
+                    [
+                        198,
+                        433
+                    ],
+                    [
+                        186,
+                        437
+                    ],
+                    [
+                        189,
+                        448
+                    ],
+                    [
+                        189,
+                        452
+                    ],
+                    [
+                        190,
+                        454
+                    ],
+                    [
+                        124,
+                        469
+                    ],
+                    [
+                        96,
+                        477
+                    ],
+                    [
+                        95,
+                        479
+                    ],
+                    [
+                        64,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47817159,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.322Z",
+            "updatedAt": "2023-09-20T11:03:19.322Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        22
+                    ],
+                    [
+                        263,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47817158,
+            "classId": 6461806,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.322Z",
+            "updatedAt": "2023-09-20T11:03:19.322Z",
+            "tags": [],
+            "classTitle": "knife",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        228
+                    ],
+                    [
+                        348,
+                        221
+                    ],
+                    [
+                        348,
+                        215
+                    ],
+                    [
+                        349,
+                        211
+                    ],
+                    [
+                        350,
+                        209
+                    ],
+                    [
+                        355,
+                        211
+                    ],
+                    [
+                        358,
+                        222
+                    ],
+                    [
+                        360,
+                        232
+                    ],
+                    [
+                        361,
+                        246
+                    ],
+                    [
+                        356,
+                        264
+                    ],
+                    [
+                        354,
+                        259
+                    ],
+                    [
+                        352,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47817157,
+            "classId": 6461806,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:19.321Z",
+            "updatedAt": "2023-09-20T11:03:19.321Z",
+            "tags": [],
+            "classTitle": "knife",
+            "points": {
+                "exterior": [
+                    [
+                        348,
+                        209
+                    ],
+                    [
+                        361,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

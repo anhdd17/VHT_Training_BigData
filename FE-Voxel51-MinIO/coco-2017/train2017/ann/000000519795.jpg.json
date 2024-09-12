@@ -1,0 +1,292 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4747209,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A person on a snowboard rides down a snow hill.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:59.755Z",
+            "updatedAt": "2023-09-20T10:46:59.755Z"
+        },
+        {
+            "id": 4747210,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man is enjoying a day of snow boarding. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:59.755Z",
+            "updatedAt": "2023-09-20T10:46:59.755Z"
+        },
+        {
+            "id": 4747211,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A person is riding a snowboard down a snowy hill.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:59.755Z",
+            "updatedAt": "2023-09-20T10:46:59.755Z"
+        },
+        {
+            "id": 4747212,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man riding a snowboard down a snow covered slope.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:59.755Z",
+            "updatedAt": "2023-09-20T10:46:59.755Z"
+        },
+        {
+            "id": 4747213,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A young man  having fun going downhill on a snowboard.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:59.755Z",
+            "updatedAt": "2023-09-20T10:46:59.755Z"
+        }
+    ],
+    "size": {
+        "height": 544,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46895989,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:59.757Z",
+            "updatedAt": "2023-09-20T10:46:59.757Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        341
+                    ],
+                    [
+                        230,
+                        320
+                    ],
+                    [
+                        230,
+                        286
+                    ],
+                    [
+                        241,
+                        258
+                    ],
+                    [
+                        259,
+                        241
+                    ],
+                    [
+                        265,
+                        236
+                    ],
+                    [
+                        266,
+                        221
+                    ],
+                    [
+                        282,
+                        217
+                    ],
+                    [
+                        292,
+                        221
+                    ],
+                    [
+                        306,
+                        205
+                    ],
+                    [
+                        319,
+                        200
+                    ],
+                    [
+                        336,
+                        184
+                    ],
+                    [
+                        343,
+                        186
+                    ],
+                    [
+                        333,
+                        206
+                    ],
+                    [
+                        324,
+                        218
+                    ],
+                    [
+                        314,
+                        232
+                    ],
+                    [
+                        312,
+                        233
+                    ],
+                    [
+                        299,
+                        248
+                    ],
+                    [
+                        306,
+                        268
+                    ],
+                    [
+                        307,
+                        299
+                    ],
+                    [
+                        303,
+                        315
+                    ],
+                    [
+                        309,
+                        322
+                    ],
+                    [
+                        321,
+                        339
+                    ],
+                    [
+                        328,
+                        350
+                    ],
+                    [
+                        333,
+                        364
+                    ],
+                    [
+                        296,
+                        380
+                    ],
+                    [
+                        296,
+                        359
+                    ],
+                    [
+                        252,
+                        333
+                    ],
+                    [
+                        248,
+                        330
+                    ],
+                    [
+                        257,
+                        348
+                    ],
+                    [
+                        248,
+                        356
+                    ],
+                    [
+                        238,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46895988,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:59.757Z",
+            "updatedAt": "2023-09-20T10:46:59.757Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        184
+                    ],
+                    [
+                        343,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46895987,
+            "classId": 6461794,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:59.756Z",
+            "updatedAt": "2023-09-20T10:46:59.756Z",
+            "tags": [],
+            "classTitle": "snowboard",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        418
+                    ],
+                    [
+                        360,
+                        423
+                    ],
+                    [
+                        333,
+                        379
+                    ],
+                    [
+                        316,
+                        376
+                    ],
+                    [
+                        298,
+                        378
+                    ],
+                    [
+                        293,
+                        385
+                    ],
+                    [
+                        291,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46895986,
+            "classId": 6461794,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:59.755Z",
+            "updatedAt": "2023-09-20T10:46:59.755Z",
+            "tags": [],
+            "classTitle": "snowboard",
+            "points": {
+                "exterior": [
+                    [
+                        291,
+                        376
+                    ],
+                    [
+                        360,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

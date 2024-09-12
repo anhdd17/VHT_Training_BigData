@@ -1,0 +1,348 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4866448,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cake in the shape of a laptop computer sitting on top of a desk next to a cup of star bucks.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:21.017Z",
+            "updatedAt": "2023-09-20T10:54:21.017Z"
+        },
+        {
+            "id": 4866449,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A mouse with a lap top and a starbucks coffee",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:21.017Z",
+            "updatedAt": "2023-09-20T10:54:21.017Z"
+        },
+        {
+            "id": 4866450,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cake depicts a laptop, mouse, and latte.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:21.017Z",
+            "updatedAt": "2023-09-20T10:54:21.017Z"
+        },
+        {
+            "id": 4866451,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cake made to looks like a laptop computer and a Starbucks coffee.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:21.017Z",
+            "updatedAt": "2023-09-20T10:54:21.017Z"
+        },
+        {
+            "id": 4866452,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cake shaped like a computer and a cup of coffee",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:21.017Z",
+            "updatedAt": "2023-09-20T10:54:21.017Z"
+        }
+    ],
+    "size": {
+        "height": 360,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47311467,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:21.019Z",
+            "updatedAt": "2023-09-20T10:54:21.019Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        176
+                    ],
+                    [
+                        377,
+                        200
+                    ],
+                    [
+                        408,
+                        216
+                    ],
+                    [
+                        447,
+                        219
+                    ],
+                    [
+                        479,
+                        211
+                    ],
+                    [
+                        486,
+                        202
+                    ],
+                    [
+                        550,
+                        72
+                    ],
+                    [
+                        550,
+                        62
+                    ],
+                    [
+                        536,
+                        49
+                    ],
+                    [
+                        512,
+                        39
+                    ],
+                    [
+                        465,
+                        30
+                    ],
+                    [
+                        415,
+                        26
+                    ],
+                    [
+                        376,
+                        33
+                    ],
+                    [
+                        363,
+                        40
+                    ],
+                    [
+                        358,
+                        51
+                    ],
+                    [
+                        359,
+                        75
+                    ],
+                    [
+                        350,
+                        84
+                    ],
+                    [
+                        347,
+                        112
+                    ],
+                    [
+                        353,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47311466,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:21.019Z",
+            "updatedAt": "2023-09-20T10:54:21.019Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        347,
+                        26
+                    ],
+                    [
+                        550,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47311465,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:21.019Z",
+            "updatedAt": "2023-09-20T10:54:21.019Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        78
+                    ],
+                    [
+                        310,
+                        89
+                    ],
+                    [
+                        312,
+                        93
+                    ],
+                    [
+                        178,
+                        226
+                    ],
+                    [
+                        153,
+                        246
+                    ],
+                    [
+                        0,
+                        194
+                    ],
+                    [
+                        0,
+                        14
+                    ],
+                    [
+                        51,
+                        3
+                    ],
+                    [
+                        62,
+                        1
+                    ],
+                    [
+                        332,
+                        3
+                    ],
+                    [
+                        325,
+                        35
+                    ],
+                    [
+                        331,
+                        36
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47311464,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:21.018Z",
+            "updatedAt": "2023-09-20T10:54:21.018Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        332,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47311463,
+            "classId": 6461827,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:21.018Z",
+            "updatedAt": "2023-09-20T10:54:21.018Z",
+            "tags": [],
+            "classTitle": "mouse",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        304
+                    ],
+                    [
+                        269,
+                        345
+                    ],
+                    [
+                        217,
+                        349
+                    ],
+                    [
+                        175,
+                        336
+                    ],
+                    [
+                        159,
+                        294
+                    ],
+                    [
+                        170,
+                        250
+                    ],
+                    [
+                        210,
+                        220
+                    ],
+                    [
+                        270,
+                        212
+                    ],
+                    [
+                        325,
+                        218
+                    ],
+                    [
+                        355,
+                        243
+                    ],
+                    [
+                        361,
+                        266
+                    ],
+                    [
+                        353,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47311462,
+            "classId": 6461827,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:21.018Z",
+            "updatedAt": "2023-09-20T10:54:21.018Z",
+            "tags": [],
+            "classTitle": "mouse",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        212
+                    ],
+                    [
+                        361,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4979483,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A meatball sandwich covered in gravy in a bowl.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:01:21.421Z",
+            "updatedAt": "2023-09-20T11:01:21.421Z"
+        },
+        {
+            "id": 4979484,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A plate with meatballs and bread on it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:01:21.421Z",
+            "updatedAt": "2023-09-20T11:01:21.421Z"
+        },
+        {
+            "id": 4979485,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Meat balls in a bowl and wrapped in wax paper.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:01:21.421Z",
+            "updatedAt": "2023-09-20T11:01:21.421Z"
+        },
+        {
+            "id": 4979486,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A close up view of a meatball sandwich.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:01:21.421Z",
+            "updatedAt": "2023-09-20T11:01:21.421Z"
+        },
+        {
+            "id": 4979487,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A sandwich with with sauce and balls in it wrapped in wax paper.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:01:21.421Z",
+            "updatedAt": "2023-09-20T11:01:21.421Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47705141,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:01:21.424Z",
+            "updatedAt": "2023-09-20T11:01:21.424Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        81,
+                        279
+                    ],
+                    [
+                        96,
+                        281
+                    ],
+                    [
+                        259,
+                        361
+                    ],
+                    [
+                        431,
+                        391
+                    ],
+                    [
+                        502,
+                        398
+                    ],
+                    [
+                        639,
+                        382
+                    ],
+                    [
+                        639,
+                        402
+                    ],
+                    [
+                        638,
+                        422
+                    ],
+                    [
+                        253,
+                        422
+                    ],
+                    [
+                        198,
+                        395
+                    ],
+                    [
+                        182,
+                        374
+                    ],
+                    [
+                        143,
+                        328
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47705140,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:01:21.424Z",
+            "updatedAt": "2023-09-20T11:01:21.424Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        81,
+                        279
+                    ],
+                    [
+                        639,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47705139,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:01:21.423Z",
+            "updatedAt": "2023-09-20T11:01:21.423Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        85
+                    ],
+                    [
+                        210,
+                        67
+                    ],
+                    [
+                        246,
+                        61
+                    ],
+                    [
+                        304,
+                        58
+                    ],
+                    [
+                        341,
+                        59
+                    ],
+                    [
+                        397,
+                        66
+                    ],
+                    [
+                        432,
+                        71
+                    ],
+                    [
+                        470,
+                        78
+                    ],
+                    [
+                        506,
+                        129
+                    ],
+                    [
+                        545,
+                        172
+                    ],
+                    [
+                        558,
+                        195
+                    ],
+                    [
+                        545,
+                        210
+                    ],
+                    [
+                        544,
+                        240
+                    ],
+                    [
+                        559,
+                        286
+                    ],
+                    [
+                        567,
+                        327
+                    ],
+                    [
+                        568,
+                        333
+                    ],
+                    [
+                        558,
+                        341
+                    ],
+                    [
+                        541,
+                        344
+                    ],
+                    [
+                        503,
+                        334
+                    ],
+                    [
+                        474,
+                        336
+                    ],
+                    [
+                        440,
+                        339
+                    ],
+                    [
+                        394,
+                        340
+                    ],
+                    [
+                        343,
+                        340
+                    ],
+                    [
+                        335,
+                        336
+                    ],
+                    [
+                        350,
+                        378
+                    ],
+                    [
+                        215,
+                        342
+                    ],
+                    [
+                        171,
+                        322
+                    ],
+                    [
+                        128,
+                        296
+                    ],
+                    [
+                        122,
+                        261
+                    ],
+                    [
+                        117,
+                        236
+                    ],
+                    [
+                        136,
+                        215
+                    ],
+                    [
+                        143,
+                        189
+                    ],
+                    [
+                        147,
+                        179
+                    ],
+                    [
+                        148,
+                        173
+                    ],
+                    [
+                        156,
+                        167
+                    ],
+                    [
+                        156,
+                        144
+                    ],
+                    [
+                        154,
+                        137
+                    ],
+                    [
+                        167,
+                        135
+                    ],
+                    [
+                        179,
+                        110
+                    ],
+                    [
+                        179,
+                        97
+                    ],
+                    [
+                        186,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47705138,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:01:21.421Z",
+            "updatedAt": "2023-09-20T11:01:21.421Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        117,
+                        58
+                    ],
+                    [
+                        568,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

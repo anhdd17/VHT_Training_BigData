@@ -1,0 +1,424 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4867795,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "some buildings cars and street meters and a sign",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:25.515Z",
+            "updatedAt": "2023-09-20T10:54:25.515Z"
+        },
+        {
+            "id": 4867796,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "this is a old photo of a trust company",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:25.515Z",
+            "updatedAt": "2023-09-20T10:54:25.515Z"
+        },
+        {
+            "id": 4867797,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An old photo of two cars sitting outside a bank.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:25.515Z",
+            "updatedAt": "2023-09-20T10:54:25.515Z"
+        },
+        {
+            "id": 4867798,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A vintage photo of a city bank branch.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:25.515Z",
+            "updatedAt": "2023-09-20T10:54:25.515Z"
+        },
+        {
+            "id": 4867799,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Black and white photograph of cars in front of a building.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:25.515Z",
+            "updatedAt": "2023-09-20T10:54:25.515Z"
+        }
+    ],
+    "size": {
+        "height": 525,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47316229,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:25.519Z",
+            "updatedAt": "2023-09-20T10:54:25.519Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        563,
+                        496
+                    ],
+                    [
+                        412,
+                        496
+                    ],
+                    [
+                        397,
+                        510
+                    ],
+                    [
+                        373,
+                        515
+                    ],
+                    [
+                        355,
+                        509
+                    ],
+                    [
+                        345,
+                        495
+                    ],
+                    [
+                        315,
+                        492
+                    ],
+                    [
+                        312,
+                        488
+                    ],
+                    [
+                        314,
+                        470
+                    ],
+                    [
+                        323,
+                        466
+                    ],
+                    [
+                        325,
+                        434
+                    ],
+                    [
+                        421,
+                        430
+                    ],
+                    [
+                        450,
+                        396
+                    ],
+                    [
+                        539,
+                        397
+                    ],
+                    [
+                        561,
+                        426
+                    ],
+                    [
+                        603,
+                        429
+                    ],
+                    [
+                        629,
+                        435
+                    ],
+                    [
+                        629,
+                        492
+                    ],
+                    [
+                        623,
+                        494
+                    ],
+                    [
+                        616,
+                        495
+                    ],
+                    [
+                        605,
+                        510
+                    ],
+                    [
+                        586,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47316228,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:25.519Z",
+            "updatedAt": "2023-09-20T10:54:25.519Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        312,
+                        396
+                    ],
+                    [
+                        629,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47316227,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:25.517Z",
+            "updatedAt": "2023-09-20T10:54:25.517Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        421
+                    ],
+                    [
+                        270,
+                        431
+                    ],
+                    [
+                        268,
+                        432
+                    ],
+                    [
+                        268,
+                        434
+                    ],
+                    [
+                        268,
+                        438
+                    ],
+                    [
+                        265,
+                        439
+                    ],
+                    [
+                        263,
+                        439
+                    ],
+                    [
+                        263,
+                        430
+                    ],
+                    [
+                        261,
+                        430
+                    ],
+                    [
+                        261,
+                        420
+                    ],
+                    [
+                        265,
+                        417
+                    ],
+                    [
+                        267,
+                        416
+                    ],
+                    [
+                        269,
+                        416
+                    ],
+                    [
+                        271,
+                        418
+                    ],
+                    [
+                        271,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47316226,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:25.517Z",
+            "updatedAt": "2023-09-20T10:54:25.517Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        416
+                    ],
+                    [
+                        271,
+                        439
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47316225,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:25.517Z",
+            "updatedAt": "2023-09-20T10:54:25.517Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        433
+                    ],
+                    [
+                        197,
+                        439
+                    ],
+                    [
+                        212,
+                        446
+                    ],
+                    [
+                        216,
+                        460
+                    ],
+                    [
+                        220,
+                        466
+                    ],
+                    [
+                        216,
+                        468
+                    ],
+                    [
+                        224,
+                        473
+                    ],
+                    [
+                        224,
+                        485
+                    ],
+                    [
+                        223,
+                        489
+                    ],
+                    [
+                        216,
+                        494
+                    ],
+                    [
+                        157,
+                        493
+                    ],
+                    [
+                        150,
+                        507
+                    ],
+                    [
+                        143,
+                        513
+                    ],
+                    [
+                        135,
+                        515
+                    ],
+                    [
+                        107,
+                        514
+                    ],
+                    [
+                        101,
+                        498
+                    ],
+                    [
+                        32,
+                        498
+                    ],
+                    [
+                        11,
+                        500
+                    ],
+                    [
+                        10,
+                        399
+                    ],
+                    [
+                        28,
+                        396
+                    ],
+                    [
+                        82,
+                        399
+                    ],
+                    [
+                        117,
+                        402
+                    ],
+                    [
+                        133,
+                        408
+                    ],
+                    [
+                        145,
+                        417
+                    ],
+                    [
+                        155,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47316224,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:25.517Z",
+            "updatedAt": "2023-09-20T10:54:25.517Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        396
+                    ],
+                    [
+                        224,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

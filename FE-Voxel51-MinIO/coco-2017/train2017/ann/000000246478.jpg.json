@@ -1,0 +1,168 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4635115,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An object sitting in the middle of a paved road.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:04.838Z",
+            "updatedAt": "2023-09-20T10:40:04.838Z"
+        },
+        {
+            "id": 4635116,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A toaster sitting out in the middle of the road.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:04.838Z",
+            "updatedAt": "2023-09-20T10:40:04.838Z"
+        },
+        {
+            "id": 4635117,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A toaster sitting in the middle of the road",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:04.838Z",
+            "updatedAt": "2023-09-20T10:40:04.838Z"
+        },
+        {
+            "id": 4635118,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A mailbox laying in the middle of an empty street",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:04.838Z",
+            "updatedAt": "2023-09-20T10:40:04.838Z"
+        },
+        {
+            "id": 4635119,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A white toaster in the middle of an asphalt road.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:04.838Z",
+            "updatedAt": "2023-09-20T10:40:04.838Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46504650,
+            "classId": 6461833,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:04.840Z",
+            "updatedAt": "2023-09-20T10:40:04.840Z",
+            "tags": [],
+            "classTitle": "toaster",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        161
+                    ],
+                    [
+                        314,
+                        157
+                    ],
+                    [
+                        315,
+                        154
+                    ],
+                    [
+                        352,
+                        148
+                    ],
+                    [
+                        362,
+                        152
+                    ],
+                    [
+                        375,
+                        152
+                    ],
+                    [
+                        386,
+                        164
+                    ],
+                    [
+                        385,
+                        224
+                    ],
+                    [
+                        376,
+                        224
+                    ],
+                    [
+                        375,
+                        220
+                    ],
+                    [
+                        309,
+                        230
+                    ],
+                    [
+                        309,
+                        235
+                    ],
+                    [
+                        299,
+                        236
+                    ],
+                    [
+                        294,
+                        227
+                    ],
+                    [
+                        285,
+                        214
+                    ],
+                    [
+                        285,
+                        181
+                    ],
+                    [
+                        281,
+                        174
+                    ],
+                    [
+                        284,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46504649,
+            "classId": 6461833,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:40:04.839Z",
+            "updatedAt": "2023-09-20T10:40:04.839Z",
+            "tags": [],
+            "classTitle": "toaster",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        148
+                    ],
+                    [
+                        386,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

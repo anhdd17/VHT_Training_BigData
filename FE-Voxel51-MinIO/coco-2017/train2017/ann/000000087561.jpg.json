@@ -1,0 +1,224 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4504226,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A white toilet sitting next to a bathroom sink.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:03.887Z",
+            "updatedAt": "2023-09-20T10:32:03.887Z"
+        },
+        {
+            "id": 4504227,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A white bathroom with a toilet and a counter.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:03.887Z",
+            "updatedAt": "2023-09-20T10:32:03.887Z"
+        },
+        {
+            "id": 4504228,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a toilet cabinet drawers and a towel rack",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:03.887Z",
+            "updatedAt": "2023-09-20T10:32:03.887Z"
+        },
+        {
+            "id": 4504229,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A plain white restroom toilet appointment in corner",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:03.887Z",
+            "updatedAt": "2023-09-20T10:32:03.887Z"
+        },
+        {
+            "id": 4504230,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The bathroom is very empty and in need of updating.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:03.887Z",
+            "updatedAt": "2023-09-20T10:32:03.887Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 46050206,
+            "classId": 6461824,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:03.890Z",
+            "updatedAt": "2023-09-20T10:32:03.890Z",
+            "tags": [],
+            "classTitle": "toilet",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        430
+                    ],
+                    [
+                        259,
+                        458
+                    ],
+                    [
+                        245,
+                        463
+                    ],
+                    [
+                        209,
+                        456
+                    ],
+                    [
+                        210,
+                        410
+                    ],
+                    [
+                        211,
+                        388
+                    ],
+                    [
+                        212,
+                        377
+                    ],
+                    [
+                        205,
+                        362
+                    ],
+                    [
+                        211,
+                        340
+                    ],
+                    [
+                        213,
+                        334
+                    ],
+                    [
+                        223,
+                        339
+                    ],
+                    [
+                        227,
+                        362
+                    ],
+                    [
+                        230,
+                        386
+                    ],
+                    [
+                        234,
+                        391
+                    ],
+                    [
+                        266,
+                        391
+                    ],
+                    [
+                        282,
+                        398
+                    ],
+                    [
+                        283,
+                        410
+                    ],
+                    [
+                        270,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46050205,
+            "classId": 6461824,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:03.889Z",
+            "updatedAt": "2023-09-20T10:32:03.889Z",
+            "tags": [],
+            "classTitle": "toilet",
+            "points": {
+                "exterior": [
+                    [
+                        205,
+                        334
+                    ],
+                    [
+                        283,
+                        463
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46050204,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:03.889Z",
+            "updatedAt": "2023-09-20T10:32:03.889Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        397
+                    ],
+                    [
+                        161,
+                        401
+                    ],
+                    [
+                        115,
+                        442
+                    ],
+                    [
+                        112,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46050203,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:03.888Z",
+            "updatedAt": "2023-09-20T10:32:03.888Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        397
+                    ],
+                    [
+                        161,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

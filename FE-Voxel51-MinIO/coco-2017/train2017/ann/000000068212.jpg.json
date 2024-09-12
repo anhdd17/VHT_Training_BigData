@@ -1,0 +1,164 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4632804,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Someone is making nachos in the white microwave.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:56.281Z",
+            "updatedAt": "2023-09-20T10:39:56.281Z"
+        },
+        {
+            "id": 4632805,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A plate of chips are in a microwave. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:56.281Z",
+            "updatedAt": "2023-09-20T10:39:56.281Z"
+        },
+        {
+            "id": 4632806,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An opened microwave with some food inside it. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:56.281Z",
+            "updatedAt": "2023-09-20T10:39:56.281Z"
+        },
+        {
+            "id": 4632807,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A microwave oven with a plate of nachos inside of it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:56.281Z",
+            "updatedAt": "2023-09-20T10:39:56.281Z"
+        },
+        {
+            "id": 4632808,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Plate of nacho chips in a microwave on a counter.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:56.281Z",
+            "updatedAt": "2023-09-20T10:39:56.281Z"
+        }
+    ],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 46496785,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:56.282Z",
+            "updatedAt": "2023-09-20T10:39:56.282Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        38
+                    ],
+                    [
+                        411,
+                        30
+                    ],
+                    [
+                        398,
+                        261
+                    ],
+                    [
+                        328,
+                        257
+                    ],
+                    [
+                        320,
+                        247
+                    ],
+                    [
+                        110,
+                        247
+                    ],
+                    [
+                        119,
+                        371
+                    ],
+                    [
+                        68,
+                        370
+                    ],
+                    [
+                        37,
+                        237
+                    ],
+                    [
+                        18,
+                        63
+                    ],
+                    [
+                        18,
+                        47
+                    ],
+                    [
+                        27,
+                        36
+                    ],
+                    [
+                        54,
+                        21
+                    ],
+                    [
+                        71,
+                        22
+                    ],
+                    [
+                        81,
+                        21
+                    ],
+                    [
+                        90,
+                        25
+                    ],
+                    [
+                        90,
+                        35
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46496784,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:56.282Z",
+            "updatedAt": "2023-09-20T10:39:56.282Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        21
+                    ],
+                    [
+                        411,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,780 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4998717,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The elephant and trainer sitting act in the circus.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.905Z",
+            "updatedAt": "2023-09-20T11:02:32.905Z"
+        },
+        {
+            "id": 4998718,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two elephants performing side by side at the circus",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.905Z",
+            "updatedAt": "2023-09-20T11:02:32.905Z"
+        },
+        {
+            "id": 4998719,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two elephants are sitting on large stools at the Circus.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.905Z",
+            "updatedAt": "2023-09-20T11:02:32.905Z"
+        },
+        {
+            "id": 4998720,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A couple of elephants sitting on stools in a circus.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.905Z",
+            "updatedAt": "2023-09-20T11:02:32.905Z"
+        },
+        {
+            "id": 4998721,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A trainer stands next to a couple of elephants who sit on large stools.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.905Z",
+            "updatedAt": "2023-09-20T11:02:32.905Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 447
+    },
+    "objects": [
+        {
+            "id": 47773598,
+            "classId": 6461783,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.908Z",
+            "updatedAt": "2023-09-20T11:02:32.908Z",
+            "tags": [],
+            "classTitle": "elephant",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        147
+                    ],
+                    [
+                        140,
+                        206
+                    ],
+                    [
+                        186,
+                        194
+                    ],
+                    [
+                        233,
+                        158
+                    ],
+                    [
+                        237,
+                        155
+                    ],
+                    [
+                        243,
+                        153
+                    ],
+                    [
+                        275,
+                        150
+                    ],
+                    [
+                        306,
+                        157
+                    ],
+                    [
+                        326,
+                        183
+                    ],
+                    [
+                        338,
+                        229
+                    ],
+                    [
+                        372,
+                        263
+                    ],
+                    [
+                        388,
+                        281
+                    ],
+                    [
+                        408,
+                        329
+                    ],
+                    [
+                        411,
+                        367
+                    ],
+                    [
+                        436,
+                        421
+                    ],
+                    [
+                        437,
+                        491
+                    ],
+                    [
+                        436,
+                        493
+                    ],
+                    [
+                        387,
+                        549
+                    ],
+                    [
+                        365,
+                        565
+                    ],
+                    [
+                        339,
+                        578
+                    ],
+                    [
+                        347,
+                        547
+                    ],
+                    [
+                        370,
+                        528
+                    ],
+                    [
+                        275,
+                        526
+                    ],
+                    [
+                        223,
+                        552
+                    ],
+                    [
+                        196,
+                        593
+                    ],
+                    [
+                        161,
+                        608
+                    ],
+                    [
+                        140,
+                        578
+                    ],
+                    [
+                        145,
+                        555
+                    ],
+                    [
+                        193,
+                        532
+                    ],
+                    [
+                        213,
+                        503
+                    ],
+                    [
+                        219,
+                        495
+                    ],
+                    [
+                        233,
+                        469
+                    ],
+                    [
+                        207,
+                        398
+                    ],
+                    [
+                        178,
+                        433
+                    ],
+                    [
+                        178,
+                        470
+                    ],
+                    [
+                        164,
+                        489
+                    ],
+                    [
+                        108,
+                        478
+                    ],
+                    [
+                        125,
+                        453
+                    ],
+                    [
+                        168,
+                        365
+                    ],
+                    [
+                        213,
+                        334
+                    ],
+                    [
+                        210,
+                        285
+                    ],
+                    [
+                        224,
+                        239
+                    ],
+                    [
+                        175,
+                        260
+                    ],
+                    [
+                        174,
+                        250
+                    ],
+                    [
+                        193,
+                        219
+                    ],
+                    [
+                        140,
+                        235
+                    ],
+                    [
+                        106,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47773597,
+            "classId": 6461783,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.907Z",
+            "updatedAt": "2023-09-20T11:02:32.907Z",
+            "tags": [],
+            "classTitle": "elephant",
+            "points": {
+                "exterior": [
+                    [
+                        106,
+                        147
+                    ],
+                    [
+                        437,
+                        608
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47773596,
+            "classId": 6461783,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.907Z",
+            "updatedAt": "2023-09-20T11:02:32.907Z",
+            "tags": [],
+            "classTitle": "elephant",
+            "points": {
+                "exterior": [
+                    [
+                        123,
+                        268
+                    ],
+                    [
+                        123,
+                        268
+                    ],
+                    [
+                        111,
+                        248
+                    ],
+                    [
+                        90,
+                        244
+                    ],
+                    [
+                        81,
+                        260
+                    ],
+                    [
+                        76,
+                        268
+                    ],
+                    [
+                        79,
+                        280
+                    ],
+                    [
+                        86,
+                        289
+                    ],
+                    [
+                        100,
+                        298
+                    ],
+                    [
+                        101,
+                        301
+                    ],
+                    [
+                        92,
+                        305
+                    ],
+                    [
+                        84,
+                        307
+                    ],
+                    [
+                        81,
+                        310
+                    ],
+                    [
+                        93,
+                        317
+                    ],
+                    [
+                        90,
+                        322
+                    ],
+                    [
+                        106,
+                        334
+                    ],
+                    [
+                        119,
+                        334
+                    ],
+                    [
+                        108,
+                        343
+                    ],
+                    [
+                        78,
+                        395
+                    ],
+                    [
+                        90,
+                        419
+                    ],
+                    [
+                        88,
+                        423
+                    ],
+                    [
+                        88,
+                        443
+                    ],
+                    [
+                        80,
+                        467
+                    ],
+                    [
+                        80,
+                        472
+                    ],
+                    [
+                        74,
+                        491
+                    ],
+                    [
+                        73,
+                        509
+                    ],
+                    [
+                        80,
+                        518
+                    ],
+                    [
+                        97,
+                        493
+                    ],
+                    [
+                        100,
+                        479
+                    ],
+                    [
+                        114,
+                        477
+                    ],
+                    [
+                        149,
+                        406
+                    ],
+                    [
+                        179,
+                        351
+                    ],
+                    [
+                        172,
+                        330
+                    ],
+                    [
+                        171,
+                        290
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47773595,
+            "classId": 6461783,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.907Z",
+            "updatedAt": "2023-09-20T11:02:32.907Z",
+            "tags": [],
+            "classTitle": "elephant",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        406
+                    ],
+                    [
+                        206,
+                        406
+                    ],
+                    [
+                        206,
+                        406
+                    ],
+                    [
+                        177,
+                        435
+                    ],
+                    [
+                        173,
+                        469
+                    ],
+                    [
+                        171,
+                        485
+                    ],
+                    [
+                        194,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47773594,
+            "classId": 6461783,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.906Z",
+            "updatedAt": "2023-09-20T11:02:32.906Z",
+            "tags": [],
+            "classTitle": "elephant",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        244
+                    ],
+                    [
+                        179,
+                        518
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47773593,
+            "classId": 6461783,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.906Z",
+            "updatedAt": "2023-09-20T11:02:32.906Z",
+            "tags": [],
+            "classTitle": "elephant",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        406
+                    ],
+                    [
+                        206,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47773592,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.906Z",
+            "updatedAt": "2023-09-20T11:02:32.906Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        82,
+                        399
+                    ],
+                    [
+                        82,
+                        393
+                    ],
+                    [
+                        78,
+                        380
+                    ],
+                    [
+                        76,
+                        377
+                    ],
+                    [
+                        69,
+                        375
+                    ],
+                    [
+                        61,
+                        378
+                    ],
+                    [
+                        60,
+                        383
+                    ],
+                    [
+                        59,
+                        388
+                    ],
+                    [
+                        60,
+                        389
+                    ],
+                    [
+                        60,
+                        391
+                    ],
+                    [
+                        63,
+                        399
+                    ],
+                    [
+                        63,
+                        400
+                    ],
+                    [
+                        66,
+                        401
+                    ],
+                    [
+                        66,
+                        404
+                    ],
+                    [
+                        66,
+                        412
+                    ],
+                    [
+                        59,
+                        425
+                    ],
+                    [
+                        55,
+                        429
+                    ],
+                    [
+                        49,
+                        432
+                    ],
+                    [
+                        42,
+                        435
+                    ],
+                    [
+                        42,
+                        441
+                    ],
+                    [
+                        46,
+                        441
+                    ],
+                    [
+                        49,
+                        439
+                    ],
+                    [
+                        48,
+                        436
+                    ],
+                    [
+                        53,
+                        439
+                    ],
+                    [
+                        59,
+                        441
+                    ],
+                    [
+                        59,
+                        446
+                    ],
+                    [
+                        59,
+                        478
+                    ],
+                    [
+                        57,
+                        494
+                    ],
+                    [
+                        58,
+                        522
+                    ],
+                    [
+                        58,
+                        532
+                    ],
+                    [
+                        59,
+                        533
+                    ],
+                    [
+                        57,
+                        540
+                    ],
+                    [
+                        54,
+                        543
+                    ],
+                    [
+                        51,
+                        545
+                    ],
+                    [
+                        55,
+                        546
+                    ],
+                    [
+                        62,
+                        543
+                    ],
+                    [
+                        62,
+                        546
+                    ],
+                    [
+                        66,
+                        546
+                    ],
+                    [
+                        80,
+                        549
+                    ],
+                    [
+                        87,
+                        548
+                    ],
+                    [
+                        84,
+                        537
+                    ],
+                    [
+                        80,
+                        527
+                    ],
+                    [
+                        78,
+                        508
+                    ],
+                    [
+                        75,
+                        496
+                    ],
+                    [
+                        77,
+                        483
+                    ],
+                    [
+                        77,
+                        475
+                    ],
+                    [
+                        80,
+                        465
+                    ],
+                    [
+                        86,
+                        462
+                    ],
+                    [
+                        84,
+                        441
+                    ],
+                    [
+                        87,
+                        420
+                    ],
+                    [
+                        87,
+                        407
+                    ],
+                    [
+                        84,
+                        401
+                    ],
+                    [
+                        81,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47773591,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:32.905Z",
+            "updatedAt": "2023-09-20T11:02:32.906Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        42,
+                        375
+                    ],
+                    [
+                        87,
+                        549
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

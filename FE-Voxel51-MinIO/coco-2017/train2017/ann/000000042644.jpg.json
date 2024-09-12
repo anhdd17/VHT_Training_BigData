@@ -1,0 +1,484 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4551259,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A silver sports car sitting on top of a road.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:48.134Z",
+            "updatedAt": "2023-09-20T10:34:48.134Z"
+        },
+        {
+            "id": 4551260,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A gray sports car is shown near a fire hydrant.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:48.134Z",
+            "updatedAt": "2023-09-20T10:34:48.134Z"
+        },
+        {
+            "id": 4551261,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A grey sports car is parked on the street and a red fire hydrant is in the distant.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:48.134Z",
+            "updatedAt": "2023-09-20T10:34:48.134Z"
+        },
+        {
+            "id": 4551262,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A car in the road near a fire hydrant. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:48.134Z",
+            "updatedAt": "2023-09-20T10:34:48.134Z"
+        },
+        {
+            "id": 4551263,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A lotus Elise is shown parked on a street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:48.134Z",
+            "updatedAt": "2023-09-20T10:34:48.134Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46212556,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:48.135Z",
+            "updatedAt": "2023-09-20T10:34:48.135Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        377
+                    ],
+                    [
+                        142,
+                        369
+                    ],
+                    [
+                        119,
+                        365
+                    ],
+                    [
+                        111,
+                        364
+                    ],
+                    [
+                        89,
+                        358
+                    ],
+                    [
+                        68,
+                        343
+                    ],
+                    [
+                        65,
+                        333
+                    ],
+                    [
+                        55,
+                        327
+                    ],
+                    [
+                        52,
+                        314
+                    ],
+                    [
+                        49,
+                        305
+                    ],
+                    [
+                        46,
+                        293
+                    ],
+                    [
+                        37,
+                        266
+                    ],
+                    [
+                        37,
+                        242
+                    ],
+                    [
+                        40,
+                        224
+                    ],
+                    [
+                        44,
+                        202
+                    ],
+                    [
+                        54,
+                        178
+                    ],
+                    [
+                        71,
+                        164
+                    ],
+                    [
+                        84,
+                        156
+                    ],
+                    [
+                        115,
+                        144
+                    ],
+                    [
+                        159,
+                        135
+                    ],
+                    [
+                        192,
+                        133
+                    ],
+                    [
+                        205,
+                        125
+                    ],
+                    [
+                        209,
+                        114
+                    ],
+                    [
+                        203,
+                        111
+                    ],
+                    [
+                        198,
+                        107
+                    ],
+                    [
+                        197,
+                        98
+                    ],
+                    [
+                        201,
+                        93
+                    ],
+                    [
+                        210,
+                        96
+                    ],
+                    [
+                        210,
+                        103
+                    ],
+                    [
+                        220,
+                        105
+                    ],
+                    [
+                        259,
+                        72
+                    ],
+                    [
+                        291,
+                        58
+                    ],
+                    [
+                        345,
+                        48
+                    ],
+                    [
+                        386,
+                        47
+                    ],
+                    [
+                        430,
+                        51
+                    ],
+                    [
+                        452,
+                        55
+                    ],
+                    [
+                        477,
+                        63
+                    ],
+                    [
+                        500,
+                        66
+                    ],
+                    [
+                        545,
+                        76
+                    ],
+                    [
+                        563,
+                        89
+                    ],
+                    [
+                        569,
+                        102
+                    ],
+                    [
+                        571,
+                        120
+                    ],
+                    [
+                        576,
+                        131
+                    ],
+                    [
+                        576,
+                        150
+                    ],
+                    [
+                        575,
+                        168
+                    ],
+                    [
+                        568,
+                        195
+                    ],
+                    [
+                        560,
+                        219
+                    ],
+                    [
+                        551,
+                        226
+                    ],
+                    [
+                        538,
+                        226
+                    ],
+                    [
+                        524,
+                        225
+                    ],
+                    [
+                        517,
+                        216
+                    ],
+                    [
+                        493,
+                        225
+                    ],
+                    [
+                        473,
+                        237
+                    ],
+                    [
+                        440,
+                        254
+                    ],
+                    [
+                        413,
+                        270
+                    ],
+                    [
+                        406,
+                        296
+                    ],
+                    [
+                        405,
+                        303
+                    ],
+                    [
+                        394,
+                        328
+                    ],
+                    [
+                        381,
+                        356
+                    ],
+                    [
+                        374,
+                        364
+                    ],
+                    [
+                        364,
+                        370
+                    ],
+                    [
+                        349,
+                        380
+                    ],
+                    [
+                        336,
+                        378
+                    ],
+                    [
+                        324,
+                        374
+                    ],
+                    [
+                        316,
+                        370
+                    ],
+                    [
+                        305,
+                        358
+                    ],
+                    [
+                        299,
+                        363
+                    ],
+                    [
+                        287,
+                        371
+                    ],
+                    [
+                        261,
+                        373
+                    ],
+                    [
+                        233,
+                        374
+                    ],
+                    [
+                        218,
+                        376
+                    ],
+                    [
+                        201,
+                        380
+                    ],
+                    [
+                        184,
+                        380
+                    ],
+                    [
+                        162,
+                        379
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46212555,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:48.135Z",
+            "updatedAt": "2023-09-20T10:34:48.135Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        37,
+                        47
+                    ],
+                    [
+                        576,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46212554,
+            "classId": 6461773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:48.134Z",
+            "updatedAt": "2023-09-20T10:34:48.134Z",
+            "tags": [],
+            "classTitle": "fire hydrant",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        62
+                    ],
+                    [
+                        491,
+                        57
+                    ],
+                    [
+                        492,
+                        48
+                    ],
+                    [
+                        494,
+                        36
+                    ],
+                    [
+                        494,
+                        28
+                    ],
+                    [
+                        495,
+                        17
+                    ],
+                    [
+                        503,
+                        15
+                    ],
+                    [
+                        511,
+                        28
+                    ],
+                    [
+                        511,
+                        39
+                    ],
+                    [
+                        514,
+                        45
+                    ],
+                    [
+                        510,
+                        52
+                    ],
+                    [
+                        510,
+                        66
+                    ],
+                    [
+                        503,
+                        66
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46212553,
+            "classId": 6461773,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:48.134Z",
+            "updatedAt": "2023-09-20T10:34:48.134Z",
+            "tags": [],
+            "classTitle": "fire hydrant",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        15
+                    ],
+                    [
+                        514,
+                        66
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4904602,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two boxes of pizza sit on a wood table and one of the boxes is closed while the other is open to reveal a whole pizza inside of it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.650Z",
+            "updatedAt": "2023-09-20T10:56:39.650Z"
+        },
+        {
+            "id": 4904603,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two boxes of pizza, one is ham and pineapple.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.650Z",
+            "updatedAt": "2023-09-20T10:56:39.650Z"
+        },
+        {
+            "id": 4904604,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A Dominos Pizza with pineapples on the pizza on the table ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.650Z",
+            "updatedAt": "2023-09-20T10:56:39.650Z"
+        },
+        {
+            "id": 4904605,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A takeout pizza with pineapple next to a pizza box on the table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.650Z",
+            "updatedAt": "2023-09-20T10:56:39.650Z"
+        },
+        {
+            "id": 4904606,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "two pizza boxes sitting on a dining table, one of them left open",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.650Z",
+            "updatedAt": "2023-09-20T10:56:39.650Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47443444,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.655Z",
+            "updatedAt": "2023-09-20T10:56:39.655Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        8,
+                        93
+                    ],
+                    [
+                        0,
+                        75
+                    ],
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        100,
+                        0
+                    ],
+                    [
+                        98,
+                        7
+                    ],
+                    [
+                        90,
+                        14
+                    ],
+                    [
+                        78,
+                        23
+                    ],
+                    [
+                        67,
+                        37
+                    ],
+                    [
+                        50,
+                        58
+                    ],
+                    [
+                        38,
+                        68
+                    ],
+                    [
+                        21,
+                        84
+                    ],
+                    [
+                        16,
+                        92
+                    ],
+                    [
+                        13,
+                        96
+                    ],
+                    [
+                        9,
+                        101
+                    ],
+                    [
+                        8,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47443443,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.655Z",
+            "updatedAt": "2023-09-20T10:56:39.655Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        100,
+                        101
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47443442,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.653Z",
+            "updatedAt": "2023-09-20T10:56:39.653Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        102,
+                        2
+                    ],
+                    [
+                        2,
+                        105
+                    ],
+                    [
+                        1,
+                        407
+                    ],
+                    [
+                        637,
+                        423
+                    ],
+                    [
+                        638,
+                        7
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47443441,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.653Z",
+            "updatedAt": "2023-09-20T10:56:39.653Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        638,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47443440,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.652Z",
+            "updatedAt": "2023-09-20T10:56:39.652Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        217
+                    ],
+                    [
+                        296,
+                        234
+                    ],
+                    [
+                        293,
+                        266
+                    ],
+                    [
+                        273,
+                        277
+                    ],
+                    [
+                        267,
+                        293
+                    ],
+                    [
+                        180,
+                        308
+                    ],
+                    [
+                        139,
+                        311
+                    ],
+                    [
+                        124,
+                        296
+                    ],
+                    [
+                        83,
+                        282
+                    ],
+                    [
+                        74,
+                        262
+                    ],
+                    [
+                        77,
+                        242
+                    ],
+                    [
+                        88,
+                        221
+                    ],
+                    [
+                        148,
+                        191
+                    ],
+                    [
+                        175,
+                        185
+                    ],
+                    [
+                        225,
+                        190
+                    ],
+                    [
+                        265,
+                        199
+                    ],
+                    [
+                        283,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47443439,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.652Z",
+            "updatedAt": "2023-09-20T10:56:39.652Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        74,
+                        185
+                    ],
+                    [
+                        296,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47443438,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.651Z",
+            "updatedAt": "2023-09-20T10:56:39.651Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        7
+                    ],
+                    [
+                        299,
+                        56
+                    ],
+                    [
+                        339,
+                        73
+                    ],
+                    [
+                        339,
+                        82
+                    ],
+                    [
+                        352,
+                        89
+                    ],
+                    [
+                        417,
+                        64
+                    ],
+                    [
+                        416,
+                        0
+                    ],
+                    [
+                        303,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47443437,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:39.651Z",
+            "updatedAt": "2023-09-20T10:56:39.651Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        299,
+                        0
+                    ],
+                    [
+                        417,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

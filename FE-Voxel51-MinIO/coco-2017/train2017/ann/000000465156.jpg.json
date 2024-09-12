@@ -1,0 +1,484 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4876436,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Giraffe lying in tall grasses near zebra in open field.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:58.037Z",
+            "updatedAt": "2023-09-20T10:54:58.037Z"
+        },
+        {
+            "id": 4876437,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A giraffe is laying near a zebra in the grass",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:58.037Z",
+            "updatedAt": "2023-09-20T10:54:58.037Z"
+        },
+        {
+            "id": 4876438,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The giraffe lays in the tall grass near a zebra.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:58.037Z",
+            "updatedAt": "2023-09-20T10:54:58.037Z"
+        },
+        {
+            "id": 4876439,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A giraffe laying in a field next to a zebra.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:58.037Z",
+            "updatedAt": "2023-09-20T10:54:58.037Z"
+        },
+        {
+            "id": 4876440,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a giraffe sits in a field with a zebra in the distance",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:58.037Z",
+            "updatedAt": "2023-09-20T10:54:58.037Z"
+        }
+    ],
+    "size": {
+        "height": 425,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47347351,
+            "classId": 6461785,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:58.039Z",
+            "updatedAt": "2023-09-20T10:54:58.039Z",
+            "tags": [],
+            "classTitle": "zebra",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        206
+                    ],
+                    [
+                        73,
+                        183
+                    ],
+                    [
+                        82,
+                        193
+                    ],
+                    [
+                        85,
+                        212
+                    ],
+                    [
+                        98,
+                        214
+                    ],
+                    [
+                        94,
+                        193
+                    ],
+                    [
+                        100,
+                        191
+                    ],
+                    [
+                        109,
+                        217
+                    ],
+                    [
+                        118,
+                        210
+                    ],
+                    [
+                        115,
+                        188
+                    ],
+                    [
+                        130,
+                        193
+                    ],
+                    [
+                        154,
+                        185
+                    ],
+                    [
+                        168,
+                        208
+                    ],
+                    [
+                        168,
+                        222
+                    ],
+                    [
+                        186,
+                        217
+                    ],
+                    [
+                        188,
+                        195
+                    ],
+                    [
+                        183,
+                        183
+                    ],
+                    [
+                        195,
+                        145
+                    ],
+                    [
+                        191,
+                        131
+                    ],
+                    [
+                        160,
+                        117
+                    ],
+                    [
+                        123,
+                        120
+                    ],
+                    [
+                        80,
+                        124
+                    ],
+                    [
+                        20,
+                        173
+                    ],
+                    [
+                        12,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47347350,
+            "classId": 6461785,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:58.039Z",
+            "updatedAt": "2023-09-20T10:54:58.039Z",
+            "tags": [],
+            "classTitle": "zebra",
+            "points": {
+                "exterior": [
+                    [
+                        12,
+                        117
+                    ],
+                    [
+                        195,
+                        222
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47347349,
+            "classId": 6461786,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:58.039Z",
+            "updatedAt": "2023-09-20T10:54:58.039Z",
+            "tags": [],
+            "classTitle": "giraffe",
+            "points": {
+                "exterior": [
+                    [
+                        237,
+                        134
+                    ],
+                    [
+                        237,
+                        127
+                    ],
+                    [
+                        225,
+                        122
+                    ],
+                    [
+                        216,
+                        107
+                    ],
+                    [
+                        216,
+                        94
+                    ],
+                    [
+                        231,
+                        98
+                    ],
+                    [
+                        241,
+                        108
+                    ],
+                    [
+                        248,
+                        113
+                    ],
+                    [
+                        245,
+                        101
+                    ],
+                    [
+                        246,
+                        92
+                    ],
+                    [
+                        256,
+                        92
+                    ],
+                    [
+                        261,
+                        107
+                    ],
+                    [
+                        265,
+                        101
+                    ],
+                    [
+                        267,
+                        87
+                    ],
+                    [
+                        274,
+                        83
+                    ],
+                    [
+                        283,
+                        83
+                    ],
+                    [
+                        283,
+                        88
+                    ],
+                    [
+                        279,
+                        97
+                    ],
+                    [
+                        278,
+                        107
+                    ],
+                    [
+                        282,
+                        108
+                    ],
+                    [
+                        290,
+                        100
+                    ],
+                    [
+                        302,
+                        93
+                    ],
+                    [
+                        306,
+                        100
+                    ],
+                    [
+                        302,
+                        116
+                    ],
+                    [
+                        298,
+                        122
+                    ],
+                    [
+                        289,
+                        126
+                    ],
+                    [
+                        281,
+                        130
+                    ],
+                    [
+                        278,
+                        152
+                    ],
+                    [
+                        272,
+                        161
+                    ],
+                    [
+                        266,
+                        167
+                    ],
+                    [
+                        266,
+                        193
+                    ],
+                    [
+                        266,
+                        218
+                    ],
+                    [
+                        274,
+                        243
+                    ],
+                    [
+                        284,
+                        273
+                    ],
+                    [
+                        284,
+                        275
+                    ],
+                    [
+                        285,
+                        292
+                    ],
+                    [
+                        284,
+                        307
+                    ],
+                    [
+                        284,
+                        314
+                    ],
+                    [
+                        292,
+                        326
+                    ],
+                    [
+                        310,
+                        344
+                    ],
+                    [
+                        316,
+                        359
+                    ],
+                    [
+                        298,
+                        367
+                    ],
+                    [
+                        264,
+                        365
+                    ],
+                    [
+                        244,
+                        371
+                    ],
+                    [
+                        230,
+                        375
+                    ],
+                    [
+                        197,
+                        373
+                    ],
+                    [
+                        121,
+                        369
+                    ],
+                    [
+                        97,
+                        364
+                    ],
+                    [
+                        84,
+                        356
+                    ],
+                    [
+                        105,
+                        333
+                    ],
+                    [
+                        131,
+                        310
+                    ],
+                    [
+                        154,
+                        302
+                    ],
+                    [
+                        174,
+                        301
+                    ],
+                    [
+                        188,
+                        300
+                    ],
+                    [
+                        192,
+                        297
+                    ],
+                    [
+                        193,
+                        281
+                    ],
+                    [
+                        206,
+                        262
+                    ],
+                    [
+                        212,
+                        253
+                    ],
+                    [
+                        213,
+                        237
+                    ],
+                    [
+                        211,
+                        206
+                    ],
+                    [
+                        214,
+                        186
+                    ],
+                    [
+                        217,
+                        161
+                    ],
+                    [
+                        225,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47347348,
+            "classId": 6461786,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:58.037Z",
+            "updatedAt": "2023-09-20T10:54:58.037Z",
+            "tags": [],
+            "classTitle": "giraffe",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        83
+                    ],
+                    [
+                        316,
+                        375
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

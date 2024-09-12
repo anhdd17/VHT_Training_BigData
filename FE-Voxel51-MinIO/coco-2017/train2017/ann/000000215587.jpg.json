@@ -1,0 +1,368 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4870692,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two bowls of food with rice,chicken, and broccoli. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.702Z",
+            "updatedAt": "2023-09-20T10:54:36.702Z"
+        },
+        {
+            "id": 4870693,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two plastic containers have cooked rice, and vegetables.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.702Z",
+            "updatedAt": "2023-09-20T10:54:36.702Z"
+        },
+        {
+            "id": 4870694,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two blue containers filled with different foods on a table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.702Z",
+            "updatedAt": "2023-09-20T10:54:36.702Z"
+        },
+        {
+            "id": 4870695,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two small blue boxes filled with cooked food",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.702Z",
+            "updatedAt": "2023-09-20T10:54:36.702Z"
+        },
+        {
+            "id": 4870696,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Vegetables and meat are in one container and rice is in the other.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.702Z",
+            "updatedAt": "2023-09-20T10:54:36.702Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47326986,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.705Z",
+            "updatedAt": "2023-09-20T10:54:36.705Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        163
+                    ],
+                    [
+                        256,
+                        146
+                    ],
+                    [
+                        246,
+                        130
+                    ],
+                    [
+                        212,
+                        70
+                    ],
+                    [
+                        227,
+                        60
+                    ],
+                    [
+                        255,
+                        54
+                    ],
+                    [
+                        260,
+                        34
+                    ],
+                    [
+                        289,
+                        2
+                    ],
+                    [
+                        322,
+                        16
+                    ],
+                    [
+                        346,
+                        38
+                    ],
+                    [
+                        359,
+                        46
+                    ],
+                    [
+                        391,
+                        75
+                    ],
+                    [
+                        401,
+                        103
+                    ],
+                    [
+                        404,
+                        129
+                    ],
+                    [
+                        395,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47326985,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.704Z",
+            "updatedAt": "2023-09-20T10:54:36.704Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        212,
+                        2
+                    ],
+                    [
+                        404,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47326984,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.704Z",
+            "updatedAt": "2023-09-20T10:54:36.704Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        638,
+                        473
+                    ],
+                    [
+                        638,
+                        0
+                    ],
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        2,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47326983,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.704Z",
+            "updatedAt": "2023-09-20T10:54:36.704Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        638,
+                        473
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47326982,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.704Z",
+            "updatedAt": "2023-09-20T10:54:36.704Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        309
+                    ],
+                    [
+                        30,
+                        116
+                    ],
+                    [
+                        17,
+                        77
+                    ],
+                    [
+                        36,
+                        55
+                    ],
+                    [
+                        117,
+                        19
+                    ],
+                    [
+                        188,
+                        1
+                    ],
+                    [
+                        363,
+                        0
+                    ],
+                    [
+                        438,
+                        84
+                    ],
+                    [
+                        434,
+                        127
+                    ],
+                    [
+                        430,
+                        138
+                    ],
+                    [
+                        344,
+                        175
+                    ],
+                    [
+                        127,
+                        269
+                    ],
+                    [
+                        140,
+                        307
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47326981,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.703Z",
+            "updatedAt": "2023-09-20T10:54:36.703Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        0
+                    ],
+                    [
+                        438,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47326980,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.703Z",
+            "updatedAt": "2023-09-20T10:54:36.703Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        428,
+                        143
+                    ],
+                    [
+                        141,
+                        282
+                    ],
+                    [
+                        235,
+                        474
+                    ],
+                    [
+                        376,
+                        472
+                    ],
+                    [
+                        592,
+                        321
+                    ],
+                    [
+                        449,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47326979,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:36.703Z",
+            "updatedAt": "2023-09-20T10:54:36.703Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        142
+                    ],
+                    [
+                        592,
+                        474
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

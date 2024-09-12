@@ -1,0 +1,160 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4545792,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A large blue glass vase with a small purple flower",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:28.412Z",
+            "updatedAt": "2023-09-20T10:34:28.412Z"
+        },
+        {
+            "id": 4545793,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A glass vase filled with a purple flower with a green stem.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:28.412Z",
+            "updatedAt": "2023-09-20T10:34:28.412Z"
+        },
+        {
+            "id": 4545794,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A blue glass bottle with a purple flower in the mouth",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:28.412Z",
+            "updatedAt": "2023-09-20T10:34:28.412Z"
+        },
+        {
+            "id": 4545795,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Small purple flowers sitting in a large glass bottle. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:28.412Z",
+            "updatedAt": "2023-09-20T10:34:28.412Z"
+        },
+        {
+            "id": 4545796,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A blue vase holds two lovely purple flowers.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:28.412Z",
+            "updatedAt": "2023-09-20T10:34:28.412Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 427
+    },
+    "objects": [
+        {
+            "id": 46193686,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:28.414Z",
+            "updatedAt": "2023-09-20T10:34:28.414Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        621
+                    ],
+                    [
+                        73,
+                        579
+                    ],
+                    [
+                        98,
+                        548
+                    ],
+                    [
+                        164,
+                        509
+                    ],
+                    [
+                        168,
+                        480
+                    ],
+                    [
+                        154,
+                        453
+                    ],
+                    [
+                        178,
+                        447
+                    ],
+                    [
+                        217,
+                        447
+                    ],
+                    [
+                        269,
+                        451
+                    ],
+                    [
+                        253,
+                        471
+                    ],
+                    [
+                        260,
+                        505
+                    ],
+                    [
+                        306,
+                        525
+                    ],
+                    [
+                        352,
+                        566
+                    ],
+                    [
+                        375,
+                        611
+                    ],
+                    [
+                        375,
+                        633
+                    ],
+                    [
+                        59,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46193685,
+            "classId": 6461838,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:28.413Z",
+            "updatedAt": "2023-09-20T10:34:28.413Z",
+            "tags": [],
+            "classTitle": "vase",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        447
+                    ],
+                    [
+                        375,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

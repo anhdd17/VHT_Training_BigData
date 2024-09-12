@@ -1,0 +1,932 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4732602,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "someone swing at a ball in a baseball diamond",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.160Z",
+            "updatedAt": "2023-09-20T10:46:05.160Z"
+        },
+        {
+            "id": 4732603,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A baseball player swings forcefully in a batting cage.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.160Z",
+            "updatedAt": "2023-09-20T10:46:05.160Z"
+        },
+        {
+            "id": 4732604,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The man playing baseball at the park swings the bat.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.160Z",
+            "updatedAt": "2023-09-20T10:46:05.160Z"
+        },
+        {
+            "id": 4732605,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man in black shorts and a baseball cap swinging a bat on a baseball field.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.160Z",
+            "updatedAt": "2023-09-20T10:46:05.160Z"
+        },
+        {
+            "id": 4732606,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A person is in a batting cage with a bat.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.160Z",
+            "updatedAt": "2023-09-20T10:46:05.160Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 46845462,
+            "classId": 6461795,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.167Z",
+            "updatedAt": "2023-09-20T10:46:05.167Z",
+            "tags": [],
+            "classTitle": "sports ball",
+            "points": {
+                "exterior": [
+                    [
+                        440,
+                        408
+                    ],
+                    [
+                        434,
+                        407
+                    ],
+                    [
+                        430,
+                        404
+                    ],
+                    [
+                        429,
+                        399
+                    ],
+                    [
+                        428,
+                        394
+                    ],
+                    [
+                        430,
+                        390
+                    ],
+                    [
+                        433,
+                        388
+                    ],
+                    [
+                        437,
+                        387
+                    ],
+                    [
+                        442,
+                        389
+                    ],
+                    [
+                        444,
+                        392
+                    ],
+                    [
+                        446,
+                        398
+                    ],
+                    [
+                        446,
+                        404
+                    ],
+                    [
+                        445,
+                        406
+                    ],
+                    [
+                        442,
+                        408
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845461,
+            "classId": 6461795,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.167Z",
+            "updatedAt": "2023-09-20T10:46:05.167Z",
+            "tags": [],
+            "classTitle": "sports ball",
+            "points": {
+                "exterior": [
+                    [
+                        428,
+                        387
+                    ],
+                    [
+                        446,
+                        408
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845460,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.166Z",
+            "updatedAt": "2023-09-20T10:46:05.166Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        554
+                    ],
+                    [
+                        145,
+                        605
+                    ],
+                    [
+                        121,
+                        624
+                    ],
+                    [
+                        108,
+                        638
+                    ],
+                    [
+                        68,
+                        639
+                    ],
+                    [
+                        14,
+                        639
+                    ],
+                    [
+                        1,
+                        638
+                    ],
+                    [
+                        7,
+                        628
+                    ],
+                    [
+                        30,
+                        620
+                    ],
+                    [
+                        59,
+                        614
+                    ],
+                    [
+                        70,
+                        610
+                    ],
+                    [
+                        77,
+                        554
+                    ],
+                    [
+                        66,
+                        521
+                    ],
+                    [
+                        62,
+                        466
+                    ],
+                    [
+                        66,
+                        443
+                    ],
+                    [
+                        34,
+                        346
+                    ],
+                    [
+                        33,
+                        303
+                    ],
+                    [
+                        29,
+                        260
+                    ],
+                    [
+                        26,
+                        240
+                    ],
+                    [
+                        49,
+                        225
+                    ],
+                    [
+                        79,
+                        225
+                    ],
+                    [
+                        103,
+                        240
+                    ],
+                    [
+                        122,
+                        251
+                    ],
+                    [
+                        108,
+                        264
+                    ],
+                    [
+                        112,
+                        294
+                    ],
+                    [
+                        110,
+                        311
+                    ],
+                    [
+                        131,
+                        321
+                    ],
+                    [
+                        176,
+                        326
+                    ],
+                    [
+                        230,
+                        317
+                    ],
+                    [
+                        253,
+                        324
+                    ],
+                    [
+                        265,
+                        331
+                    ],
+                    [
+                        255,
+                        352
+                    ],
+                    [
+                        243,
+                        354
+                    ],
+                    [
+                        228,
+                        346
+                    ],
+                    [
+                        210,
+                        352
+                    ],
+                    [
+                        168,
+                        366
+                    ],
+                    [
+                        159,
+                        374
+                    ],
+                    [
+                        166,
+                        426
+                    ],
+                    [
+                        166,
+                        445
+                    ],
+                    [
+                        181,
+                        462
+                    ],
+                    [
+                        220,
+                        501
+                    ],
+                    [
+                        248,
+                        541
+                    ],
+                    [
+                        281,
+                        628
+                    ],
+                    [
+                        283,
+                        636
+                    ],
+                    [
+                        253,
+                        639
+                    ],
+                    [
+                        243,
+                        639
+                    ],
+                    [
+                        224,
+                        597
+                    ],
+                    [
+                        217,
+                        584
+                    ],
+                    [
+                        198,
+                        583
+                    ],
+                    [
+                        161,
+                        552
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845459,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.166Z",
+            "updatedAt": "2023-09-20T10:46:05.166Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        225
+                    ],
+                    [
+                        283,
+                        639
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845458,
+            "classId": 6461797,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.165Z",
+            "updatedAt": "2023-09-20T10:46:05.165Z",
+            "tags": [],
+            "classTitle": "baseball bat",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        323
+                    ],
+                    [
+                        298,
+                        290
+                    ],
+                    [
+                        344,
+                        254
+                    ],
+                    [
+                        395,
+                        226
+                    ],
+                    [
+                        406,
+                        222
+                    ],
+                    [
+                        415,
+                        228
+                    ],
+                    [
+                        418,
+                        235
+                    ],
+                    [
+                        345,
+                        280
+                    ],
+                    [
+                        266,
+                        332
+                    ],
+                    [
+                        259,
+                        325
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845457,
+            "classId": 6461797,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.165Z",
+            "updatedAt": "2023-09-20T10:46:05.165Z",
+            "tags": [],
+            "classTitle": "baseball bat",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        351
+                    ],
+                    [
+                        221,
+                        356
+                    ],
+                    [
+                        219,
+                        365
+                    ],
+                    [
+                        208,
+                        367
+                    ],
+                    [
+                        206,
+                        362
+                    ],
+                    [
+                        208,
+                        357
+                    ],
+                    [
+                        213,
+                        350
+                    ],
+                    [
+                        215,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845456,
+            "classId": 6461797,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.165Z",
+            "updatedAt": "2023-09-20T10:46:05.165Z",
+            "tags": [],
+            "classTitle": "baseball bat",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        222
+                    ],
+                    [
+                        418,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845455,
+            "classId": 6461797,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.164Z",
+            "updatedAt": "2023-09-20T10:46:05.164Z",
+            "tags": [],
+            "classTitle": "baseball bat",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        350
+                    ],
+                    [
+                        221,
+                        367
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845454,
+            "classId": 6461797,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.164Z",
+            "updatedAt": "2023-09-20T10:46:05.164Z",
+            "tags": [],
+            "classTitle": "baseball bat",
+            "points": {
+                "exterior": [
+                    [
+                        479,
+                        273
+                    ],
+                    [
+                        463,
+                        309
+                    ],
+                    [
+                        418,
+                        410
+                    ],
+                    [
+                        412,
+                        413
+                    ],
+                    [
+                        405,
+                        410
+                    ],
+                    [
+                        404,
+                        403
+                    ],
+                    [
+                        452,
+                        316
+                    ],
+                    [
+                        479,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845453,
+            "classId": 6461797,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.163Z",
+            "updatedAt": "2023-09-20T10:46:05.163Z",
+            "tags": [],
+            "classTitle": "baseball bat",
+            "points": {
+                "exterior": [
+                    [
+                        404,
+                        265
+                    ],
+                    [
+                        479,
+                        413
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845452,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.163Z",
+            "updatedAt": "2023-09-20T10:46:05.163Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        175
+                    ],
+                    [
+                        19,
+                        196
+                    ],
+                    [
+                        19,
+                        218
+                    ],
+                    [
+                        29,
+                        229
+                    ],
+                    [
+                        28,
+                        250
+                    ],
+                    [
+                        17,
+                        266
+                    ],
+                    [
+                        4,
+                        289
+                    ],
+                    [
+                        0,
+                        296
+                    ],
+                    [
+                        1,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845451,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.163Z",
+            "updatedAt": "2023-09-20T10:46:05.163Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        175
+                    ],
+                    [
+                        29,
+                        296
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845450,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.162Z",
+            "updatedAt": "2023-09-20T10:46:05.162Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        161
+                    ],
+                    [
+                        324,
+                        149
+                    ],
+                    [
+                        322,
+                        142
+                    ],
+                    [
+                        321,
+                        120
+                    ],
+                    [
+                        327,
+                        106
+                    ],
+                    [
+                        340,
+                        97
+                    ],
+                    [
+                        359,
+                        102
+                    ],
+                    [
+                        361,
+                        122
+                    ],
+                    [
+                        362,
+                        131
+                    ],
+                    [
+                        376,
+                        135
+                    ],
+                    [
+                        385,
+                        142
+                    ],
+                    [
+                        387,
+                        169
+                    ],
+                    [
+                        383,
+                        205
+                    ],
+                    [
+                        378,
+                        219
+                    ],
+                    [
+                        350,
+                        224
+                    ],
+                    [
+                        336,
+                        209
+                    ],
+                    [
+                        325,
+                        177
+                    ],
+                    [
+                        319,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845449,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.162Z",
+            "updatedAt": "2023-09-20T10:46:05.162Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        97
+                    ],
+                    [
+                        387,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845448,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.161Z",
+            "updatedAt": "2023-09-20T10:46:05.161Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        215,
+                        159
+                    ],
+                    [
+                        232,
+                        152
+                    ],
+                    [
+                        234,
+                        108
+                    ],
+                    [
+                        234,
+                        86
+                    ],
+                    [
+                        242,
+                        77
+                    ],
+                    [
+                        278,
+                        87
+                    ],
+                    [
+                        286,
+                        92
+                    ],
+                    [
+                        294,
+                        96
+                    ],
+                    [
+                        290,
+                        158
+                    ],
+                    [
+                        306,
+                        162
+                    ],
+                    [
+                        314,
+                        166
+                    ],
+                    [
+                        330,
+                        198
+                    ],
+                    [
+                        332,
+                        212
+                    ],
+                    [
+                        331,
+                        222
+                    ],
+                    [
+                        339,
+                        227
+                    ],
+                    [
+                        350,
+                        234
+                    ],
+                    [
+                        355,
+                        242
+                    ],
+                    [
+                        291,
+                        291
+                    ],
+                    [
+                        185,
+                        290
+                    ],
+                    [
+                        183,
+                        270
+                    ],
+                    [
+                        181,
+                        198
+                    ],
+                    [
+                        213,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46845447,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:46:05.161Z",
+            "updatedAt": "2023-09-20T10:46:05.161Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        77
+                    ],
+                    [
+                        355,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

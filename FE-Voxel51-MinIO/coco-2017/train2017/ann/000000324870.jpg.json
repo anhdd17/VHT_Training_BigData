@@ -1,0 +1,408 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4672784,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man driving a train on a track, during the day.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.114Z",
+            "updatedAt": "2023-09-20T10:42:22.114Z"
+        },
+        {
+            "id": 4672785,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A conductor crouching in a small black train engine.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.114Z",
+            "updatedAt": "2023-09-20T10:42:22.114Z"
+        },
+        {
+            "id": 4672786,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "this is a man driving a green train",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.114Z",
+            "updatedAt": "2023-09-20T10:42:22.114Z"
+        },
+        {
+            "id": 4672787,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A train operator sitting in the front of a train ride.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.114Z",
+            "updatedAt": "2023-09-20T10:42:22.114Z"
+        },
+        {
+            "id": 4672788,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man guiding a train down a train track.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.114Z",
+            "updatedAt": "2023-09-20T10:42:22.114Z"
+        }
+    ],
+    "size": {
+        "height": 424,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46634556,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.115Z",
+            "updatedAt": "2023-09-20T10:42:22.115Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        125,
+                        270
+                    ],
+                    [
+                        196,
+                        230
+                    ],
+                    [
+                        151,
+                        171
+                    ],
+                    [
+                        123,
+                        165
+                    ],
+                    [
+                        115,
+                        104
+                    ],
+                    [
+                        145,
+                        99
+                    ],
+                    [
+                        163,
+                        120
+                    ],
+                    [
+                        230,
+                        166
+                    ],
+                    [
+                        262,
+                        213
+                    ],
+                    [
+                        262,
+                        227
+                    ],
+                    [
+                        236,
+                        259
+                    ],
+                    [
+                        176,
+                        261
+                    ],
+                    [
+                        131,
+                        288
+                    ],
+                    [
+                        119,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46634555,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.114Z",
+            "updatedAt": "2023-09-20T10:42:22.114Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        99
+                    ],
+                    [
+                        262,
+                        288
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46634554,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.114Z",
+            "updatedAt": "2023-09-20T10:42:22.114Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        47,
+                        37
+                    ],
+                    [
+                        69,
+                        38
+                    ],
+                    [
+                        79,
+                        39
+                    ],
+                    [
+                        108,
+                        42
+                    ],
+                    [
+                        560,
+                        83
+                    ],
+                    [
+                        561,
+                        75
+                    ],
+                    [
+                        562,
+                        66
+                    ],
+                    [
+                        563,
+                        64
+                    ],
+                    [
+                        567,
+                        64
+                    ],
+                    [
+                        574,
+                        63
+                    ],
+                    [
+                        583,
+                        63
+                    ],
+                    [
+                        583,
+                        70
+                    ],
+                    [
+                        582,
+                        79
+                    ],
+                    [
+                        639,
+                        86
+                    ],
+                    [
+                        639,
+                        365
+                    ],
+                    [
+                        635,
+                        369
+                    ],
+                    [
+                        626,
+                        371
+                    ],
+                    [
+                        246,
+                        416
+                    ],
+                    [
+                        233,
+                        417
+                    ],
+                    [
+                        222,
+                        418
+                    ],
+                    [
+                        197,
+                        416
+                    ],
+                    [
+                        186,
+                        416
+                    ],
+                    [
+                        172,
+                        417
+                    ],
+                    [
+                        159,
+                        418
+                    ],
+                    [
+                        146,
+                        419
+                    ],
+                    [
+                        111,
+                        416
+                    ],
+                    [
+                        90,
+                        416
+                    ],
+                    [
+                        84,
+                        419
+                    ],
+                    [
+                        79,
+                        414
+                    ],
+                    [
+                        60,
+                        191
+                    ],
+                    [
+                        53,
+                        196
+                    ],
+                    [
+                        42,
+                        199
+                    ],
+                    [
+                        37,
+                        198
+                    ],
+                    [
+                        29,
+                        196
+                    ],
+                    [
+                        25,
+                        193
+                    ],
+                    [
+                        26,
+                        183
+                    ],
+                    [
+                        25,
+                        170
+                    ],
+                    [
+                        25,
+                        142
+                    ],
+                    [
+                        26,
+                        112
+                    ],
+                    [
+                        26,
+                        103
+                    ],
+                    [
+                        24,
+                        89
+                    ],
+                    [
+                        23,
+                        86
+                    ],
+                    [
+                        22,
+                        82
+                    ],
+                    [
+                        24,
+                        75
+                    ],
+                    [
+                        30,
+                        69
+                    ],
+                    [
+                        35,
+                        68
+                    ],
+                    [
+                        42,
+                        71
+                    ],
+                    [
+                        52,
+                        74
+                    ],
+                    [
+                        55,
+                        74
+                    ],
+                    [
+                        54,
+                        64
+                    ],
+                    [
+                        53,
+                        53
+                    ],
+                    [
+                        54,
+                        45
+                    ],
+                    [
+                        53,
+                        42
+                    ],
+                    [
+                        52,
+                        40
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46634553,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:22.114Z",
+            "updatedAt": "2023-09-20T10:42:22.114Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        22,
+                        37
+                    ],
+                    [
+                        639,
+                        419
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

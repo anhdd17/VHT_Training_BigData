@@ -1,0 +1,748 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4783157,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a man is looking at his cellphone outside",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.744Z",
+            "updatedAt": "2023-09-20T10:49:11.744Z"
+        },
+        {
+            "id": 4783158,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man standing next to luggage is using a cellphone.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.744Z",
+            "updatedAt": "2023-09-20T10:49:11.744Z"
+        },
+        {
+            "id": 4783159,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man using his cell phone while standing on the street with a suitcase ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.744Z",
+            "updatedAt": "2023-09-20T10:49:11.744Z"
+        },
+        {
+            "id": 4783160,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man standing in the street next to his suitcase with a cell phone in his hand. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.744Z",
+            "updatedAt": "2023-09-20T10:49:11.744Z"
+        },
+        {
+            "id": 4783161,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There is a man checking his phone next to a suitcase.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.744Z",
+            "updatedAt": "2023-09-20T10:49:11.744Z"
+        }
+    ],
+    "size": {
+        "height": 474,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47020238,
+            "classId": 6461830,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.751Z",
+            "updatedAt": "2023-09-20T10:49:11.751Z",
+            "tags": [],
+            "classTitle": "cell phone",
+            "points": {
+                "exterior": [
+                    [
+                        310,
+                        187
+                    ],
+                    [
+                        313,
+                        180
+                    ],
+                    [
+                        316,
+                        179
+                    ],
+                    [
+                        318,
+                        178
+                    ],
+                    [
+                        320,
+                        175
+                    ],
+                    [
+                        318,
+                        173
+                    ],
+                    [
+                        318,
+                        172
+                    ],
+                    [
+                        320,
+                        169
+                    ],
+                    [
+                        319,
+                        168
+                    ],
+                    [
+                        314,
+                        170
+                    ],
+                    [
+                        307,
+                        174
+                    ],
+                    [
+                        305,
+                        175
+                    ],
+                    [
+                        304,
+                        180
+                    ],
+                    [
+                        304,
+                        184
+                    ],
+                    [
+                        304,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47020237,
+            "classId": 6461830,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.749Z",
+            "updatedAt": "2023-09-20T10:49:11.749Z",
+            "tags": [],
+            "classTitle": "cell phone",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        168
+                    ],
+                    [
+                        320,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47020236,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.749Z",
+            "updatedAt": "2023-09-20T10:49:11.749Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        260
+                    ],
+                    [
+                        197,
+                        252
+                    ],
+                    [
+                        200,
+                        240
+                    ],
+                    [
+                        206,
+                        219
+                    ],
+                    [
+                        215,
+                        204
+                    ],
+                    [
+                        218,
+                        204
+                    ],
+                    [
+                        215,
+                        194
+                    ],
+                    [
+                        217,
+                        183
+                    ],
+                    [
+                        218,
+                        175
+                    ],
+                    [
+                        220,
+                        155
+                    ],
+                    [
+                        219,
+                        143
+                    ],
+                    [
+                        226,
+                        131
+                    ],
+                    [
+                        238,
+                        127
+                    ],
+                    [
+                        248,
+                        124
+                    ],
+                    [
+                        249,
+                        120
+                    ],
+                    [
+                        253,
+                        116
+                    ],
+                    [
+                        255,
+                        116
+                    ],
+                    [
+                        257,
+                        105
+                    ],
+                    [
+                        260,
+                        96
+                    ],
+                    [
+                        267,
+                        90
+                    ],
+                    [
+                        276,
+                        88
+                    ],
+                    [
+                        282,
+                        88
+                    ],
+                    [
+                        293,
+                        94
+                    ],
+                    [
+                        296,
+                        106
+                    ],
+                    [
+                        299,
+                        110
+                    ],
+                    [
+                        296,
+                        113
+                    ],
+                    [
+                        294,
+                        118
+                    ],
+                    [
+                        293,
+                        124
+                    ],
+                    [
+                        290,
+                        125
+                    ],
+                    [
+                        290,
+                        130
+                    ],
+                    [
+                        289,
+                        132
+                    ],
+                    [
+                        294,
+                        136
+                    ],
+                    [
+                        295,
+                        145
+                    ],
+                    [
+                        298,
+                        160
+                    ],
+                    [
+                        298,
+                        171
+                    ],
+                    [
+                        298,
+                        171
+                    ],
+                    [
+                        307,
+                        169
+                    ],
+                    [
+                        312,
+                        170
+                    ],
+                    [
+                        317,
+                        169
+                    ],
+                    [
+                        320,
+                        168
+                    ],
+                    [
+                        320,
+                        171
+                    ],
+                    [
+                        319,
+                        174
+                    ],
+                    [
+                        320,
+                        177
+                    ],
+                    [
+                        317,
+                        179
+                    ],
+                    [
+                        319,
+                        183
+                    ],
+                    [
+                        317,
+                        184
+                    ],
+                    [
+                        313,
+                        186
+                    ],
+                    [
+                        307,
+                        193
+                    ],
+                    [
+                        308,
+                        196
+                    ],
+                    [
+                        303,
+                        198
+                    ],
+                    [
+                        302,
+                        197
+                    ],
+                    [
+                        295,
+                        206
+                    ],
+                    [
+                        293,
+                        206
+                    ],
+                    [
+                        294,
+                        215
+                    ],
+                    [
+                        297,
+                        227
+                    ],
+                    [
+                        296,
+                        243
+                    ],
+                    [
+                        294,
+                        248
+                    ],
+                    [
+                        289,
+                        242
+                    ],
+                    [
+                        294,
+                        260
+                    ],
+                    [
+                        297,
+                        277
+                    ],
+                    [
+                        307,
+                        303
+                    ],
+                    [
+                        308,
+                        315
+                    ],
+                    [
+                        306,
+                        334
+                    ],
+                    [
+                        301,
+                        367
+                    ],
+                    [
+                        297,
+                        381
+                    ],
+                    [
+                        293,
+                        387
+                    ],
+                    [
+                        295,
+                        393
+                    ],
+                    [
+                        300,
+                        399
+                    ],
+                    [
+                        306,
+                        407
+                    ],
+                    [
+                        308,
+                        408
+                    ],
+                    [
+                        319,
+                        408
+                    ],
+                    [
+                        323,
+                        412
+                    ],
+                    [
+                        324,
+                        414
+                    ],
+                    [
+                        307,
+                        415
+                    ],
+                    [
+                        296,
+                        416
+                    ],
+                    [
+                        286,
+                        416
+                    ],
+                    [
+                        282,
+                        415
+                    ],
+                    [
+                        281,
+                        419
+                    ],
+                    [
+                        256,
+                        420
+                    ],
+                    [
+                        256,
+                        419
+                    ],
+                    [
+                        245,
+                        416
+                    ],
+                    [
+                        244,
+                        412
+                    ],
+                    [
+                        245,
+                        406
+                    ],
+                    [
+                        241,
+                        402
+                    ],
+                    [
+                        244,
+                        384
+                    ],
+                    [
+                        240,
+                        371
+                    ],
+                    [
+                        236,
+                        347
+                    ],
+                    [
+                        236,
+                        312
+                    ],
+                    [
+                        236,
+                        298
+                    ],
+                    [
+                        236,
+                        284
+                    ],
+                    [
+                        236,
+                        277
+                    ],
+                    [
+                        233,
+                        270
+                    ],
+                    [
+                        226,
+                        283
+                    ],
+                    [
+                        218,
+                        286
+                    ],
+                    [
+                        208,
+                        282
+                    ],
+                    [
+                        204,
+                        272
+                    ],
+                    [
+                        200,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47020235,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.749Z",
+            "updatedAt": "2023-09-20T10:49:11.749Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        88
+                    ],
+                    [
+                        324,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47020234,
+            "classId": 6461789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.748Z",
+            "updatedAt": "2023-09-20T10:49:11.748Z",
+            "tags": [],
+            "classTitle": "handbag",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        203
+                    ],
+                    [
+                        232,
+                        234
+                    ],
+                    [
+                        237,
+                        240
+                    ],
+                    [
+                        224,
+                        288
+                    ],
+                    [
+                        210,
+                        283
+                    ],
+                    [
+                        194,
+                        252
+                    ],
+                    [
+                        212,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47020233,
+            "classId": 6461789,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.746Z",
+            "updatedAt": "2023-09-20T10:49:11.746Z",
+            "tags": [],
+            "classTitle": "handbag",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        203
+                    ],
+                    [
+                        237,
+                        288
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47020232,
+            "classId": 6461791,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.745Z",
+            "updatedAt": "2023-09-20T10:49:11.745Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        403
+                    ],
+                    [
+                        366,
+                        411
+                    ],
+                    [
+                        332,
+                        415
+                    ],
+                    [
+                        329,
+                        407
+                    ],
+                    [
+                        316,
+                        308
+                    ],
+                    [
+                        319,
+                        307
+                    ],
+                    [
+                        308,
+                        228
+                    ],
+                    [
+                        312,
+                        228
+                    ],
+                    [
+                        323,
+                        308
+                    ],
+                    [
+                        343,
+                        297
+                    ],
+                    [
+                        351,
+                        297
+                    ],
+                    [
+                        357,
+                        297
+                    ],
+                    [
+                        370,
+                        302
+                    ],
+                    [
+                        384,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47020231,
+            "classId": 6461791,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:49:11.744Z",
+            "updatedAt": "2023-09-20T10:49:11.744Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        228
+                    ],
+                    [
+                        384,
+                        415
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

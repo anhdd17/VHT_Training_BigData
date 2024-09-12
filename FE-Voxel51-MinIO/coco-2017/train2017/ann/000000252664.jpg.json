@@ -1,0 +1,624 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4528521,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Blue and white train sitting at a station with no people. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.977Z",
+            "updatedAt": "2023-09-20T10:33:27.977Z"
+        },
+        {
+            "id": 4528522,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A train traveling down train tracks near a station.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.977Z",
+            "updatedAt": "2023-09-20T10:33:27.977Z"
+        },
+        {
+            "id": 4528523,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An empty train station with one train arriving.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.977Z",
+            "updatedAt": "2023-09-20T10:33:27.977Z"
+        },
+        {
+            "id": 4528524,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a train station with a train pulling in to the station",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.977Z",
+            "updatedAt": "2023-09-20T10:33:27.977Z"
+        },
+        {
+            "id": 4528525,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a railroad station with an engine and caboose on two separate tracks",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.977Z",
+            "updatedAt": "2023-09-20T10:33:27.977Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46134941,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.983Z",
+            "updatedAt": "2023-09-20T10:33:27.983Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        171
+                    ],
+                    [
+                        229,
+                        166
+                    ],
+                    [
+                        272,
+                        168
+                    ],
+                    [
+                        283,
+                        175
+                    ],
+                    [
+                        326,
+                        206
+                    ],
+                    [
+                        336,
+                        205
+                    ],
+                    [
+                        374,
+                        244
+                    ],
+                    [
+                        362,
+                        254
+                    ],
+                    [
+                        360,
+                        247
+                    ],
+                    [
+                        356,
+                        259
+                    ],
+                    [
+                        297,
+                        297
+                    ],
+                    [
+                        264,
+                        315
+                    ],
+                    [
+                        255,
+                        323
+                    ],
+                    [
+                        188,
+                        324
+                    ],
+                    [
+                        184,
+                        319
+                    ],
+                    [
+                        185,
+                        311
+                    ],
+                    [
+                        177,
+                        311
+                    ],
+                    [
+                        176,
+                        285
+                    ],
+                    [
+                        182,
+                        282
+                    ],
+                    [
+                        178,
+                        261
+                    ],
+                    [
+                        179,
+                        225
+                    ],
+                    [
+                        198,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46134940,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.982Z",
+            "updatedAt": "2023-09-20T10:33:27.982Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        176,
+                        166
+                    ],
+                    [
+                        374,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46134939,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.982Z",
+            "updatedAt": "2023-09-20T10:33:27.982Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        266
+                    ],
+                    [
+                        357,
+                        263
+                    ],
+                    [
+                        357,
+                        258
+                    ],
+                    [
+                        356,
+                        255
+                    ],
+                    [
+                        356,
+                        251
+                    ],
+                    [
+                        358,
+                        250
+                    ],
+                    [
+                        358,
+                        248
+                    ],
+                    [
+                        360,
+                        248
+                    ],
+                    [
+                        361,
+                        248
+                    ],
+                    [
+                        360,
+                        250
+                    ],
+                    [
+                        359,
+                        250
+                    ],
+                    [
+                        359,
+                        252
+                    ],
+                    [
+                        360,
+                        253
+                    ],
+                    [
+                        360,
+                        254
+                    ],
+                    [
+                        361,
+                        255
+                    ],
+                    [
+                        360,
+                        256
+                    ],
+                    [
+                        360,
+                        261
+                    ],
+                    [
+                        359,
+                        265
+                    ],
+                    [
+                        360,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46134938,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.982Z",
+            "updatedAt": "2023-09-20T10:33:27.982Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        248
+                    ],
+                    [
+                        361,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46134937,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.980Z",
+            "updatedAt": "2023-09-20T10:33:27.980Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        259
+                    ],
+                    [
+                        375,
+                        253
+                    ],
+                    [
+                        375,
+                        252
+                    ],
+                    [
+                        375,
+                        251
+                    ],
+                    [
+                        374,
+                        250
+                    ],
+                    [
+                        374,
+                        248
+                    ],
+                    [
+                        373,
+                        248
+                    ],
+                    [
+                        373,
+                        248
+                    ],
+                    [
+                        372,
+                        250
+                    ],
+                    [
+                        372,
+                        251
+                    ],
+                    [
+                        372,
+                        253
+                    ],
+                    [
+                        372,
+                        254
+                    ],
+                    [
+                        373,
+                        257
+                    ],
+                    [
+                        373,
+                        258
+                    ],
+                    [
+                        373,
+                        259
+                    ],
+                    [
+                        374,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46134936,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.980Z",
+            "updatedAt": "2023-09-20T10:33:27.980Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        372,
+                        248
+                    ],
+                    [
+                        375,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46134935,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.980Z",
+            "updatedAt": "2023-09-20T10:33:27.980Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        120
+                    ],
+                    [
+                        40,
+                        128
+                    ],
+                    [
+                        149,
+                        167
+                    ],
+                    [
+                        149,
+                        176
+                    ],
+                    [
+                        131,
+                        186
+                    ],
+                    [
+                        126,
+                        216
+                    ],
+                    [
+                        145,
+                        223
+                    ],
+                    [
+                        156,
+                        261
+                    ],
+                    [
+                        156,
+                        307
+                    ],
+                    [
+                        0,
+                        346
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46134934,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.979Z",
+            "updatedAt": "2023-09-20T10:33:27.979Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        120
+                    ],
+                    [
+                        156,
+                        346
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46134933,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.979Z",
+            "updatedAt": "2023-09-20T10:33:27.979Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        249
+                    ],
+                    [
+                        171,
+                        256
+                    ],
+                    [
+                        164,
+                        260
+                    ],
+                    [
+                        166,
+                        268
+                    ],
+                    [
+                        169,
+                        270
+                    ],
+                    [
+                        174,
+                        270
+                    ],
+                    [
+                        175,
+                        268
+                    ],
+                    [
+                        179,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46134932,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.979Z",
+            "updatedAt": "2023-09-20T10:33:27.979Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        249
+                    ],
+                    [
+                        179,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46134931,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.978Z",
+            "updatedAt": "2023-09-20T10:33:27.978Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        507,
+                        248
+                    ],
+                    [
+                        500,
+                        248
+                    ],
+                    [
+                        499,
+                        250
+                    ],
+                    [
+                        498,
+                        255
+                    ],
+                    [
+                        502,
+                        255
+                    ],
+                    [
+                        506,
+                        250
+                    ],
+                    [
+                        507,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46134930,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:27.978Z",
+            "updatedAt": "2023-09-20T10:33:27.978Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        498,
+                        248
+                    ],
+                    [
+                        507,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

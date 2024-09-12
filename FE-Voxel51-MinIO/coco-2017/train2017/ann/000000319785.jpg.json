@@ -1,0 +1,744 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4927829,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A row of parking meters on the side of a street next to a building.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.294Z",
+            "updatedAt": "2023-09-20T10:58:01.294Z"
+        },
+        {
+            "id": 4927830,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A row of parking meters sitting next to a building.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.294Z",
+            "updatedAt": "2023-09-20T10:58:01.294Z"
+        },
+        {
+            "id": 4927831,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A group of parking meters stand on an empty street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.294Z",
+            "updatedAt": "2023-09-20T10:58:01.294Z"
+        },
+        {
+            "id": 4927832,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "an image of a row of parking meters on side walk",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.294Z",
+            "updatedAt": "2023-09-20T10:58:01.294Z"
+        },
+        {
+            "id": 4927833,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Many parking meters line the sidewalk of the street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.294Z",
+            "updatedAt": "2023-09-20T10:58:01.294Z"
+        }
+    ],
+    "size": {
+        "height": 500,
+        "width": 334
+    },
+    "objects": [
+        {
+            "id": 47524503,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.304Z",
+            "updatedAt": "2023-09-20T10:58:01.304Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        161
+                    ],
+                    [
+                        129,
+                        161
+                    ],
+                    [
+                        135,
+                        161
+                    ],
+                    [
+                        138,
+                        166
+                    ],
+                    [
+                        138,
+                        170
+                    ],
+                    [
+                        143,
+                        175
+                    ],
+                    [
+                        139,
+                        198
+                    ],
+                    [
+                        139,
+                        210
+                    ],
+                    [
+                        133,
+                        229
+                    ],
+                    [
+                        128,
+                        231
+                    ],
+                    [
+                        118,
+                        225
+                    ],
+                    [
+                        113,
+                        197
+                    ],
+                    [
+                        114,
+                        194
+                    ],
+                    [
+                        115,
+                        186
+                    ],
+                    [
+                        112,
+                        173
+                    ],
+                    [
+                        117,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524502,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.303Z",
+            "updatedAt": "2023-09-20T10:58:01.303Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        161
+                    ],
+                    [
+                        143,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524501,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.303Z",
+            "updatedAt": "2023-09-20T10:58:01.303Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        83,
+                        224
+                    ],
+                    [
+                        83,
+                        236
+                    ],
+                    [
+                        81,
+                        238
+                    ],
+                    [
+                        79,
+                        238
+                    ],
+                    [
+                        76,
+                        237
+                    ],
+                    [
+                        75,
+                        235
+                    ],
+                    [
+                        73,
+                        230
+                    ],
+                    [
+                        73,
+                        219
+                    ],
+                    [
+                        73,
+                        217
+                    ],
+                    [
+                        74,
+                        215
+                    ],
+                    [
+                        75,
+                        214
+                    ],
+                    [
+                        77,
+                        213
+                    ],
+                    [
+                        79,
+                        212
+                    ],
+                    [
+                        82,
+                        214
+                    ],
+                    [
+                        83,
+                        216
+                    ],
+                    [
+                        83,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524500,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.299Z",
+            "updatedAt": "2023-09-20T10:58:01.299Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        212
+                    ],
+                    [
+                        83,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524499,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.298Z",
+            "updatedAt": "2023-09-20T10:58:01.298Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        88,
+                        236
+                    ],
+                    [
+                        86,
+                        232
+                    ],
+                    [
+                        85,
+                        231
+                    ],
+                    [
+                        84,
+                        226
+                    ],
+                    [
+                        84,
+                        222
+                    ],
+                    [
+                        84,
+                        218
+                    ],
+                    [
+                        84,
+                        214
+                    ],
+                    [
+                        84,
+                        209
+                    ],
+                    [
+                        84,
+                        207
+                    ],
+                    [
+                        83,
+                        203
+                    ],
+                    [
+                        83,
+                        202
+                    ],
+                    [
+                        85,
+                        200
+                    ],
+                    [
+                        89,
+                        199
+                    ],
+                    [
+                        95,
+                        200
+                    ],
+                    [
+                        99,
+                        202
+                    ],
+                    [
+                        99,
+                        207
+                    ],
+                    [
+                        98,
+                        211
+                    ],
+                    [
+                        99,
+                        218
+                    ],
+                    [
+                        99,
+                        221
+                    ],
+                    [
+                        99,
+                        229
+                    ],
+                    [
+                        98,
+                        235
+                    ],
+                    [
+                        96,
+                        237
+                    ],
+                    [
+                        95,
+                        237
+                    ],
+                    [
+                        93,
+                        238
+                    ],
+                    [
+                        92,
+                        238
+                    ],
+                    [
+                        89,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524498,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.298Z",
+            "updatedAt": "2023-09-20T10:58:01.298Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        83,
+                        199
+                    ],
+                    [
+                        99,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524497,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.297Z",
+            "updatedAt": "2023-09-20T10:58:01.297Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        69,
+                        223
+                    ],
+                    [
+                        68,
+                        226
+                    ],
+                    [
+                        68,
+                        228
+                    ],
+                    [
+                        68,
+                        232
+                    ],
+                    [
+                        69,
+                        236
+                    ],
+                    [
+                        69,
+                        238
+                    ],
+                    [
+                        69,
+                        238
+                    ],
+                    [
+                        70,
+                        239
+                    ],
+                    [
+                        71,
+                        239
+                    ],
+                    [
+                        74,
+                        240
+                    ],
+                    [
+                        76,
+                        237
+                    ],
+                    [
+                        73,
+                        229
+                    ],
+                    [
+                        73,
+                        221
+                    ],
+                    [
+                        72,
+                        221
+                    ],
+                    [
+                        69,
+                        222
+                    ],
+                    [
+                        69,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524496,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.297Z",
+            "updatedAt": "2023-09-20T10:58:01.297Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        221
+                    ],
+                    [
+                        76,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524495,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.296Z",
+            "updatedAt": "2023-09-20T10:58:01.296Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        204
+                    ],
+                    [
+                        63,
+                        204
+                    ],
+                    [
+                        63,
+                        210
+                    ],
+                    [
+                        62,
+                        210
+                    ],
+                    [
+                        63,
+                        211
+                    ],
+                    [
+                        63,
+                        215
+                    ],
+                    [
+                        57,
+                        216
+                    ],
+                    [
+                        57,
+                        211
+                    ],
+                    [
+                        57,
+                        210
+                    ],
+                    [
+                        57,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524494,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.296Z",
+            "updatedAt": "2023-09-20T10:58:01.296Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        204
+                    ],
+                    [
+                        63,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524493,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.295Z",
+            "updatedAt": "2023-09-20T10:58:01.295Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        181
+                    ],
+                    [
+                        163,
+                        180
+                    ],
+                    [
+                        164,
+                        177
+                    ],
+                    [
+                        169,
+                        177
+                    ],
+                    [
+                        170,
+                        199
+                    ],
+                    [
+                        168,
+                        201
+                    ],
+                    [
+                        166,
+                        202
+                    ],
+                    [
+                        165,
+                        202
+                    ],
+                    [
+                        165,
+                        201
+                    ],
+                    [
+                        161,
+                        199
+                    ],
+                    [
+                        155,
+                        191
+                    ],
+                    [
+                        161,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524492,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.294Z",
+            "updatedAt": "2023-09-20T10:58:01.294Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        177
+                    ],
+                    [
+                        170,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524491,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.294Z",
+            "updatedAt": "2023-09-20T10:58:01.294Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        166
+                    ],
+                    [
+                        21,
+                        165
+                    ],
+                    [
+                        24,
+                        166
+                    ],
+                    [
+                        23,
+                        171
+                    ],
+                    [
+                        4,
+                        172
+                    ],
+                    [
+                        4,
+                        165
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47524490,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:01.294Z",
+            "updatedAt": "2023-09-20T10:58:01.294Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        165
+                    ],
+                    [
+                        24,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

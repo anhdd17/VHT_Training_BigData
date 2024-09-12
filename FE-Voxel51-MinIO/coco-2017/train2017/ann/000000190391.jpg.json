@@ -1,0 +1,260 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4773027,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a hot dog in a bun covered with mustard sitting in a small container",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:35.611Z",
+            "updatedAt": "2023-09-20T10:48:35.611Z"
+        },
+        {
+            "id": 4773028,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A very tasty looking hot dog with mustard on it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:35.611Z",
+            "updatedAt": "2023-09-20T10:48:35.611Z"
+        },
+        {
+            "id": 4773029,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A closeup shot of a hotdog with a small cup of ketchup",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:35.612Z",
+            "updatedAt": "2023-09-20T10:48:35.612Z"
+        },
+        {
+            "id": 4773030,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A hot dog with mustard and a bun next to a ketchup cup.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:35.612Z",
+            "updatedAt": "2023-09-20T10:48:35.612Z"
+        },
+        {
+            "id": 4773031,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A hotdog with mustard and a container of catsup in the background",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:35.612Z",
+            "updatedAt": "2023-09-20T10:48:35.612Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46985333,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:35.613Z",
+            "updatedAt": "2023-09-20T10:48:35.613Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        235
+                    ],
+                    [
+                        209,
+                        235
+                    ],
+                    [
+                        250,
+                        226
+                    ],
+                    [
+                        277,
+                        208
+                    ],
+                    [
+                        288,
+                        187
+                    ],
+                    [
+                        296,
+                        164
+                    ],
+                    [
+                        302,
+                        142
+                    ],
+                    [
+                        291,
+                        115
+                    ],
+                    [
+                        246,
+                        79
+                    ],
+                    [
+                        178,
+                        66
+                    ],
+                    [
+                        127,
+                        74
+                    ],
+                    [
+                        92,
+                        78
+                    ],
+                    [
+                        56,
+                        102
+                    ],
+                    [
+                        43,
+                        127
+                    ],
+                    [
+                        43,
+                        145
+                    ],
+                    [
+                        46,
+                        161
+                    ],
+                    [
+                        79,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46985332,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:35.613Z",
+            "updatedAt": "2023-09-20T10:48:35.613Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        43,
+                        66
+                    ],
+                    [
+                        302,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46985331,
+            "classId": 6461815,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:35.612Z",
+            "updatedAt": "2023-09-20T10:48:35.612Z",
+            "tags": [],
+            "classTitle": "hot dog",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        144
+                    ],
+                    [
+                        365,
+                        137
+                    ],
+                    [
+                        394,
+                        167
+                    ],
+                    [
+                        419,
+                        153
+                    ],
+                    [
+                        474,
+                        172
+                    ],
+                    [
+                        488,
+                        113
+                    ],
+                    [
+                        569,
+                        136
+                    ],
+                    [
+                        606,
+                        274
+                    ],
+                    [
+                        606,
+                        417
+                    ],
+                    [
+                        300,
+                        418
+                    ],
+                    [
+                        295,
+                        382
+                    ],
+                    [
+                        294,
+                        284
+                    ],
+                    [
+                        306,
+                        165
+                    ],
+                    [
+                        307,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46985330,
+            "classId": 6461815,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:35.612Z",
+            "updatedAt": "2023-09-20T10:48:35.612Z",
+            "tags": [],
+            "classTitle": "hot dog",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        113
+                    ],
+                    [
+                        606,
+                        418
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

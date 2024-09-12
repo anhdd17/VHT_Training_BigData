@@ -1,0 +1,160 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4694783,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "there is a wall baby elephant that is walking by itself",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:43.945Z",
+            "updatedAt": "2023-09-20T10:43:43.945Z"
+        },
+        {
+            "id": 4694784,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A baby elephant is walking along a grass path.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:43.945Z",
+            "updatedAt": "2023-09-20T10:43:43.945Z"
+        },
+        {
+            "id": 4694785,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "an elephant with something wrong with its skin",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:43.945Z",
+            "updatedAt": "2023-09-20T10:43:43.945Z"
+        },
+        {
+            "id": 4694786,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A baby elephant calf walking through some grass. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:43.945Z",
+            "updatedAt": "2023-09-20T10:43:43.945Z"
+        },
+        {
+            "id": 4694787,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A small elephant walking across a grassy field.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:43.945Z",
+            "updatedAt": "2023-09-20T10:43:43.945Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 428
+    },
+    "objects": [
+        {
+            "id": 46712323,
+            "classId": 6461783,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:43.945Z",
+            "updatedAt": "2023-09-20T10:43:43.945Z",
+            "tags": [],
+            "classTitle": "elephant",
+            "points": {
+                "exterior": [
+                    [
+                        160,
+                        561
+                    ],
+                    [
+                        115,
+                        345
+                    ],
+                    [
+                        104,
+                        186
+                    ],
+                    [
+                        131,
+                        95
+                    ],
+                    [
+                        232,
+                        36
+                    ],
+                    [
+                        325,
+                        111
+                    ],
+                    [
+                        351,
+                        342
+                    ],
+                    [
+                        338,
+                        539
+                    ],
+                    [
+                        288,
+                        545
+                    ],
+                    [
+                        270,
+                        535
+                    ],
+                    [
+                        242,
+                        544
+                    ],
+                    [
+                        226,
+                        551
+                    ],
+                    [
+                        226,
+                        604
+                    ],
+                    [
+                        177,
+                        598
+                    ],
+                    [
+                        145,
+                        591
+                    ],
+                    [
+                        147,
+                        559
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46712322,
+            "classId": 6461783,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:43.945Z",
+            "updatedAt": "2023-09-20T10:43:43.945Z",
+            "tags": [],
+            "classTitle": "elephant",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        36
+                    ],
+                    [
+                        351,
+                        604
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

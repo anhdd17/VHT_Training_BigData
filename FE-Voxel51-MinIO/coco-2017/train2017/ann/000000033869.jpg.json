@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4959693,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A person water skiing falls in a lake.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:08.383Z",
+            "updatedAt": "2023-09-20T11:00:08.383Z"
+        },
+        {
+            "id": 4959694,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A surfer is covered in the spray from a large wave.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:08.383Z",
+            "updatedAt": "2023-09-20T11:00:08.383Z"
+        },
+        {
+            "id": 4959695,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The wake boarder has fallen off of the surfboard. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:08.383Z",
+            "updatedAt": "2023-09-20T11:00:08.383Z"
+        },
+        {
+            "id": 4959696,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A surfboard sitting in a large body of water.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:08.383Z",
+            "updatedAt": "2023-09-20T11:00:08.383Z"
+        },
+        {
+            "id": 4959697,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a body of water with a water ski sitting on top",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:08.383Z",
+            "updatedAt": "2023-09-20T11:00:08.383Z"
+        }
+    ],
+    "size": {
+        "height": 424,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47636384,
+            "classId": 6461800,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:08.384Z",
+            "updatedAt": "2023-09-20T11:00:08.384Z",
+            "tags": [],
+            "classTitle": "surfboard",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        193
+                    ],
+                    [
+                        258,
+                        175
+                    ],
+                    [
+                        298,
+                        153
+                    ],
+                    [
+                        318,
+                        165
+                    ],
+                    [
+                        314,
+                        178
+                    ],
+                    [
+                        287,
+                        191
+                    ],
+                    [
+                        207,
+                        208
+                    ],
+                    [
+                        186,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47636383,
+            "classId": 6461800,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:08.384Z",
+            "updatedAt": "2023-09-20T11:00:08.384Z",
+            "tags": [],
+            "classTitle": "surfboard",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        153
+                    ],
+                    [
+                        318,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47636382,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:08.384Z",
+            "updatedAt": "2023-09-20T11:00:08.384Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        179
+                    ],
+                    [
+                        215,
+                        160
+                    ],
+                    [
+                        206,
+                        152
+                    ],
+                    [
+                        198,
+                        153
+                    ],
+                    [
+                        195,
+                        148
+                    ],
+                    [
+                        202,
+                        139
+                    ],
+                    [
+                        215,
+                        138
+                    ],
+                    [
+                        220,
+                        148
+                    ],
+                    [
+                        254,
+                        175
+                    ],
+                    [
+                        243,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47636381,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:08.383Z",
+            "updatedAt": "2023-09-20T11:00:08.383Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        138
+                    ],
+                    [
+                        254,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4939373,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A tray filled with lots of fries next to a hot dog.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:45.888Z",
+            "updatedAt": "2023-09-20T10:58:45.888Z"
+        },
+        {
+            "id": 4939374,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A hot dog with toppings sits next to fries",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:45.888Z",
+            "updatedAt": "2023-09-20T10:58:45.888Z"
+        },
+        {
+            "id": 4939375,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Here is  hot dog in a bun with sour pickles and french fries.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:45.888Z",
+            "updatedAt": "2023-09-20T10:58:45.888Z"
+        },
+        {
+            "id": 4939376,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "This is a closeup of a hot dog with pickle and tomato and fries.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:45.888Z",
+            "updatedAt": "2023-09-20T10:58:45.888Z"
+        },
+        {
+            "id": 4939377,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A basket of fries and a basket with a hot dog with tomatoes and pickle.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:45.888Z",
+            "updatedAt": "2023-09-20T10:58:45.888Z"
+        }
+    ],
+    "size": {
+        "height": 428,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47565544,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:45.888Z",
+            "updatedAt": "2023-09-20T10:58:45.888Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        296,
+                        16
+                    ],
+                    [
+                        624,
+                        96
+                    ],
+                    [
+                        639,
+                        116
+                    ],
+                    [
+                        639,
+                        158
+                    ],
+                    [
+                        633,
+                        406
+                    ],
+                    [
+                        164,
+                        422
+                    ],
+                    [
+                        27,
+                        415
+                    ],
+                    [
+                        8,
+                        413
+                    ],
+                    [
+                        14,
+                        215
+                    ],
+                    [
+                        14,
+                        130
+                    ],
+                    [
+                        18,
+                        80
+                    ],
+                    [
+                        169,
+                        45
+                    ],
+                    [
+                        202,
+                        36
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47565543,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:45.888Z",
+            "updatedAt": "2023-09-20T10:58:45.888Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        8,
+                        16
+                    ],
+                    [
+                        639,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47565542,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:45.888Z",
+            "updatedAt": "2023-09-20T10:58:45.888Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        480,
+                        422
+                    ],
+                    [
+                        464,
+                        423
+                    ],
+                    [
+                        444,
+                        420
+                    ],
+                    [
+                        420,
+                        411
+                    ],
+                    [
+                        389,
+                        393
+                    ],
+                    [
+                        341,
+                        385
+                    ],
+                    [
+                        318,
+                        358
+                    ],
+                    [
+                        325,
+                        303
+                    ],
+                    [
+                        359,
+                        248
+                    ],
+                    [
+                        389,
+                        198
+                    ],
+                    [
+                        396,
+                        182
+                    ],
+                    [
+                        430,
+                        173
+                    ],
+                    [
+                        468,
+                        176
+                    ],
+                    [
+                        503,
+                        185
+                    ],
+                    [
+                        527,
+                        200
+                    ],
+                    [
+                        538,
+                        227
+                    ],
+                    [
+                        538,
+                        286
+                    ],
+                    [
+                        530,
+                        368
+                    ],
+                    [
+                        489,
+                        422
+                    ],
+                    [
+                        473,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47565541,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:45.888Z",
+            "updatedAt": "2023-09-20T10:58:45.888Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        173
+                    ],
+                    [
+                        538,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

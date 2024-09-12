@@ -1,0 +1,564 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4885254,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A slice of cake on a plate with whipped cream and a fork on it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:29.999Z",
+            "updatedAt": "2023-09-20T10:55:29.999Z"
+        },
+        {
+            "id": 4885255,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "this is a piece of cake on a white plate",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:29.999Z",
+            "updatedAt": "2023-09-20T10:55:29.999Z"
+        },
+        {
+            "id": 4885256,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Large chocolate cake with a moose sitting on top or a plate. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:29.999Z",
+            "updatedAt": "2023-09-20T10:55:29.999Z"
+        },
+        {
+            "id": 4885257,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a close up of a plate of food with cake ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:29.999Z",
+            "updatedAt": "2023-09-20T10:55:29.999Z"
+        },
+        {
+            "id": 4885258,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A plate with a slice of dessert with whipped cream.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:29.999Z",
+            "updatedAt": "2023-09-20T10:55:29.999Z"
+        }
+    ],
+    "size": {
+        "height": 360,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47376941,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:30.002Z",
+            "updatedAt": "2023-09-20T10:55:30.002Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        639,
+                        2
+                    ],
+                    [
+                        639,
+                        354
+                    ],
+                    [
+                        1,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47376940,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:30.002Z",
+            "updatedAt": "2023-09-20T10:55:30.002Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        639,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47376939,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:30.001Z",
+            "updatedAt": "2023-09-20T10:55:30.001Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        37,
+                        102
+                    ],
+                    [
+                        86,
+                        96
+                    ],
+                    [
+                        125,
+                        65
+                    ],
+                    [
+                        131,
+                        27
+                    ],
+                    [
+                        122,
+                        0
+                    ],
+                    [
+                        48,
+                        0
+                    ],
+                    [
+                        2,
+                        5
+                    ],
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        2,
+                        30
+                    ],
+                    [
+                        1,
+                        43
+                    ],
+                    [
+                        5,
+                        60
+                    ],
+                    [
+                        37,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47376938,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:30.001Z",
+            "updatedAt": "2023-09-20T10:55:30.001Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        131,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47376937,
+            "classId": 6461805,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:30.001Z",
+            "updatedAt": "2023-09-20T10:55:30.001Z",
+            "tags": [],
+            "classTitle": "fork",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        302
+                    ],
+                    [
+                        610,
+                        298
+                    ],
+                    [
+                        486,
+                        302
+                    ],
+                    [
+                        484,
+                        290
+                    ],
+                    [
+                        613,
+                        281
+                    ],
+                    [
+                        492,
+                        281
+                    ],
+                    [
+                        484,
+                        277
+                    ],
+                    [
+                        616,
+                        267
+                    ],
+                    [
+                        606,
+                        264
+                    ],
+                    [
+                        489,
+                        268
+                    ],
+                    [
+                        487,
+                        264
+                    ],
+                    [
+                        613,
+                        252
+                    ],
+                    [
+                        612,
+                        246
+                    ],
+                    [
+                        488,
+                        256
+                    ],
+                    [
+                        485,
+                        253
+                    ],
+                    [
+                        505,
+                        246
+                    ],
+                    [
+                        556,
+                        238
+                    ],
+                    [
+                        602,
+                        232
+                    ],
+                    [
+                        639,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47376936,
+            "classId": 6461805,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:30.001Z",
+            "updatedAt": "2023-09-20T10:55:30.001Z",
+            "tags": [],
+            "classTitle": "fork",
+            "points": {
+                "exterior": [
+                    [
+                        484,
+                        232
+                    ],
+                    [
+                        639,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47376935,
+            "classId": 6461818,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:30.001Z",
+            "updatedAt": "2023-09-20T10:55:30.001Z",
+            "tags": [],
+            "classTitle": "cake",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        59
+                    ],
+                    [
+                        199,
+                        163
+                    ],
+                    [
+                        174,
+                        172
+                    ],
+                    [
+                        161,
+                        179
+                    ],
+                    [
+                        156,
+                        191
+                    ],
+                    [
+                        144,
+                        176
+                    ],
+                    [
+                        108,
+                        206
+                    ],
+                    [
+                        94,
+                        227
+                    ],
+                    [
+                        109,
+                        287
+                    ],
+                    [
+                        119,
+                        343
+                    ],
+                    [
+                        122,
+                        355
+                    ],
+                    [
+                        132,
+                        353
+                    ],
+                    [
+                        269,
+                        355
+                    ],
+                    [
+                        275,
+                        347
+                    ],
+                    [
+                        266,
+                        317
+                    ],
+                    [
+                        263,
+                        300
+                    ],
+                    [
+                        320,
+                        279
+                    ],
+                    [
+                        431,
+                        229
+                    ],
+                    [
+                        491,
+                        204
+                    ],
+                    [
+                        499,
+                        154
+                    ],
+                    [
+                        502,
+                        102
+                    ],
+                    [
+                        502,
+                        102
+                    ],
+                    [
+                        474,
+                        69
+                    ],
+                    [
+                        462,
+                        56
+                    ],
+                    [
+                        436,
+                        13
+                    ],
+                    [
+                        427,
+                        4
+                    ],
+                    [
+                        413,
+                        8
+                    ],
+                    [
+                        397,
+                        3
+                    ],
+                    [
+                        384,
+                        14
+                    ],
+                    [
+                        367,
+                        9
+                    ],
+                    [
+                        362,
+                        24
+                    ],
+                    [
+                        348,
+                        29
+                    ],
+                    [
+                        341,
+                        52
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47376934,
+            "classId": 6461818,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:30.000Z",
+            "updatedAt": "2023-09-20T10:55:30.000Z",
+            "tags": [],
+            "classTitle": "cake",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        3
+                    ],
+                    [
+                        502,
+                        355
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47376933,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:30.000Z",
+            "updatedAt": "2023-09-20T10:55:30.000Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        465,
+                        11
+                    ],
+                    [
+                        483,
+                        19
+                    ],
+                    [
+                        510,
+                        30
+                    ],
+                    [
+                        527,
+                        35
+                    ],
+                    [
+                        566,
+                        41
+                    ],
+                    [
+                        588,
+                        26
+                    ],
+                    [
+                        601,
+                        4
+                    ],
+                    [
+                        511,
+                        0
+                    ],
+                    [
+                        467,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47376932,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:30.000Z",
+            "updatedAt": "2023-09-20T10:55:30.000Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        465,
+                        0
+                    ],
+                    [
+                        601,
+                        41
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

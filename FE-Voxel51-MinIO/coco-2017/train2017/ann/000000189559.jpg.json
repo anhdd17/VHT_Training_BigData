@@ -1,0 +1,660 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4931281,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The truck carrying the cow is driving on the road",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.160Z",
+            "updatedAt": "2023-09-20T10:58:14.160Z"
+        },
+        {
+            "id": 4931282,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a truck driving with a cage on the back ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.160Z",
+            "updatedAt": "2023-09-20T10:58:14.160Z"
+        },
+        {
+            "id": 4931283,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A truck driving down the road with an animal in the back.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.160Z",
+            "updatedAt": "2023-09-20T10:58:14.160Z"
+        },
+        {
+            "id": 4931284,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A long vehicle with a trailer holding an animal.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.160Z",
+            "updatedAt": "2023-09-20T10:58:14.160Z"
+        },
+        {
+            "id": 4931285,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A truck moving a long a road and going somewhere.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.160Z",
+            "updatedAt": "2023-09-20T10:58:14.160Z"
+        }
+    ],
+    "size": {
+        "height": 370,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 47536347,
+            "classId": 6461782,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.163Z",
+            "updatedAt": "2023-09-20T10:58:14.163Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        173
+                    ],
+                    [
+                        216,
+                        167
+                    ],
+                    [
+                        223,
+                        169
+                    ],
+                    [
+                        227,
+                        176
+                    ],
+                    [
+                        229,
+                        175
+                    ],
+                    [
+                        229,
+                        189
+                    ],
+                    [
+                        223,
+                        190
+                    ],
+                    [
+                        222,
+                        194
+                    ],
+                    [
+                        214,
+                        194
+                    ],
+                    [
+                        210,
+                        180
+                    ],
+                    [
+                        201,
+                        168
+                    ],
+                    [
+                        204,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47536346,
+            "classId": 6461782,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.163Z",
+            "updatedAt": "2023-09-20T10:58:14.163Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        197
+                    ],
+                    [
+                        215,
+                        208
+                    ],
+                    [
+                        223,
+                        216
+                    ],
+                    [
+                        228,
+                        213
+                    ],
+                    [
+                        229,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47536345,
+            "classId": 6461782,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.162Z",
+            "updatedAt": "2023-09-20T10:58:14.162Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        179
+                    ],
+                    [
+                        251,
+                        180
+                    ],
+                    [
+                        260,
+                        181
+                    ],
+                    [
+                        263,
+                        185
+                    ],
+                    [
+                        239,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47536344,
+            "classId": 6461782,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.162Z",
+            "updatedAt": "2023-09-20T10:58:14.162Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        189
+                    ],
+                    [
+                        272,
+                        198
+                    ],
+                    [
+                        276,
+                        212
+                    ],
+                    [
+                        239,
+                        215
+                    ],
+                    [
+                        240,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47536343,
+            "classId": 6461782,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.162Z",
+            "updatedAt": "2023-09-20T10:58:14.162Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        201,
+                        167
+                    ],
+                    [
+                        229,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47536342,
+            "classId": 6461782,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.162Z",
+            "updatedAt": "2023-09-20T10:58:14.162Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        215,
+                        196
+                    ],
+                    [
+                        229,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47536341,
+            "classId": 6461782,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.161Z",
+            "updatedAt": "2023-09-20T10:58:14.161Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        179
+                    ],
+                    [
+                        263,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47536340,
+            "classId": 6461782,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.161Z",
+            "updatedAt": "2023-09-20T10:58:14.161Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        189
+                    ],
+                    [
+                        276,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47536339,
+            "classId": 6461770,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.161Z",
+            "updatedAt": "2023-09-20T10:58:14.161Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        0
+                    ],
+                    [
+                        499,
+                        2
+                    ],
+                    [
+                        499,
+                        369
+                    ],
+                    [
+                        334,
+                        369
+                    ],
+                    [
+                        332,
+                        364
+                    ],
+                    [
+                        327,
+                        351
+                    ],
+                    [
+                        323,
+                        349
+                    ],
+                    [
+                        319,
+                        351
+                    ],
+                    [
+                        305,
+                        355
+                    ],
+                    [
+                        290,
+                        353
+                    ],
+                    [
+                        282,
+                        341
+                    ],
+                    [
+                        277,
+                        369
+                    ],
+                    [
+                        180,
+                        369
+                    ],
+                    [
+                        176,
+                        352
+                    ],
+                    [
+                        175,
+                        321
+                    ],
+                    [
+                        102,
+                        293
+                    ],
+                    [
+                        97,
+                        297
+                    ],
+                    [
+                        96,
+                        294
+                    ],
+                    [
+                        93,
+                        294
+                    ],
+                    [
+                        93,
+                        299
+                    ],
+                    [
+                        90,
+                        309
+                    ],
+                    [
+                        78,
+                        308
+                    ],
+                    [
+                        74,
+                        307
+                    ],
+                    [
+                        72,
+                        305
+                    ],
+                    [
+                        70,
+                        293
+                    ],
+                    [
+                        70,
+                        277
+                    ],
+                    [
+                        69,
+                        274
+                    ],
+                    [
+                        71,
+                        275
+                    ],
+                    [
+                        72,
+                        270
+                    ],
+                    [
+                        70,
+                        266
+                    ],
+                    [
+                        71,
+                        260
+                    ],
+                    [
+                        68,
+                        256
+                    ],
+                    [
+                        68,
+                        253
+                    ],
+                    [
+                        70,
+                        253
+                    ],
+                    [
+                        71,
+                        242
+                    ],
+                    [
+                        73,
+                        231
+                    ],
+                    [
+                        74,
+                        216
+                    ],
+                    [
+                        74,
+                        210
+                    ],
+                    [
+                        78,
+                        195
+                    ],
+                    [
+                        77,
+                        193
+                    ],
+                    [
+                        75,
+                        193
+                    ],
+                    [
+                        75,
+                        198
+                    ],
+                    [
+                        74,
+                        201
+                    ],
+                    [
+                        71,
+                        203
+                    ],
+                    [
+                        67,
+                        202
+                    ],
+                    [
+                        64,
+                        200
+                    ],
+                    [
+                        63,
+                        198
+                    ],
+                    [
+                        64,
+                        191
+                    ],
+                    [
+                        65,
+                        188
+                    ],
+                    [
+                        67,
+                        186
+                    ],
+                    [
+                        71,
+                        186
+                    ],
+                    [
+                        75,
+                        188
+                    ],
+                    [
+                        76,
+                        190
+                    ],
+                    [
+                        78,
+                        191
+                    ],
+                    [
+                        81,
+                        175
+                    ],
+                    [
+                        83,
+                        173
+                    ],
+                    [
+                        86,
+                        173
+                    ],
+                    [
+                        90,
+                        169
+                    ],
+                    [
+                        96,
+                        165
+                    ],
+                    [
+                        96,
+                        162
+                    ],
+                    [
+                        99,
+                        160
+                    ],
+                    [
+                        100,
+                        156
+                    ],
+                    [
+                        103,
+                        143
+                    ],
+                    [
+                        164,
+                        104
+                    ],
+                    [
+                        167,
+                        100
+                    ],
+                    [
+                        171,
+                        100
+                    ],
+                    [
+                        182,
+                        93
+                    ],
+                    [
+                        185,
+                        86
+                    ],
+                    [
+                        191,
+                        82
+                    ],
+                    [
+                        198,
+                        76
+                    ],
+                    [
+                        207,
+                        77
+                    ],
+                    [
+                        282,
+                        33
+                    ],
+                    [
+                        285,
+                        27
+                    ],
+                    [
+                        294,
+                        24
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47536338,
+            "classId": 6461770,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:58:14.161Z",
+            "updatedAt": "2023-09-20T10:58:14.161Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        63,
+                        0
+                    ],
+                    [
+                        499,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

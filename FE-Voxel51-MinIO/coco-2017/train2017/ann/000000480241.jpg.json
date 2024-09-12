@@ -1,0 +1,396 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4835232,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A washer mounted to a wall behind a white door.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.316Z",
+            "updatedAt": "2023-09-20T10:52:20.316Z"
+        },
+        {
+            "id": 4835233,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A dryer is being blocked by a white door and a fire extinguisher is sitting upright next to a refrigerator.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.316Z",
+            "updatedAt": "2023-09-20T10:52:20.316Z"
+        },
+        {
+            "id": 4835234,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a red fire extinguisher is in a white room",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.316Z",
+            "updatedAt": "2023-09-20T10:52:20.316Z"
+        },
+        {
+            "id": 4835235,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A full view of a white kitchen with many things.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.316Z",
+            "updatedAt": "2023-09-20T10:52:20.316Z"
+        },
+        {
+            "id": 4835236,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A white kitchen with a combination washer drier visible",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.316Z",
+            "updatedAt": "2023-09-20T10:52:20.316Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47199961,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.321Z",
+            "updatedAt": "2023-09-20T10:52:20.321Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        590,
+                        35
+                    ],
+                    [
+                        591,
+                        28
+                    ],
+                    [
+                        594,
+                        14
+                    ],
+                    [
+                        596,
+                        9
+                    ],
+                    [
+                        596,
+                        0
+                    ],
+                    [
+                        610,
+                        2
+                    ],
+                    [
+                        616,
+                        2
+                    ],
+                    [
+                        615,
+                        17
+                    ],
+                    [
+                        615,
+                        24
+                    ],
+                    [
+                        611,
+                        33
+                    ],
+                    [
+                        607,
+                        39
+                    ],
+                    [
+                        601,
+                        40
+                    ],
+                    [
+                        596,
+                        40
+                    ],
+                    [
+                        592,
+                        36
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47199960,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.320Z",
+            "updatedAt": "2023-09-20T10:52:20.320Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        590,
+                        0
+                    ],
+                    [
+                        616,
+                        40
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47199959,
+            "classId": 6461835,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.319Z",
+            "updatedAt": "2023-09-20T10:52:20.319Z",
+            "tags": [],
+            "classTitle": "refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        4
+                    ],
+                    [
+                        504,
+                        3
+                    ],
+                    [
+                        476,
+                        292
+                    ],
+                    [
+                        322,
+                        319
+                    ],
+                    [
+                        311,
+                        314
+                    ],
+                    [
+                        311,
+                        174
+                    ],
+                    [
+                        328,
+                        193
+                    ],
+                    [
+                        362,
+                        188
+                    ],
+                    [
+                        362,
+                        172
+                    ],
+                    [
+                        375,
+                        168
+                    ],
+                    [
+                        339,
+                        60
+                    ],
+                    [
+                        319,
+                        59
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47199958,
+            "classId": 6461835,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.319Z",
+            "updatedAt": "2023-09-20T10:52:20.319Z",
+            "tags": [],
+            "classTitle": "refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        311,
+                        3
+                    ],
+                    [
+                        504,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47199957,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.318Z",
+            "updatedAt": "2023-09-20T10:52:20.318Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        251
+                    ],
+                    [
+                        264,
+                        259
+                    ],
+                    [
+                        264,
+                        268
+                    ],
+                    [
+                        267,
+                        273
+                    ],
+                    [
+                        264,
+                        285
+                    ],
+                    [
+                        262,
+                        368
+                    ],
+                    [
+                        274,
+                        371
+                    ],
+                    [
+                        285,
+                        368
+                    ],
+                    [
+                        286,
+                        352
+                    ],
+                    [
+                        281,
+                        270
+                    ],
+                    [
+                        281,
+                        263
+                    ],
+                    [
+                        281,
+                        249
+                    ],
+                    [
+                        274,
+                        242
+                    ],
+                    [
+                        263,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47199956,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.318Z",
+            "updatedAt": "2023-09-20T10:52:20.318Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        242
+                    ],
+                    [
+                        286,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47199955,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.317Z",
+            "updatedAt": "2023-09-20T10:52:20.317Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        497,
+                        51
+                    ],
+                    [
+                        556,
+                        47
+                    ],
+                    [
+                        559,
+                        25
+                    ],
+                    [
+                        561,
+                        1
+                    ],
+                    [
+                        502,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47199954,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:20.317Z",
+            "updatedAt": "2023-09-20T10:52:20.317Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        497,
+                        1
+                    ],
+                    [
+                        561,
+                        51
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,860 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4841488,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Cluttered apartment with packing being done with clothes",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.637Z",
+            "updatedAt": "2023-09-20T10:52:44.637Z"
+        },
+        {
+            "id": 4841489,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A bunch of bags that are in a kitchen.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.637Z",
+            "updatedAt": "2023-09-20T10:52:44.637Z"
+        },
+        {
+            "id": 4841490,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a really messy kitchen looks like a hoarders house",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.637Z",
+            "updatedAt": "2023-09-20T10:52:44.637Z"
+        },
+        {
+            "id": 4841491,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The room is very cluttered and dirty looking. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.637Z",
+            "updatedAt": "2023-09-20T10:52:44.637Z"
+        },
+        {
+            "id": 4841492,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A small messy kitchen with clothes and suitcase on the floor.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.637Z",
+            "updatedAt": "2023-09-20T10:52:44.637Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47222966,
+            "classId": 6461791,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.642Z",
+            "updatedAt": "2023-09-20T10:52:44.642Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        20,
+                        232
+                    ],
+                    [
+                        24,
+                        298
+                    ],
+                    [
+                        137,
+                        259
+                    ],
+                    [
+                        125,
+                        212
+                    ],
+                    [
+                        45,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222965,
+            "classId": 6461791,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.642Z",
+            "updatedAt": "2023-09-20T10:52:44.642Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        20,
+                        212
+                    ],
+                    [
+                        137,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222964,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.640Z",
+            "updatedAt": "2023-09-20T10:52:44.640Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        544,
+                        466
+                    ],
+                    [
+                        552,
+                        446
+                    ],
+                    [
+                        570,
+                        433
+                    ],
+                    [
+                        584,
+                        429
+                    ],
+                    [
+                        586,
+                        414
+                    ],
+                    [
+                        583,
+                        404
+                    ],
+                    [
+                        580,
+                        394
+                    ],
+                    [
+                        584,
+                        384
+                    ],
+                    [
+                        589,
+                        383
+                    ],
+                    [
+                        594,
+                        384
+                    ],
+                    [
+                        595,
+                        382
+                    ],
+                    [
+                        592,
+                        372
+                    ],
+                    [
+                        594,
+                        353
+                    ],
+                    [
+                        607,
+                        341
+                    ],
+                    [
+                        619,
+                        333
+                    ],
+                    [
+                        628,
+                        345
+                    ],
+                    [
+                        634,
+                        362
+                    ],
+                    [
+                        629,
+                        379
+                    ],
+                    [
+                        623,
+                        386
+                    ],
+                    [
+                        621,
+                        390
+                    ],
+                    [
+                        631,
+                        394
+                    ],
+                    [
+                        632,
+                        401
+                    ],
+                    [
+                        629,
+                        409
+                    ],
+                    [
+                        619,
+                        417
+                    ],
+                    [
+                        616,
+                        424
+                    ],
+                    [
+                        613,
+                        435
+                    ],
+                    [
+                        613,
+                        439
+                    ],
+                    [
+                        613,
+                        440
+                    ],
+                    [
+                        627,
+                        449
+                    ],
+                    [
+                        632,
+                        465
+                    ],
+                    [
+                        636,
+                        479
+                    ],
+                    [
+                        541,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222963,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.640Z",
+            "updatedAt": "2023-09-20T10:52:44.640Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        541,
+                        333
+                    ],
+                    [
+                        636,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222962,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.640Z",
+            "updatedAt": "2023-09-20T10:52:44.640Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        547,
+                        142
+                    ],
+                    [
+                        545,
+                        148
+                    ],
+                    [
+                        541,
+                        155
+                    ],
+                    [
+                        543,
+                        161
+                    ],
+                    [
+                        555,
+                        169
+                    ],
+                    [
+                        584,
+                        169
+                    ],
+                    [
+                        602,
+                        157
+                    ],
+                    [
+                        606,
+                        161
+                    ],
+                    [
+                        608,
+                        163
+                    ],
+                    [
+                        622,
+                        167
+                    ],
+                    [
+                        639,
+                        171
+                    ],
+                    [
+                        639,
+                        191
+                    ],
+                    [
+                        638,
+                        203
+                    ],
+                    [
+                        637,
+                        203
+                    ],
+                    [
+                        566,
+                        212
+                    ],
+                    [
+                        568,
+                        217
+                    ],
+                    [
+                        547,
+                        360
+                    ],
+                    [
+                        545,
+                        361
+                    ],
+                    [
+                        527,
+                        364
+                    ],
+                    [
+                        515,
+                        377
+                    ],
+                    [
+                        515,
+                        375
+                    ],
+                    [
+                        515,
+                        366
+                    ],
+                    [
+                        513,
+                        352
+                    ],
+                    [
+                        512,
+                        352
+                    ],
+                    [
+                        495,
+                        348
+                    ],
+                    [
+                        499,
+                        333
+                    ],
+                    [
+                        485,
+                        308
+                    ],
+                    [
+                        485,
+                        307
+                    ],
+                    [
+                        469,
+                        295
+                    ],
+                    [
+                        453,
+                        296
+                    ],
+                    [
+                        457,
+                        268
+                    ],
+                    [
+                        459,
+                        266
+                    ],
+                    [
+                        461,
+                        213
+                    ],
+                    [
+                        467,
+                        181
+                    ],
+                    [
+                        480,
+                        163
+                    ],
+                    [
+                        499,
+                        155
+                    ],
+                    [
+                        513,
+                        151
+                    ],
+                    [
+                        525,
+                        151
+                    ],
+                    [
+                        533,
+                        150
+                    ],
+                    [
+                        539,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222961,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.640Z",
+            "updatedAt": "2023-09-20T10:52:44.640Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        453,
+                        142
+                    ],
+                    [
+                        639,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222960,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.640Z",
+            "updatedAt": "2023-09-20T10:52:44.640Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        564,
+                        215
+                    ],
+                    [
+                        639,
+                        197
+                    ],
+                    [
+                        639,
+                        242
+                    ],
+                    [
+                        570,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222959,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.639Z",
+            "updatedAt": "2023-09-20T10:52:44.639Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        564,
+                        197
+                    ],
+                    [
+                        639,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222958,
+            "classId": 6461789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.639Z",
+            "updatedAt": "2023-09-20T10:52:44.639Z",
+            "tags": [],
+            "classTitle": "handbag",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        366
+                    ],
+                    [
+                        290,
+                        359
+                    ],
+                    [
+                        329,
+                        435
+                    ],
+                    [
+                        308,
+                        436
+                    ],
+                    [
+                        285,
+                        421
+                    ],
+                    [
+                        279,
+                        415
+                    ],
+                    [
+                        281,
+                        404
+                    ],
+                    [
+                        279,
+                        398
+                    ],
+                    [
+                        272,
+                        396
+                    ],
+                    [
+                        267,
+                        400
+                    ],
+                    [
+                        242,
+                        377
+                    ],
+                    [
+                        241,
+                        374
+                    ],
+                    [
+                        240,
+                        367
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222957,
+            "classId": 6461789,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.639Z",
+            "updatedAt": "2023-09-20T10:52:44.639Z",
+            "tags": [],
+            "classTitle": "handbag",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        359
+                    ],
+                    [
+                        329,
+                        436
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222956,
+            "classId": 6461807,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.639Z",
+            "updatedAt": "2023-09-20T10:52:44.639Z",
+            "tags": [],
+            "classTitle": "spoon",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        76
+                    ],
+                    [
+                        637,
+                        69
+                    ],
+                    [
+                        631,
+                        63
+                    ],
+                    [
+                        623,
+                        55
+                    ],
+                    [
+                        622,
+                        50
+                    ],
+                    [
+                        622,
+                        46
+                    ],
+                    [
+                        625,
+                        41
+                    ],
+                    [
+                        630,
+                        41
+                    ],
+                    [
+                        637,
+                        44
+                    ],
+                    [
+                        639,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222955,
+            "classId": 6461807,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.638Z",
+            "updatedAt": "2023-09-20T10:52:44.638Z",
+            "tags": [],
+            "classTitle": "spoon",
+            "points": {
+                "exterior": [
+                    [
+                        622,
+                        41
+                    ],
+                    [
+                        639,
+                        79
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222954,
+            "classId": 6461787,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.638Z",
+            "updatedAt": "2023-09-20T10:52:44.638Z",
+            "tags": [],
+            "classTitle": "backpack",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        472
+                    ],
+                    [
+                        223,
+                        441
+                    ],
+                    [
+                        236,
+                        431
+                    ],
+                    [
+                        238,
+                        402
+                    ],
+                    [
+                        245,
+                        392
+                    ],
+                    [
+                        250,
+                        399
+                    ],
+                    [
+                        259,
+                        404
+                    ],
+                    [
+                        264,
+                        398
+                    ],
+                    [
+                        234,
+                        362
+                    ],
+                    [
+                        185,
+                        317
+                    ],
+                    [
+                        194,
+                        303
+                    ],
+                    [
+                        175,
+                        288
+                    ],
+                    [
+                        132,
+                        260
+                    ],
+                    [
+                        97,
+                        263
+                    ],
+                    [
+                        77,
+                        279
+                    ],
+                    [
+                        66,
+                        289
+                    ],
+                    [
+                        24,
+                        306
+                    ],
+                    [
+                        17,
+                        340
+                    ],
+                    [
+                        15,
+                        368
+                    ],
+                    [
+                        45,
+                        401
+                    ],
+                    [
+                        62,
+                        411
+                    ],
+                    [
+                        100,
+                        451
+                    ],
+                    [
+                        127,
+                        445
+                    ],
+                    [
+                        128,
+                        429
+                    ],
+                    [
+                        143,
+                        444
+                    ],
+                    [
+                        144,
+                        459
+                    ],
+                    [
+                        154,
+                        466
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47222953,
+            "classId": 6461787,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:44.638Z",
+            "updatedAt": "2023-09-20T10:52:44.638Z",
+            "tags": [],
+            "classTitle": "backpack",
+            "points": {
+                "exterior": [
+                    [
+                        15,
+                        260
+                    ],
+                    [
+                        264,
+                        472
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

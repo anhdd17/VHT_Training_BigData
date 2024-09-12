@@ -1,0 +1,440 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4899897,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A parking meter sitting next to two parked cars.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:22.571Z",
+            "updatedAt": "2023-09-20T10:56:22.571Z"
+        },
+        {
+            "id": 4899898,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two parking meters sit on the side walk by the cars",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:22.571Z",
+            "updatedAt": "2023-09-20T10:56:22.571Z"
+        },
+        {
+            "id": 4899899,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A black digital parking meter in front of cars.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:22.571Z",
+            "updatedAt": "2023-09-20T10:56:22.571Z"
+        },
+        {
+            "id": 4899900,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A car is parked next to a parking meter.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:22.571Z",
+            "updatedAt": "2023-09-20T10:56:22.571Z"
+        },
+        {
+            "id": 4899901,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A black parking meter, that is next to a bunch of cars.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:22.571Z",
+            "updatedAt": "2023-09-20T10:56:22.571Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 427
+    },
+    "objects": [
+        {
+            "id": 47427056,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:22.573Z",
+            "updatedAt": "2023-09-20T10:56:22.573Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        509
+                    ],
+                    [
+                        204,
+                        489
+                    ],
+                    [
+                        200,
+                        443
+                    ],
+                    [
+                        220,
+                        433
+                    ],
+                    [
+                        253,
+                        344
+                    ],
+                    [
+                        243,
+                        266
+                    ],
+                    [
+                        230,
+                        247
+                    ],
+                    [
+                        232,
+                        181
+                    ],
+                    [
+                        242,
+                        137
+                    ],
+                    [
+                        233,
+                        108
+                    ],
+                    [
+                        232,
+                        104
+                    ],
+                    [
+                        272,
+                        78
+                    ],
+                    [
+                        365,
+                        65
+                    ],
+                    [
+                        426,
+                        63
+                    ],
+                    [
+                        426,
+                        631
+                    ],
+                    [
+                        303,
+                        633
+                    ],
+                    [
+                        279,
+                        593
+                    ],
+                    [
+                        226,
+                        536
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47427055,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:22.573Z",
+            "updatedAt": "2023-09-20T10:56:22.573Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        63
+                    ],
+                    [
+                        426,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47427054,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:22.572Z",
+            "updatedAt": "2023-09-20T10:56:22.572Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        39
+                    ],
+                    [
+                        131,
+                        31
+                    ],
+                    [
+                        187,
+                        25
+                    ],
+                    [
+                        290,
+                        21
+                    ],
+                    [
+                        323,
+                        22
+                    ],
+                    [
+                        351,
+                        51
+                    ],
+                    [
+                        370,
+                        67
+                    ],
+                    [
+                        268,
+                        78
+                    ],
+                    [
+                        232,
+                        104
+                    ],
+                    [
+                        191,
+                        72
+                    ],
+                    [
+                        151,
+                        71
+                    ],
+                    [
+                        137,
+                        58
+                    ],
+                    [
+                        106,
+                        66
+                    ],
+                    [
+                        86,
+                        98
+                    ],
+                    [
+                        84,
+                        123
+                    ],
+                    [
+                        70,
+                        130
+                    ],
+                    [
+                        73,
+                        235
+                    ],
+                    [
+                        67,
+                        267
+                    ],
+                    [
+                        67,
+                        324
+                    ],
+                    [
+                        65,
+                        350
+                    ],
+                    [
+                        54,
+                        384
+                    ],
+                    [
+                        43,
+                        384
+                    ],
+                    [
+                        33,
+                        364
+                    ],
+                    [
+                        34,
+                        340
+                    ],
+                    [
+                        31,
+                        321
+                    ],
+                    [
+                        9,
+                        304
+                    ],
+                    [
+                        3,
+                        295
+                    ],
+                    [
+                        1,
+                        121
+                    ],
+                    [
+                        28,
+                        66
+                    ],
+                    [
+                        38,
+                        41
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47427053,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:22.572Z",
+            "updatedAt": "2023-09-20T10:56:22.572Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        21
+                    ],
+                    [
+                        370,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47427052,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:22.571Z",
+            "updatedAt": "2023-09-20T10:56:22.571Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        70,
+                        377
+                    ],
+                    [
+                        52,
+                        300
+                    ],
+                    [
+                        73,
+                        243
+                    ],
+                    [
+                        59,
+                        132
+                    ],
+                    [
+                        79,
+                        96
+                    ],
+                    [
+                        111,
+                        69
+                    ],
+                    [
+                        181,
+                        69
+                    ],
+                    [
+                        224,
+                        93
+                    ],
+                    [
+                        239,
+                        152
+                    ],
+                    [
+                        237,
+                        203
+                    ],
+                    [
+                        232,
+                        259
+                    ],
+                    [
+                        247,
+                        305
+                    ],
+                    [
+                        233,
+                        384
+                    ],
+                    [
+                        207,
+                        460
+                    ],
+                    [
+                        184,
+                        506
+                    ],
+                    [
+                        144,
+                        489
+                    ],
+                    [
+                        109,
+                        467
+                    ],
+                    [
+                        105,
+                        440
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47427051,
+            "classId": 6461775,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:22.571Z",
+            "updatedAt": "2023-09-20T10:56:22.571Z",
+            "tags": [],
+            "classTitle": "parking meter",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        69
+                    ],
+                    [
+                        247,
+                        506
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,508 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4550018,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two plates have doughnuts served on top of them.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.611Z",
+            "updatedAt": "2023-09-20T10:34:43.611Z"
+        },
+        {
+            "id": 4550019,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two plates with different kinds of donuts on the table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.611Z",
+            "updatedAt": "2023-09-20T10:34:43.611Z"
+        },
+        {
+            "id": 4550020,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Square and round iced donuts on plates at a cafe",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.611Z",
+            "updatedAt": "2023-09-20T10:34:43.611Z"
+        },
+        {
+            "id": 4550021,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A table with a glass of water and two pastries, one square-shaped glazed doughnut and one with chocolate sprinkles",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.611Z",
+            "updatedAt": "2023-09-20T10:34:43.611Z"
+        },
+        {
+            "id": 4550022,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A square doughnut sitting on a plate by a chocolate doughnut.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.611Z",
+            "updatedAt": "2023-09-20T10:34:43.611Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46208155,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.616Z",
+            "updatedAt": "2023-09-20T10:34:43.616Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        66,
+                        470
+                    ],
+                    [
+                        2,
+                        363
+                    ],
+                    [
+                        0,
+                        216
+                    ],
+                    [
+                        1,
+                        158
+                    ],
+                    [
+                        190,
+                        112
+                    ],
+                    [
+                        195,
+                        136
+                    ],
+                    [
+                        272,
+                        167
+                    ],
+                    [
+                        278,
+                        96
+                    ],
+                    [
+                        510,
+                        33
+                    ],
+                    [
+                        575,
+                        60
+                    ],
+                    [
+                        534,
+                        77
+                    ],
+                    [
+                        561,
+                        116
+                    ],
+                    [
+                        639,
+                        129
+                    ],
+                    [
+                        639,
+                        471
+                    ],
+                    [
+                        272,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46208154,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.615Z",
+            "updatedAt": "2023-09-20T10:34:43.615Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        33
+                    ],
+                    [
+                        639,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46208153,
+            "classId": 6461817,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.615Z",
+            "updatedAt": "2023-09-20T10:34:43.615Z",
+            "tags": [],
+            "classTitle": "donut",
+            "points": {
+                "exterior": [
+                    [
+                        42,
+                        204
+                    ],
+                    [
+                        110,
+                        151
+                    ],
+                    [
+                        250,
+                        151
+                    ],
+                    [
+                        259,
+                        197
+                    ],
+                    [
+                        218,
+                        245
+                    ],
+                    [
+                        55,
+                        255
+                    ],
+                    [
+                        42,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46208152,
+            "classId": 6461817,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.615Z",
+            "updatedAt": "2023-09-20T10:34:43.615Z",
+            "tags": [],
+            "classTitle": "donut",
+            "points": {
+                "exterior": [
+                    [
+                        42,
+                        151
+                    ],
+                    [
+                        259,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46208151,
+            "classId": 6461817,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.614Z",
+            "updatedAt": "2023-09-20T10:34:43.614Z",
+            "tags": [],
+            "classTitle": "donut",
+            "points": {
+                "exterior": [
+                    [
+                        474,
+                        347
+                    ],
+                    [
+                        418,
+                        320
+                    ],
+                    [
+                        395,
+                        274
+                    ],
+                    [
+                        394,
+                        268
+                    ],
+                    [
+                        386,
+                        261
+                    ],
+                    [
+                        418,
+                        235
+                    ],
+                    [
+                        454,
+                        211
+                    ],
+                    [
+                        471,
+                        203
+                    ],
+                    [
+                        482,
+                        197
+                    ],
+                    [
+                        546,
+                        191
+                    ],
+                    [
+                        557,
+                        193
+                    ],
+                    [
+                        598,
+                        214
+                    ],
+                    [
+                        638,
+                        234
+                    ],
+                    [
+                        638,
+                        240
+                    ],
+                    [
+                        639,
+                        257
+                    ],
+                    [
+                        639,
+                        281
+                    ],
+                    [
+                        606,
+                        334
+                    ],
+                    [
+                        573,
+                        339
+                    ],
+                    [
+                        540,
+                        356
+                    ],
+                    [
+                        536,
+                        359
+                    ],
+                    [
+                        528,
+                        354
+                    ],
+                    [
+                        503,
+                        355
+                    ],
+                    [
+                        471,
+                        348
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46208150,
+            "classId": 6461817,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.614Z",
+            "updatedAt": "2023-09-20T10:34:43.614Z",
+            "tags": [],
+            "classTitle": "donut",
+            "points": {
+                "exterior": [
+                    [
+                        386,
+                        191
+                    ],
+                    [
+                        639,
+                        359
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46208149,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.614Z",
+            "updatedAt": "2023-09-20T10:34:43.614Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        22
+                    ],
+                    [
+                        204,
+                        148
+                    ],
+                    [
+                        249,
+                        152
+                    ],
+                    [
+                        255,
+                        164
+                    ],
+                    [
+                        279,
+                        157
+                    ],
+                    [
+                        270,
+                        15
+                    ],
+                    [
+                        248,
+                        8
+                    ],
+                    [
+                        214,
+                        11
+                    ],
+                    [
+                        182,
+                        22
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46208148,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.614Z",
+            "updatedAt": "2023-09-20T10:34:43.614Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        8
+                    ],
+                    [
+                        279,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46208147,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.613Z",
+            "updatedAt": "2023-09-20T10:34:43.613Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        588,
+                        92
+                    ],
+                    [
+                        584,
+                        69
+                    ],
+                    [
+                        570,
+                        53
+                    ],
+                    [
+                        578,
+                        6
+                    ],
+                    [
+                        590,
+                        3
+                    ],
+                    [
+                        639,
+                        2
+                    ],
+                    [
+                        639,
+                        123
+                    ],
+                    [
+                        592,
+                        106
+                    ],
+                    [
+                        584,
+                        94
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46208146,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:43.613Z",
+            "updatedAt": "2023-09-20T10:34:43.613Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        570,
+                        2
+                    ],
+                    [
+                        639,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,1068 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4757869,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A kitchen is kosher and has dual black appliances",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.212Z",
+            "updatedAt": "2023-09-20T10:47:39.212Z"
+        },
+        {
+            "id": 4757870,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A large kitchen with wooden cabinets, appliances, stove and refrigerator.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.212Z",
+            "updatedAt": "2023-09-20T10:47:39.212Z"
+        },
+        {
+            "id": 4757871,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a big kitchen with a lot of wooden cabinets ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.212Z",
+            "updatedAt": "2023-09-20T10:47:39.212Z"
+        },
+        {
+            "id": 4757872,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A well designed kitchen with a black microwave and range.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.212Z",
+            "updatedAt": "2023-09-20T10:47:39.212Z"
+        },
+        {
+            "id": 4757873,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a kitchen with a stove a sink and a refrigerator ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.212Z",
+            "updatedAt": "2023-09-20T10:47:39.212Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46933023,
+            "classId": 6461835,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.216Z",
+            "updatedAt": "2023-09-20T10:47:39.216Z",
+            "tags": [],
+            "classTitle": "refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        556,
+                        143
+                    ],
+                    [
+                        639,
+                        140
+                    ],
+                    [
+                        639,
+                        218
+                    ],
+                    [
+                        638,
+                        296
+                    ],
+                    [
+                        555,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933022,
+            "classId": 6461835,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.216Z",
+            "updatedAt": "2023-09-20T10:47:39.216Z",
+            "tags": [],
+            "classTitle": "refrigerator",
+            "points": {
+                "exterior": [
+                    [
+                        555,
+                        140
+                    ],
+                    [
+                        639,
+                        296
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933021,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.216Z",
+            "updatedAt": "2023-09-20T10:47:39.216Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        187
+                    ],
+                    [
+                        439,
+                        184
+                    ],
+                    [
+                        439,
+                        138
+                    ],
+                    [
+                        348,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933020,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.216Z",
+            "updatedAt": "2023-09-20T10:47:39.216Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        348,
+                        137
+                    ],
+                    [
+                        439,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933019,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.215Z",
+            "updatedAt": "2023-09-20T10:47:39.215Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        345,
+                        210
+                    ],
+                    [
+                        345,
+                        238
+                    ],
+                    [
+                        354,
+                        248
+                    ],
+                    [
+                        350,
+                        354
+                    ],
+                    [
+                        355,
+                        357
+                    ],
+                    [
+                        444,
+                        355
+                    ],
+                    [
+                        446,
+                        251
+                    ],
+                    [
+                        445,
+                        244
+                    ],
+                    [
+                        431,
+                        236
+                    ],
+                    [
+                        428,
+                        209
+                    ],
+                    [
+                        348,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933018,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.215Z",
+            "updatedAt": "2023-09-20T10:47:39.215Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        345,
+                        209
+                    ],
+                    [
+                        446,
+                        357
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933017,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.215Z",
+            "updatedAt": "2023-09-20T10:47:39.215Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        289
+                    ],
+                    [
+                        116,
+                        280
+                    ],
+                    [
+                        113,
+                        227
+                    ],
+                    [
+                        150,
+                        214
+                    ],
+                    [
+                        166,
+                        222
+                    ],
+                    [
+                        163,
+                        230
+                    ],
+                    [
+                        158,
+                        231
+                    ],
+                    [
+                        153,
+                        224
+                    ],
+                    [
+                        147,
+                        223
+                    ],
+                    [
+                        120,
+                        240
+                    ],
+                    [
+                        122,
+                        268
+                    ],
+                    [
+                        132,
+                        259
+                    ],
+                    [
+                        194,
+                        259
+                    ],
+                    [
+                        192,
+                        294
+                    ],
+                    [
+                        114,
+                        290
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933016,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.215Z",
+            "updatedAt": "2023-09-20T10:47:39.215Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        214
+                    ],
+                    [
+                        194,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933015,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.215Z",
+            "updatedAt": "2023-09-20T10:47:39.215Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        23
+                    ],
+                    [
+                        113,
+                        89
+                    ],
+                    [
+                        114,
+                        283
+                    ],
+                    [
+                        1,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933014,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.215Z",
+            "updatedAt": "2023-09-20T10:47:39.215Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        23
+                    ],
+                    [
+                        114,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933013,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.214Z",
+            "updatedAt": "2023-09-20T10:47:39.214Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        583,
+                        52
+                    ],
+                    [
+                        614,
+                        53
+                    ],
+                    [
+                        619,
+                        50
+                    ],
+                    [
+                        622,
+                        44
+                    ],
+                    [
+                        621,
+                        42
+                    ],
+                    [
+                        616,
+                        42
+                    ],
+                    [
+                        615,
+                        40
+                    ],
+                    [
+                        612,
+                        42
+                    ],
+                    [
+                        611,
+                        42
+                    ],
+                    [
+                        609,
+                        41
+                    ],
+                    [
+                        607,
+                        38
+                    ],
+                    [
+                        602,
+                        34
+                    ],
+                    [
+                        597,
+                        38
+                    ],
+                    [
+                        593,
+                        39
+                    ],
+                    [
+                        593,
+                        39
+                    ],
+                    [
+                        589,
+                        38
+                    ],
+                    [
+                        586,
+                        38
+                    ],
+                    [
+                        585,
+                        39
+                    ],
+                    [
+                        583,
+                        40
+                    ],
+                    [
+                        581,
+                        43
+                    ],
+                    [
+                        581,
+                        43
+                    ],
+                    [
+                        587,
+                        46
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933012,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.214Z",
+            "updatedAt": "2023-09-20T10:47:39.214Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        581,
+                        34
+                    ],
+                    [
+                        622,
+                        53
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933011,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.214Z",
+            "updatedAt": "2023-09-20T10:47:39.214Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        252
+                    ],
+                    [
+                        128,
+                        249
+                    ],
+                    [
+                        128,
+                        246
+                    ],
+                    [
+                        128,
+                        245
+                    ],
+                    [
+                        131,
+                        245
+                    ],
+                    [
+                        131,
+                        237
+                    ],
+                    [
+                        131,
+                        233
+                    ],
+                    [
+                        129,
+                        230
+                    ],
+                    [
+                        136,
+                        225
+                    ],
+                    [
+                        140,
+                        222
+                    ],
+                    [
+                        146,
+                        219
+                    ],
+                    [
+                        150,
+                        219
+                    ],
+                    [
+                        150,
+                        220
+                    ],
+                    [
+                        146,
+                        223
+                    ],
+                    [
+                        146,
+                        224
+                    ],
+                    [
+                        144,
+                        226
+                    ],
+                    [
+                        140,
+                        236
+                    ],
+                    [
+                        141,
+                        243
+                    ],
+                    [
+                        142,
+                        245
+                    ],
+                    [
+                        145,
+                        245
+                    ],
+                    [
+                        146,
+                        247
+                    ],
+                    [
+                        146,
+                        248
+                    ],
+                    [
+                        144,
+                        253
+                    ],
+                    [
+                        144,
+                        260
+                    ],
+                    [
+                        134,
+                        261
+                    ],
+                    [
+                        133,
+                        261
+                    ],
+                    [
+                        133,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933010,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.214Z",
+            "updatedAt": "2023-09-20T10:47:39.214Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        125,
+                        227
+                    ],
+                    [
+                        122,
+                        220
+                    ],
+                    [
+                        121,
+                        222
+                    ],
+                    [
+                        120,
+                        221
+                    ],
+                    [
+                        117,
+                        218
+                    ],
+                    [
+                        115,
+                        216
+                    ],
+                    [
+                        119,
+                        215
+                    ],
+                    [
+                        123,
+                        217
+                    ],
+                    [
+                        127,
+                        219
+                    ],
+                    [
+                        129,
+                        218
+                    ],
+                    [
+                        131,
+                        211
+                    ],
+                    [
+                        129,
+                        207
+                    ],
+                    [
+                        133,
+                        204
+                    ],
+                    [
+                        133,
+                        214
+                    ],
+                    [
+                        133,
+                        216
+                    ],
+                    [
+                        135,
+                        213
+                    ],
+                    [
+                        140,
+                        203
+                    ],
+                    [
+                        140,
+                        208
+                    ],
+                    [
+                        141,
+                        212
+                    ],
+                    [
+                        141,
+                        215
+                    ],
+                    [
+                        141,
+                        218
+                    ],
+                    [
+                        133,
+                        223
+                    ],
+                    [
+                        129,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933009,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.213Z",
+            "updatedAt": "2023-09-20T10:47:39.213Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        219
+                    ],
+                    [
+                        150,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933008,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.213Z",
+            "updatedAt": "2023-09-20T10:47:39.213Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        203
+                    ],
+                    [
+                        141,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933007,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.213Z",
+            "updatedAt": "2023-09-20T10:47:39.213Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        50
+                    ],
+                    [
+                        346,
+                        48
+                    ],
+                    [
+                        345,
+                        44
+                    ],
+                    [
+                        344,
+                        40
+                    ],
+                    [
+                        351,
+                        39
+                    ],
+                    [
+                        357,
+                        39
+                    ],
+                    [
+                        364,
+                        39
+                    ],
+                    [
+                        377,
+                        42
+                    ],
+                    [
+                        391,
+                        45
+                    ],
+                    [
+                        396,
+                        49
+                    ],
+                    [
+                        398,
+                        53
+                    ],
+                    [
+                        397,
+                        54
+                    ],
+                    [
+                        377,
+                        55
+                    ],
+                    [
+                        374,
+                        60
+                    ],
+                    [
+                        365,
+                        60
+                    ],
+                    [
+                        360,
+                        61
+                    ],
+                    [
+                        355,
+                        61
+                    ],
+                    [
+                        345,
+                        59
+                    ],
+                    [
+                        343,
+                        55
+                    ],
+                    [
+                        338,
+                        55
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933006,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.213Z",
+            "updatedAt": "2023-09-20T10:47:39.213Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        39
+                    ],
+                    [
+                        398,
+                        61
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933005,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.212Z",
+            "updatedAt": "2023-09-20T10:47:39.212Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        455,
+                        52
+                    ],
+                    [
+                        461,
+                        52
+                    ],
+                    [
+                        466,
+                        51
+                    ],
+                    [
+                        468,
+                        50
+                    ],
+                    [
+                        468,
+                        48
+                    ],
+                    [
+                        467,
+                        45
+                    ],
+                    [
+                        468,
+                        43
+                    ],
+                    [
+                        470,
+                        39
+                    ],
+                    [
+                        476,
+                        38
+                    ],
+                    [
+                        482,
+                        37
+                    ],
+                    [
+                        486,
+                        38
+                    ],
+                    [
+                        491,
+                        42
+                    ],
+                    [
+                        489,
+                        45
+                    ],
+                    [
+                        493,
+                        53
+                    ],
+                    [
+                        489,
+                        57
+                    ],
+                    [
+                        483,
+                        59
+                    ],
+                    [
+                        478,
+                        62
+                    ],
+                    [
+                        474,
+                        62
+                    ],
+                    [
+                        468,
+                        58
+                    ],
+                    [
+                        458,
+                        57
+                    ],
+                    [
+                        452,
+                        55
+                    ],
+                    [
+                        457,
+                        54
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46933004,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:39.212Z",
+            "updatedAt": "2023-09-20T10:47:39.212Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        452,
+                        37
+                    ],
+                    [
+                        493,
+                        62
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

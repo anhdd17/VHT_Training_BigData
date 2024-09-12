@@ -1,0 +1,544 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4463147,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A bird flying between to stop lights in the evening.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.190Z",
+            "updatedAt": "2023-09-20T10:29:35.190Z"
+        },
+        {
+            "id": 4463148,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A sea gull flying over two traffic lights by the ocean.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.190Z",
+            "updatedAt": "2023-09-20T10:29:35.190Z"
+        },
+        {
+            "id": 4463149,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The bird is flying above the red lights on the beach.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.190Z",
+            "updatedAt": "2023-09-20T10:29:35.190Z"
+        },
+        {
+            "id": 4463150,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two different red lights on poles on opposite sides of a street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.190Z",
+            "updatedAt": "2023-09-20T10:29:35.190Z"
+        },
+        {
+            "id": 4463151,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A couple of red traffic lights by a beach and a kite.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.190Z",
+            "updatedAt": "2023-09-20T10:29:35.190Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 458
+    },
+    "objects": [
+        {
+            "id": 45908499,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.193Z",
+            "updatedAt": "2023-09-20T10:29:35.193Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        472
+                    ],
+                    [
+                        119,
+                        415
+                    ],
+                    [
+                        139,
+                        414
+                    ],
+                    [
+                        140,
+                        472
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45908498,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.193Z",
+            "updatedAt": "2023-09-20T10:29:35.193Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        414
+                    ],
+                    [
+                        140,
+                        472
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45908497,
+            "classId": 6461796,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.192Z",
+            "updatedAt": "2023-09-20T10:29:35.192Z",
+            "tags": [],
+            "classTitle": "kite",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        317
+                    ],
+                    [
+                        179,
+                        319
+                    ],
+                    [
+                        193,
+                        320
+                    ],
+                    [
+                        196,
+                        321
+                    ],
+                    [
+                        184,
+                        326
+                    ],
+                    [
+                        182,
+                        330
+                    ],
+                    [
+                        179,
+                        330
+                    ],
+                    [
+                        175,
+                        329
+                    ],
+                    [
+                        175,
+                        334
+                    ],
+                    [
+                        171,
+                        338
+                    ],
+                    [
+                        168,
+                        324
+                    ],
+                    [
+                        170,
+                        319
+                    ],
+                    [
+                        170,
+                        317
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45908496,
+            "classId": 6461796,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.192Z",
+            "updatedAt": "2023-09-20T10:29:35.192Z",
+            "tags": [],
+            "classTitle": "kite",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        317
+                    ],
+                    [
+                        196,
+                        338
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45908495,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.192Z",
+            "updatedAt": "2023-09-20T10:29:35.192Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        414
+                    ],
+                    [
+                        307,
+                        417
+                    ],
+                    [
+                        307,
+                        419
+                    ],
+                    [
+                        307,
+                        433
+                    ],
+                    [
+                        305,
+                        436
+                    ],
+                    [
+                        307,
+                        438
+                    ],
+                    [
+                        307,
+                        446
+                    ],
+                    [
+                        305,
+                        448
+                    ],
+                    [
+                        307,
+                        450
+                    ],
+                    [
+                        307,
+                        453
+                    ],
+                    [
+                        305,
+                        455
+                    ],
+                    [
+                        307,
+                        456
+                    ],
+                    [
+                        307,
+                        465
+                    ],
+                    [
+                        305,
+                        467
+                    ],
+                    [
+                        306,
+                        468
+                    ],
+                    [
+                        307,
+                        470
+                    ],
+                    [
+                        326,
+                        470
+                    ],
+                    [
+                        326,
+                        469
+                    ],
+                    [
+                        326,
+                        467
+                    ],
+                    [
+                        325,
+                        465
+                    ],
+                    [
+                        325,
+                        456
+                    ],
+                    [
+                        327,
+                        454
+                    ],
+                    [
+                        325,
+                        453
+                    ],
+                    [
+                        325,
+                        450
+                    ],
+                    [
+                        326,
+                        450
+                    ],
+                    [
+                        325,
+                        448
+                    ],
+                    [
+                        325,
+                        437
+                    ],
+                    [
+                        327,
+                        437
+                    ],
+                    [
+                        325,
+                        435
+                    ],
+                    [
+                        326,
+                        431
+                    ],
+                    [
+                        327,
+                        430
+                    ],
+                    [
+                        326,
+                        429
+                    ],
+                    [
+                        325,
+                        420
+                    ],
+                    [
+                        327,
+                        417
+                    ],
+                    [
+                        325,
+                        416
+                    ],
+                    [
+                        325,
+                        415
+                    ],
+                    [
+                        326,
+                        414
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45908494,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.191Z",
+            "updatedAt": "2023-09-20T10:29:35.191Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        414
+                    ],
+                    [
+                        327,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45908493,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.191Z",
+            "updatedAt": "2023-09-20T10:29:35.191Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        409
+                    ],
+                    [
+                        354,
+                        471
+                    ],
+                    [
+                        356,
+                        475
+                    ],
+                    [
+                        383,
+                        475
+                    ],
+                    [
+                        379,
+                        454
+                    ],
+                    [
+                        368,
+                        453
+                    ],
+                    [
+                        368,
+                        409
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45908492,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.190Z",
+            "updatedAt": "2023-09-20T10:29:35.190Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        409
+                    ],
+                    [
+                        383,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45908491,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.190Z",
+            "updatedAt": "2023-09-20T10:29:35.190Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        507
+                    ],
+                    [
+                        358,
+                        502
+                    ],
+                    [
+                        363,
+                        505
+                    ],
+                    [
+                        369,
+                        503
+                    ],
+                    [
+                        374,
+                        507
+                    ],
+                    [
+                        376,
+                        527
+                    ],
+                    [
+                        370,
+                        530
+                    ],
+                    [
+                        368,
+                        528
+                    ],
+                    [
+                        364,
+                        530
+                    ],
+                    [
+                        356,
+                        531
+                    ],
+                    [
+                        351,
+                        526
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45908490,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:35.190Z",
+            "updatedAt": "2023-09-20T10:29:35.190Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        502
+                    ],
+                    [
+                        376,
+                        531
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

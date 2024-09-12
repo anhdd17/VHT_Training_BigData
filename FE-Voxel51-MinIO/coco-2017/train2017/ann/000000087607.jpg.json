@@ -1,0 +1,424 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4923776,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A white truck parked next to a red stop sign.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.878Z",
+            "updatedAt": "2023-09-20T10:57:46.878Z"
+        },
+        {
+            "id": 4923777,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A stop sign is prominent in front of a truck.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.878Z",
+            "updatedAt": "2023-09-20T10:57:46.878Z"
+        },
+        {
+            "id": 4923778,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A traffic sign near a white truck by a tree.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.878Z",
+            "updatedAt": "2023-09-20T10:57:46.878Z"
+        },
+        {
+            "id": 4923779,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A STOP sign and a white truck with a field in the background. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.878Z",
+            "updatedAt": "2023-09-20T10:57:46.878Z"
+        },
+        {
+            "id": 4923780,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "there is a red stop sign and a white truck behind it",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.878Z",
+            "updatedAt": "2023-09-20T10:57:46.878Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47510178,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.879Z",
+            "updatedAt": "2023-09-20T10:57:46.879Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        37
+                    ],
+                    [
+                        261,
+                        36
+                    ],
+                    [
+                        378,
+                        142
+                    ],
+                    [
+                        380,
+                        302
+                    ],
+                    [
+                        267,
+                        422
+                    ],
+                    [
+                        103,
+                        422
+                    ],
+                    [
+                        1,
+                        314
+                    ],
+                    [
+                        0,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47510177,
+            "classId": 6461774,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.879Z",
+            "updatedAt": "2023-09-20T10:57:46.879Z",
+            "tags": [],
+            "classTitle": "stop sign",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        36
+                    ],
+                    [
+                        380,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47510176,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.879Z",
+            "updatedAt": "2023-09-20T10:57:46.879Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        418,
+                        305
+                    ],
+                    [
+                        414,
+                        310
+                    ],
+                    [
+                        411,
+                        309
+                    ],
+                    [
+                        410,
+                        302
+                    ],
+                    [
+                        406,
+                        301
+                    ],
+                    [
+                        398,
+                        297
+                    ],
+                    [
+                        389,
+                        296
+                    ],
+                    [
+                        383,
+                        297
+                    ],
+                    [
+                        382,
+                        279
+                    ],
+                    [
+                        391,
+                        273
+                    ],
+                    [
+                        398,
+                        269
+                    ],
+                    [
+                        403,
+                        262
+                    ],
+                    [
+                        409,
+                        259
+                    ],
+                    [
+                        414,
+                        255
+                    ],
+                    [
+                        420,
+                        256
+                    ],
+                    [
+                        425,
+                        262
+                    ],
+                    [
+                        418,
+                        271
+                    ],
+                    [
+                        416,
+                        275
+                    ],
+                    [
+                        419,
+                        281
+                    ],
+                    [
+                        418,
+                        290
+                    ],
+                    [
+                        419,
+                        292
+                    ],
+                    [
+                        425,
+                        294
+                    ],
+                    [
+                        422,
+                        299
+                    ],
+                    [
+                        420,
+                        300
+                    ],
+                    [
+                        417,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47510175,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.879Z",
+            "updatedAt": "2023-09-20T10:57:46.879Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        382,
+                        255
+                    ],
+                    [
+                        425,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47510174,
+            "classId": 6461770,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.879Z",
+            "updatedAt": "2023-09-20T10:57:46.879Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        420
+                    ],
+                    [
+                        328,
+                        426
+                    ],
+                    [
+                        275,
+                        426
+                    ],
+                    [
+                        268,
+                        419
+                    ],
+                    [
+                        279,
+                        410
+                    ],
+                    [
+                        288,
+                        399
+                    ],
+                    [
+                        325,
+                        363
+                    ],
+                    [
+                        382,
+                        306
+                    ],
+                    [
+                        384,
+                        255
+                    ],
+                    [
+                        383,
+                        204
+                    ],
+                    [
+                        439,
+                        212
+                    ],
+                    [
+                        496,
+                        277
+                    ],
+                    [
+                        508,
+                        284
+                    ],
+                    [
+                        531,
+                        284
+                    ],
+                    [
+                        639,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47510173,
+            "classId": 6461770,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.879Z",
+            "updatedAt": "2023-09-20T10:57:46.879Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        321
+                    ],
+                    [
+                        4,
+                        420
+                    ],
+                    [
+                        103,
+                        419
+                    ],
+                    [
+                        33,
+                        353
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47510172,
+            "classId": 6461770,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.879Z",
+            "updatedAt": "2023-09-20T10:57:46.879Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        204
+                    ],
+                    [
+                        639,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47510171,
+            "classId": 6461770,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:46.878Z",
+            "updatedAt": "2023-09-20T10:57:46.878Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        321
+                    ],
+                    [
+                        103,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

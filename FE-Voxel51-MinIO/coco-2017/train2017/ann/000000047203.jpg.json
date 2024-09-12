@@ -1,0 +1,292 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4956415,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A person riding in the middle of a boat.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:52.760Z",
+            "updatedAt": "2023-09-20T10:59:52.760Z"
+        },
+        {
+            "id": 4956416,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An old photo with a man on a boat in the water.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:52.760Z",
+            "updatedAt": "2023-09-20T10:59:52.760Z"
+        },
+        {
+            "id": 4956417,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a person in a canoe with mountains in background.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:52.760Z",
+            "updatedAt": "2023-09-20T10:59:52.760Z"
+        },
+        {
+            "id": 4956418,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A person on a boat that is in a lake.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:52.760Z",
+            "updatedAt": "2023-09-20T10:59:52.760Z"
+        },
+        {
+            "id": 4956419,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A person rowing a boat on a calm piece of water surrounded by hills",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:52.760Z",
+            "updatedAt": "2023-09-20T10:59:52.760Z"
+        }
+    ],
+    "size": {
+        "height": 382,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 47624972,
+            "classId": 6461771,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:52.761Z",
+            "updatedAt": "2023-09-20T10:59:52.761Z",
+            "tags": [],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        243
+                    ],
+                    [
+                        158,
+                        253
+                    ],
+                    [
+                        230,
+                        253
+                    ],
+                    [
+                        241,
+                        252
+                    ],
+                    [
+                        241,
+                        238
+                    ],
+                    [
+                        205,
+                        244
+                    ],
+                    [
+                        176,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47624971,
+            "classId": 6461771,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:52.761Z",
+            "updatedAt": "2023-09-20T10:59:52.761Z",
+            "tags": [],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        238
+                    ],
+                    [
+                        241,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47624970,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:52.761Z",
+            "updatedAt": "2023-09-20T10:59:52.761Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        244
+                    ],
+                    [
+                        199,
+                        242
+                    ],
+                    [
+                        199,
+                        241
+                    ],
+                    [
+                        198,
+                        241
+                    ],
+                    [
+                        197,
+                        241
+                    ],
+                    [
+                        196,
+                        241
+                    ],
+                    [
+                        194,
+                        241
+                    ],
+                    [
+                        192,
+                        241
+                    ],
+                    [
+                        192,
+                        240
+                    ],
+                    [
+                        192,
+                        239
+                    ],
+                    [
+                        192,
+                        239
+                    ],
+                    [
+                        194,
+                        239
+                    ],
+                    [
+                        195,
+                        239
+                    ],
+                    [
+                        197,
+                        239
+                    ],
+                    [
+                        197,
+                        239
+                    ],
+                    [
+                        198,
+                        237
+                    ],
+                    [
+                        198,
+                        237
+                    ],
+                    [
+                        199,
+                        236
+                    ],
+                    [
+                        198,
+                        235
+                    ],
+                    [
+                        198,
+                        234
+                    ],
+                    [
+                        198,
+                        233
+                    ],
+                    [
+                        198,
+                        232
+                    ],
+                    [
+                        200,
+                        232
+                    ],
+                    [
+                        202,
+                        232
+                    ],
+                    [
+                        201,
+                        235
+                    ],
+                    [
+                        203,
+                        235
+                    ],
+                    [
+                        203,
+                        237
+                    ],
+                    [
+                        203,
+                        238
+                    ],
+                    [
+                        203,
+                        239
+                    ],
+                    [
+                        203,
+                        245
+                    ],
+                    [
+                        199,
+                        244
+                    ],
+                    [
+                        198,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47624969,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:52.760Z",
+            "updatedAt": "2023-09-20T10:59:52.760Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        232
+                    ],
+                    [
+                        203,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

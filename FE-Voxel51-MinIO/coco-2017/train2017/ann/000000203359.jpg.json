@@ -1,0 +1,280 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5013509,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "an uncooked pizza on a grill uncovered ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:27.723Z",
+            "updatedAt": "2023-09-20T11:03:27.723Z"
+        },
+        {
+            "id": 5013510,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A pizza is cooking on an open grill.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:27.723Z",
+            "updatedAt": "2023-09-20T11:03:27.723Z"
+        },
+        {
+            "id": 5013511,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A raw pizza being weighed on a food scale.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:27.723Z",
+            "updatedAt": "2023-09-20T11:03:27.723Z"
+        },
+        {
+            "id": 5013512,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "an uncooked pizza on a BBQ grill and grass",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:27.723Z",
+            "updatedAt": "2023-09-20T11:03:27.723Z"
+        },
+        {
+            "id": 5013513,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Hawaiian pizza being cooked on top of a grill",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:27.723Z",
+            "updatedAt": "2023-09-20T11:03:27.723Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47825069,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:27.725Z",
+            "updatedAt": "2023-09-20T11:03:27.725Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        314
+                    ],
+                    [
+                        450,
+                        300
+                    ],
+                    [
+                        497,
+                        276
+                    ],
+                    [
+                        530,
+                        257
+                    ],
+                    [
+                        564,
+                        235
+                    ],
+                    [
+                        575,
+                        216
+                    ],
+                    [
+                        577,
+                        198
+                    ],
+                    [
+                        568,
+                        190
+                    ],
+                    [
+                        564,
+                        164
+                    ],
+                    [
+                        559,
+                        147
+                    ],
+                    [
+                        537,
+                        139
+                    ],
+                    [
+                        523,
+                        124
+                    ],
+                    [
+                        483,
+                        111
+                    ],
+                    [
+                        461,
+                        112
+                    ],
+                    [
+                        429,
+                        112
+                    ],
+                    [
+                        376,
+                        113
+                    ],
+                    [
+                        340,
+                        120
+                    ],
+                    [
+                        303,
+                        135
+                    ],
+                    [
+                        274,
+                        151
+                    ],
+                    [
+                        248,
+                        172
+                    ],
+                    [
+                        243,
+                        190
+                    ],
+                    [
+                        253,
+                        215
+                    ],
+                    [
+                        264,
+                        243
+                    ],
+                    [
+                        279,
+                        259
+                    ],
+                    [
+                        296,
+                        285
+                    ],
+                    [
+                        359,
+                        310
+                    ],
+                    [
+                        396,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825068,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:27.724Z",
+            "updatedAt": "2023-09-20T11:03:27.724Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        111
+                    ],
+                    [
+                        577,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825067,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:27.724Z",
+            "updatedAt": "2023-09-20T11:03:27.724Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        13,
+                        116
+                    ],
+                    [
+                        314,
+                        50
+                    ],
+                    [
+                        319,
+                        53
+                    ],
+                    [
+                        320,
+                        3
+                    ],
+                    [
+                        638,
+                        5
+                    ],
+                    [
+                        637,
+                        474
+                    ],
+                    [
+                        76,
+                        472
+                    ],
+                    [
+                        1,
+                        204
+                    ],
+                    [
+                        0,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47825066,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:27.724Z",
+            "updatedAt": "2023-09-20T11:03:27.724Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        3
+                    ],
+                    [
+                        638,
+                        474
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

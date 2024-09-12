@@ -1,0 +1,464 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4453373,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A young girl watches a laptop on a bed. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:34.037Z",
+            "updatedAt": "2023-09-20T10:24:34.037Z"
+        },
+        {
+            "id": 4453374,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A little girl sitting in front of a laptop computer.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:34.037Z",
+            "updatedAt": "2023-09-20T10:24:34.037Z"
+        },
+        {
+            "id": 4453375,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A little child sitting in front of a laptop watching whats is on the screen.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:34.037Z",
+            "updatedAt": "2023-09-20T10:24:34.037Z"
+        },
+        {
+            "id": 4453376,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A little girl sitting on a bed looking at a laptop ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:34.037Z",
+            "updatedAt": "2023-09-20T10:24:34.037Z"
+        },
+        {
+            "id": 4453377,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A laptop on the table and a baby looking at it",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:34.037Z",
+            "updatedAt": "2023-09-20T10:24:34.037Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 45874377,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:34.038Z",
+            "updatedAt": "2023-09-20T10:24:34.038Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        327
+                    ],
+                    [
+                        192,
+                        317
+                    ],
+                    [
+                        307,
+                        329
+                    ],
+                    [
+                        367,
+                        340
+                    ],
+                    [
+                        370,
+                        342
+                    ],
+                    [
+                        357,
+                        347
+                    ],
+                    [
+                        348,
+                        354
+                    ],
+                    [
+                        346,
+                        366
+                    ],
+                    [
+                        347,
+                        375
+                    ],
+                    [
+                        369,
+                        383
+                    ],
+                    [
+                        414,
+                        384
+                    ],
+                    [
+                        449,
+                        392
+                    ],
+                    [
+                        495,
+                        405
+                    ],
+                    [
+                        500,
+                        405
+                    ],
+                    [
+                        520,
+                        407
+                    ],
+                    [
+                        544,
+                        407
+                    ],
+                    [
+                        567,
+                        390
+                    ],
+                    [
+                        578,
+                        385
+                    ],
+                    [
+                        586,
+                        352
+                    ],
+                    [
+                        586,
+                        307
+                    ],
+                    [
+                        639,
+                        301
+                    ],
+                    [
+                        639,
+                        421
+                    ],
+                    [
+                        0,
+                        418
+                    ],
+                    [
+                        0,
+                        366
+                    ],
+                    [
+                        72,
+                        329
+                    ],
+                    [
+                        102,
+                        392
+                    ],
+                    [
+                        280,
+                        399
+                    ],
+                    [
+                        288,
+                        336
+                    ],
+                    [
+                        158,
+                        336
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45874376,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:34.038Z",
+            "updatedAt": "2023-09-20T10:24:34.038Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        301
+                    ],
+                    [
+                        639,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45874375,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:34.038Z",
+            "updatedAt": "2023-09-20T10:24:34.038Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        373,
+                        341
+                    ],
+                    [
+                        380,
+                        354
+                    ],
+                    [
+                        396,
+                        311
+                    ],
+                    [
+                        424,
+                        305
+                    ],
+                    [
+                        433,
+                        299
+                    ],
+                    [
+                        442,
+                        261
+                    ],
+                    [
+                        461,
+                        235
+                    ],
+                    [
+                        451,
+                        225
+                    ],
+                    [
+                        440,
+                        209
+                    ],
+                    [
+                        437,
+                        196
+                    ],
+                    [
+                        439,
+                        183
+                    ],
+                    [
+                        426,
+                        171
+                    ],
+                    [
+                        423,
+                        142
+                    ],
+                    [
+                        438,
+                        120
+                    ],
+                    [
+                        464,
+                        107
+                    ],
+                    [
+                        512,
+                        98
+                    ],
+                    [
+                        549,
+                        112
+                    ],
+                    [
+                        550,
+                        158
+                    ],
+                    [
+                        553,
+                        191
+                    ],
+                    [
+                        542,
+                        217
+                    ],
+                    [
+                        566,
+                        256
+                    ],
+                    [
+                        589,
+                        312
+                    ],
+                    [
+                        590,
+                        382
+                    ],
+                    [
+                        554,
+                        398
+                    ],
+                    [
+                        516,
+                        401
+                    ],
+                    [
+                        496,
+                        401
+                    ],
+                    [
+                        442,
+                        384
+                    ],
+                    [
+                        417,
+                        389
+                    ],
+                    [
+                        352,
+                        375
+                    ],
+                    [
+                        346,
+                        363
+                    ],
+                    [
+                        350,
+                        347
+                    ],
+                    [
+                        364,
+                        342
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45874374,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:34.037Z",
+            "updatedAt": "2023-09-20T10:24:34.037Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        98
+                    ],
+                    [
+                        590,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45874373,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:34.037Z",
+            "updatedAt": "2023-09-20T10:24:34.037Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        228
+                    ],
+                    [
+                        124,
+                        216
+                    ],
+                    [
+                        136,
+                        260
+                    ],
+                    [
+                        162,
+                        342
+                    ],
+                    [
+                        203,
+                        338
+                    ],
+                    [
+                        294,
+                        345
+                    ],
+                    [
+                        281,
+                        403
+                    ],
+                    [
+                        107,
+                        395
+                    ],
+                    [
+                        90,
+                        374
+                    ],
+                    [
+                        54,
+                        256
+                    ],
+                    [
+                        45,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45874372,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:34.037Z",
+            "updatedAt": "2023-09-20T10:24:34.037Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        45,
+                        216
+                    ],
+                    [
+                        294,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

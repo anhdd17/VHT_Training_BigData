@@ -1,0 +1,280 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5007609,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a laptop is sitting on a wooden table ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:07.253Z",
+            "updatedAt": "2023-09-20T11:03:07.253Z"
+        },
+        {
+            "id": 5007610,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A laptop computer sits open next to a keyboard.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:07.253Z",
+            "updatedAt": "2023-09-20T11:03:07.253Z"
+        },
+        {
+            "id": 5007611,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An open laptop computer sitting next to a musical keyboard.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:07.253Z",
+            "updatedAt": "2023-09-20T11:03:07.253Z"
+        },
+        {
+            "id": 5007612,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A laptop on a table with a keyboard and a guitar leaning against it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:07.253Z",
+            "updatedAt": "2023-09-20T11:03:07.253Z"
+        },
+        {
+            "id": 5007613,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A piano keyboard and notebook computer sit on a table near a guitar and other electronic equipment.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:07.253Z",
+            "updatedAt": "2023-09-20T11:03:07.253Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47806316,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:07.256Z",
+            "updatedAt": "2023-09-20T11:03:07.256Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        212,
+                        181
+                    ],
+                    [
+                        405,
+                        97
+                    ],
+                    [
+                        466,
+                        215
+                    ],
+                    [
+                        520,
+                        241
+                    ],
+                    [
+                        532,
+                        277
+                    ],
+                    [
+                        322,
+                        384
+                    ],
+                    [
+                        271,
+                        308
+                    ],
+                    [
+                        211,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47806315,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:07.255Z",
+            "updatedAt": "2023-09-20T11:03:07.255Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        97
+                    ],
+                    [
+                        532,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47806314,
+            "classId": 6461827,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:07.255Z",
+            "updatedAt": "2023-09-20T11:03:07.255Z",
+            "tags": [],
+            "classTitle": "mouse",
+            "points": {
+                "exterior": [
+                    [
+                        602,
+                        232
+                    ],
+                    [
+                        618,
+                        231
+                    ],
+                    [
+                        627,
+                        226
+                    ],
+                    [
+                        630,
+                        215
+                    ],
+                    [
+                        630,
+                        204
+                    ],
+                    [
+                        621,
+                        199
+                    ],
+                    [
+                        605,
+                        196
+                    ],
+                    [
+                        594,
+                        193
+                    ],
+                    [
+                        580,
+                        198
+                    ],
+                    [
+                        570,
+                        205
+                    ],
+                    [
+                        566,
+                        215
+                    ],
+                    [
+                        566,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47806313,
+            "classId": 6461827,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:07.255Z",
+            "updatedAt": "2023-09-20T11:03:07.255Z",
+            "tags": [],
+            "classTitle": "mouse",
+            "points": {
+                "exterior": [
+                    [
+                        566,
+                        193
+                    ],
+                    [
+                        630,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47806312,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:07.254Z",
+            "updatedAt": "2023-09-20T11:03:07.254Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        233
+                    ],
+                    [
+                        250,
+                        83
+                    ],
+                    [
+                        238,
+                        49
+                    ],
+                    [
+                        219,
+                        14
+                    ],
+                    [
+                        209,
+                        5
+                    ],
+                    [
+                        1,
+                        1
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47806311,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:03:07.254Z",
+            "updatedAt": "2023-09-20T11:03:07.254Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        1
+                    ],
+                    [
+                        250,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

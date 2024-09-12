@@ -1,0 +1,800 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4583265,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A group of suitcases leaning against a pillar",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.958Z",
+            "updatedAt": "2023-09-20T10:36:40.958Z"
+        },
+        {
+            "id": 4583266,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A group of luggage standing on a tiled floor.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.958Z",
+            "updatedAt": "2023-09-20T10:36:40.958Z"
+        },
+        {
+            "id": 4583267,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two suitcases with bags on top of them",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.958Z",
+            "updatedAt": "2023-09-20T10:36:40.958Z"
+        },
+        {
+            "id": 4583268,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Black and red suitcases with a white bag on top.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.958Z",
+            "updatedAt": "2023-09-20T10:36:40.958Z"
+        },
+        {
+            "id": 4583269,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a close up of luggage bags on the ground",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.958Z",
+            "updatedAt": "2023-09-20T10:36:40.958Z"
+        }
+    ],
+    "size": {
+        "height": 478,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46323734,
+            "classId": 6461789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.964Z",
+            "updatedAt": "2023-09-20T10:36:40.964Z",
+            "tags": [],
+            "classTitle": "handbag",
+            "points": {
+                "exterior": [
+                    [
+                        469,
+                        62
+                    ],
+                    [
+                        486,
+                        68
+                    ],
+                    [
+                        508,
+                        92
+                    ],
+                    [
+                        525,
+                        112
+                    ],
+                    [
+                        527,
+                        146
+                    ],
+                    [
+                        516,
+                        160
+                    ],
+                    [
+                        464,
+                        171
+                    ],
+                    [
+                        416,
+                        172
+                    ],
+                    [
+                        427,
+                        60
+                    ],
+                    [
+                        435,
+                        60
+                    ],
+                    [
+                        451,
+                        47
+                    ],
+                    [
+                        448,
+                        12
+                    ],
+                    [
+                        442,
+                        0
+                    ],
+                    [
+                        463,
+                        0
+                    ],
+                    [
+                        468,
+                        11
+                    ],
+                    [
+                        461,
+                        52
+                    ],
+                    [
+                        464,
+                        60
+                    ],
+                    [
+                        469,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323733,
+            "classId": 6461789,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.964Z",
+            "updatedAt": "2023-09-20T10:36:40.964Z",
+            "tags": [],
+            "classTitle": "handbag",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        0
+                    ],
+                    [
+                        527,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323732,
+            "classId": 6461791,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.963Z",
+            "updatedAt": "2023-09-20T10:36:40.963Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        116
+                    ],
+                    [
+                        145,
+                        152
+                    ],
+                    [
+                        140,
+                        163
+                    ],
+                    [
+                        172,
+                        285
+                    ],
+                    [
+                        167,
+                        290
+                    ],
+                    [
+                        173,
+                        324
+                    ],
+                    [
+                        181,
+                        328
+                    ],
+                    [
+                        186,
+                        358
+                    ],
+                    [
+                        179,
+                        364
+                    ],
+                    [
+                        188,
+                        378
+                    ],
+                    [
+                        197,
+                        384
+                    ],
+                    [
+                        200,
+                        382
+                    ],
+                    [
+                        275,
+                        470
+                    ],
+                    [
+                        278,
+                        473
+                    ],
+                    [
+                        313,
+                        472
+                    ],
+                    [
+                        347,
+                        455
+                    ],
+                    [
+                        386,
+                        420
+                    ],
+                    [
+                        382,
+                        327
+                    ],
+                    [
+                        378,
+                        218
+                    ],
+                    [
+                        379,
+                        214
+                    ],
+                    [
+                        338,
+                        232
+                    ],
+                    [
+                        241,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323731,
+            "classId": 6461791,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.963Z",
+            "updatedAt": "2023-09-20T10:36:40.963Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        116
+                    ],
+                    [
+                        386,
+                        473
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323730,
+            "classId": 6461791,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.962Z",
+            "updatedAt": "2023-09-20T10:36:40.962Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        173
+                    ],
+                    [
+                        438,
+                        180
+                    ],
+                    [
+                        512,
+                        162
+                    ],
+                    [
+                        524,
+                        151
+                    ],
+                    [
+                        561,
+                        174
+                    ],
+                    [
+                        534,
+                        287
+                    ],
+                    [
+                        503,
+                        388
+                    ],
+                    [
+                        500,
+                        409
+                    ],
+                    [
+                        456,
+                        441
+                    ],
+                    [
+                        436,
+                        456
+                    ],
+                    [
+                        435,
+                        463
+                    ],
+                    [
+                        411,
+                        470
+                    ],
+                    [
+                        400,
+                        465
+                    ],
+                    [
+                        403,
+                        452
+                    ],
+                    [
+                        409,
+                        446
+                    ],
+                    [
+                        388,
+                        426
+                    ],
+                    [
+                        378,
+                        223
+                    ],
+                    [
+                        391,
+                        207
+                    ],
+                    [
+                        396,
+                        186
+                    ],
+                    [
+                        396,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323729,
+            "classId": 6461791,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.962Z",
+            "updatedAt": "2023-09-20T10:36:40.962Z",
+            "tags": [],
+            "classTitle": "suitcase",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        151
+                    ],
+                    [
+                        561,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323728,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.961Z",
+            "updatedAt": "2023-09-20T10:36:40.961Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        80
+                    ],
+                    [
+                        14,
+                        88
+                    ],
+                    [
+                        17,
+                        96
+                    ],
+                    [
+                        17,
+                        110
+                    ],
+                    [
+                        17,
+                        116
+                    ],
+                    [
+                        14,
+                        123
+                    ],
+                    [
+                        8,
+                        135
+                    ],
+                    [
+                        3,
+                        141
+                    ],
+                    [
+                        1,
+                        145
+                    ],
+                    [
+                        0,
+                        150
+                    ],
+                    [
+                        0,
+                        157
+                    ],
+                    [
+                        16,
+                        152
+                    ],
+                    [
+                        33,
+                        149
+                    ],
+                    [
+                        54,
+                        147
+                    ],
+                    [
+                        60,
+                        142
+                    ],
+                    [
+                        46,
+                        91
+                    ],
+                    [
+                        34,
+                        58
+                    ],
+                    [
+                        5,
+                        17
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323727,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.961Z",
+            "updatedAt": "2023-09-20T10:36:40.961Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        17
+                    ],
+                    [
+                        60,
+                        157
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323726,
+            "classId": 6461787,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.960Z",
+            "updatedAt": "2023-09-20T10:36:40.960Z",
+            "tags": [],
+            "classTitle": "backpack",
+            "points": {
+                "exterior": [
+                    [
+                        464,
+                        63
+                    ],
+                    [
+                        483,
+                        68
+                    ],
+                    [
+                        505,
+                        86
+                    ],
+                    [
+                        526,
+                        110
+                    ],
+                    [
+                        528,
+                        151
+                    ],
+                    [
+                        501,
+                        163
+                    ],
+                    [
+                        474,
+                        169
+                    ],
+                    [
+                        473,
+                        181
+                    ],
+                    [
+                        438,
+                        201
+                    ],
+                    [
+                        421,
+                        174
+                    ],
+                    [
+                        410,
+                        199
+                    ],
+                    [
+                        401,
+                        206
+                    ],
+                    [
+                        401,
+                        173
+                    ],
+                    [
+                        396,
+                        160
+                    ],
+                    [
+                        413,
+                        98
+                    ],
+                    [
+                        425,
+                        56
+                    ],
+                    [
+                        429,
+                        49
+                    ],
+                    [
+                        439,
+                        60
+                    ],
+                    [
+                        446,
+                        47
+                    ],
+                    [
+                        445,
+                        14
+                    ],
+                    [
+                        440,
+                        1
+                    ],
+                    [
+                        462,
+                        1
+                    ],
+                    [
+                        468,
+                        23
+                    ],
+                    [
+                        459,
+                        52
+                    ],
+                    [
+                        464,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323725,
+            "classId": 6461787,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.960Z",
+            "updatedAt": "2023-09-20T10:36:40.960Z",
+            "tags": [],
+            "classTitle": "backpack",
+            "points": {
+                "exterior": [
+                    [
+                        430,
+                        29
+                    ],
+                    [
+                        435,
+                        1
+                    ],
+                    [
+                        419,
+                        1
+                    ],
+                    [
+                        418,
+                        18
+                    ],
+                    [
+                        428,
+                        29
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323724,
+            "classId": 6461787,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.960Z",
+            "updatedAt": "2023-09-20T10:36:40.960Z",
+            "tags": [],
+            "classTitle": "backpack",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        1
+                    ],
+                    [
+                        528,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323723,
+            "classId": 6461787,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.959Z",
+            "updatedAt": "2023-09-20T10:36:40.959Z",
+            "tags": [],
+            "classTitle": "backpack",
+            "points": {
+                "exterior": [
+                    [
+                        418,
+                        1
+                    ],
+                    [
+                        435,
+                        29
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323722,
+            "classId": 6461789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.959Z",
+            "updatedAt": "2023-09-20T10:36:40.959Z",
+            "tags": [],
+            "classTitle": "handbag",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        132
+                    ],
+                    [
+                        271,
+                        5
+                    ],
+                    [
+                        377,
+                        2
+                    ],
+                    [
+                        432,
+                        34
+                    ],
+                    [
+                        386,
+                        189
+                    ],
+                    [
+                        394,
+                        207
+                    ],
+                    [
+                        327,
+                        232
+                    ],
+                    [
+                        235,
+                        135
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46323721,
+            "classId": 6461789,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:40.959Z",
+            "updatedAt": "2023-09-20T10:36:40.959Z",
+            "tags": [],
+            "classTitle": "handbag",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        2
+                    ],
+                    [
+                        432,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

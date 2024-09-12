@@ -1,0 +1,196 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4950075,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cat cuddles an elephant toy on the bed.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:26.644Z",
+            "updatedAt": "2023-09-20T10:59:26.644Z"
+        },
+        {
+            "id": 4950076,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A small cat lies next to a stuffed animal.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:26.644Z",
+            "updatedAt": "2023-09-20T10:59:26.644Z"
+        },
+        {
+            "id": 4950077,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cat lying on a blanket with a stuffed toy.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:26.644Z",
+            "updatedAt": "2023-09-20T10:59:26.644Z"
+        },
+        {
+            "id": 4950078,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cat sleeping on a bed with a stuffed toy elephant.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:26.644Z",
+            "updatedAt": "2023-09-20T10:59:26.644Z"
+        },
+        {
+            "id": 4950079,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cat is laying down with a stuffed animal",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:26.644Z",
+            "updatedAt": "2023-09-20T10:59:26.644Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 419
+    },
+    "objects": [
+        {
+            "id": 47602627,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:26.644Z",
+            "updatedAt": "2023-09-20T10:59:26.644Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        472
+                    ],
+                    [
+                        84,
+                        497
+                    ],
+                    [
+                        99,
+                        494
+                    ],
+                    [
+                        113,
+                        575
+                    ],
+                    [
+                        124,
+                        604
+                    ],
+                    [
+                        154,
+                        615
+                    ],
+                    [
+                        179,
+                        599
+                    ],
+                    [
+                        200,
+                        577
+                    ],
+                    [
+                        189,
+                        560
+                    ],
+                    [
+                        176,
+                        542
+                    ],
+                    [
+                        157,
+                        497
+                    ],
+                    [
+                        145,
+                        449
+                    ],
+                    [
+                        160,
+                        406
+                    ],
+                    [
+                        189,
+                        366
+                    ],
+                    [
+                        222,
+                        323
+                    ],
+                    [
+                        295,
+                        284
+                    ],
+                    [
+                        358,
+                        222
+                    ],
+                    [
+                        351,
+                        124
+                    ],
+                    [
+                        345,
+                        77
+                    ],
+                    [
+                        365,
+                        11
+                    ],
+                    [
+                        339,
+                        10
+                    ],
+                    [
+                        268,
+                        52
+                    ],
+                    [
+                        217,
+                        52
+                    ],
+                    [
+                        125,
+                        15
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47602626,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:59:26.644Z",
+            "updatedAt": "2023-09-20T10:59:26.644Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        365,
+                        615
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

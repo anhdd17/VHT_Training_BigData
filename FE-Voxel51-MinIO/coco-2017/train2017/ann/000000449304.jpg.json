@@ -1,0 +1,252 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4609146,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A large jetliner sitting on top of an airport tarmac.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:13.354Z",
+            "updatedAt": "2023-09-20T10:38:13.354Z"
+        },
+        {
+            "id": 4609147,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A jet airplane siting at the airport ready for take off.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:13.354Z",
+            "updatedAt": "2023-09-20T10:38:13.354Z"
+        },
+        {
+            "id": 4609148,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Green, white, and red airplane parked at an airport. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:13.354Z",
+            "updatedAt": "2023-09-20T10:38:13.354Z"
+        },
+        {
+            "id": 4609149,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A white, green and red airplane at airport",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:13.354Z",
+            "updatedAt": "2023-09-20T10:38:13.354Z"
+        },
+        {
+            "id": 4609150,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A closeup shot of an airplane parked on a runway.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:13.354Z",
+            "updatedAt": "2023-09-20T10:38:13.354Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46413579,
+            "classId": 6461767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:13.355Z",
+            "updatedAt": "2023-09-20T10:38:13.355Z",
+            "tags": [],
+            "classTitle": "airplane",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        258
+                    ],
+                    [
+                        207,
+                        158
+                    ],
+                    [
+                        265,
+                        129
+                    ],
+                    [
+                        287,
+                        94
+                    ],
+                    [
+                        470,
+                        15
+                    ],
+                    [
+                        636,
+                        16
+                    ],
+                    [
+                        638,
+                        421
+                    ],
+                    [
+                        334,
+                        411
+                    ],
+                    [
+                        327,
+                        366
+                    ],
+                    [
+                        277,
+                        385
+                    ],
+                    [
+                        101,
+                        317
+                    ],
+                    [
+                        78,
+                        281
+                    ],
+                    [
+                        78,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46413578,
+            "classId": 6461767,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:13.354Z",
+            "updatedAt": "2023-09-20T10:38:13.354Z",
+            "tags": [],
+            "classTitle": "airplane",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        15
+                    ],
+                    [
+                        638,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46413577,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:13.354Z",
+            "updatedAt": "2023-09-20T10:38:13.354Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        419
+                    ],
+                    [
+                        260,
+                        411
+                    ],
+                    [
+                        268,
+                        403
+                    ],
+                    [
+                        284,
+                        388
+                    ],
+                    [
+                        293,
+                        387
+                    ],
+                    [
+                        298,
+                        365
+                    ],
+                    [
+                        310,
+                        358
+                    ],
+                    [
+                        321,
+                        368
+                    ],
+                    [
+                        324,
+                        379
+                    ],
+                    [
+                        323,
+                        389
+                    ],
+                    [
+                        331,
+                        408
+                    ],
+                    [
+                        356,
+                        412
+                    ],
+                    [
+                        376,
+                        408
+                    ],
+                    [
+                        384,
+                        420
+                    ],
+                    [
+                        230,
+                        421
+                    ],
+                    [
+                        230,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46413576,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:13.354Z",
+            "updatedAt": "2023-09-20T10:38:13.354Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        358
+                    ],
+                    [
+                        384,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

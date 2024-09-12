@@ -1,0 +1,592 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4992089,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A woman is entering a green lit room via wheelchair while talking to another lady.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.801Z",
+            "updatedAt": "2023-09-20T11:02:06.801Z"
+        },
+        {
+            "id": 4992090,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The woman at the door in a wheelchair is speaking to the woman in the room.  ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.801Z",
+            "updatedAt": "2023-09-20T11:02:06.801Z"
+        },
+        {
+            "id": 4992091,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A woman watches as another woman in a wheel chair enters the room.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.801Z",
+            "updatedAt": "2023-09-20T11:02:06.801Z"
+        },
+        {
+            "id": 4992092,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "THERE ARE TWO PEOPLE LOOKING AT EACH OTHER ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.801Z",
+            "updatedAt": "2023-09-20T11:02:06.801Z"
+        },
+        {
+            "id": 4992093,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A woman in a wheelchair is coming into a hospital room to see a woman.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.801Z",
+            "updatedAt": "2023-09-20T11:02:06.801Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47749402,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.806Z",
+            "updatedAt": "2023-09-20T11:02:06.806Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        363
+                    ],
+                    [
+                        431,
+                        332
+                    ],
+                    [
+                        415,
+                        307
+                    ],
+                    [
+                        395,
+                        303
+                    ],
+                    [
+                        395,
+                        227
+                    ],
+                    [
+                        395,
+                        195
+                    ],
+                    [
+                        404,
+                        192
+                    ],
+                    [
+                        407,
+                        178
+                    ],
+                    [
+                        423,
+                        167
+                    ],
+                    [
+                        444,
+                        172
+                    ],
+                    [
+                        454,
+                        185
+                    ],
+                    [
+                        443,
+                        209
+                    ],
+                    [
+                        443,
+                        224
+                    ],
+                    [
+                        455,
+                        235
+                    ],
+                    [
+                        455,
+                        249
+                    ],
+                    [
+                        473,
+                        300
+                    ],
+                    [
+                        490,
+                        311
+                    ],
+                    [
+                        486,
+                        324
+                    ],
+                    [
+                        466,
+                        359
+                    ],
+                    [
+                        455,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47749401,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.806Z",
+            "updatedAt": "2023-09-20T11:02:06.806Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        395,
+                        167
+                    ],
+                    [
+                        490,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47749400,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.806Z",
+            "updatedAt": "2023-09-20T11:02:06.806Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        382
+                    ],
+                    [
+                        346,
+                        386
+                    ],
+                    [
+                        355,
+                        393
+                    ],
+                    [
+                        364,
+                        402
+                    ],
+                    [
+                        372,
+                        427
+                    ],
+                    [
+                        372,
+                        437
+                    ],
+                    [
+                        372,
+                        443
+                    ],
+                    [
+                        370,
+                        459
+                    ],
+                    [
+                        368,
+                        458
+                    ],
+                    [
+                        363,
+                        425
+                    ],
+                    [
+                        358,
+                        413
+                    ],
+                    [
+                        352,
+                        405
+                    ],
+                    [
+                        346,
+                        397
+                    ],
+                    [
+                        340,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47749399,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.806Z",
+            "updatedAt": "2023-09-20T11:02:06.806Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        382
+                    ],
+                    [
+                        372,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47749398,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.806Z",
+            "updatedAt": "2023-09-20T11:02:06.806Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        469
+                    ],
+                    [
+                        432,
+                        387
+                    ],
+                    [
+                        459,
+                        370
+                    ],
+                    [
+                        492,
+                        355
+                    ],
+                    [
+                        531,
+                        339
+                    ],
+                    [
+                        613,
+                        329
+                    ],
+                    [
+                        639,
+                        333
+                    ],
+                    [
+                        639,
+                        479
+                    ],
+                    [
+                        615,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47749397,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.805Z",
+            "updatedAt": "2023-09-20T11:02:06.805Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        329
+                    ],
+                    [
+                        639,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47749396,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.804Z",
+            "updatedAt": "2023-09-20T11:02:06.804Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        306
+                    ],
+                    [
+                        408,
+                        306
+                    ],
+                    [
+                        419,
+                        315
+                    ],
+                    [
+                        437,
+                        335
+                    ],
+                    [
+                        438,
+                        360
+                    ],
+                    [
+                        437,
+                        372
+                    ],
+                    [
+                        426,
+                        383
+                    ],
+                    [
+                        421,
+                        387
+                    ],
+                    [
+                        404,
+                        397
+                    ],
+                    [
+                        407,
+                        407
+                    ],
+                    [
+                        389,
+                        403
+                    ],
+                    [
+                        395,
+                        368
+                    ],
+                    [
+                        387,
+                        339
+                    ],
+                    [
+                        389,
+                        325
+                    ],
+                    [
+                        392,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47749395,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.803Z",
+            "updatedAt": "2023-09-20T11:02:06.803Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        306
+                    ],
+                    [
+                        438,
+                        407
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47749394,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.802Z",
+            "updatedAt": "2023-09-20T11:02:06.802Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        81,
+                        194
+                    ],
+                    [
+                        99,
+                        183
+                    ],
+                    [
+                        104,
+                        148
+                    ],
+                    [
+                        122,
+                        112
+                    ],
+                    [
+                        142,
+                        79
+                    ],
+                    [
+                        199,
+                        48
+                    ],
+                    [
+                        236,
+                        53
+                    ],
+                    [
+                        298,
+                        99
+                    ],
+                    [
+                        298,
+                        136
+                    ],
+                    [
+                        294,
+                        152
+                    ],
+                    [
+                        292,
+                        164
+                    ],
+                    [
+                        301,
+                        191
+                    ],
+                    [
+                        281,
+                        229
+                    ],
+                    [
+                        292,
+                        239
+                    ],
+                    [
+                        305,
+                        251
+                    ],
+                    [
+                        324,
+                        328
+                    ],
+                    [
+                        339,
+                        386
+                    ],
+                    [
+                        358,
+                        472
+                    ],
+                    [
+                        358,
+                        474
+                    ],
+                    [
+                        2,
+                        472
+                    ],
+                    [
+                        5,
+                        369
+                    ],
+                    [
+                        20,
+                        281
+                    ],
+                    [
+                        29,
+                        258
+                    ],
+                    [
+                        72,
+                        236
+                    ],
+                    [
+                        104,
+                        224
+                    ],
+                    [
+                        91,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47749393,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:02:06.802Z",
+            "updatedAt": "2023-09-20T11:02:06.802Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        48
+                    ],
+                    [
+                        358,
+                        474
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

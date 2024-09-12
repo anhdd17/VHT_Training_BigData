@@ -1,0 +1,576 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4481983,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A laptop and mouse sit on the computer desk.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.677Z",
+            "updatedAt": "2023-09-20T10:30:42.677Z"
+        },
+        {
+            "id": 4481984,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A laptop and a mouse that are sitting on a small table. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.677Z",
+            "updatedAt": "2023-09-20T10:30:42.677Z"
+        },
+        {
+            "id": 4481985,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A computer showing a webpage atop a table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.677Z",
+            "updatedAt": "2023-09-20T10:30:42.677Z"
+        },
+        {
+            "id": 4481986,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Laptop computer with illuminated screen on a table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.677Z",
+            "updatedAt": "2023-09-20T10:30:42.677Z"
+        },
+        {
+            "id": 4481987,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A laptop sits on top of a computer table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.677Z",
+            "updatedAt": "2023-09-20T10:30:42.677Z"
+        }
+    ],
+    "size": {
+        "height": 361,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 45972425,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.678Z",
+            "updatedAt": "2023-09-20T10:30:42.678Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        531,
+                        74
+                    ],
+                    [
+                        538,
+                        72
+                    ],
+                    [
+                        545,
+                        73
+                    ],
+                    [
+                        547,
+                        75
+                    ],
+                    [
+                        549,
+                        77
+                    ],
+                    [
+                        548,
+                        83
+                    ],
+                    [
+                        548,
+                        86
+                    ],
+                    [
+                        555,
+                        99
+                    ],
+                    [
+                        556,
+                        113
+                    ],
+                    [
+                        550,
+                        145
+                    ],
+                    [
+                        528,
+                        144
+                    ],
+                    [
+                        516,
+                        123
+                    ],
+                    [
+                        511,
+                        111
+                    ],
+                    [
+                        515,
+                        101
+                    ],
+                    [
+                        520,
+                        93
+                    ],
+                    [
+                        529,
+                        83
+                    ],
+                    [
+                        529,
+                        81
+                    ],
+                    [
+                        529,
+                        80
+                    ],
+                    [
+                        531,
+                        73
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45972424,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.678Z",
+            "updatedAt": "2023-09-20T10:30:42.678Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        511,
+                        72
+                    ],
+                    [
+                        556,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45972423,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.678Z",
+            "updatedAt": "2023-09-20T10:30:42.678Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        265
+                    ],
+                    [
+                        136,
+                        269
+                    ],
+                    [
+                        341,
+                        264
+                    ],
+                    [
+                        347,
+                        259
+                    ],
+                    [
+                        338,
+                        173
+                    ],
+                    [
+                        338,
+                        159
+                    ],
+                    [
+                        332,
+                        43
+                    ],
+                    [
+                        152,
+                        49
+                    ],
+                    [
+                        149,
+                        179
+                    ],
+                    [
+                        150,
+                        190
+                    ],
+                    [
+                        147,
+                        204
+                    ],
+                    [
+                        132,
+                        262
+                    ],
+                    [
+                        134,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45972422,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.678Z",
+            "updatedAt": "2023-09-20T10:30:42.678Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        43
+                    ],
+                    [
+                        347,
+                        269
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45972421,
+            "classId": 6461827,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.678Z",
+            "updatedAt": "2023-09-20T10:30:42.678Z",
+            "tags": [],
+            "classTitle": "mouse",
+            "points": {
+                "exterior": [
+                    [
+                        489,
+                        259
+                    ],
+                    [
+                        486,
+                        255
+                    ],
+                    [
+                        485,
+                        251
+                    ],
+                    [
+                        483,
+                        246
+                    ],
+                    [
+                        483,
+                        243
+                    ],
+                    [
+                        482,
+                        236
+                    ],
+                    [
+                        481,
+                        233
+                    ],
+                    [
+                        480,
+                        229
+                    ],
+                    [
+                        483,
+                        226
+                    ],
+                    [
+                        488,
+                        225
+                    ],
+                    [
+                        495,
+                        223
+                    ],
+                    [
+                        497,
+                        221
+                    ],
+                    [
+                        499,
+                        220
+                    ],
+                    [
+                        503,
+                        222
+                    ],
+                    [
+                        506,
+                        223
+                    ],
+                    [
+                        510,
+                        223
+                    ],
+                    [
+                        512,
+                        224
+                    ],
+                    [
+                        516,
+                        225
+                    ],
+                    [
+                        520,
+                        226
+                    ],
+                    [
+                        521,
+                        228
+                    ],
+                    [
+                        525,
+                        228
+                    ],
+                    [
+                        530,
+                        252
+                    ],
+                    [
+                        527,
+                        262
+                    ],
+                    [
+                        524,
+                        266
+                    ],
+                    [
+                        519,
+                        268
+                    ],
+                    [
+                        508,
+                        268
+                    ],
+                    [
+                        502,
+                        266
+                    ],
+                    [
+                        495,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45972420,
+            "classId": 6461827,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.678Z",
+            "updatedAt": "2023-09-20T10:30:42.678Z",
+            "tags": [],
+            "classTitle": "mouse",
+            "points": {
+                "exterior": [
+                    [
+                        480,
+                        220
+                    ],
+                    [
+                        530,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45972419,
+            "classId": 6461828,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.678Z",
+            "updatedAt": "2023-09-20T10:30:42.678Z",
+            "tags": [],
+            "classTitle": "remote",
+            "points": {
+                "exterior": [
+                    [
+                        385,
+                        111
+                    ],
+                    [
+                        375,
+                        108
+                    ],
+                    [
+                        369,
+                        98
+                    ],
+                    [
+                        362,
+                        60
+                    ],
+                    [
+                        359,
+                        15
+                    ],
+                    [
+                        376,
+                        11
+                    ],
+                    [
+                        391,
+                        12
+                    ],
+                    [
+                        400,
+                        76
+                    ],
+                    [
+                        399,
+                        96
+                    ],
+                    [
+                        393,
+                        106
+                    ],
+                    [
+                        388,
+                        109
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45972418,
+            "classId": 6461828,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.678Z",
+            "updatedAt": "2023-09-20T10:30:42.678Z",
+            "tags": [],
+            "classTitle": "remote",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        11
+                    ],
+                    [
+                        400,
+                        111
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45972417,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.677Z",
+            "updatedAt": "2023-09-20T10:30:42.677Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        321
+                    ],
+                    [
+                        581,
+                        316
+                    ],
+                    [
+                        518,
+                        191
+                    ],
+                    [
+                        339,
+                        191
+                    ],
+                    [
+                        347,
+                        260
+                    ],
+                    [
+                        134,
+                        268
+                    ],
+                    [
+                        151,
+                        193
+                    ],
+                    [
+                        135,
+                        194
+                    ],
+                    [
+                        85,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45972416,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:42.677Z",
+            "updatedAt": "2023-09-20T10:30:42.677Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        191
+                    ],
+                    [
+                        581,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

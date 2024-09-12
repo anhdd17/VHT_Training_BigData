@@ -1,0 +1,20 @@
+version: "3"
+services:
+  # === Storage ===
+  minio:
+    image: minio/minio:latest
+    container_name: minio
+    restart: unless-stopped
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+
+    environment:
+      - MINIO_ACCESS_KEY=${MINIO_ACCESS_KEY}
+      - MINIO_SECRET_KEY=${MINIO_SECRET_KEY}
+      - MINIO_PROMETHEUS_AUTH_TYPE=${MINIO_PROMETHEUS_AUTH_TYPE}
+      - MINIO_UPDATE=${MINIO_UPDATE}
+    volumes:
+      - ./data/minio_data:/data
+    command: server /data --address ':9000' --console-address ':9001'
+

@@ -1,0 +1,856 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4840898,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A red plate topped with a sandwich and mashed potatoes.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.844Z",
+            "updatedAt": "2023-09-20T10:52:42.844Z"
+        },
+        {
+            "id": 4840899,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A plate of food has mashed potatoes and meat.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.844Z",
+            "updatedAt": "2023-09-20T10:52:42.844Z"
+        },
+        {
+            "id": 4840900,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A sandwich and mac and cheese placed on a plate on a dinner table. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.844Z",
+            "updatedAt": "2023-09-20T10:52:42.844Z"
+        },
+        {
+            "id": 4840901,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Meat sandwich with mashed potatoes and gravy on red ceramic plate.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.844Z",
+            "updatedAt": "2023-09-20T10:52:42.844Z"
+        },
+        {
+            "id": 4840902,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A sandwich and mashed potatoes with gravy served on a red plate.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.844Z",
+            "updatedAt": "2023-09-20T10:52:42.844Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47220908,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.853Z",
+            "updatedAt": "2023-09-20T10:52:42.853Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        327
+                    ],
+                    [
+                        377,
+                        275
+                    ],
+                    [
+                        342,
+                        223
+                    ],
+                    [
+                        331,
+                        185
+                    ],
+                    [
+                        336,
+                        150
+                    ],
+                    [
+                        377,
+                        137
+                    ],
+                    [
+                        406,
+                        132
+                    ],
+                    [
+                        496,
+                        148
+                    ],
+                    [
+                        520,
+                        163
+                    ],
+                    [
+                        524,
+                        190
+                    ],
+                    [
+                        513,
+                        226
+                    ],
+                    [
+                        522,
+                        250
+                    ],
+                    [
+                        519,
+                        287
+                    ],
+                    [
+                        538,
+                        302
+                    ],
+                    [
+                        524,
+                        313
+                    ],
+                    [
+                        484,
+                        317
+                    ],
+                    [
+                        479,
+                        318
+                    ],
+                    [
+                        463,
+                        339
+                    ],
+                    [
+                        451,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47220907,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.853Z",
+            "updatedAt": "2023-09-20T10:52:42.853Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        132
+                    ],
+                    [
+                        538,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47220906,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.851Z",
+            "updatedAt": "2023-09-20T10:52:42.851Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        577,
+                        7
+                    ],
+                    [
+                        537,
+                        106
+                    ],
+                    [
+                        528,
+                        121
+                    ],
+                    [
+                        519,
+                        120
+                    ],
+                    [
+                        521,
+                        107
+                    ],
+                    [
+                        502,
+                        103
+                    ],
+                    [
+                        467,
+                        96
+                    ],
+                    [
+                        479,
+                        2
+                    ],
+                    [
+                        581,
+                        2
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47220905,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.851Z",
+            "updatedAt": "2023-09-20T10:52:42.851Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        467,
+                        2
+                    ],
+                    [
+                        581,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47220904,
+            "classId": 6461805,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.849Z",
+            "updatedAt": "2023-09-20T10:52:42.849Z",
+            "tags": [],
+            "classTitle": "fork",
+            "points": {
+                "exterior": [
+                    [
+                        637,
+                        158
+                    ],
+                    [
+                        636,
+                        157
+                    ],
+                    [
+                        639,
+                        176
+                    ],
+                    [
+                        639,
+                        182
+                    ],
+                    [
+                        638,
+                        180
+                    ],
+                    [
+                        612,
+                        159
+                    ],
+                    [
+                        596,
+                        116
+                    ],
+                    [
+                        619,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47220903,
+            "classId": 6461805,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.849Z",
+            "updatedAt": "2023-09-20T10:52:42.849Z",
+            "tags": [],
+            "classTitle": "fork",
+            "points": {
+                "exterior": [
+                    [
+                        596,
+                        116
+                    ],
+                    [
+                        639,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47220902,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.848Z",
+            "updatedAt": "2023-09-20T10:52:42.848Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        148
+                    ],
+                    [
+                        338,
+                        143
+                    ],
+                    [
+                        339,
+                        141
+                    ],
+                    [
+                        342,
+                        141
+                    ],
+                    [
+                        343,
+                        140
+                    ],
+                    [
+                        342,
+                        138
+                    ],
+                    [
+                        342,
+                        137
+                    ],
+                    [
+                        346,
+                        135
+                    ],
+                    [
+                        347,
+                        133
+                    ],
+                    [
+                        348,
+                        132
+                    ],
+                    [
+                        350,
+                        133
+                    ],
+                    [
+                        352,
+                        135
+                    ],
+                    [
+                        357,
+                        135
+                    ],
+                    [
+                        357,
+                        130
+                    ],
+                    [
+                        361,
+                        126
+                    ],
+                    [
+                        362,
+                        125
+                    ],
+                    [
+                        366,
+                        123
+                    ],
+                    [
+                        371,
+                        122
+                    ],
+                    [
+                        369,
+                        119
+                    ],
+                    [
+                        362,
+                        117
+                    ],
+                    [
+                        358,
+                        114
+                    ],
+                    [
+                        356,
+                        113
+                    ],
+                    [
+                        356,
+                        105
+                    ],
+                    [
+                        356,
+                        88
+                    ],
+                    [
+                        369,
+                        87
+                    ],
+                    [
+                        377,
+                        87
+                    ],
+                    [
+                        386,
+                        89
+                    ],
+                    [
+                        417,
+                        91
+                    ],
+                    [
+                        446,
+                        94
+                    ],
+                    [
+                        469,
+                        98
+                    ],
+                    [
+                        470,
+                        95
+                    ],
+                    [
+                        472,
+                        93
+                    ],
+                    [
+                        476,
+                        97
+                    ],
+                    [
+                        478,
+                        100
+                    ],
+                    [
+                        500,
+                        103
+                    ],
+                    [
+                        503,
+                        103
+                    ],
+                    [
+                        510,
+                        104
+                    ],
+                    [
+                        513,
+                        106
+                    ],
+                    [
+                        522,
+                        109
+                    ],
+                    [
+                        524,
+                        109
+                    ],
+                    [
+                        524,
+                        110
+                    ],
+                    [
+                        522,
+                        112
+                    ],
+                    [
+                        506,
+                        131
+                    ],
+                    [
+                        504,
+                        133
+                    ],
+                    [
+                        502,
+                        134
+                    ],
+                    [
+                        496,
+                        133
+                    ],
+                    [
+                        491,
+                        132
+                    ],
+                    [
+                        488,
+                        131
+                    ],
+                    [
+                        488,
+                        130
+                    ],
+                    [
+                        485,
+                        129
+                    ],
+                    [
+                        482,
+                        130
+                    ],
+                    [
+                        480,
+                        129
+                    ],
+                    [
+                        476,
+                        128
+                    ],
+                    [
+                        474,
+                        128
+                    ],
+                    [
+                        473,
+                        128
+                    ],
+                    [
+                        470,
+                        130
+                    ],
+                    [
+                        468,
+                        130
+                    ],
+                    [
+                        468,
+                        127
+                    ],
+                    [
+                        465,
+                        127
+                    ],
+                    [
+                        463,
+                        126
+                    ],
+                    [
+                        459,
+                        122
+                    ],
+                    [
+                        458,
+                        121
+                    ],
+                    [
+                        456,
+                        122
+                    ],
+                    [
+                        455,
+                        123
+                    ],
+                    [
+                        457,
+                        126
+                    ],
+                    [
+                        459,
+                        127
+                    ],
+                    [
+                        460,
+                        128
+                    ],
+                    [
+                        460,
+                        131
+                    ],
+                    [
+                        460,
+                        133
+                    ],
+                    [
+                        461,
+                        134
+                    ],
+                    [
+                        465,
+                        134
+                    ],
+                    [
+                        465,
+                        136
+                    ],
+                    [
+                        465,
+                        139
+                    ],
+                    [
+                        466,
+                        140
+                    ],
+                    [
+                        468,
+                        142
+                    ],
+                    [
+                        468,
+                        143
+                    ],
+                    [
+                        417,
+                        134
+                    ],
+                    [
+                        406,
+                        132
+                    ],
+                    [
+                        378,
+                        136
+                    ],
+                    [
+                        366,
+                        139
+                    ],
+                    [
+                        342,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47220901,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.847Z",
+            "updatedAt": "2023-09-20T10:52:42.847Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        87
+                    ],
+                    [
+                        524,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47220900,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.846Z",
+            "updatedAt": "2023-09-20T10:52:42.846Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        315
+                    ],
+                    [
+                        14,
+                        310
+                    ],
+                    [
+                        19,
+                        297
+                    ],
+                    [
+                        18,
+                        289
+                    ],
+                    [
+                        6,
+                        284
+                    ],
+                    [
+                        0,
+                        265
+                    ],
+                    [
+                        0,
+                        103
+                    ],
+                    [
+                        91,
+                        4
+                    ],
+                    [
+                        280,
+                        3
+                    ],
+                    [
+                        284,
+                        22
+                    ],
+                    [
+                        287,
+                        45
+                    ],
+                    [
+                        281,
+                        66
+                    ],
+                    [
+                        274,
+                        90
+                    ],
+                    [
+                        218,
+                        107
+                    ],
+                    [
+                        170,
+                        117
+                    ],
+                    [
+                        118,
+                        148
+                    ],
+                    [
+                        82,
+                        176
+                    ],
+                    [
+                        58,
+                        216
+                    ],
+                    [
+                        50,
+                        268
+                    ],
+                    [
+                        66,
+                        320
+                    ],
+                    [
+                        126,
+                        376
+                    ],
+                    [
+                        210,
+                        417
+                    ],
+                    [
+                        329,
+                        436
+                    ],
+                    [
+                        443,
+                        434
+                    ],
+                    [
+                        530,
+                        405
+                    ],
+                    [
+                        575,
+                        370
+                    ],
+                    [
+                        605,
+                        334
+                    ],
+                    [
+                        611,
+                        358
+                    ],
+                    [
+                        639,
+                        351
+                    ],
+                    [
+                        639,
+                        382
+                    ],
+                    [
+                        636,
+                        473
+                    ],
+                    [
+                        0,
+                        471
+                    ],
+                    [
+                        0,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47220899,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:52:42.846Z",
+            "updatedAt": "2023-09-20T10:52:42.846Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        3
+                    ],
+                    [
+                        639,
+                        473
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

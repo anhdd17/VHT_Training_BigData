@@ -1,0 +1,584 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4465804,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A plate of food on a glass table with chicken and broccoli on it. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.903Z",
+            "updatedAt": "2023-09-20T10:29:44.903Z"
+        },
+        {
+            "id": 4465805,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A white plate topped with meat and veggies.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.903Z",
+            "updatedAt": "2023-09-20T10:29:44.903Z"
+        },
+        {
+            "id": 4465806,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A plate of food on a glass table ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.903Z",
+            "updatedAt": "2023-09-20T10:29:44.903Z"
+        },
+        {
+            "id": 4465807,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a white plate with meat and a green vegetable on a glass table ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.903Z",
+            "updatedAt": "2023-09-20T10:29:44.903Z"
+        },
+        {
+            "id": 4465808,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The plate of chicken has broccoli on it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.903Z",
+            "updatedAt": "2023-09-20T10:29:44.903Z"
+        }
+    ],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 45917541,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.905Z",
+            "updatedAt": "2023-09-20T10:29:44.905Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        35
+                    ],
+                    [
+                        496,
+                        46
+                    ],
+                    [
+                        496,
+                        365
+                    ],
+                    [
+                        496,
+                        369
+                    ],
+                    [
+                        0,
+                        368
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45917540,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.905Z",
+            "updatedAt": "2023-09-20T10:29:44.905Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        35
+                    ],
+                    [
+                        496,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45917539,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.905Z",
+            "updatedAt": "2023-09-20T10:29:44.905Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        340,
+                        92
+                    ],
+                    [
+                        323,
+                        104
+                    ],
+                    [
+                        304,
+                        104
+                    ],
+                    [
+                        294,
+                        108
+                    ],
+                    [
+                        289,
+                        116
+                    ],
+                    [
+                        291,
+                        123
+                    ],
+                    [
+                        289,
+                        125
+                    ],
+                    [
+                        287,
+                        127
+                    ],
+                    [
+                        276,
+                        114
+                    ],
+                    [
+                        270,
+                        114
+                    ],
+                    [
+                        273,
+                        127
+                    ],
+                    [
+                        279,
+                        144
+                    ],
+                    [
+                        291,
+                        147
+                    ],
+                    [
+                        292,
+                        148
+                    ],
+                    [
+                        302,
+                        150
+                    ],
+                    [
+                        307,
+                        145
+                    ],
+                    [
+                        314,
+                        150
+                    ],
+                    [
+                        322,
+                        159
+                    ],
+                    [
+                        331,
+                        158
+                    ],
+                    [
+                        338,
+                        155
+                    ],
+                    [
+                        352,
+                        159
+                    ],
+                    [
+                        355,
+                        159
+                    ],
+                    [
+                        368,
+                        160
+                    ],
+                    [
+                        367,
+                        148
+                    ],
+                    [
+                        370,
+                        135
+                    ],
+                    [
+                        376,
+                        124
+                    ],
+                    [
+                        365,
+                        115
+                    ],
+                    [
+                        364,
+                        113
+                    ],
+                    [
+                        367,
+                        107
+                    ],
+                    [
+                        360,
+                        98
+                    ],
+                    [
+                        358,
+                        92
+                    ],
+                    [
+                        354,
+                        88
+                    ],
+                    [
+                        339,
+                        91
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45917538,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.905Z",
+            "updatedAt": "2023-09-20T10:29:44.905Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        88
+                    ],
+                    [
+                        376,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45917537,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.904Z",
+            "updatedAt": "2023-09-20T10:29:44.904Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        117
+                    ],
+                    [
+                        242,
+                        104
+                    ],
+                    [
+                        249,
+                        102
+                    ],
+                    [
+                        271,
+                        117
+                    ],
+                    [
+                        282,
+                        145
+                    ],
+                    [
+                        272,
+                        158
+                    ],
+                    [
+                        256,
+                        158
+                    ],
+                    [
+                        249,
+                        164
+                    ],
+                    [
+                        229,
+                        150
+                    ],
+                    [
+                        224,
+                        117
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45917536,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.904Z",
+            "updatedAt": "2023-09-20T10:29:44.904Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        102
+                    ],
+                    [
+                        282,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45917535,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.904Z",
+            "updatedAt": "2023-09-20T10:29:44.904Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        122
+                    ],
+                    [
+                        210,
+                        119
+                    ],
+                    [
+                        206,
+                        121
+                    ],
+                    [
+                        200,
+                        131
+                    ],
+                    [
+                        196,
+                        137
+                    ],
+                    [
+                        195,
+                        131
+                    ],
+                    [
+                        194,
+                        124
+                    ],
+                    [
+                        194,
+                        116
+                    ],
+                    [
+                        194,
+                        107
+                    ],
+                    [
+                        199,
+                        101
+                    ],
+                    [
+                        212,
+                        97
+                    ],
+                    [
+                        229,
+                        97
+                    ],
+                    [
+                        238,
+                        95
+                    ],
+                    [
+                        249,
+                        98
+                    ],
+                    [
+                        245,
+                        104
+                    ],
+                    [
+                        236,
+                        109
+                    ],
+                    [
+                        228,
+                        110
+                    ],
+                    [
+                        224,
+                        115
+                    ],
+                    [
+                        224,
+                        119
+                    ],
+                    [
+                        219,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45917534,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.904Z",
+            "updatedAt": "2023-09-20T10:29:44.904Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        95
+                    ],
+                    [
+                        249,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45917533,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.904Z",
+            "updatedAt": "2023-09-20T10:29:44.904Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        228
+                    ],
+                    [
+                        335,
+                        212
+                    ],
+                    [
+                        327,
+                        198
+                    ],
+                    [
+                        322,
+                        189
+                    ],
+                    [
+                        322,
+                        170
+                    ],
+                    [
+                        326,
+                        157
+                    ],
+                    [
+                        344,
+                        154
+                    ],
+                    [
+                        357,
+                        158
+                    ],
+                    [
+                        363,
+                        165
+                    ],
+                    [
+                        362,
+                        177
+                    ],
+                    [
+                        362,
+                        192
+                    ],
+                    [
+                        365,
+                        207
+                    ],
+                    [
+                        361,
+                        223
+                    ],
+                    [
+                        351,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45917532,
+            "classId": 6461813,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:29:44.904Z",
+            "updatedAt": "2023-09-20T10:29:44.904Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        154
+                    ],
+                    [
+                        365,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

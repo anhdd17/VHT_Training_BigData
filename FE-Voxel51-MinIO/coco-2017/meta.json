@@ -1,0 +1,656 @@
+{
+    "classes": [
+        {
+            "title": "apple",
+            "shape": "any",
+            "color": "#6C0F8A",
+            "geometry_config": {},
+            "id": 6461810,
+            "hotkey": ""
+        },
+        {
+            "title": "backpack",
+            "shape": "any",
+            "color": "#600F8A",
+            "geometry_config": {},
+            "id": 6461787,
+            "hotkey": ""
+        },
+        {
+            "title": "banana",
+            "shape": "any",
+            "color": "#8A0F27",
+            "geometry_config": {},
+            "id": 6461809,
+            "hotkey": ""
+        },
+        {
+            "title": "baseball bat",
+            "shape": "any",
+            "color": "#0F4F8A",
+            "geometry_config": {},
+            "id": 6461797,
+            "hotkey": ""
+        },
+        {
+            "title": "baseball glove",
+            "shape": "any",
+            "color": "#7A8A0F",
+            "geometry_config": {},
+            "id": 6461798,
+            "hotkey": ""
+        },
+        {
+            "title": "bear",
+            "shape": "any",
+            "color": "#398A0F",
+            "geometry_config": {},
+            "id": 6461784,
+            "hotkey": ""
+        },
+        {
+            "title": "bed",
+            "shape": "any",
+            "color": "#8A0F7D",
+            "geometry_config": {},
+            "id": 6461822,
+            "hotkey": ""
+        },
+        {
+            "title": "book",
+            "shape": "any",
+            "color": "#8A520F",
+            "geometry_config": {},
+            "id": 6461836,
+            "hotkey": ""
+        },
+        {
+            "title": "bottle",
+            "shape": "any",
+            "color": "#0F8A62",
+            "geometry_config": {},
+            "id": 6461802,
+            "hotkey": ""
+        },
+        {
+            "title": "bowl",
+            "shape": "any",
+            "color": "#8A820F",
+            "geometry_config": {},
+            "id": 6461808,
+            "hotkey": ""
+        },
+        {
+            "title": "broccoli",
+            "shape": "any",
+            "color": "#8A0F3E",
+            "geometry_config": {},
+            "id": 6461813,
+            "hotkey": ""
+        },
+        {
+            "title": "cake",
+            "shape": "any",
+            "color": "#0F8A4B",
+            "geometry_config": {},
+            "id": 6461818,
+            "hotkey": ""
+        },
+        {
+            "title": "carrot",
+            "shape": "any",
+            "color": "#8A580F",
+            "geometry_config": {},
+            "id": 6461814,
+            "hotkey": ""
+        },
+        {
+            "title": "cat",
+            "shape": "any",
+            "color": "#1E0F8A",
+            "geometry_config": {},
+            "id": 6461778,
+            "hotkey": ""
+        },
+        {
+            "title": "cell phone",
+            "shape": "any",
+            "color": "#0F628A",
+            "geometry_config": {},
+            "id": 6461830,
+            "hotkey": ""
+        },
+        {
+            "title": "chair",
+            "shape": "any",
+            "color": "#0F8A77",
+            "geometry_config": {},
+            "id": 6461819,
+            "hotkey": ""
+        },
+        {
+            "title": "clock",
+            "shape": "any",
+            "color": "#8A160F",
+            "geometry_config": {},
+            "id": 6461837,
+            "hotkey": ""
+        },
+        {
+            "title": "couch",
+            "shape": "any",
+            "color": "#0F218A",
+            "geometry_config": {},
+            "id": 6461820,
+            "hotkey": ""
+        },
+        {
+            "title": "cow",
+            "shape": "any",
+            "color": "#6E8A0F",
+            "geometry_config": {},
+            "id": 6461782,
+            "hotkey": ""
+        },
+        {
+            "title": "cup",
+            "shape": "any",
+            "color": "#8A400F",
+            "geometry_config": {},
+            "id": 6461804,
+            "hotkey": ""
+        },
+        {
+            "title": "airplane",
+            "shape": "any",
+            "color": "#0F8A84",
+            "geometry_config": {},
+            "id": 6461767,
+            "hotkey": ""
+        },
+        {
+            "title": "bench",
+            "shape": "any",
+            "color": "#8A0F49",
+            "geometry_config": {},
+            "id": 6461776,
+            "hotkey": ""
+        },
+        {
+            "title": "bicycle",
+            "shape": "any",
+            "color": "#0F8A27",
+            "geometry_config": {},
+            "id": 6461764,
+            "hotkey": ""
+        },
+        {
+            "title": "bird",
+            "shape": "any",
+            "color": "#770F8A",
+            "geometry_config": {},
+            "id": 6461777,
+            "hotkey": ""
+        },
+        {
+            "title": "boat",
+            "shape": "any",
+            "color": "#0F5C8A",
+            "geometry_config": {},
+            "id": 6461771,
+            "hotkey": ""
+        },
+        {
+            "title": "bus",
+            "shape": "any",
+            "color": "#538A0F",
+            "geometry_config": {},
+            "id": 6461768,
+            "hotkey": ""
+        },
+        {
+            "title": "car",
+            "shape": "any",
+            "color": "#8A630F",
+            "geometry_config": {},
+            "id": 6461765,
+            "hotkey": ""
+        },
+        {
+            "title": "dining table",
+            "shape": "any",
+            "color": "#550F8A",
+            "geometry_config": {},
+            "id": 6461823,
+            "hotkey": ""
+        },
+        {
+            "title": "dog",
+            "shape": "any",
+            "color": "#0F768A",
+            "geometry_config": {},
+            "id": 6461779,
+            "hotkey": ""
+        },
+        {
+            "title": "donut",
+            "shape": "any",
+            "color": "#0F378A",
+            "geometry_config": {},
+            "id": 6461817,
+            "hotkey": ""
+        },
+        {
+            "title": "elephant",
+            "shape": "any",
+            "color": "#8A0F32",
+            "geometry_config": {},
+            "id": 6461783,
+            "hotkey": ""
+        },
+        {
+            "title": "fire hydrant",
+            "shape": "any",
+            "color": "#878A0F",
+            "geometry_config": {},
+            "id": 6461773,
+            "hotkey": ""
+        },
+        {
+            "title": "fork",
+            "shape": "any",
+            "color": "#8A0F54",
+            "geometry_config": {},
+            "id": 6461805,
+            "hotkey": ""
+        },
+        {
+            "title": "frisbee",
+            "shape": "any",
+            "color": "#8A0F5F",
+            "geometry_config": {},
+            "id": 6461792,
+            "hotkey": ""
+        },
+        {
+            "title": "giraffe",
+            "shape": "any",
+            "color": "#8A4C0F",
+            "geometry_config": {},
+            "id": 6461786,
+            "hotkey": ""
+        },
+        {
+            "title": "hair drier",
+            "shape": "any",
+            "color": "#0F498A",
+            "geometry_config": {},
+            "id": 6461841,
+            "hotkey": ""
+        },
+        {
+            "title": "handbag",
+            "shape": "any",
+            "color": "#8A1C0F",
+            "geometry_config": {},
+            "id": 6461789,
+            "hotkey": ""
+        },
+        {
+            "title": "horse",
+            "shape": "any",
+            "color": "#0F428A",
+            "geometry_config": {},
+            "id": 6461780,
+            "hotkey": ""
+        },
+        {
+            "title": "hot dog",
+            "shape": "any",
+            "color": "#198A0F",
+            "geometry_config": {},
+            "id": 6461815,
+            "hotkey": ""
+        },
+        {
+            "title": "keyboard",
+            "shape": "any",
+            "color": "#0F8A2E",
+            "geometry_config": {},
+            "id": 6461829,
+            "hotkey": ""
+        },
+        {
+            "title": "kite",
+            "shape": "any",
+            "color": "#478A0F",
+            "geometry_config": {},
+            "id": 6461796,
+            "hotkey": ""
+        },
+        {
+            "title": "knife",
+            "shape": "any",
+            "color": "#0F8A1C",
+            "geometry_config": {},
+            "id": 6461806,
+            "hotkey": ""
+        },
+        {
+            "title": "laptop",
+            "shape": "any",
+            "color": "#8A0F69",
+            "geometry_config": {},
+            "id": 6461826,
+            "hotkey": ""
+        },
+        {
+            "title": "microwave",
+            "shape": "any",
+            "color": "#8A0F15",
+            "geometry_config": {},
+            "id": 6461831,
+            "hotkey": ""
+        },
+        {
+            "title": "motorcycle",
+            "shape": "any",
+            "color": "#0F2B8A",
+            "geometry_config": {},
+            "id": 6461766,
+            "hotkey": ""
+        },
+        {
+            "title": "mouse",
+            "shape": "any",
+            "color": "#0F898A",
+            "geometry_config": {},
+            "id": 6461827,
+            "hotkey": ""
+        },
+        {
+            "title": "orange",
+            "shape": "any",
+            "color": "#3F0F8A",
+            "geometry_config": {},
+            "id": 6461812,
+            "hotkey": ""
+        },
+        {
+            "title": "oven",
+            "shape": "any",
+            "color": "#0F8A7E",
+            "geometry_config": {},
+            "id": 6461832,
+            "hotkey": ""
+        },
+        {
+            "title": "parking meter",
+            "shape": "any",
+            "color": "#8A340F",
+            "geometry_config": {},
+            "id": 6461775,
+            "hotkey": ""
+        },
+        {
+            "title": "person",
+            "shape": "any",
+            "color": "#8A0F73",
+            "geometry_config": {},
+            "id": 6461763,
+            "hotkey": ""
+        },
+        {
+            "title": "pizza",
+            "shape": "any",
+            "color": "#280F8A",
+            "geometry_config": {},
+            "id": 6461816,
+            "hotkey": ""
+        },
+        {
+            "title": "potted plant",
+            "shape": "any",
+            "color": "#0F8A35",
+            "geometry_config": {},
+            "id": 6461821,
+            "hotkey": ""
+        },
+        {
+            "title": "refrigerator",
+            "shape": "any",
+            "color": "#0F568A",
+            "geometry_config": {},
+            "id": 6461835,
+            "hotkey": ""
+        },
+        {
+            "title": "remote",
+            "shape": "any",
+            "color": "#408A0F",
+            "geometry_config": {},
+            "id": 6461828,
+            "hotkey": ""
+        },
+        {
+            "title": "sandwich",
+            "shape": "any",
+            "color": "#820F8A",
+            "geometry_config": {},
+            "id": 6461811,
+            "hotkey": ""
+        },
+        {
+            "title": "scissors",
+            "shape": "any",
+            "color": "#8A3A0F",
+            "geometry_config": {},
+            "id": 6461839,
+            "hotkey": ""
+        },
+        {
+            "title": "sheep",
+            "shape": "any",
+            "color": "#0F8A6D",
+            "geometry_config": {},
+            "id": 6461781,
+            "hotkey": ""
+        },
+        {
+            "title": "sink",
+            "shape": "any",
+            "color": "#748A0F",
+            "geometry_config": {},
+            "id": 6461834,
+            "hotkey": ""
+        },
+        {
+            "title": "skateboard",
+            "shape": "any",
+            "color": "#8A100F",
+            "geometry_config": {},
+            "id": 6461799,
+            "hotkey": ""
+        },
+        {
+            "title": "skis",
+            "shape": "any",
+            "color": "#8A760F",
+            "geometry_config": {},
+            "id": 6461793,
+            "hotkey": ""
+        },
+        {
+            "title": "snowboard",
+            "shape": "any",
+            "color": "#8A0F86",
+            "geometry_config": {},
+            "id": 6461794,
+            "hotkey": ""
+        },
+        {
+            "title": "spoon",
+            "shape": "any",
+            "color": "#120F8A",
+            "geometry_config": {},
+            "id": 6461807,
+            "hotkey": ""
+        },
+        {
+            "title": "sports ball",
+            "shape": "any",
+            "color": "#618A0F",
+            "geometry_config": {},
+            "id": 6461795,
+            "hotkey": ""
+        },
+        {
+            "title": "stop sign",
+            "shape": "any",
+            "color": "#248A0F",
+            "geometry_config": {},
+            "id": 6461774,
+            "hotkey": ""
+        },
+        {
+            "title": "suitcase",
+            "shape": "any",
+            "color": "#0F8A10",
+            "geometry_config": {},
+            "id": 6461791,
+            "hotkey": ""
+        },
+        {
+            "title": "surfboard",
+            "shape": "any",
+            "color": "#0F828A",
+            "geometry_config": {},
+            "id": 6461800,
+            "hotkey": ""
+        },
+        {
+            "title": "teddy bear",
+            "shape": "any",
+            "color": "#180F8A",
+            "geometry_config": {},
+            "id": 6461840,
+            "hotkey": ""
+        },
+        {
+            "title": "tennis racket",
+            "shape": "any",
+            "color": "#0F6A8A",
+            "geometry_config": {},
+            "id": 6461801,
+            "hotkey": ""
+        },
+        {
+            "title": "tie",
+            "shape": "any",
+            "color": "#0F178A",
+            "geometry_config": {},
+            "id": 6461790,
+            "hotkey": ""
+        },
+        {
+            "title": "toaster",
+            "shape": "any",
+            "color": "#808A0F",
+            "geometry_config": {},
+            "id": 6461833,
+            "hotkey": ""
+        },
+        {
+            "title": "toilet",
+            "shape": "any",
+            "color": "#2F8A0F",
+            "geometry_config": {},
+            "id": 6461824,
+            "hotkey": ""
+        },
+        {
+            "title": "toothbrush",
+            "shape": "any",
+            "color": "#8A7C0F",
+            "geometry_config": {},
+            "id": 6461842,
+            "hotkey": ""
+        },
+        {
+            "title": "traffic light",
+            "shape": "any",
+            "color": "#0F8A55",
+            "geometry_config": {},
+            "id": 6461772,
+            "hotkey": ""
+        },
+        {
+            "title": "train",
+            "shape": "any",
+            "color": "#4A0F8A",
+            "geometry_config": {},
+            "id": 6461769,
+            "hotkey": ""
+        },
+        {
+            "title": "truck",
+            "shape": "any",
+            "color": "#8A0F1B",
+            "geometry_config": {},
+            "id": 6461770,
+            "hotkey": ""
+        },
+        {
+            "title": "tv",
+            "shape": "any",
+            "color": "#8A6B0F",
+            "geometry_config": {},
+            "id": 6461825,
+            "hotkey": ""
+        },
+        {
+            "title": "umbrella",
+            "shape": "any",
+            "color": "#340F8A",
+            "geometry_config": {},
+            "id": 6461788,
+            "hotkey": ""
+        },
+        {
+            "title": "vase",
+            "shape": "any",
+            "color": "#3A0F8A",
+            "geometry_config": {},
+            "id": 6461838,
+            "hotkey": ""
+        },
+        {
+            "title": "wine glass",
+            "shape": "any",
+            "color": "#8A280F",
+            "geometry_config": {},
+            "id": 6461803,
+            "hotkey": ""
+        },
+        {
+            "title": "zebra",
+            "shape": "any",
+            "color": "#0F8A3F",
+            "geometry_config": {},
+            "id": 6461785,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "caption",
+            "value_type": "any_string",
+            "color": "#0F8A1A",
+            "id": 20959,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}

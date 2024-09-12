@@ -1,0 +1,568 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4589090,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a dog and a cat sleeping next to each other ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:37:01.602Z",
+            "updatedAt": "2023-09-20T10:37:01.602Z"
+        },
+        {
+            "id": 4589091,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A close up picture of a brown dog or bear is with a cat.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:37:01.602Z",
+            "updatedAt": "2023-09-20T10:37:01.602Z"
+        },
+        {
+            "id": 4589092,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The dog and cat are sleeping next to each other.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:37:01.602Z",
+            "updatedAt": "2023-09-20T10:37:01.602Z"
+        },
+        {
+            "id": 4589093,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "this is a dog and a cat sleeping together",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:37:01.602Z",
+            "updatedAt": "2023-09-20T10:37:01.602Z"
+        },
+        {
+            "id": 4589094,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The cat is taking a nap beside of the black dog.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:37:01.602Z",
+            "updatedAt": "2023-09-20T10:37:01.602Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46343587,
+            "classId": 6461779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:37:01.604Z",
+            "updatedAt": "2023-09-20T10:37:01.604Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        551
+                    ],
+                    [
+                        238,
+                        442
+                    ],
+                    [
+                        262,
+                        392
+                    ],
+                    [
+                        261,
+                        378
+                    ],
+                    [
+                        238,
+                        372
+                    ],
+                    [
+                        229,
+                        363
+                    ],
+                    [
+                        240,
+                        327
+                    ],
+                    [
+                        242,
+                        281
+                    ],
+                    [
+                        248,
+                        255
+                    ],
+                    [
+                        266,
+                        239
+                    ],
+                    [
+                        284,
+                        219
+                    ],
+                    [
+                        300,
+                        168
+                    ],
+                    [
+                        312,
+                        150
+                    ],
+                    [
+                        315,
+                        140
+                    ],
+                    [
+                        296,
+                        114
+                    ],
+                    [
+                        292,
+                        89
+                    ],
+                    [
+                        318,
+                        59
+                    ],
+                    [
+                        336,
+                        48
+                    ],
+                    [
+                        348,
+                        49
+                    ],
+                    [
+                        367,
+                        69
+                    ],
+                    [
+                        370,
+                        93
+                    ],
+                    [
+                        406,
+                        71
+                    ],
+                    [
+                        469,
+                        37
+                    ],
+                    [
+                        511,
+                        23
+                    ],
+                    [
+                        596,
+                        23
+                    ],
+                    [
+                        614,
+                        48
+                    ],
+                    [
+                        618,
+                        592
+                    ],
+                    [
+                        590,
+                        621
+                    ],
+                    [
+                        212,
+                        621
+                    ],
+                    [
+                        206,
+                        608
+                    ],
+                    [
+                        180,
+                        610
+                    ],
+                    [
+                        171,
+                        583
+                    ],
+                    [
+                        173,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46343586,
+            "classId": 6461779,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:37:01.604Z",
+            "updatedAt": "2023-09-20T10:37:01.604Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        23
+                    ],
+                    [
+                        618,
+                        621
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46343585,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:37:01.603Z",
+            "updatedAt": "2023-09-20T10:37:01.603Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        29,
+                        41
+                    ],
+                    [
+                        89,
+                        66
+                    ],
+                    [
+                        111,
+                        37
+                    ],
+                    [
+                        136,
+                        34
+                    ],
+                    [
+                        160,
+                        40
+                    ],
+                    [
+                        178,
+                        28
+                    ],
+                    [
+                        197,
+                        29
+                    ],
+                    [
+                        206,
+                        40
+                    ],
+                    [
+                        235,
+                        36
+                    ],
+                    [
+                        259,
+                        44
+                    ],
+                    [
+                        274,
+                        25
+                    ],
+                    [
+                        362,
+                        22
+                    ],
+                    [
+                        362,
+                        29
+                    ],
+                    [
+                        367,
+                        25
+                    ],
+                    [
+                        409,
+                        22
+                    ],
+                    [
+                        407,
+                        37
+                    ],
+                    [
+                        396,
+                        61
+                    ],
+                    [
+                        399,
+                        70
+                    ],
+                    [
+                        376,
+                        85
+                    ],
+                    [
+                        366,
+                        73
+                    ],
+                    [
+                        359,
+                        52
+                    ],
+                    [
+                        333,
+                        48
+                    ],
+                    [
+                        296,
+                        87
+                    ],
+                    [
+                        293,
+                        114
+                    ],
+                    [
+                        293,
+                        114
+                    ],
+                    [
+                        323,
+                        139
+                    ],
+                    [
+                        296,
+                        176
+                    ],
+                    [
+                        297,
+                        186
+                    ],
+                    [
+                        278,
+                        228
+                    ],
+                    [
+                        252,
+                        246
+                    ],
+                    [
+                        244,
+                        273
+                    ],
+                    [
+                        244,
+                        273
+                    ],
+                    [
+                        238,
+                        328
+                    ],
+                    [
+                        212,
+                        351
+                    ],
+                    [
+                        162,
+                        350
+                    ],
+                    [
+                        156,
+                        315
+                    ],
+                    [
+                        135,
+                        301
+                    ],
+                    [
+                        121,
+                        267
+                    ],
+                    [
+                        96,
+                        231
+                    ],
+                    [
+                        70,
+                        215
+                    ],
+                    [
+                        66,
+                        201
+                    ],
+                    [
+                        69,
+                        183
+                    ],
+                    [
+                        26,
+                        56
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46343584,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:37:01.603Z",
+            "updatedAt": "2023-09-20T10:37:01.603Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        26,
+                        22
+                    ],
+                    [
+                        409,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46343583,
+            "classId": 6461784,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:37:01.603Z",
+            "updatedAt": "2023-09-20T10:37:01.603Z",
+            "tags": [],
+            "classTitle": "bear",
+            "points": {
+                "exterior": [
+                    [
+                        167,
+                        556
+                    ],
+                    [
+                        219,
+                        459
+                    ],
+                    [
+                        267,
+                        376
+                    ],
+                    [
+                        257,
+                        367
+                    ],
+                    [
+                        235,
+                        367
+                    ],
+                    [
+                        235,
+                        309
+                    ],
+                    [
+                        277,
+                        210
+                    ],
+                    [
+                        307,
+                        130
+                    ],
+                    [
+                        293,
+                        79
+                    ],
+                    [
+                        346,
+                        53
+                    ],
+                    [
+                        382,
+                        70
+                    ],
+                    [
+                        405,
+                        73
+                    ],
+                    [
+                        405,
+                        24
+                    ],
+                    [
+                        601,
+                        25
+                    ],
+                    [
+                        620,
+                        71
+                    ],
+                    [
+                        618,
+                        596
+                    ],
+                    [
+                        594,
+                        618
+                    ],
+                    [
+                        588,
+                        622
+                    ],
+                    [
+                        205,
+                        623
+                    ],
+                    [
+                        197,
+                        613
+                    ],
+                    [
+                        184,
+                        612
+                    ],
+                    [
+                        174,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46343582,
+            "classId": 6461784,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:37:01.602Z",
+            "updatedAt": "2023-09-20T10:37:01.602Z",
+            "tags": [],
+            "classTitle": "bear",
+            "points": {
+                "exterior": [
+                    [
+                        167,
+                        24
+                    ],
+                    [
+                        620,
+                        623
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,484 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4907998,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two large birds sitting on top of large rocks.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:51.665Z",
+            "updatedAt": "2023-09-20T10:56:51.665Z"
+        },
+        {
+            "id": 4907999,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two birds perched on rocks next to the ocean with a row of hotels in the background.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:51.665Z",
+            "updatedAt": "2023-09-20T10:56:51.665Z"
+        },
+        {
+            "id": 4908000,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There are two birds standing on rocks by the water",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:51.665Z",
+            "updatedAt": "2023-09-20T10:56:51.665Z"
+        },
+        {
+            "id": 4908001,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "two large birds some plants water and buildings",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:51.665Z",
+            "updatedAt": "2023-09-20T10:56:51.665Z"
+        },
+        {
+            "id": 4908002,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two pelicans sit on rocks along the water.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:51.665Z",
+            "updatedAt": "2023-09-20T10:56:51.665Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47455311,
+            "classId": 6461777,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:51.669Z",
+            "updatedAt": "2023-09-20T10:56:51.669Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        281
+                    ],
+                    [
+                        157,
+                        265
+                    ],
+                    [
+                        184,
+                        249
+                    ],
+                    [
+                        196,
+                        248
+                    ],
+                    [
+                        185,
+                        226
+                    ],
+                    [
+                        185,
+                        214
+                    ],
+                    [
+                        196,
+                        217
+                    ],
+                    [
+                        207,
+                        259
+                    ],
+                    [
+                        198,
+                        249
+                    ],
+                    [
+                        188,
+                        277
+                    ],
+                    [
+                        172,
+                        279
+                    ],
+                    [
+                        181,
+                        288
+                    ],
+                    [
+                        173,
+                        290
+                    ],
+                    [
+                        170,
+                        280
+                    ],
+                    [
+                        146,
+                        288
+                    ],
+                    [
+                        146,
+                        288
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47455310,
+            "classId": 6461777,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:51.668Z",
+            "updatedAt": "2023-09-20T10:56:51.668Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        214
+                    ],
+                    [
+                        207,
+                        290
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47455309,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:51.668Z",
+            "updatedAt": "2023-09-20T10:56:51.668Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        294
+                    ],
+                    [
+                        32,
+                        295
+                    ],
+                    [
+                        51,
+                        295
+                    ],
+                    [
+                        75,
+                        292
+                    ],
+                    [
+                        91,
+                        296
+                    ],
+                    [
+                        133,
+                        302
+                    ],
+                    [
+                        162,
+                        296
+                    ],
+                    [
+                        210,
+                        296
+                    ],
+                    [
+                        230,
+                        301
+                    ],
+                    [
+                        286,
+                        308
+                    ],
+                    [
+                        299,
+                        308
+                    ],
+                    [
+                        338,
+                        341
+                    ],
+                    [
+                        348,
+                        355
+                    ],
+                    [
+                        342,
+                        364
+                    ],
+                    [
+                        259,
+                        369
+                    ],
+                    [
+                        231,
+                        366
+                    ],
+                    [
+                        194,
+                        380
+                    ],
+                    [
+                        181,
+                        401
+                    ],
+                    [
+                        102,
+                        416
+                    ],
+                    [
+                        61,
+                        406
+                    ],
+                    [
+                        38,
+                        395
+                    ],
+                    [
+                        0,
+                        381
+                    ],
+                    [
+                        0,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47455308,
+            "classId": 6461821,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:51.667Z",
+            "updatedAt": "2023-09-20T10:56:51.667Z",
+            "tags": [],
+            "classTitle": "potted plant",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        292
+                    ],
+                    [
+                        348,
+                        416
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47455307,
+            "classId": 6461777,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:51.667Z",
+            "updatedAt": "2023-09-20T10:56:51.667Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        408,
+                        274
+                    ],
+                    [
+                        401,
+                        279
+                    ],
+                    [
+                        395,
+                        282
+                    ],
+                    [
+                        397,
+                        289
+                    ],
+                    [
+                        398,
+                        291
+                    ],
+                    [
+                        397,
+                        291
+                    ],
+                    [
+                        396,
+                        293
+                    ],
+                    [
+                        393,
+                        294
+                    ],
+                    [
+                        392,
+                        294
+                    ],
+                    [
+                        393,
+                        292
+                    ],
+                    [
+                        393,
+                        292
+                    ],
+                    [
+                        389,
+                        285
+                    ],
+                    [
+                        380,
+                        286
+                    ],
+                    [
+                        373,
+                        287
+                    ],
+                    [
+                        370,
+                        290
+                    ],
+                    [
+                        368,
+                        290
+                    ],
+                    [
+                        368,
+                        287
+                    ],
+                    [
+                        373,
+                        278
+                    ],
+                    [
+                        374,
+                        274
+                    ],
+                    [
+                        376,
+                        271
+                    ],
+                    [
+                        382,
+                        263
+                    ],
+                    [
+                        385,
+                        261
+                    ],
+                    [
+                        400,
+                        254
+                    ],
+                    [
+                        403,
+                        252
+                    ],
+                    [
+                        404,
+                        252
+                    ],
+                    [
+                        407,
+                        253
+                    ],
+                    [
+                        408,
+                        254
+                    ],
+                    [
+                        410,
+                        254
+                    ],
+                    [
+                        409,
+                        245
+                    ],
+                    [
+                        409,
+                        235
+                    ],
+                    [
+                        410,
+                        232
+                    ],
+                    [
+                        412,
+                        229
+                    ],
+                    [
+                        415,
+                        229
+                    ],
+                    [
+                        417,
+                        232
+                    ],
+                    [
+                        417,
+                        237
+                    ],
+                    [
+                        415,
+                        242
+                    ],
+                    [
+                        418,
+                        253
+                    ],
+                    [
+                        415,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47455306,
+            "classId": 6461777,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:56:51.666Z",
+            "updatedAt": "2023-09-20T10:56:51.666Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        368,
+                        229
+                    ],
+                    [
+                        418,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

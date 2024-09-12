@@ -1,0 +1,388 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4701033,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The person is holding a pastry in their hand",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:06.788Z",
+            "updatedAt": "2023-09-20T10:44:06.788Z"
+        },
+        {
+            "id": 4701034,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A person holding up the remains of a donut.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:06.788Z",
+            "updatedAt": "2023-09-20T10:44:06.788Z"
+        },
+        {
+            "id": 4701035,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a person holding onto a partially eaten donut hole ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:06.788Z",
+            "updatedAt": "2023-09-20T10:44:06.788Z"
+        },
+        {
+            "id": 4701036,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Person holding up a small doughnut in their hands. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:06.788Z",
+            "updatedAt": "2023-09-20T10:44:06.788Z"
+        },
+        {
+            "id": 4701037,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A hand holding a partially eaten doughnut hole.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:06.788Z",
+            "updatedAt": "2023-09-20T10:44:06.788Z"
+        }
+    ],
+    "size": {
+        "height": 423,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46733849,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:06.789Z",
+            "updatedAt": "2023-09-20T10:44:06.789Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        246
+                    ],
+                    [
+                        20,
+                        243
+                    ],
+                    [
+                        24,
+                        243
+                    ],
+                    [
+                        36,
+                        247
+                    ],
+                    [
+                        45,
+                        250
+                    ],
+                    [
+                        58,
+                        253
+                    ],
+                    [
+                        68,
+                        243
+                    ],
+                    [
+                        93,
+                        226
+                    ],
+                    [
+                        109,
+                        214
+                    ],
+                    [
+                        146,
+                        198
+                    ],
+                    [
+                        172,
+                        193
+                    ],
+                    [
+                        191,
+                        193
+                    ],
+                    [
+                        195,
+                        194
+                    ],
+                    [
+                        202,
+                        199
+                    ],
+                    [
+                        205,
+                        203
+                    ],
+                    [
+                        211,
+                        211
+                    ],
+                    [
+                        213,
+                        215
+                    ],
+                    [
+                        215,
+                        220
+                    ],
+                    [
+                        219,
+                        243
+                    ],
+                    [
+                        205,
+                        269
+                    ],
+                    [
+                        178,
+                        275
+                    ],
+                    [
+                        150,
+                        288
+                    ],
+                    [
+                        162,
+                        298
+                    ],
+                    [
+                        171,
+                        306
+                    ],
+                    [
+                        202,
+                        330
+                    ],
+                    [
+                        217,
+                        334
+                    ],
+                    [
+                        239,
+                        332
+                    ],
+                    [
+                        256,
+                        328
+                    ],
+                    [
+                        279,
+                        317
+                    ],
+                    [
+                        294,
+                        306
+                    ],
+                    [
+                        302,
+                        297
+                    ],
+                    [
+                        309,
+                        288
+                    ],
+                    [
+                        324,
+                        279
+                    ],
+                    [
+                        372,
+                        254
+                    ],
+                    [
+                        395,
+                        220
+                    ],
+                    [
+                        398,
+                        215
+                    ],
+                    [
+                        399,
+                        202
+                    ],
+                    [
+                        423,
+                        237
+                    ],
+                    [
+                        414,
+                        263
+                    ],
+                    [
+                        398,
+                        320
+                    ],
+                    [
+                        373,
+                        342
+                    ],
+                    [
+                        373,
+                        379
+                    ],
+                    [
+                        374,
+                        397
+                    ],
+                    [
+                        381,
+                        412
+                    ],
+                    [
+                        383,
+                        416
+                    ],
+                    [
+                        386,
+                        417
+                    ],
+                    [
+                        2,
+                        414
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46733848,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:06.788Z",
+            "updatedAt": "2023-09-20T10:44:06.788Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        193
+                    ],
+                    [
+                        423,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46733847,
+            "classId": 6461817,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:06.788Z",
+            "updatedAt": "2023-09-20T10:44:06.788Z",
+            "tags": [],
+            "classTitle": "donut",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        189
+                    ],
+                    [
+                        228,
+                        147
+                    ],
+                    [
+                        267,
+                        139
+                    ],
+                    [
+                        311,
+                        136
+                    ],
+                    [
+                        353,
+                        137
+                    ],
+                    [
+                        386,
+                        159
+                    ],
+                    [
+                        395,
+                        191
+                    ],
+                    [
+                        379,
+                        246
+                    ],
+                    [
+                        353,
+                        277
+                    ],
+                    [
+                        305,
+                        284
+                    ],
+                    [
+                        278,
+                        279
+                    ],
+                    [
+                        256,
+                        289
+                    ],
+                    [
+                        229,
+                        279
+                    ],
+                    [
+                        213,
+                        263
+                    ],
+                    [
+                        220,
+                        233
+                    ],
+                    [
+                        220,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46733846,
+            "classId": 6461817,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:06.788Z",
+            "updatedAt": "2023-09-20T10:44:06.788Z",
+            "tags": [],
+            "classTitle": "donut",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        136
+                    ],
+                    [
+                        395,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

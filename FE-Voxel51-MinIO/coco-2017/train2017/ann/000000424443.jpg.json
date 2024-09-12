@@ -1,0 +1,1372 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4630329,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A beer and pizza sitting on a picnic table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.355Z",
+            "updatedAt": "2023-09-20T10:39:38.355Z"
+        },
+        {
+            "id": 4630330,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A pizza and a cup of beer on a table. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.355Z",
+            "updatedAt": "2023-09-20T10:39:38.355Z"
+        },
+        {
+            "id": 4630331,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A personal pizza with several toppings and a beer in a glass.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.355Z",
+            "updatedAt": "2023-09-20T10:39:38.355Z"
+        },
+        {
+            "id": 4630332,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Pizza and beer sitting on a picnic table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.355Z",
+            "updatedAt": "2023-09-20T10:39:38.355Z"
+        },
+        {
+            "id": 4630333,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A table outside a restaurant with a pizza and large glass of beer.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.355Z",
+            "updatedAt": "2023-09-20T10:39:38.355Z"
+        }
+    ],
+    "size": {
+        "height": 612,
+        "width": 612
+    },
+    "objects": [
+        {
+            "id": 46487320,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.361Z",
+            "updatedAt": "2023-09-20T10:39:38.361Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        16,
+                        238
+                    ],
+                    [
+                        543,
+                        234
+                    ],
+                    [
+                        586,
+                        247
+                    ],
+                    [
+                        611,
+                        298
+                    ],
+                    [
+                        611,
+                        605
+                    ],
+                    [
+                        4,
+                        601
+                    ],
+                    [
+                        3,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487319,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.361Z",
+            "updatedAt": "2023-09-20T10:39:38.361Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        234
+                    ],
+                    [
+                        611,
+                        605
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487318,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.361Z",
+            "updatedAt": "2023-09-20T10:39:38.361Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        411,
+                        89
+                    ],
+                    [
+                        327,
+                        89
+                    ],
+                    [
+                        325,
+                        88
+                    ],
+                    [
+                        325,
+                        80
+                    ],
+                    [
+                        319,
+                        75
+                    ],
+                    [
+                        310,
+                        67
+                    ],
+                    [
+                        305,
+                        47
+                    ],
+                    [
+                        303,
+                        17
+                    ],
+                    [
+                        308,
+                        4
+                    ],
+                    [
+                        409,
+                        2
+                    ],
+                    [
+                        417,
+                        22
+                    ],
+                    [
+                        419,
+                        36
+                    ],
+                    [
+                        419,
+                        54
+                    ],
+                    [
+                        417,
+                        57
+                    ],
+                    [
+                        413,
+                        59
+                    ],
+                    [
+                        408,
+                        57
+                    ],
+                    [
+                        404,
+                        63
+                    ],
+                    [
+                        404,
+                        69
+                    ],
+                    [
+                        408,
+                        69
+                    ],
+                    [
+                        410,
+                        84
+                    ],
+                    [
+                        411,
+                        88
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487317,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.360Z",
+            "updatedAt": "2023-09-20T10:39:38.360Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        2
+                    ],
+                    [
+                        419,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487316,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.360Z",
+            "updatedAt": "2023-09-20T10:39:38.360Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        10
+                    ],
+                    [
+                        138,
+                        47
+                    ],
+                    [
+                        168,
+                        30
+                    ],
+                    [
+                        179,
+                        58
+                    ],
+                    [
+                        184,
+                        82
+                    ],
+                    [
+                        203,
+                        77
+                    ],
+                    [
+                        204,
+                        53
+                    ],
+                    [
+                        208,
+                        48
+                    ],
+                    [
+                        211,
+                        39
+                    ],
+                    [
+                        223,
+                        32
+                    ],
+                    [
+                        233,
+                        39
+                    ],
+                    [
+                        239,
+                        50
+                    ],
+                    [
+                        242,
+                        59
+                    ],
+                    [
+                        245,
+                        68
+                    ],
+                    [
+                        245,
+                        50
+                    ],
+                    [
+                        249,
+                        26
+                    ],
+                    [
+                        263,
+                        31
+                    ],
+                    [
+                        273,
+                        55
+                    ],
+                    [
+                        283,
+                        59
+                    ],
+                    [
+                        287,
+                        50
+                    ],
+                    [
+                        282,
+                        29
+                    ],
+                    [
+                        276,
+                        11
+                    ],
+                    [
+                        271,
+                        2
+                    ],
+                    [
+                        131,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487315,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.360Z",
+            "updatedAt": "2023-09-20T10:39:38.360Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        0
+                    ],
+                    [
+                        287,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487314,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.359Z",
+            "updatedAt": "2023-09-20T10:39:38.359Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        312
+                    ],
+                    [
+                        292,
+                        291
+                    ],
+                    [
+                        350,
+                        275
+                    ],
+                    [
+                        413,
+                        284
+                    ],
+                    [
+                        468,
+                        305
+                    ],
+                    [
+                        509,
+                        341
+                    ],
+                    [
+                        521,
+                        384
+                    ],
+                    [
+                        482,
+                        420
+                    ],
+                    [
+                        404,
+                        442
+                    ],
+                    [
+                        324,
+                        453
+                    ],
+                    [
+                        244,
+                        440
+                    ],
+                    [
+                        193,
+                        411
+                    ],
+                    [
+                        166,
+                        370
+                    ],
+                    [
+                        167,
+                        350
+                    ],
+                    [
+                        187,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487313,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.359Z",
+            "updatedAt": "2023-09-20T10:39:38.359Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        275
+                    ],
+                    [
+                        521,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487312,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.359Z",
+            "updatedAt": "2023-09-20T10:39:38.359Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        530,
+                        5
+                    ],
+                    [
+                        525,
+                        16
+                    ],
+                    [
+                        522,
+                        21
+                    ],
+                    [
+                        522,
+                        19
+                    ],
+                    [
+                        519,
+                        18
+                    ],
+                    [
+                        518,
+                        21
+                    ],
+                    [
+                        519,
+                        24
+                    ],
+                    [
+                        522,
+                        27
+                    ],
+                    [
+                        525,
+                        27
+                    ],
+                    [
+                        528,
+                        29
+                    ],
+                    [
+                        528,
+                        31
+                    ],
+                    [
+                        526,
+                        35
+                    ],
+                    [
+                        521,
+                        36
+                    ],
+                    [
+                        515,
+                        39
+                    ],
+                    [
+                        509,
+                        44
+                    ],
+                    [
+                        511,
+                        46
+                    ],
+                    [
+                        518,
+                        48
+                    ],
+                    [
+                        531,
+                        50
+                    ],
+                    [
+                        541,
+                        49
+                    ],
+                    [
+                        548,
+                        46
+                    ],
+                    [
+                        550,
+                        40
+                    ],
+                    [
+                        549,
+                        34
+                    ],
+                    [
+                        552,
+                        32
+                    ],
+                    [
+                        566,
+                        30
+                    ],
+                    [
+                        568,
+                        21
+                    ],
+                    [
+                        569,
+                        17
+                    ],
+                    [
+                        577,
+                        15
+                    ],
+                    [
+                        582,
+                        14
+                    ],
+                    [
+                        583,
+                        4
+                    ],
+                    [
+                        582,
+                        0
+                    ],
+                    [
+                        533,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487311,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.359Z",
+            "updatedAt": "2023-09-20T10:39:38.359Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        512,
+                        53
+                    ],
+                    [
+                        515,
+                        61
+                    ],
+                    [
+                        517,
+                        66
+                    ],
+                    [
+                        517,
+                        70
+                    ],
+                    [
+                        525,
+                        72
+                    ],
+                    [
+                        527,
+                        69
+                    ],
+                    [
+                        528,
+                        68
+                    ],
+                    [
+                        527,
+                        65
+                    ],
+                    [
+                        527,
+                        61
+                    ],
+                    [
+                        528,
+                        60
+                    ],
+                    [
+                        532,
+                        55
+                    ],
+                    [
+                        533,
+                        54
+                    ],
+                    [
+                        536,
+                        53
+                    ],
+                    [
+                        535,
+                        56
+                    ],
+                    [
+                        534,
+                        60
+                    ],
+                    [
+                        532,
+                        62
+                    ],
+                    [
+                        532,
+                        65
+                    ],
+                    [
+                        544,
+                        65
+                    ],
+                    [
+                        546,
+                        61
+                    ],
+                    [
+                        549,
+                        53
+                    ],
+                    [
+                        549,
+                        50
+                    ],
+                    [
+                        548,
+                        49
+                    ],
+                    [
+                        511,
+                        51
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487310,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.359Z",
+            "updatedAt": "2023-09-20T10:39:38.359Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        509,
+                        0
+                    ],
+                    [
+                        583,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487309,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.359Z",
+            "updatedAt": "2023-09-20T10:39:38.359Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        511,
+                        49
+                    ],
+                    [
+                        549,
+                        72
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487308,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.359Z",
+            "updatedAt": "2023-09-20T10:39:38.359Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        158
+                    ],
+                    [
+                        74,
+                        144
+                    ],
+                    [
+                        119,
+                        145
+                    ],
+                    [
+                        149,
+                        148
+                    ],
+                    [
+                        149,
+                        164
+                    ],
+                    [
+                        151,
+                        207
+                    ],
+                    [
+                        153,
+                        305
+                    ],
+                    [
+                        162,
+                        414
+                    ],
+                    [
+                        176,
+                        428
+                    ],
+                    [
+                        161,
+                        455
+                    ],
+                    [
+                        132,
+                        470
+                    ],
+                    [
+                        94,
+                        468
+                    ],
+                    [
+                        88,
+                        448
+                    ],
+                    [
+                        100,
+                        425
+                    ],
+                    [
+                        94,
+                        362
+                    ],
+                    [
+                        59,
+                        245
+                    ],
+                    [
+                        37,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487307,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.358Z",
+            "updatedAt": "2023-09-20T10:39:38.358Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        37,
+                        144
+                    ],
+                    [
+                        176,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487306,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.358Z",
+            "updatedAt": "2023-09-20T10:39:38.358Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        523,
+                        128
+                    ],
+                    [
+                        548,
+                        98
+                    ],
+                    [
+                        521,
+                        66
+                    ],
+                    [
+                        543,
+                        50
+                    ],
+                    [
+                        598,
+                        93
+                    ],
+                    [
+                        580,
+                        100
+                    ],
+                    [
+                        556,
+                        103
+                    ],
+                    [
+                        548,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487305,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.358Z",
+            "updatedAt": "2023-09-20T10:39:38.358Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        521,
+                        50
+                    ],
+                    [
+                        598,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487304,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.358Z",
+            "updatedAt": "2023-09-20T10:39:38.358Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        525,
+                        29
+                    ],
+                    [
+                        473,
+                        31
+                    ],
+                    [
+                        466,
+                        25
+                    ],
+                    [
+                        466,
+                        24
+                    ],
+                    [
+                        518,
+                        22
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487303,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.358Z",
+            "updatedAt": "2023-09-20T10:39:38.358Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        466,
+                        22
+                    ],
+                    [
+                        525,
+                        31
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487302,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.358Z",
+            "updatedAt": "2023-09-20T10:39:38.358Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        466,
+                        17
+                    ],
+                    [
+                        485,
+                        16
+                    ],
+                    [
+                        501,
+                        16
+                    ],
+                    [
+                        503,
+                        16
+                    ],
+                    [
+                        506,
+                        17
+                    ],
+                    [
+                        510,
+                        15
+                    ],
+                    [
+                        517,
+                        15
+                    ],
+                    [
+                        518,
+                        20
+                    ],
+                    [
+                        517,
+                        22
+                    ],
+                    [
+                        495,
+                        22
+                    ],
+                    [
+                        474,
+                        23
+                    ],
+                    [
+                        461,
+                        24
+                    ],
+                    [
+                        456,
+                        24
+                    ],
+                    [
+                        452,
+                        24
+                    ],
+                    [
+                        447,
+                        23
+                    ],
+                    [
+                        444,
+                        21
+                    ],
+                    [
+                        445,
+                        17
+                    ],
+                    [
+                        460,
+                        17
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487301,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.357Z",
+            "updatedAt": "2023-09-20T10:39:38.357Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        444,
+                        15
+                    ],
+                    [
+                        518,
+                        24
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487300,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.357Z",
+            "updatedAt": "2023-09-20T10:39:38.357Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        552,
+                        33
+                    ],
+                    [
+                        551,
+                        32
+                    ],
+                    [
+                        569,
+                        31
+                    ],
+                    [
+                        570,
+                        32
+                    ],
+                    [
+                        590,
+                        34
+                    ],
+                    [
+                        605,
+                        36
+                    ],
+                    [
+                        611,
+                        37
+                    ],
+                    [
+                        611,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487299,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.357Z",
+            "updatedAt": "2023-09-20T10:39:38.357Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        551,
+                        31
+                    ],
+                    [
+                        611,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487298,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.356Z",
+            "updatedAt": "2023-09-20T10:39:38.356Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        62,
+                        148
+                    ],
+                    [
+                        62,
+                        146
+                    ],
+                    [
+                        56,
+                        140
+                    ],
+                    [
+                        14,
+                        135
+                    ],
+                    [
+                        16,
+                        122
+                    ],
+                    [
+                        96,
+                        86
+                    ],
+                    [
+                        206,
+                        88
+                    ],
+                    [
+                        207,
+                        103
+                    ],
+                    [
+                        214,
+                        106
+                    ],
+                    [
+                        235,
+                        106
+                    ],
+                    [
+                        242,
+                        103
+                    ],
+                    [
+                        246,
+                        100
+                    ],
+                    [
+                        242,
+                        89
+                    ],
+                    [
+                        256,
+                        88
+                    ],
+                    [
+                        260,
+                        105
+                    ],
+                    [
+                        270,
+                        105
+                    ],
+                    [
+                        281,
+                        103
+                    ],
+                    [
+                        283,
+                        99
+                    ],
+                    [
+                        285,
+                        89
+                    ],
+                    [
+                        435,
+                        89
+                    ],
+                    [
+                        460,
+                        131
+                    ],
+                    [
+                        458,
+                        140
+                    ],
+                    [
+                        416,
+                        142
+                    ],
+                    [
+                        414,
+                        234
+                    ],
+                    [
+                        383,
+                        234
+                    ],
+                    [
+                        377,
+                        224
+                    ],
+                    [
+                        289,
+                        140
+                    ],
+                    [
+                        206,
+                        140
+                    ],
+                    [
+                        162,
+                        189
+                    ],
+                    [
+                        176,
+                        236
+                    ],
+                    [
+                        156,
+                        236
+                    ],
+                    [
+                        147,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46487297,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:39:38.356Z",
+            "updatedAt": "2023-09-20T10:39:38.356Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        14,
+                        86
+                    ],
+                    [
+                        460,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

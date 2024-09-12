@@ -1,0 +1,320 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4768089,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An easel stands facing window light in an artist's studio.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:18.289Z",
+            "updatedAt": "2023-09-20T10:48:18.289Z"
+        },
+        {
+            "id": 4768090,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A dark room with a large window and no curtain, an easel and assorted furniture.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:18.289Z",
+            "updatedAt": "2023-09-20T10:48:18.289Z"
+        },
+        {
+            "id": 4768091,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a living room with a couch an easel and a tv ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:18.289Z",
+            "updatedAt": "2023-09-20T10:48:18.289Z"
+        },
+        {
+            "id": 4768092,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A dog on the couch of an artists' living room ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:18.289Z",
+            "updatedAt": "2023-09-20T10:48:18.289Z"
+        },
+        {
+            "id": 4768093,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A couch and television in a small room.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:18.289Z",
+            "updatedAt": "2023-09-20T10:48:18.289Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46969099,
+            "classId": 6461779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:18.292Z",
+            "updatedAt": "2023-09-20T10:48:18.292Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        253
+                    ],
+                    [
+                        110,
+                        234
+                    ],
+                    [
+                        119,
+                        238
+                    ],
+                    [
+                        129,
+                        239
+                    ],
+                    [
+                        142,
+                        237
+                    ],
+                    [
+                        162,
+                        243
+                    ],
+                    [
+                        173,
+                        247
+                    ],
+                    [
+                        174,
+                        258
+                    ],
+                    [
+                        166,
+                        266
+                    ],
+                    [
+                        157,
+                        265
+                    ],
+                    [
+                        150,
+                        266
+                    ],
+                    [
+                        140,
+                        271
+                    ],
+                    [
+                        126,
+                        271
+                    ],
+                    [
+                        116,
+                        269
+                    ],
+                    [
+                        116,
+                        266
+                    ],
+                    [
+                        110,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46969098,
+            "classId": 6461779,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:18.291Z",
+            "updatedAt": "2023-09-20T10:48:18.291Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        234
+                    ],
+                    [
+                        174,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46969097,
+            "classId": 6461825,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:18.291Z",
+            "updatedAt": "2023-09-20T10:48:18.291Z",
+            "tags": [],
+            "classTitle": "tv",
+            "points": {
+                "exterior": [
+                    [
+                        498,
+                        107
+                    ],
+                    [
+                        566,
+                        91
+                    ],
+                    [
+                        562,
+                        200
+                    ],
+                    [
+                        496,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46969096,
+            "classId": 6461825,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:18.291Z",
+            "updatedAt": "2023-09-20T10:48:18.291Z",
+            "tags": [],
+            "classTitle": "tv",
+            "points": {
+                "exterior": [
+                    [
+                        496,
+                        91
+                    ],
+                    [
+                        566,
+                        200
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46969095,
+            "classId": 6461820,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:18.291Z",
+            "updatedAt": "2023-09-20T10:48:18.291Z",
+            "tags": [],
+            "classTitle": "couch",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        309
+                    ],
+                    [
+                        3,
+                        413
+                    ],
+                    [
+                        69,
+                        420
+                    ],
+                    [
+                        206,
+                        299
+                    ],
+                    [
+                        208,
+                        306
+                    ],
+                    [
+                        214,
+                        302
+                    ],
+                    [
+                        214,
+                        290
+                    ],
+                    [
+                        235,
+                        262
+                    ],
+                    [
+                        235,
+                        255
+                    ],
+                    [
+                        220,
+                        236
+                    ],
+                    [
+                        214,
+                        225
+                    ],
+                    [
+                        125,
+                        223
+                    ],
+                    [
+                        106,
+                        189
+                    ],
+                    [
+                        0,
+                        202
+                    ],
+                    [
+                        2,
+                        304
+                    ],
+                    [
+                        2,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46969094,
+            "classId": 6461820,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:18.290Z",
+            "updatedAt": "2023-09-20T10:48:18.290Z",
+            "tags": [],
+            "classTitle": "couch",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        189
+                    ],
+                    [
+                        235,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

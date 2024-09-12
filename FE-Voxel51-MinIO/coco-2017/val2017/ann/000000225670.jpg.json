@@ -1,0 +1,3321 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4449669,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a black dog in the air catching a frisbee",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.338Z",
+            "updatedAt": "2023-09-20T10:24:20.338Z"
+        },
+        {
+            "id": 4449670,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a dog is jumping in the air toward a disk",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.338Z",
+            "updatedAt": "2023-09-20T10:24:20.338Z"
+        },
+        {
+            "id": 4449671,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A brown dog leaping to catch a flying disc.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.338Z",
+            "updatedAt": "2023-09-20T10:24:20.338Z"
+        },
+        {
+            "id": 4449672,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A dog leaping into the air to catch a frisbee.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.338Z",
+            "updatedAt": "2023-09-20T10:24:20.338Z"
+        },
+        {
+            "id": 4449673,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A large black dog leaping to get a frisbee. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.338Z",
+            "updatedAt": "2023-09-20T10:24:20.338Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 45860738,
+            "classId": 6461779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.354Z",
+            "updatedAt": "2023-09-20T10:24:20.354Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        171
+                    ],
+                    [
+                        399,
+                        177
+                    ],
+                    [
+                        401,
+                        160
+                    ],
+                    [
+                        391,
+                        152
+                    ],
+                    [
+                        375,
+                        141
+                    ],
+                    [
+                        359,
+                        145
+                    ],
+                    [
+                        360,
+                        152
+                    ],
+                    [
+                        280,
+                        180
+                    ],
+                    [
+                        267,
+                        168
+                    ],
+                    [
+                        259,
+                        152
+                    ],
+                    [
+                        248,
+                        161
+                    ],
+                    [
+                        256,
+                        179
+                    ],
+                    [
+                        277,
+                        197
+                    ],
+                    [
+                        275,
+                        213
+                    ],
+                    [
+                        272,
+                        226
+                    ],
+                    [
+                        288,
+                        237
+                    ],
+                    [
+                        311,
+                        236
+                    ],
+                    [
+                        293,
+                        223
+                    ],
+                    [
+                        311,
+                        218
+                    ],
+                    [
+                        316,
+                        198
+                    ],
+                    [
+                        346,
+                        205
+                    ],
+                    [
+                        357,
+                        196
+                    ],
+                    [
+                        368,
+                        207
+                    ],
+                    [
+                        372,
+                        194
+                    ],
+                    [
+                        391,
+                        199
+                    ],
+                    [
+                        395,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860737,
+            "classId": 6461779,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.353Z",
+            "updatedAt": "2023-09-20T10:24:20.353Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        141
+                    ],
+                    [
+                        401,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860736,
+            "classId": 6461792,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.353Z",
+            "updatedAt": "2023-09-20T10:24:20.353Z",
+            "tags": [],
+            "classTitle": "frisbee",
+            "points": {
+                "exterior": [
+                    [
+                        438,
+                        171
+                    ],
+                    [
+                        448,
+                        162
+                    ],
+                    [
+                        455,
+                        159
+                    ],
+                    [
+                        463,
+                        159
+                    ],
+                    [
+                        469,
+                        162
+                    ],
+                    [
+                        468,
+                        168
+                    ],
+                    [
+                        464,
+                        172
+                    ],
+                    [
+                        456,
+                        176
+                    ],
+                    [
+                        448,
+                        178
+                    ],
+                    [
+                        440,
+                        177
+                    ],
+                    [
+                        438,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860735,
+            "classId": 6461792,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.352Z",
+            "updatedAt": "2023-09-20T10:24:20.352Z",
+            "tags": [],
+            "classTitle": "frisbee",
+            "points": {
+                "exterior": [
+                    [
+                        438,
+                        159
+                    ],
+                    [
+                        469,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860734,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.352Z",
+            "updatedAt": "2023-09-20T10:24:20.352Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        306
+                    ],
+                    [
+                        292,
+                        309
+                    ],
+                    [
+                        343,
+                        309
+                    ],
+                    [
+                        343,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860733,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.350Z",
+            "updatedAt": "2023-09-20T10:24:20.350Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        306
+                    ],
+                    [
+                        343,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860732,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.349Z",
+            "updatedAt": "2023-09-20T10:24:20.349Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        299
+                    ],
+                    [
+                        90,
+                        297
+                    ],
+                    [
+                        90,
+                        300
+                    ],
+                    [
+                        50,
+                        301
+                    ],
+                    [
+                        50,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860731,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.349Z",
+            "updatedAt": "2023-09-20T10:24:20.349Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        297
+                    ],
+                    [
+                        90,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860730,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.349Z",
+            "updatedAt": "2023-09-20T10:24:20.349Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        450,
+                        305
+                    ],
+                    [
+                        452,
+                        302
+                    ],
+                    [
+                        454,
+                        301
+                    ],
+                    [
+                        501,
+                        299
+                    ],
+                    [
+                        499,
+                        304
+                    ],
+                    [
+                        499,
+                        305
+                    ],
+                    [
+                        449,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860729,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.348Z",
+            "updatedAt": "2023-09-20T10:24:20.348Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        449,
+                        299
+                    ],
+                    [
+                        501,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860728,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.347Z",
+            "updatedAt": "2023-09-20T10:24:20.347Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        513,
+                        282
+                    ],
+                    [
+                        466,
+                        283
+                    ],
+                    [
+                        470,
+                        278
+                    ],
+                    [
+                        514,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860727,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.347Z",
+            "updatedAt": "2023-09-20T10:24:20.347Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        466,
+                        277
+                    ],
+                    [
+                        514,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860726,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.347Z",
+            "updatedAt": "2023-09-20T10:24:20.347Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        479,
+                        269
+                    ],
+                    [
+                        521,
+                        268
+                    ],
+                    [
+                        519,
+                        272
+                    ],
+                    [
+                        475,
+                        272
+                    ],
+                    [
+                        478,
+                        269
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860725,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.346Z",
+            "updatedAt": "2023-09-20T10:24:20.346Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        475,
+                        268
+                    ],
+                    [
+                        521,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860724,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.346Z",
+            "updatedAt": "2023-09-20T10:24:20.346Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        417,
+                        287
+                    ],
+                    [
+                        363,
+                        288
+                    ],
+                    [
+                        359,
+                        289
+                    ],
+                    [
+                        359,
+                        293
+                    ],
+                    [
+                        417,
+                        292
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860723,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.346Z",
+            "updatedAt": "2023-09-20T10:24:20.346Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        287
+                    ],
+                    [
+                        417,
+                        293
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860722,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.345Z",
+            "updatedAt": "2023-09-20T10:24:20.345Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        277
+                    ],
+                    [
+                        242,
+                        278
+                    ],
+                    [
+                        239,
+                        281
+                    ],
+                    [
+                        283,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860721,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.345Z",
+            "updatedAt": "2023-09-20T10:24:20.345Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        277
+                    ],
+                    [
+                        283,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860720,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.345Z",
+            "updatedAt": "2023-09-20T10:24:20.345Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        117,
+                        281
+                    ],
+                    [
+                        161,
+                        282
+                    ],
+                    [
+                        161,
+                        285
+                    ],
+                    [
+                        116,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860719,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.344Z",
+            "updatedAt": "2023-09-20T10:24:20.344Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        281
+                    ],
+                    [
+                        161,
+                        285
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860718,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.344Z",
+            "updatedAt": "2023-09-20T10:24:20.344Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        317
+                    ],
+                    [
+                        247,
+                        316
+                    ],
+                    [
+                        247,
+                        330
+                    ],
+                    [
+                        213,
+                        331
+                    ],
+                    [
+                        211,
+                        318
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860717,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.343Z",
+            "updatedAt": "2023-09-20T10:24:20.343Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        316
+                    ],
+                    [
+                        247,
+                        331
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860716,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.342Z",
+            "updatedAt": "2023-09-20T10:24:20.342Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        309
+                    ],
+                    [
+                        293,
+                        308
+                    ],
+                    [
+                        293,
+                        311
+                    ],
+                    [
+                        244,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860715,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.342Z",
+            "updatedAt": "2023-09-20T10:24:20.342Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        308
+                    ],
+                    [
+                        293,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860714,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.342Z",
+            "updatedAt": "2023-09-20T10:24:20.342Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        304
+                    ],
+                    [
+                        298,
+                        302
+                    ],
+                    [
+                        298,
+                        305
+                    ],
+                    [
+                        251,
+                        305
+                    ],
+                    [
+                        252,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860713,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.341Z",
+            "updatedAt": "2023-09-20T10:24:20.341Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        302
+                    ],
+                    [
+                        298,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860712,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.341Z",
+            "updatedAt": "2023-09-20T10:24:20.341Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        299,
+                        304
+                    ],
+                    [
+                        302,
+                        301
+                    ],
+                    [
+                        348,
+                        300
+                    ],
+                    [
+                        348,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860711,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.341Z",
+            "updatedAt": "2023-09-20T10:24:20.341Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        299,
+                        300
+                    ],
+                    [
+                        348,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860710,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.341Z",
+            "updatedAt": "2023-09-20T10:24:20.341Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        300
+                    ],
+                    [
+                        307,
+                        295
+                    ],
+                    [
+                        354,
+                        294
+                    ],
+                    [
+                        353,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860709,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.341Z",
+            "updatedAt": "2023-09-20T10:24:20.341Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        294
+                    ],
+                    [
+                        354,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860708,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.340Z",
+            "updatedAt": "2023-09-20T10:24:20.340Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        621,
+                        223
+                    ],
+                    [
+                        620,
+                        224
+                    ],
+                    [
+                        611,
+                        224
+                    ],
+                    [
+                        610,
+                        225
+                    ],
+                    [
+                        607,
+                        225
+                    ],
+                    [
+                        606,
+                        226
+                    ],
+                    [
+                        604,
+                        226
+                    ],
+                    [
+                        603,
+                        227
+                    ],
+                    [
+                        602,
+                        227
+                    ],
+                    [
+                        601,
+                        228
+                    ],
+                    [
+                        600,
+                        228
+                    ],
+                    [
+                        599,
+                        229
+                    ],
+                    [
+                        598,
+                        229
+                    ],
+                    [
+                        597,
+                        230
+                    ],
+                    [
+                        596,
+                        230
+                    ],
+                    [
+                        594,
+                        232
+                    ],
+                    [
+                        593,
+                        231
+                    ],
+                    [
+                        592,
+                        231
+                    ],
+                    [
+                        591,
+                        230
+                    ],
+                    [
+                        590,
+                        230
+                    ],
+                    [
+                        589,
+                        229
+                    ],
+                    [
+                        587,
+                        229
+                    ],
+                    [
+                        586,
+                        228
+                    ],
+                    [
+                        584,
+                        228
+                    ],
+                    [
+                        583,
+                        227
+                    ],
+                    [
+                        580,
+                        227
+                    ],
+                    [
+                        579,
+                        226
+                    ],
+                    [
+                        571,
+                        226
+                    ],
+                    [
+                        570,
+                        225
+                    ],
+                    [
+                        568,
+                        225
+                    ],
+                    [
+                        567,
+                        226
+                    ],
+                    [
+                        558,
+                        226
+                    ],
+                    [
+                        557,
+                        227
+                    ],
+                    [
+                        554,
+                        227
+                    ],
+                    [
+                        553,
+                        228
+                    ],
+                    [
+                        551,
+                        228
+                    ],
+                    [
+                        550,
+                        229
+                    ],
+                    [
+                        549,
+                        229
+                    ],
+                    [
+                        548,
+                        230
+                    ],
+                    [
+                        547,
+                        230
+                    ],
+                    [
+                        546,
+                        231
+                    ],
+                    [
+                        545,
+                        231
+                    ],
+                    [
+                        544,
+                        232
+                    ],
+                    [
+                        543,
+                        232
+                    ],
+                    [
+                        542,
+                        233
+                    ],
+                    [
+                        526,
+                        233
+                    ],
+                    [
+                        525,
+                        232
+                    ],
+                    [
+                        515,
+                        232
+                    ],
+                    [
+                        514,
+                        231
+                    ],
+                    [
+                        478,
+                        231
+                    ],
+                    [
+                        477,
+                        232
+                    ],
+                    [
+                        474,
+                        232
+                    ],
+                    [
+                        473,
+                        233
+                    ],
+                    [
+                        461,
+                        233
+                    ],
+                    [
+                        460,
+                        234
+                    ],
+                    [
+                        457,
+                        234
+                    ],
+                    [
+                        456,
+                        235
+                    ],
+                    [
+                        446,
+                        235
+                    ],
+                    [
+                        445,
+                        236
+                    ],
+                    [
+                        370,
+                        236
+                    ],
+                    [
+                        369,
+                        237
+                    ],
+                    [
+                        367,
+                        237
+                    ],
+                    [
+                        366,
+                        236
+                    ],
+                    [
+                        358,
+                        236
+                    ],
+                    [
+                        357,
+                        235
+                    ],
+                    [
+                        322,
+                        235
+                    ],
+                    [
+                        321,
+                        236
+                    ],
+                    [
+                        318,
+                        236
+                    ],
+                    [
+                        317,
+                        237
+                    ],
+                    [
+                        316,
+                        237
+                    ],
+                    [
+                        315,
+                        236
+                    ],
+                    [
+                        272,
+                        236
+                    ],
+                    [
+                        271,
+                        237
+                    ],
+                    [
+                        265,
+                        237
+                    ],
+                    [
+                        264,
+                        236
+                    ],
+                    [
+                        231,
+                        236
+                    ],
+                    [
+                        230,
+                        237
+                    ],
+                    [
+                        179,
+                        237
+                    ],
+                    [
+                        178,
+                        238
+                    ],
+                    [
+                        130,
+                        238
+                    ],
+                    [
+                        129,
+                        239
+                    ],
+                    [
+                        123,
+                        239
+                    ],
+                    [
+                        122,
+                        240
+                    ],
+                    [
+                        119,
+                        240
+                    ],
+                    [
+                        118,
+                        241
+                    ],
+                    [
+                        111,
+                        241
+                    ],
+                    [
+                        110,
+                        242
+                    ],
+                    [
+                        107,
+                        242
+                    ],
+                    [
+                        106,
+                        243
+                    ],
+                    [
+                        104,
+                        243
+                    ],
+                    [
+                        103,
+                        244
+                    ],
+                    [
+                        100,
+                        244
+                    ],
+                    [
+                        99,
+                        245
+                    ],
+                    [
+                        95,
+                        245
+                    ],
+                    [
+                        94,
+                        246
+                    ],
+                    [
+                        86,
+                        246
+                    ],
+                    [
+                        85,
+                        247
+                    ],
+                    [
+                        82,
+                        247
+                    ],
+                    [
+                        81,
+                        248
+                    ],
+                    [
+                        79,
+                        248
+                    ],
+                    [
+                        78,
+                        249
+                    ],
+                    [
+                        76,
+                        249
+                    ],
+                    [
+                        75,
+                        250
+                    ],
+                    [
+                        73,
+                        250
+                    ],
+                    [
+                        72,
+                        251
+                    ],
+                    [
+                        71,
+                        251
+                    ],
+                    [
+                        70,
+                        252
+                    ],
+                    [
+                        69,
+                        252
+                    ],
+                    [
+                        68,
+                        253
+                    ],
+                    [
+                        67,
+                        253
+                    ],
+                    [
+                        66,
+                        254
+                    ],
+                    [
+                        65,
+                        254
+                    ],
+                    [
+                        64,
+                        255
+                    ],
+                    [
+                        63,
+                        255
+                    ],
+                    [
+                        61,
+                        257
+                    ],
+                    [
+                        60,
+                        257
+                    ],
+                    [
+                        55,
+                        262
+                    ],
+                    [
+                        54,
+                        262
+                    ],
+                    [
+                        52,
+                        264
+                    ],
+                    [
+                        52,
+                        265
+                    ],
+                    [
+                        47,
+                        270
+                    ],
+                    [
+                        47,
+                        271
+                    ],
+                    [
+                        43,
+                        275
+                    ],
+                    [
+                        43,
+                        276
+                    ],
+                    [
+                        41,
+                        278
+                    ],
+                    [
+                        41,
+                        279
+                    ],
+                    [
+                        39,
+                        281
+                    ],
+                    [
+                        38,
+                        281
+                    ],
+                    [
+                        37,
+                        282
+                    ],
+                    [
+                        37,
+                        283
+                    ],
+                    [
+                        36,
+                        284
+                    ],
+                    [
+                        36,
+                        285
+                    ],
+                    [
+                        35,
+                        286
+                    ],
+                    [
+                        35,
+                        295
+                    ],
+                    [
+                        34,
+                        296
+                    ],
+                    [
+                        34,
+                        313
+                    ],
+                    [
+                        35,
+                        314
+                    ],
+                    [
+                        35,
+                        317
+                    ],
+                    [
+                        36,
+                        318
+                    ],
+                    [
+                        36,
+                        321
+                    ],
+                    [
+                        37,
+                        322
+                    ],
+                    [
+                        37,
+                        323
+                    ],
+                    [
+                        38,
+                        324
+                    ],
+                    [
+                        38,
+                        326
+                    ],
+                    [
+                        39,
+                        327
+                    ],
+                    [
+                        39,
+                        328
+                    ],
+                    [
+                        41,
+                        330
+                    ],
+                    [
+                        41,
+                        331
+                    ],
+                    [
+                        43,
+                        333
+                    ],
+                    [
+                        43,
+                        334
+                    ],
+                    [
+                        47,
+                        338
+                    ],
+                    [
+                        47,
+                        339
+                    ],
+                    [
+                        49,
+                        341
+                    ],
+                    [
+                        50,
+                        341
+                    ],
+                    [
+                        55,
+                        346
+                    ],
+                    [
+                        56,
+                        346
+                    ],
+                    [
+                        58,
+                        348
+                    ],
+                    [
+                        59,
+                        348
+                    ],
+                    [
+                        60,
+                        349
+                    ],
+                    [
+                        61,
+                        349
+                    ],
+                    [
+                        62,
+                        350
+                    ],
+                    [
+                        63,
+                        350
+                    ],
+                    [
+                        64,
+                        351
+                    ],
+                    [
+                        66,
+                        351
+                    ],
+                    [
+                        67,
+                        352
+                    ],
+                    [
+                        69,
+                        352
+                    ],
+                    [
+                        70,
+                        353
+                    ],
+                    [
+                        73,
+                        353
+                    ],
+                    [
+                        74,
+                        354
+                    ],
+                    [
+                        100,
+                        354
+                    ],
+                    [
+                        101,
+                        353
+                    ],
+                    [
+                        104,
+                        353
+                    ],
+                    [
+                        105,
+                        352
+                    ],
+                    [
+                        108,
+                        352
+                    ],
+                    [
+                        109,
+                        351
+                    ],
+                    [
+                        111,
+                        351
+                    ],
+                    [
+                        112,
+                        350
+                    ],
+                    [
+                        115,
+                        350
+                    ],
+                    [
+                        116,
+                        349
+                    ],
+                    [
+                        118,
+                        349
+                    ],
+                    [
+                        119,
+                        348
+                    ],
+                    [
+                        120,
+                        348
+                    ],
+                    [
+                        121,
+                        347
+                    ],
+                    [
+                        123,
+                        347
+                    ],
+                    [
+                        125,
+                        345
+                    ],
+                    [
+                        126,
+                        345
+                    ],
+                    [
+                        127,
+                        344
+                    ],
+                    [
+                        128,
+                        344
+                    ],
+                    [
+                        130,
+                        342
+                    ],
+                    [
+                        131,
+                        342
+                    ],
+                    [
+                        134,
+                        339
+                    ],
+                    [
+                        135,
+                        339
+                    ],
+                    [
+                        136,
+                        338
+                    ],
+                    [
+                        143,
+                        338
+                    ],
+                    [
+                        144,
+                        337
+                    ],
+                    [
+                        192,
+                        337
+                    ],
+                    [
+                        193,
+                        336
+                    ],
+                    [
+                        230,
+                        336
+                    ],
+                    [
+                        231,
+                        335
+                    ],
+                    [
+                        264,
+                        335
+                    ],
+                    [
+                        265,
+                        334
+                    ],
+                    [
+                        271,
+                        334
+                    ],
+                    [
+                        272,
+                        335
+                    ],
+                    [
+                        315,
+                        335
+                    ],
+                    [
+                        316,
+                        334
+                    ],
+                    [
+                        319,
+                        334
+                    ],
+                    [
+                        320,
+                        333
+                    ],
+                    [
+                        321,
+                        333
+                    ],
+                    [
+                        322,
+                        334
+                    ],
+                    [
+                        345,
+                        334
+                    ],
+                    [
+                        346,
+                        335
+                    ],
+                    [
+                        366,
+                        335
+                    ],
+                    [
+                        367,
+                        334
+                    ],
+                    [
+                        369,
+                        334
+                    ],
+                    [
+                        370,
+                        335
+                    ],
+                    [
+                        452,
+                        335
+                    ],
+                    [
+                        453,
+                        334
+                    ],
+                    [
+                        475,
+                        334
+                    ],
+                    [
+                        476,
+                        333
+                    ],
+                    [
+                        479,
+                        333
+                    ],
+                    [
+                        480,
+                        332
+                    ],
+                    [
+                        488,
+                        332
+                    ],
+                    [
+                        489,
+                        331
+                    ],
+                    [
+                        492,
+                        331
+                    ],
+                    [
+                        493,
+                        330
+                    ],
+                    [
+                        504,
+                        330
+                    ],
+                    [
+                        505,
+                        331
+                    ],
+                    [
+                        525,
+                        331
+                    ],
+                    [
+                        526,
+                        332
+                    ],
+                    [
+                        549,
+                        332
+                    ],
+                    [
+                        550,
+                        333
+                    ],
+                    [
+                        553,
+                        333
+                    ],
+                    [
+                        554,
+                        334
+                    ],
+                    [
+                        559,
+                        334
+                    ],
+                    [
+                        560,
+                        335
+                    ],
+                    [
+                        571,
+                        335
+                    ],
+                    [
+                        572,
+                        336
+                    ],
+                    [
+                        609,
+                        336
+                    ],
+                    [
+                        610,
+                        337
+                    ],
+                    [
+                        631,
+                        337
+                    ],
+                    [
+                        632,
+                        336
+                    ],
+                    [
+                        635,
+                        336
+                    ],
+                    [
+                        636,
+                        335
+                    ],
+                    [
+                        638,
+                        335
+                    ],
+                    [
+                        639,
+                        334
+                    ],
+                    [
+                        639,
+                        226
+                    ],
+                    [
+                        637,
+                        226
+                    ],
+                    [
+                        636,
+                        225
+                    ],
+                    [
+                        633,
+                        225
+                    ],
+                    [
+                        632,
+                        224
+                    ],
+                    [
+                        623,
+                        224
+                    ],
+                    [
+                        622,
+                        223
+                    ]
+                ],
+                "interior": [
+                    [
+                        [
+                            220,
+                            317
+                        ],
+                        [
+                            221,
+                            316
+                        ],
+                        [
+                            246,
+                            316
+                        ],
+                        [
+                            247,
+                            317
+                        ],
+                        [
+                            247,
+                            321
+                        ],
+                        [
+                            248,
+                            322
+                        ],
+                        [
+                            248,
+                            330
+                        ],
+                        [
+                            247,
+                            331
+                        ],
+                        [
+                            223,
+                            331
+                        ],
+                        [
+                            222,
+                            332
+                        ],
+                        [
+                            213,
+                            332
+                        ],
+                        [
+                            212,
+                            331
+                        ],
+                        [
+                            212,
+                            325
+                        ],
+                        [
+                            211,
+                            324
+                        ],
+                        [
+                            211,
+                            318
+                        ],
+                        [
+                            212,
+                            317
+                        ]
+                    ],
+                    [
+                        [
+                            295,
+                            305
+                        ],
+                        [
+                            342,
+                            305
+                        ],
+                        [
+                            343,
+                            306
+                        ],
+                        [
+                            343,
+                            309
+                        ],
+                        [
+                            342,
+                            310
+                        ],
+                        [
+                            293,
+                            310
+                        ],
+                        [
+                            292,
+                            311
+                        ],
+                        [
+                            279,
+                            311
+                        ],
+                        [
+                            278,
+                            312
+                        ],
+                        [
+                            245,
+                            312
+                        ],
+                        [
+                            244,
+                            311
+                        ],
+                        [
+                            244,
+                            309
+                        ],
+                        [
+                            245,
+                            308
+                        ],
+                        [
+                            293,
+                            308
+                        ],
+                        [
+                            293,
+                            307
+                        ]
+                    ],
+                    [
+                        [
+                            273,
+                            303
+                        ],
+                        [
+                            274,
+                            302
+                        ],
+                        [
+                            298,
+                            302
+                        ],
+                        [
+                            299,
+                            303
+                        ],
+                        [
+                            299,
+                            304
+                        ],
+                        [
+                            298,
+                            305
+                        ],
+                        [
+                            283,
+                            305
+                        ],
+                        [
+                            282,
+                            306
+                        ],
+                        [
+                            252,
+                            306
+                        ],
+                        [
+                            251,
+                            305
+                        ],
+                        [
+                            251,
+                            304
+                        ],
+                        [
+                            252,
+                            303
+                        ]
+                    ],
+                    [
+                        [
+                            314,
+                            301
+                        ],
+                        [
+                            315,
+                            300
+                        ],
+                        [
+                            347,
+                            300
+                        ],
+                        [
+                            348,
+                            301
+                        ],
+                        [
+                            348,
+                            302
+                        ],
+                        [
+                            347,
+                            303
+                        ],
+                        [
+                            326,
+                            303
+                        ],
+                        [
+                            325,
+                            304
+                        ],
+                        [
+                            300,
+                            304
+                        ],
+                        [
+                            299,
+                            303
+                        ],
+                        [
+                            301,
+                            301
+                        ]
+                    ],
+                    [
+                        [
+                            481,
+                            300
+                        ],
+                        [
+                            482,
+                            299
+                        ],
+                        [
+                            500,
+                            299
+                        ],
+                        [
+                            501,
+                            300
+                        ],
+                        [
+                            501,
+                            301
+                        ],
+                        [
+                            500,
+                            302
+                        ],
+                        [
+                            500,
+                            304
+                        ],
+                        [
+                            499,
+                            305
+                        ],
+                        [
+                            493,
+                            305
+                        ],
+                        [
+                            492,
+                            306
+                        ],
+                        [
+                            451,
+                            306
+                        ],
+                        [
+                            450,
+                            307
+                        ],
+                        [
+                            449,
+                            306
+                        ],
+                        [
+                            449,
+                            305
+                        ],
+                        [
+                            453,
+                            301
+                        ],
+                        [
+                            454,
+                            301
+                        ],
+                        [
+                            455,
+                            300
+                        ]
+                    ],
+                    [
+                        [
+                            66,
+                            298
+                        ],
+                        [
+                            67,
+                            297
+                        ],
+                        [
+                            90,
+                            297
+                        ],
+                        [
+                            91,
+                            298
+                        ],
+                        [
+                            91,
+                            299
+                        ],
+                        [
+                            90,
+                            300
+                        ],
+                        [
+                            88,
+                            300
+                        ],
+                        [
+                            87,
+                            301
+                        ],
+                        [
+                            51,
+                            301
+                        ],
+                        [
+                            50,
+                            300
+                        ],
+                        [
+                            50,
+                            299
+                        ],
+                        [
+                            51,
+                            298
+                        ]
+                    ],
+                    [
+                        [
+                            322,
+                            295
+                        ],
+                        [
+                            323,
+                            294
+                        ],
+                        [
+                            353,
+                            294
+                        ],
+                        [
+                            354,
+                            295
+                        ],
+                        [
+                            354,
+                            298
+                        ],
+                        [
+                            353,
+                            299
+                        ],
+                        [
+                            351,
+                            299
+                        ],
+                        [
+                            350,
+                            300
+                        ],
+                        [
+                            305,
+                            300
+                        ],
+                        [
+                            304,
+                            299
+                        ],
+                        [
+                            305,
+                            298
+                        ],
+                        [
+                            305,
+                            297
+                        ],
+                        [
+                            307,
+                            295
+                        ]
+                    ],
+                    [
+                        [
+                            368,
+                            288
+                        ],
+                        [
+                            369,
+                            287
+                        ],
+                        [
+                            417,
+                            287
+                        ],
+                        [
+                            418,
+                            288
+                        ],
+                        [
+                            418,
+                            291
+                        ],
+                        [
+                            417,
+                            292
+                        ],
+                        [
+                            409,
+                            292
+                        ],
+                        [
+                            408,
+                            293
+                        ],
+                        [
+                            360,
+                            293
+                        ],
+                        [
+                            359,
+                            292
+                        ],
+                        [
+                            359,
+                            291
+                        ],
+                        [
+                            358,
+                            290
+                        ],
+                        [
+                            359,
+                            289
+                        ],
+                        [
+                            360,
+                            289
+                        ],
+                        [
+                            361,
+                            288
+                        ]
+                    ],
+                    [
+                        [
+                            116,
+                            282
+                        ],
+                        [
+                            117,
+                            281
+                        ],
+                        [
+                            161,
+                            281
+                        ],
+                        [
+                            162,
+                            282
+                        ],
+                        [
+                            162,
+                            284
+                        ],
+                        [
+                            161,
+                            285
+                        ],
+                        [
+                            119,
+                            285
+                        ],
+                        [
+                            118,
+                            284
+                        ],
+                        [
+                            117,
+                            284
+                        ],
+                        [
+                            116,
+                            283
+                        ]
+                    ],
+                    [
+                        [
+                            483,
+                            278
+                        ],
+                        [
+                            484,
+                            277
+                        ],
+                        [
+                            514,
+                            277
+                        ],
+                        [
+                            515,
+                            278
+                        ],
+                        [
+                            515,
+                            279
+                        ],
+                        [
+                            514,
+                            280
+                        ],
+                        [
+                            514,
+                            281
+                        ],
+                        [
+                            513,
+                            282
+                        ],
+                        [
+                            503,
+                            282
+                        ],
+                        [
+                            502,
+                            283
+                        ],
+                        [
+                            468,
+                            283
+                        ],
+                        [
+                            467,
+                            282
+                        ],
+                        [
+                            467,
+                            281
+                        ],
+                        [
+                            470,
+                            278
+                        ]
+                    ],
+                    [
+                        [
+                            278,
+                            277
+                        ],
+                        [
+                            279,
+                            276
+                        ],
+                        [
+                            281,
+                            276
+                        ],
+                        [
+                            282,
+                            277
+                        ],
+                        [
+                            282,
+                            278
+                        ],
+                        [
+                            283,
+                            279
+                        ],
+                        [
+                            283,
+                            280
+                        ],
+                        [
+                            282,
+                            281
+                        ],
+                        [
+                            240,
+                            281
+                        ],
+                        [
+                            239,
+                            280
+                        ],
+                        [
+                            242,
+                            277
+                        ]
+                    ],
+                    [
+                        [
+                            478,
+                            268
+                        ],
+                        [
+                            520,
+                            268
+                        ],
+                        [
+                            521,
+                            269
+                        ],
+                        [
+                            520,
+                            270
+                        ],
+                        [
+                            520,
+                            271
+                        ],
+                        [
+                            519,
+                            272
+                        ],
+                        [
+                            499,
+                            272
+                        ],
+                        [
+                            498,
+                            273
+                        ],
+                        [
+                            476,
+                            273
+                        ],
+                        [
+                            475,
+                            272
+                        ],
+                        [
+                            475,
+                            271
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": 45860707,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.340Z",
+            "updatedAt": "2023-09-20T10:24:20.340Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        111
+                    ],
+                    [
+                        323,
+                        112
+                    ],
+                    [
+                        321,
+                        112
+                    ],
+                    [
+                        319,
+                        114
+                    ],
+                    [
+                        318,
+                        114
+                    ],
+                    [
+                        316,
+                        116
+                    ],
+                    [
+                        315,
+                        116
+                    ],
+                    [
+                        314,
+                        117
+                    ],
+                    [
+                        313,
+                        117
+                    ],
+                    [
+                        312,
+                        118
+                    ],
+                    [
+                        311,
+                        118
+                    ],
+                    [
+                        308,
+                        121
+                    ],
+                    [
+                        306,
+                        121
+                    ],
+                    [
+                        306,
+                        122
+                    ],
+                    [
+                        305,
+                        123
+                    ],
+                    [
+                        303,
+                        123
+                    ],
+                    [
+                        301,
+                        125
+                    ],
+                    [
+                        300,
+                        125
+                    ],
+                    [
+                        299,
+                        126
+                    ],
+                    [
+                        297,
+                        126
+                    ],
+                    [
+                        296,
+                        125
+                    ],
+                    [
+                        295,
+                        125
+                    ],
+                    [
+                        291,
+                        121
+                    ],
+                    [
+                        289,
+                        121
+                    ],
+                    [
+                        288,
+                        120
+                    ],
+                    [
+                        287,
+                        121
+                    ],
+                    [
+                        285,
+                        121
+                    ],
+                    [
+                        282,
+                        124
+                    ],
+                    [
+                        282,
+                        128
+                    ],
+                    [
+                        283,
+                        129
+                    ],
+                    [
+                        283,
+                        130
+                    ],
+                    [
+                        284,
+                        130
+                    ],
+                    [
+                        285,
+                        131
+                    ],
+                    [
+                        288,
+                        131
+                    ],
+                    [
+                        289,
+                        132
+                    ],
+                    [
+                        288,
+                        133
+                    ],
+                    [
+                        287,
+                        133
+                    ],
+                    [
+                        285,
+                        135
+                    ],
+                    [
+                        284,
+                        135
+                    ],
+                    [
+                        282,
+                        137
+                    ],
+                    [
+                        281,
+                        137
+                    ],
+                    [
+                        280,
+                        138
+                    ],
+                    [
+                        279,
+                        138
+                    ],
+                    [
+                        277,
+                        140
+                    ],
+                    [
+                        276,
+                        140
+                    ],
+                    [
+                        274,
+                        142
+                    ],
+                    [
+                        272,
+                        142
+                    ],
+                    [
+                        269,
+                        145
+                    ],
+                    [
+                        268,
+                        145
+                    ],
+                    [
+                        266,
+                        147
+                    ],
+                    [
+                        264,
+                        147
+                    ],
+                    [
+                        262,
+                        149
+                    ],
+                    [
+                        261,
+                        149
+                    ],
+                    [
+                        258,
+                        152
+                    ],
+                    [
+                        256,
+                        152
+                    ],
+                    [
+                        254,
+                        154
+                    ],
+                    [
+                        253,
+                        154
+                    ],
+                    [
+                        251,
+                        156
+                    ],
+                    [
+                        250,
+                        156
+                    ],
+                    [
+                        249,
+                        157
+                    ],
+                    [
+                        248,
+                        157
+                    ],
+                    [
+                        246,
+                        159
+                    ],
+                    [
+                        245,
+                        159
+                    ],
+                    [
+                        243,
+                        161
+                    ],
+                    [
+                        242,
+                        161
+                    ],
+                    [
+                        241,
+                        162
+                    ],
+                    [
+                        240,
+                        162
+                    ],
+                    [
+                        240,
+                        163
+                    ],
+                    [
+                        239,
+                        164
+                    ],
+                    [
+                        237,
+                        164
+                    ],
+                    [
+                        235,
+                        166
+                    ],
+                    [
+                        235,
+                        170
+                    ],
+                    [
+                        236,
+                        171
+                    ],
+                    [
+                        236,
+                        172
+                    ],
+                    [
+                        237,
+                        172
+                    ],
+                    [
+                        238,
+                        173
+                    ],
+                    [
+                        242,
+                        173
+                    ],
+                    [
+                        244,
+                        171
+                    ],
+                    [
+                        245,
+                        171
+                    ],
+                    [
+                        246,
+                        170
+                    ],
+                    [
+                        247,
+                        170
+                    ],
+                    [
+                        249,
+                        168
+                    ],
+                    [
+                        250,
+                        168
+                    ],
+                    [
+                        252,
+                        166
+                    ],
+                    [
+                        253,
+                        166
+                    ],
+                    [
+                        254,
+                        165
+                    ],
+                    [
+                        255,
+                        165
+                    ],
+                    [
+                        257,
+                        163
+                    ],
+                    [
+                        258,
+                        163
+                    ],
+                    [
+                        260,
+                        161
+                    ],
+                    [
+                        261,
+                        161
+                    ],
+                    [
+                        262,
+                        160
+                    ],
+                    [
+                        263,
+                        160
+                    ],
+                    [
+                        264,
+                        159
+                    ],
+                    [
+                        265,
+                        159
+                    ],
+                    [
+                        268,
+                        156
+                    ],
+                    [
+                        270,
+                        156
+                    ],
+                    [
+                        272,
+                        154
+                    ],
+                    [
+                        273,
+                        154
+                    ],
+                    [
+                        276,
+                        151
+                    ],
+                    [
+                        278,
+                        151
+                    ],
+                    [
+                        280,
+                        149
+                    ],
+                    [
+                        281,
+                        149
+                    ],
+                    [
+                        283,
+                        147
+                    ],
+                    [
+                        284,
+                        147
+                    ],
+                    [
+                        285,
+                        146
+                    ],
+                    [
+                        286,
+                        146
+                    ],
+                    [
+                        286,
+                        145
+                    ],
+                    [
+                        287,
+                        144
+                    ],
+                    [
+                        289,
+                        144
+                    ],
+                    [
+                        291,
+                        142
+                    ],
+                    [
+                        292,
+                        143
+                    ],
+                    [
+                        292,
+                        144
+                    ],
+                    [
+                        293,
+                        145
+                    ],
+                    [
+                        293,
+                        146
+                    ],
+                    [
+                        294,
+                        146
+                    ],
+                    [
+                        295,
+                        147
+                    ],
+                    [
+                        299,
+                        147
+                    ],
+                    [
+                        301,
+                        145
+                    ],
+                    [
+                        301,
+                        144
+                    ],
+                    [
+                        302,
+                        143
+                    ],
+                    [
+                        302,
+                        141
+                    ],
+                    [
+                        301,
+                        140
+                    ],
+                    [
+                        301,
+                        139
+                    ],
+                    [
+                        300,
+                        138
+                    ],
+                    [
+                        300,
+                        137
+                    ],
+                    [
+                        302,
+                        135
+                    ],
+                    [
+                        304,
+                        135
+                    ],
+                    [
+                        305,
+                        134
+                    ],
+                    [
+                        307,
+                        134
+                    ],
+                    [
+                        308,
+                        135
+                    ],
+                    [
+                        312,
+                        135
+                    ],
+                    [
+                        328,
+                        119
+                    ],
+                    [
+                        328,
+                        118
+                    ],
+                    [
+                        329,
+                        117
+                    ],
+                    [
+                        329,
+                        115
+                    ],
+                    [
+                        328,
+                        114
+                    ],
+                    [
+                        328,
+                        113
+                    ],
+                    [
+                        327,
+                        112
+                    ],
+                    [
+                        325,
+                        112
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45860706,
+            "classId": 6461776,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:24:20.339Z",
+            "updatedAt": "2023-09-20T10:24:20.339Z",
+            "tags": [],
+            "classTitle": "bench",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        111
+                    ],
+                    [
+                        639,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,576 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4913997,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A bag sitting next to a blue umbrella sticking out of rocks.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:11.988Z",
+            "updatedAt": "2023-09-20T10:57:11.988Z"
+        },
+        {
+            "id": 4913998,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A very pretty bright blue umbrella with some other items.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:11.988Z",
+            "updatedAt": "2023-09-20T10:57:11.988Z"
+        },
+        {
+            "id": 4913999,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The is am umbrella and a bag on the beach.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:11.988Z",
+            "updatedAt": "2023-09-20T10:57:11.988Z"
+        },
+        {
+            "id": 4914000,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There is an umbrella that is in the sand",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:11.988Z",
+            "updatedAt": "2023-09-20T10:57:11.988Z"
+        },
+        {
+            "id": 4914001,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a blue umbrella and a black backpack on the ground",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:11.988Z",
+            "updatedAt": "2023-09-20T10:57:11.988Z"
+        }
+    ],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 47475048,
+            "classId": 6461788,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:11.991Z",
+            "updatedAt": "2023-09-20T10:57:11.991Z",
+            "tags": [],
+            "classTitle": "umbrella",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        137
+                    ],
+                    [
+                        109,
+                        130
+                    ],
+                    [
+                        112,
+                        132
+                    ],
+                    [
+                        167,
+                        118
+                    ],
+                    [
+                        260,
+                        111
+                    ],
+                    [
+                        299,
+                        98
+                    ],
+                    [
+                        346,
+                        88
+                    ],
+                    [
+                        411,
+                        85
+                    ],
+                    [
+                        416,
+                        85
+                    ],
+                    [
+                        418,
+                        77
+                    ],
+                    [
+                        424,
+                        74
+                    ],
+                    [
+                        435,
+                        74
+                    ],
+                    [
+                        435,
+                        73
+                    ],
+                    [
+                        411,
+                        57
+                    ],
+                    [
+                        383,
+                        38
+                    ],
+                    [
+                        340,
+                        20
+                    ],
+                    [
+                        319,
+                        18
+                    ],
+                    [
+                        263,
+                        16
+                    ],
+                    [
+                        251,
+                        19
+                    ],
+                    [
+                        232,
+                        24
+                    ],
+                    [
+                        199,
+                        35
+                    ],
+                    [
+                        166,
+                        54
+                    ],
+                    [
+                        144,
+                        76
+                    ],
+                    [
+                        109,
+                        121
+                    ],
+                    [
+                        102,
+                        136
+                    ],
+                    [
+                        102,
+                        138
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47475047,
+            "classId": 6461788,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:11.991Z",
+            "updatedAt": "2023-09-20T10:57:11.991Z",
+            "tags": [],
+            "classTitle": "umbrella",
+            "points": {
+                "exterior": [
+                    [
+                        102,
+                        16
+                    ],
+                    [
+                        435,
+                        138
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47475046,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:11.990Z",
+            "updatedAt": "2023-09-20T10:57:11.990Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        276
+                    ],
+                    [
+                        232,
+                        274
+                    ],
+                    [
+                        246,
+                        271
+                    ],
+                    [
+                        274,
+                        269
+                    ],
+                    [
+                        285,
+                        326
+                    ],
+                    [
+                        267,
+                        329
+                    ],
+                    [
+                        253,
+                        330
+                    ],
+                    [
+                        239,
+                        329
+                    ],
+                    [
+                        236,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47475045,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:11.989Z",
+            "updatedAt": "2023-09-20T10:57:11.989Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        269
+                    ],
+                    [
+                        285,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47475044,
+            "classId": 6461787,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:11.989Z",
+            "updatedAt": "2023-09-20T10:57:11.989Z",
+            "tags": [],
+            "classTitle": "backpack",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        215
+                    ],
+                    [
+                        364,
+                        207
+                    ],
+                    [
+                        365,
+                        200
+                    ],
+                    [
+                        368,
+                        195
+                    ],
+                    [
+                        369,
+                        186
+                    ],
+                    [
+                        371,
+                        182
+                    ],
+                    [
+                        378,
+                        179
+                    ],
+                    [
+                        383,
+                        175
+                    ],
+                    [
+                        392,
+                        173
+                    ],
+                    [
+                        398,
+                        174
+                    ],
+                    [
+                        406,
+                        168
+                    ],
+                    [
+                        417,
+                        164
+                    ],
+                    [
+                        429,
+                        167
+                    ],
+                    [
+                        437,
+                        173
+                    ],
+                    [
+                        443,
+                        181
+                    ],
+                    [
+                        446,
+                        189
+                    ],
+                    [
+                        454,
+                        198
+                    ],
+                    [
+                        460,
+                        200
+                    ],
+                    [
+                        463,
+                        199
+                    ],
+                    [
+                        467,
+                        204
+                    ],
+                    [
+                        466,
+                        212
+                    ],
+                    [
+                        461,
+                        213
+                    ],
+                    [
+                        466,
+                        228
+                    ],
+                    [
+                        470,
+                        247
+                    ],
+                    [
+                        474,
+                        257
+                    ],
+                    [
+                        479,
+                        254
+                    ],
+                    [
+                        485,
+                        253
+                    ],
+                    [
+                        486,
+                        264
+                    ],
+                    [
+                        482,
+                        266
+                    ],
+                    [
+                        489,
+                        271
+                    ],
+                    [
+                        489,
+                        277
+                    ],
+                    [
+                        490,
+                        280
+                    ],
+                    [
+                        494,
+                        285
+                    ],
+                    [
+                        497,
+                        288
+                    ],
+                    [
+                        491,
+                        292
+                    ],
+                    [
+                        485,
+                        284
+                    ],
+                    [
+                        484,
+                        286
+                    ],
+                    [
+                        484,
+                        306
+                    ],
+                    [
+                        482,
+                        314
+                    ],
+                    [
+                        473,
+                        320
+                    ],
+                    [
+                        466,
+                        321
+                    ],
+                    [
+                        458,
+                        329
+                    ],
+                    [
+                        458,
+                        332
+                    ],
+                    [
+                        451,
+                        338
+                    ],
+                    [
+                        435,
+                        340
+                    ],
+                    [
+                        423,
+                        340
+                    ],
+                    [
+                        422,
+                        334
+                    ],
+                    [
+                        432,
+                        332
+                    ],
+                    [
+                        425,
+                        330
+                    ],
+                    [
+                        423,
+                        326
+                    ],
+                    [
+                        413,
+                        324
+                    ],
+                    [
+                        407,
+                        322
+                    ],
+                    [
+                        402,
+                        319
+                    ],
+                    [
+                        393,
+                        313
+                    ],
+                    [
+                        388,
+                        302
+                    ],
+                    [
+                        382,
+                        291
+                    ],
+                    [
+                        370,
+                        291
+                    ],
+                    [
+                        369,
+                        291
+                    ],
+                    [
+                        369,
+                        283
+                    ],
+                    [
+                        378,
+                        281
+                    ],
+                    [
+                        384,
+                        270
+                    ],
+                    [
+                        383,
+                        258
+                    ],
+                    [
+                        377,
+                        244
+                    ],
+                    [
+                        366,
+                        229
+                    ],
+                    [
+                        364,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47475043,
+            "classId": 6461787,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:11.989Z",
+            "updatedAt": "2023-09-20T10:57:11.989Z",
+            "tags": [],
+            "classTitle": "backpack",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        164
+                    ],
+                    [
+                        497,
+                        340
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

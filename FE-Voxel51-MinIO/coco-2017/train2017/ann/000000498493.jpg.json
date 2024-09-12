@@ -1,0 +1,200 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4670734,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A black bear sitting on the ground next to a log.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:13.298Z",
+            "updatedAt": "2023-09-20T10:42:13.298Z"
+        },
+        {
+            "id": 4670735,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a black bear standing on the edge of a cliff\n",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:13.298Z",
+            "updatedAt": "2023-09-20T10:42:13.298Z"
+        },
+        {
+            "id": 4670736,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A black bear looking down a hill beside a fall log.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:13.298Z",
+            "updatedAt": "2023-09-20T10:42:13.298Z"
+        },
+        {
+            "id": 4670737,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A very big furry black bear on the side of a hill.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:13.298Z",
+            "updatedAt": "2023-09-20T10:42:13.298Z"
+        },
+        {
+            "id": 4670738,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A baby bear that is standing by some bark ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:13.298Z",
+            "updatedAt": "2023-09-20T10:42:13.298Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 426
+    },
+    "objects": [
+        {
+            "id": 46627096,
+            "classId": 6461784,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:13.298Z",
+            "updatedAt": "2023-09-20T10:42:13.298Z",
+            "tags": [],
+            "classTitle": "bear",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        199
+                    ],
+                    [
+                        39,
+                        186
+                    ],
+                    [
+                        63,
+                        189
+                    ],
+                    [
+                        102,
+                        195
+                    ],
+                    [
+                        146,
+                        212
+                    ],
+                    [
+                        201,
+                        212
+                    ],
+                    [
+                        220,
+                        240
+                    ],
+                    [
+                        248,
+                        237
+                    ],
+                    [
+                        288,
+                        254
+                    ],
+                    [
+                        306,
+                        303
+                    ],
+                    [
+                        294,
+                        337
+                    ],
+                    [
+                        257,
+                        344
+                    ],
+                    [
+                        218,
+                        344
+                    ],
+                    [
+                        199,
+                        346
+                    ],
+                    [
+                        189,
+                        372
+                    ],
+                    [
+                        176,
+                        409
+                    ],
+                    [
+                        188,
+                        422
+                    ],
+                    [
+                        195,
+                        432
+                    ],
+                    [
+                        195,
+                        449
+                    ],
+                    [
+                        199,
+                        461
+                    ],
+                    [
+                        164,
+                        461
+                    ],
+                    [
+                        149,
+                        453
+                    ],
+                    [
+                        102,
+                        419
+                    ],
+                    [
+                        65,
+                        363
+                    ],
+                    [
+                        55,
+                        357
+                    ],
+                    [
+                        9,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46627095,
+            "classId": 6461784,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:42:13.298Z",
+            "updatedAt": "2023-09-20T10:42:13.298Z",
+            "tags": [],
+            "classTitle": "bear",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        186
+                    ],
+                    [
+                        306,
+                        461
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

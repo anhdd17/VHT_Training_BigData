@@ -1,0 +1,396 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4777501,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A car of peanuts sits next to a cell phone on a wooden table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:51.715Z",
+            "updatedAt": "2023-09-20T10:48:51.715Z"
+        },
+        {
+            "id": 4777502,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A picture of some food and a cell phone on the table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:51.715Z",
+            "updatedAt": "2023-09-20T10:48:51.715Z"
+        },
+        {
+            "id": 4777503,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a table with a closed laptop and a jar of peanuts",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:51.715Z",
+            "updatedAt": "2023-09-20T10:48:51.715Z"
+        },
+        {
+            "id": 4777504,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A jar of peanuts, a cell phone and other things on a small table.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:51.715Z",
+            "updatedAt": "2023-09-20T10:48:51.715Z"
+        },
+        {
+            "id": 4777505,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A jar of peanuts and a cell phone sit on a laptop computer on a cluttered table top.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:51.715Z",
+            "updatedAt": "2023-09-20T10:48:51.715Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47000914,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:51.716Z",
+            "updatedAt": "2023-09-20T10:48:51.716Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        420,
+                        9
+                    ],
+                    [
+                        420,
+                        25
+                    ],
+                    [
+                        413,
+                        37
+                    ],
+                    [
+                        422,
+                        95
+                    ],
+                    [
+                        415,
+                        105
+                    ],
+                    [
+                        414,
+                        250
+                    ],
+                    [
+                        425,
+                        271
+                    ],
+                    [
+                        521,
+                        274
+                    ],
+                    [
+                        527,
+                        247
+                    ],
+                    [
+                        526,
+                        104
+                    ],
+                    [
+                        520,
+                        94
+                    ],
+                    [
+                        526,
+                        32
+                    ],
+                    [
+                        519,
+                        24
+                    ],
+                    [
+                        520,
+                        8
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47000913,
+            "classId": 6461802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:51.716Z",
+            "updatedAt": "2023-09-20T10:48:51.716Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        8
+                    ],
+                    [
+                        527,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47000912,
+            "classId": 6461830,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:51.716Z",
+            "updatedAt": "2023-09-20T10:48:51.716Z",
+            "tags": [],
+            "classTitle": "cell phone",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        273
+                    ],
+                    [
+                        253,
+                        251
+                    ],
+                    [
+                        282,
+                        224
+                    ],
+                    [
+                        319,
+                        207
+                    ],
+                    [
+                        328,
+                        202
+                    ],
+                    [
+                        367,
+                        210
+                    ],
+                    [
+                        366,
+                        234
+                    ],
+                    [
+                        349,
+                        253
+                    ],
+                    [
+                        321,
+                        281
+                    ],
+                    [
+                        308,
+                        285
+                    ],
+                    [
+                        267,
+                        281
+                    ],
+                    [
+                        253,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47000911,
+            "classId": 6461830,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:51.716Z",
+            "updatedAt": "2023-09-20T10:48:51.716Z",
+            "tags": [],
+            "classTitle": "cell phone",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        202
+                    ],
+                    [
+                        367,
+                        285
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47000910,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:51.715Z",
+            "updatedAt": "2023-09-20T10:48:51.715Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        235
+                    ],
+                    [
+                        104,
+                        288
+                    ],
+                    [
+                        100,
+                        328
+                    ],
+                    [
+                        549,
+                        347
+                    ],
+                    [
+                        554,
+                        344
+                    ],
+                    [
+                        563,
+                        299
+                    ],
+                    [
+                        560,
+                        209
+                    ],
+                    [
+                        528,
+                        206
+                    ],
+                    [
+                        521,
+                        255
+                    ],
+                    [
+                        509,
+                        284
+                    ],
+                    [
+                        433,
+                        280
+                    ],
+                    [
+                        404,
+                        250
+                    ],
+                    [
+                        413,
+                        221
+                    ],
+                    [
+                        413,
+                        216
+                    ],
+                    [
+                        376,
+                        209
+                    ],
+                    [
+                        367,
+                        230
+                    ],
+                    [
+                        338,
+                        268
+                    ],
+                    [
+                        282,
+                        280
+                    ],
+                    [
+                        244,
+                        260
+                    ],
+                    [
+                        256,
+                        241
+                    ],
+                    [
+                        271,
+                        227
+                    ],
+                    [
+                        280,
+                        218
+                    ],
+                    [
+                        264,
+                        213
+                    ],
+                    [
+                        254,
+                        215
+                    ],
+                    [
+                        227,
+                        218
+                    ],
+                    [
+                        207,
+                        226
+                    ],
+                    [
+                        189,
+                        236
+                    ],
+                    [
+                        158,
+                        245
+                    ],
+                    [
+                        146,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47000909,
+            "classId": 6461826,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:51.715Z",
+            "updatedAt": "2023-09-20T10:48:51.715Z",
+            "tags": [],
+            "classTitle": "laptop",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        206
+                    ],
+                    [
+                        563,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

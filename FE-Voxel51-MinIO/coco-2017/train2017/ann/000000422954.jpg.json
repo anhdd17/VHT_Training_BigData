@@ -1,0 +1,208 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4532659,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A small doll wearing a dress standing next to bananas.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:41.066Z",
+            "updatedAt": "2023-09-20T10:33:41.066Z"
+        },
+        {
+            "id": 4532660,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A doll standing next to a few bananas",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:41.066Z",
+            "updatedAt": "2023-09-20T10:33:41.066Z"
+        },
+        {
+            "id": 4532661,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A doll and a banana sit on a desk",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:41.066Z",
+            "updatedAt": "2023-09-20T10:33:41.066Z"
+        },
+        {
+            "id": 4532662,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A doll is on a desk with a banana.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:41.066Z",
+            "updatedAt": "2023-09-20T10:33:41.066Z"
+        },
+        {
+            "id": 4532663,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A doll with a large head next to a banana.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:41.066Z",
+            "updatedAt": "2023-09-20T10:33:41.066Z"
+        }
+    ],
+    "size": {
+        "height": 500,
+        "width": 375
+    },
+    "objects": [
+        {
+            "id": 46148946,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:41.066Z",
+            "updatedAt": "2023-09-20T10:33:41.066Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        285
+                    ],
+                    [
+                        174,
+                        271
+                    ],
+                    [
+                        175,
+                        265
+                    ],
+                    [
+                        178,
+                        259
+                    ],
+                    [
+                        183,
+                        253
+                    ],
+                    [
+                        189,
+                        251
+                    ],
+                    [
+                        189,
+                        286
+                    ],
+                    [
+                        193,
+                        282
+                    ],
+                    [
+                        196,
+                        248
+                    ],
+                    [
+                        207,
+                        246
+                    ],
+                    [
+                        208,
+                        259
+                    ],
+                    [
+                        209,
+                        278
+                    ],
+                    [
+                        249,
+                        318
+                    ],
+                    [
+                        305,
+                        344
+                    ],
+                    [
+                        353,
+                        364
+                    ],
+                    [
+                        373,
+                        379
+                    ],
+                    [
+                        374,
+                        382
+                    ],
+                    [
+                        374,
+                        417
+                    ],
+                    [
+                        355,
+                        417
+                    ],
+                    [
+                        370,
+                        427
+                    ],
+                    [
+                        368,
+                        438
+                    ],
+                    [
+                        364,
+                        446
+                    ],
+                    [
+                        351,
+                        447
+                    ],
+                    [
+                        294,
+                        437
+                    ],
+                    [
+                        204,
+                        393
+                    ],
+                    [
+                        164,
+                        344
+                    ],
+                    [
+                        159,
+                        324
+                    ],
+                    [
+                        159,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46148945,
+            "classId": 6461809,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:33:41.066Z",
+            "updatedAt": "2023-09-20T10:33:41.066Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        246
+                    ],
+                    [
+                        374,
+                        447
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

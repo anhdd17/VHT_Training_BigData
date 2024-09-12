@@ -1,0 +1,532 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4659685,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cute dog playing with a frisbee in the park.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:34.369Z",
+            "updatedAt": "2023-09-20T10:41:34.369Z"
+        },
+        {
+            "id": 4659686,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A dog retrieves a Frisbee in a pile of leaves.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:34.369Z",
+            "updatedAt": "2023-09-20T10:41:34.369Z"
+        },
+        {
+            "id": 4659687,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A puppy with a Frisbee in its mouth sitting in leaves",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:34.369Z",
+            "updatedAt": "2023-09-20T10:41:34.369Z"
+        },
+        {
+            "id": 4659688,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A dog sits on the ground holding a frisbee. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:34.369Z",
+            "updatedAt": "2023-09-20T10:41:34.369Z"
+        },
+        {
+            "id": 4659689,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A dog with Frisbee sits in leaves beside water.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:34.369Z",
+            "updatedAt": "2023-09-20T10:41:34.369Z"
+        }
+    ],
+    "size": {
+        "height": 428,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46589811,
+            "classId": 6461779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:34.370Z",
+            "updatedAt": "2023-09-20T10:41:34.370Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        513,
+                        185
+                    ],
+                    [
+                        528,
+                        190
+                    ],
+                    [
+                        555,
+                        186
+                    ],
+                    [
+                        563,
+                        169
+                    ],
+                    [
+                        561,
+                        155
+                    ],
+                    [
+                        541,
+                        138
+                    ],
+                    [
+                        535,
+                        125
+                    ],
+                    [
+                        531,
+                        100
+                    ],
+                    [
+                        539,
+                        105
+                    ],
+                    [
+                        547,
+                        105
+                    ],
+                    [
+                        534,
+                        81
+                    ],
+                    [
+                        529,
+                        60
+                    ],
+                    [
+                        516,
+                        35
+                    ],
+                    [
+                        475,
+                        36
+                    ],
+                    [
+                        425,
+                        51
+                    ],
+                    [
+                        393,
+                        72
+                    ],
+                    [
+                        371,
+                        101
+                    ],
+                    [
+                        347,
+                        132
+                    ],
+                    [
+                        323,
+                        159
+                    ],
+                    [
+                        306,
+                        207
+                    ],
+                    [
+                        288,
+                        235
+                    ],
+                    [
+                        278,
+                        240
+                    ],
+                    [
+                        250,
+                        234
+                    ],
+                    [
+                        213,
+                        245
+                    ],
+                    [
+                        199,
+                        262
+                    ],
+                    [
+                        204,
+                        277
+                    ],
+                    [
+                        239,
+                        281
+                    ],
+                    [
+                        264,
+                        290
+                    ],
+                    [
+                        268,
+                        290
+                    ],
+                    [
+                        245,
+                        324
+                    ],
+                    [
+                        240,
+                        347
+                    ],
+                    [
+                        223,
+                        372
+                    ],
+                    [
+                        196,
+                        393
+                    ],
+                    [
+                        228,
+                        404
+                    ],
+                    [
+                        242,
+                        386
+                    ],
+                    [
+                        272,
+                        370
+                    ],
+                    [
+                        295,
+                        354
+                    ],
+                    [
+                        315,
+                        334
+                    ],
+                    [
+                        333,
+                        324
+                    ],
+                    [
+                        349,
+                        308
+                    ],
+                    [
+                        347,
+                        354
+                    ],
+                    [
+                        352,
+                        393
+                    ],
+                    [
+                        351,
+                        405
+                    ],
+                    [
+                        384,
+                        407
+                    ],
+                    [
+                        389,
+                        400
+                    ],
+                    [
+                        385,
+                        380
+                    ],
+                    [
+                        383,
+                        367
+                    ],
+                    [
+                        382,
+                        353
+                    ],
+                    [
+                        387,
+                        325
+                    ],
+                    [
+                        388,
+                        316
+                    ],
+                    [
+                        405,
+                        314
+                    ],
+                    [
+                        437,
+                        314
+                    ],
+                    [
+                        456,
+                        314
+                    ],
+                    [
+                        488,
+                        316
+                    ],
+                    [
+                        487,
+                        295
+                    ],
+                    [
+                        482,
+                        293
+                    ],
+                    [
+                        454,
+                        295
+                    ],
+                    [
+                        434,
+                        294
+                    ],
+                    [
+                        440,
+                        284
+                    ],
+                    [
+                        455,
+                        275
+                    ],
+                    [
+                        471,
+                        264
+                    ],
+                    [
+                        475,
+                        277
+                    ],
+                    [
+                        479,
+                        286
+                    ],
+                    [
+                        488,
+                        287
+                    ],
+                    [
+                        492,
+                        296
+                    ],
+                    [
+                        492,
+                        309
+                    ],
+                    [
+                        487,
+                        325
+                    ],
+                    [
+                        485,
+                        334
+                    ],
+                    [
+                        489,
+                        361
+                    ],
+                    [
+                        488,
+                        380
+                    ],
+                    [
+                        505,
+                        391
+                    ],
+                    [
+                        519,
+                        393
+                    ],
+                    [
+                        532,
+                        389
+                    ],
+                    [
+                        534,
+                        379
+                    ],
+                    [
+                        529,
+                        364
+                    ],
+                    [
+                        524,
+                        348
+                    ],
+                    [
+                        521,
+                        328
+                    ],
+                    [
+                        515,
+                        303
+                    ],
+                    [
+                        503,
+                        284
+                    ],
+                    [
+                        497,
+                        257
+                    ],
+                    [
+                        497,
+                        240
+                    ],
+                    [
+                        492,
+                        199
+                    ],
+                    [
+                        499,
+                        184
+                    ],
+                    [
+                        506,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46589810,
+            "classId": 6461779,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:34.370Z",
+            "updatedAt": "2023-09-20T10:41:34.370Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        35
+                    ],
+                    [
+                        563,
+                        407
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46589809,
+            "classId": 6461792,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:34.369Z",
+            "updatedAt": "2023-09-20T10:41:34.369Z",
+            "tags": [],
+            "classTitle": "frisbee",
+            "points": {
+                "exterior": [
+                    [
+                        505,
+                        180
+                    ],
+                    [
+                        493,
+                        194
+                    ],
+                    [
+                        492,
+                        216
+                    ],
+                    [
+                        499,
+                        242
+                    ],
+                    [
+                        516,
+                        281
+                    ],
+                    [
+                        558,
+                        300
+                    ],
+                    [
+                        586,
+                        303
+                    ],
+                    [
+                        623,
+                        285
+                    ],
+                    [
+                        635,
+                        248
+                    ],
+                    [
+                        631,
+                        223
+                    ],
+                    [
+                        608,
+                        193
+                    ],
+                    [
+                        581,
+                        162
+                    ],
+                    [
+                        561,
+                        162
+                    ],
+                    [
+                        553,
+                        176
+                    ],
+                    [
+                        543,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46589808,
+            "classId": 6461792,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:41:34.369Z",
+            "updatedAt": "2023-09-20T10:41:34.369Z",
+            "tags": [],
+            "classTitle": "frisbee",
+            "points": {
+                "exterior": [
+                    [
+                        492,
+                        162
+                    ],
+                    [
+                        635,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

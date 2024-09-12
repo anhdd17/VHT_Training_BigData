@@ -1,0 +1,148 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4478391,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "there is a silver and blue bullet train passing by",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:29.657Z",
+            "updatedAt": "2023-09-20T10:30:29.657Z"
+        },
+        {
+            "id": 4478392,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A train engine in motion going down a set of tracks.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:29.657Z",
+            "updatedAt": "2023-09-20T10:30:29.657Z"
+        },
+        {
+            "id": 4478393,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A gray train moving down the tracks with great speed.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:29.657Z",
+            "updatedAt": "2023-09-20T10:30:29.657Z"
+        },
+        {
+            "id": 4478394,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A train is passing by on the tracks with the letters SNCF on it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:29.657Z",
+            "updatedAt": "2023-09-20T10:30:29.657Z"
+        },
+        {
+            "id": 4478395,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A passenger train that is traveling down railroad tracks.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:29.657Z",
+            "updatedAt": "2023-09-20T10:30:29.657Z"
+        }
+    ],
+    "size": {
+        "height": 424,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 45960013,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:29.658Z",
+            "updatedAt": "2023-09-20T10:30:29.658Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        77
+                    ],
+                    [
+                        120,
+                        61
+                    ],
+                    [
+                        233,
+                        57
+                    ],
+                    [
+                        303,
+                        65
+                    ],
+                    [
+                        353,
+                        114
+                    ],
+                    [
+                        375,
+                        136
+                    ],
+                    [
+                        406,
+                        176
+                    ],
+                    [
+                        394,
+                        206
+                    ],
+                    [
+                        360,
+                        230
+                    ],
+                    [
+                        214,
+                        212
+                    ],
+                    [
+                        77,
+                        194
+                    ],
+                    [
+                        20,
+                        198
+                    ],
+                    [
+                        26,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 45960012,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:30:29.657Z",
+            "updatedAt": "2023-09-20T10:30:29.657Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        20,
+                        57
+                    ],
+                    [
+                        406,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

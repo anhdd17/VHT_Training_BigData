@@ -1,0 +1,556 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5043242,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Red brick building with fire hydrant and car with cloudy sky",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.021Z",
+            "updatedAt": "2023-09-20T11:05:21.021Z"
+        },
+        {
+            "id": 5043243,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A car is parked beside a building with many windows.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.021Z",
+            "updatedAt": "2023-09-20T11:05:21.021Z"
+        },
+        {
+            "id": 5043244,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A tall red brick building sitting next to a street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.021Z",
+            "updatedAt": "2023-09-20T11:05:21.021Z"
+        },
+        {
+            "id": 5043245,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A brick building on a hill with a yellow fire hydrant in front.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.021Z",
+            "updatedAt": "2023-09-20T11:05:21.021Z"
+        },
+        {
+            "id": 5043246,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A car parked in front of a building.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.021Z",
+            "updatedAt": "2023-09-20T11:05:21.021Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47928763,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.028Z",
+            "updatedAt": "2023-09-20T11:05:21.028Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        427
+                    ],
+                    [
+                        20,
+                        411
+                    ],
+                    [
+                        49,
+                        406
+                    ],
+                    [
+                        80,
+                        403
+                    ],
+                    [
+                        121,
+                        405
+                    ],
+                    [
+                        148,
+                        411
+                    ],
+                    [
+                        177,
+                        429
+                    ],
+                    [
+                        187,
+                        431
+                    ],
+                    [
+                        198,
+                        436
+                    ],
+                    [
+                        196,
+                        449
+                    ],
+                    [
+                        230,
+                        455
+                    ],
+                    [
+                        251,
+                        461
+                    ],
+                    [
+                        265,
+                        479
+                    ],
+                    [
+                        3,
+                        477
+                    ],
+                    [
+                        2,
+                        431
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47928762,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.027Z",
+            "updatedAt": "2023-09-20T11:05:21.027Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        403
+                    ],
+                    [
+                        265,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47928761,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.027Z",
+            "updatedAt": "2023-09-20T11:05:21.027Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        407
+                    ],
+                    [
+                        31,
+                        400
+                    ],
+                    [
+                        50,
+                        394
+                    ],
+                    [
+                        58,
+                        386
+                    ],
+                    [
+                        94,
+                        388
+                    ],
+                    [
+                        99,
+                        389
+                    ],
+                    [
+                        108,
+                        393
+                    ],
+                    [
+                        110,
+                        393
+                    ],
+                    [
+                        104,
+                        396
+                    ],
+                    [
+                        98,
+                        398
+                    ],
+                    [
+                        91,
+                        402
+                    ],
+                    [
+                        83,
+                        402
+                    ],
+                    [
+                        66,
+                        404
+                    ],
+                    [
+                        60,
+                        404
+                    ],
+                    [
+                        52,
+                        404
+                    ],
+                    [
+                        47,
+                        406
+                    ],
+                    [
+                        31,
+                        409
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47928760,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.026Z",
+            "updatedAt": "2023-09-20T11:05:21.026Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        386
+                    ],
+                    [
+                        110,
+                        409
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47928759,
+            "classId": 6461773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.025Z",
+            "updatedAt": "2023-09-20T11:05:21.025Z",
+            "tags": [],
+            "classTitle": "fire hydrant",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        453
+                    ],
+                    [
+                        377,
+                        438
+                    ],
+                    [
+                        377,
+                        434
+                    ],
+                    [
+                        379,
+                        430
+                    ],
+                    [
+                        380,
+                        429
+                    ],
+                    [
+                        379,
+                        427
+                    ],
+                    [
+                        378,
+                        426
+                    ],
+                    [
+                        378,
+                        425
+                    ],
+                    [
+                        383,
+                        423
+                    ],
+                    [
+                        385,
+                        422
+                    ],
+                    [
+                        381,
+                        420
+                    ],
+                    [
+                        380,
+                        420
+                    ],
+                    [
+                        377,
+                        417
+                    ],
+                    [
+                        378,
+                        415
+                    ],
+                    [
+                        379,
+                        414
+                    ],
+                    [
+                        378,
+                        410
+                    ],
+                    [
+                        378,
+                        407
+                    ],
+                    [
+                        378,
+                        405
+                    ],
+                    [
+                        377,
+                        404
+                    ],
+                    [
+                        376,
+                        401
+                    ],
+                    [
+                        374,
+                        401
+                    ],
+                    [
+                        370,
+                        404
+                    ],
+                    [
+                        371,
+                        406
+                    ],
+                    [
+                        368,
+                        413
+                    ],
+                    [
+                        367,
+                        415
+                    ],
+                    [
+                        370,
+                        416
+                    ],
+                    [
+                        370,
+                        417
+                    ],
+                    [
+                        369,
+                        419
+                    ],
+                    [
+                        364,
+                        419
+                    ],
+                    [
+                        365,
+                        423
+                    ],
+                    [
+                        367,
+                        425
+                    ],
+                    [
+                        367,
+                        426
+                    ],
+                    [
+                        367,
+                        426
+                    ],
+                    [
+                        367,
+                        428
+                    ],
+                    [
+                        368,
+                        430
+                    ],
+                    [
+                        370,
+                        432
+                    ],
+                    [
+                        366,
+                        438
+                    ],
+                    [
+                        366,
+                        456
+                    ],
+                    [
+                        377,
+                        454
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47928758,
+            "classId": 6461773,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.025Z",
+            "updatedAt": "2023-09-20T11:05:21.025Z",
+            "tags": [],
+            "classTitle": "fire hydrant",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        401
+                    ],
+                    [
+                        385,
+                        456
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47928757,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.023Z",
+            "updatedAt": "2023-09-20T11:05:21.023Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        382
+                    ],
+                    [
+                        3,
+                        382
+                    ],
+                    [
+                        56,
+                        382
+                    ],
+                    [
+                        58,
+                        387
+                    ],
+                    [
+                        47,
+                        394
+                    ],
+                    [
+                        33,
+                        399
+                    ],
+                    [
+                        31,
+                        408
+                    ],
+                    [
+                        20,
+                        412
+                    ],
+                    [
+                        18,
+                        412
+                    ],
+                    [
+                        16,
+                        411
+                    ],
+                    [
+                        14,
+                        415
+                    ],
+                    [
+                        5,
+                        417
+                    ],
+                    [
+                        1,
+                        408
+                    ],
+                    [
+                        0,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47928756,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:05:21.022Z",
+            "updatedAt": "2023-09-20T11:05:21.022Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        382
+                    ],
+                    [
+                        58,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

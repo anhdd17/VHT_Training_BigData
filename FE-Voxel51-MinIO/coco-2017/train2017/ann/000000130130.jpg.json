@@ -1,0 +1,120 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4874376,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A computer desk holding a monitor and keyboard in front of blinds.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:50.698Z",
+            "updatedAt": "2023-09-20T10:54:50.698Z"
+        },
+        {
+            "id": 4874377,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A computer monitor sitting on top of a table next to a keyboard.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:50.698Z",
+            "updatedAt": "2023-09-20T10:54:50.698Z"
+        },
+        {
+            "id": 4874378,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a computer screen shows a menu with different menu options",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:50.698Z",
+            "updatedAt": "2023-09-20T10:54:50.698Z"
+        },
+        {
+            "id": 4874379,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There is a computer screen with a white keyboard in front of it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:50.698Z",
+            "updatedAt": "2023-09-20T10:54:50.698Z"
+        },
+        {
+            "id": 4874380,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A computer keyboard and monitor on a desk.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:50.698Z",
+            "updatedAt": "2023-09-20T10:54:50.698Z"
+        }
+    ],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 47340237,
+            "classId": 6461829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:50.700Z",
+            "updatedAt": "2023-09-20T10:54:50.700Z",
+            "tags": [],
+            "classTitle": "keyboard",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        367
+                    ],
+                    [
+                        166,
+                        325
+                    ],
+                    [
+                        465,
+                        346
+                    ],
+                    [
+                        471,
+                        370
+                    ],
+                    [
+                        137,
+                        372
+                    ],
+                    [
+                        135,
+                        370
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47340236,
+            "classId": 6461829,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:54:50.699Z",
+            "updatedAt": "2023-09-20T10:54:50.699Z",
+            "tags": [],
+            "classTitle": "keyboard",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        325
+                    ],
+                    [
+                        471,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,528 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4724740,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A small blue kitchen with white and off-white appliances and drawers.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.762Z",
+            "updatedAt": "2023-09-20T10:45:34.762Z"
+        },
+        {
+            "id": 4724741,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The kitchen has a stove, and a microwave in it.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.762Z",
+            "updatedAt": "2023-09-20T10:45:34.762Z"
+        },
+        {
+            "id": 4724742,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a blue kitchen with an old looking stove",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.762Z",
+            "updatedAt": "2023-09-20T10:45:34.762Z"
+        },
+        {
+            "id": 4724743,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a kitchen with a stove, and sink with a hardwood floor",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.762Z",
+            "updatedAt": "2023-09-20T10:45:34.762Z"
+        },
+        {
+            "id": 4724744,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A small kitchen with white walls and wood flooring.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.762Z",
+            "updatedAt": "2023-09-20T10:45:34.762Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46817462,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.765Z",
+            "updatedAt": "2023-09-20T10:45:34.765Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        479
+                    ],
+                    [
+                        81,
+                        433
+                    ],
+                    [
+                        82,
+                        428
+                    ],
+                    [
+                        87,
+                        421
+                    ],
+                    [
+                        92,
+                        417
+                    ],
+                    [
+                        91,
+                        402
+                    ],
+                    [
+                        89,
+                        383
+                    ],
+                    [
+                        89,
+                        374
+                    ],
+                    [
+                        89,
+                        368
+                    ],
+                    [
+                        96,
+                        367
+                    ],
+                    [
+                        97,
+                        374
+                    ],
+                    [
+                        98,
+                        380
+                    ],
+                    [
+                        103,
+                        388
+                    ],
+                    [
+                        105,
+                        399
+                    ],
+                    [
+                        104,
+                        408
+                    ],
+                    [
+                        103,
+                        430
+                    ],
+                    [
+                        105,
+                        443
+                    ],
+                    [
+                        107,
+                        463
+                    ],
+                    [
+                        112,
+                        476
+                    ],
+                    [
+                        114,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46817461,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.765Z",
+            "updatedAt": "2023-09-20T10:45:34.765Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        81,
+                        367
+                    ],
+                    [
+                        114,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46817460,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.764Z",
+            "updatedAt": "2023-09-20T10:45:34.764Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        358
+                    ],
+                    [
+                        61,
+                        372
+                    ],
+                    [
+                        81,
+                        399
+                    ],
+                    [
+                        80,
+                        423
+                    ],
+                    [
+                        73,
+                        450
+                    ],
+                    [
+                        58,
+                        471
+                    ],
+                    [
+                        17,
+                        471
+                    ],
+                    [
+                        6,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46817459,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.764Z",
+            "updatedAt": "2023-09-20T10:45:34.764Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        358
+                    ],
+                    [
+                        81,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46817458,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.764Z",
+            "updatedAt": "2023-09-20T10:45:34.764Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        215
+                    ],
+                    [
+                        224,
+                        170
+                    ],
+                    [
+                        315,
+                        165
+                    ],
+                    [
+                        324,
+                        230
+                    ],
+                    [
+                        232,
+                        230
+                    ],
+                    [
+                        227,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46817457,
+            "classId": 6461831,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.763Z",
+            "updatedAt": "2023-09-20T10:45:34.763Z",
+            "tags": [],
+            "classTitle": "microwave",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        165
+                    ],
+                    [
+                        324,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46817456,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.763Z",
+            "updatedAt": "2023-09-20T10:45:34.763Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        417,
+                        171
+                    ],
+                    [
+                        421,
+                        213
+                    ],
+                    [
+                        359,
+                        248
+                    ],
+                    [
+                        358,
+                        383
+                    ],
+                    [
+                        483,
+                        437
+                    ],
+                    [
+                        492,
+                        433
+                    ],
+                    [
+                        507,
+                        291
+                    ],
+                    [
+                        515,
+                        269
+                    ],
+                    [
+                        532,
+                        251
+                    ],
+                    [
+                        535,
+                        227
+                    ],
+                    [
+                        546,
+                        197
+                    ],
+                    [
+                        550,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46817455,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.763Z",
+            "updatedAt": "2023-09-20T10:45:34.763Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        358,
+                        171
+                    ],
+                    [
+                        550,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46817454,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.763Z",
+            "updatedAt": "2023-09-20T10:45:34.763Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        626,
+                        268
+                    ],
+                    [
+                        599,
+                        301
+                    ],
+                    [
+                        638,
+                        313
+                    ],
+                    [
+                        639,
+                        276
+                    ],
+                    [
+                        630,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46817453,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.763Z",
+            "updatedAt": "2023-09-20T10:45:34.763Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        599,
+                        268
+                    ],
+                    [
+                        639,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46817452,
+            "classId": 6461818,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.762Z",
+            "updatedAt": "2023-09-20T10:45:34.762Z",
+            "tags": [],
+            "classTitle": "cake",
+            "points": {
+                "exterior": [
+                    [
+                        479,
+                        251
+                    ],
+                    [
+                        474,
+                        243
+                    ],
+                    [
+                        475,
+                        241
+                    ],
+                    [
+                        478,
+                        240
+                    ],
+                    [
+                        480,
+                        240
+                    ],
+                    [
+                        483,
+                        240
+                    ],
+                    [
+                        484,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46817451,
+            "classId": 6461818,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:45:34.762Z",
+            "updatedAt": "2023-09-20T10:45:34.762Z",
+            "tags": [],
+            "classTitle": "cake",
+            "points": {
+                "exterior": [
+                    [
+                        474,
+                        240
+                    ],
+                    [
+                        484,
+                        251
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

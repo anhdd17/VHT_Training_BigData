@@ -1,0 +1,616 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4915727,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a man is riding on a surfboard at the beach",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.351Z",
+            "updatedAt": "2023-09-20T10:57:18.351Z"
+        },
+        {
+            "id": 4915728,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "This is a surfer riding a small wave - right to left break.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.351Z",
+            "updatedAt": "2023-09-20T10:57:18.351Z"
+        },
+        {
+            "id": 4915729,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The surfer is riding a wave into shore.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.351Z",
+            "updatedAt": "2023-09-20T10:57:18.351Z"
+        },
+        {
+            "id": 4915730,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There are two people surfing in the water",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.351Z",
+            "updatedAt": "2023-09-20T10:57:18.351Z"
+        },
+        {
+            "id": 4915731,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Surfer riding a larger wave on the ocean as it starts to break.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.351Z",
+            "updatedAt": "2023-09-20T10:57:18.351Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47481268,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.361Z",
+            "updatedAt": "2023-09-20T10:57:18.361Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        561,
+                        268
+                    ],
+                    [
+                        559,
+                        260
+                    ],
+                    [
+                        563,
+                        256
+                    ],
+                    [
+                        567,
+                        255
+                    ],
+                    [
+                        568,
+                        255
+                    ],
+                    [
+                        572,
+                        257
+                    ],
+                    [
+                        574,
+                        264
+                    ],
+                    [
+                        579,
+                        268
+                    ],
+                    [
+                        584,
+                        271
+                    ],
+                    [
+                        588,
+                        273
+                    ],
+                    [
+                        588,
+                        277
+                    ],
+                    [
+                        587,
+                        279
+                    ],
+                    [
+                        586,
+                        281
+                    ],
+                    [
+                        580,
+                        283
+                    ],
+                    [
+                        574,
+                        282
+                    ],
+                    [
+                        565,
+                        279
+                    ],
+                    [
+                        563,
+                        280
+                    ],
+                    [
+                        559,
+                        281
+                    ],
+                    [
+                        557,
+                        276
+                    ],
+                    [
+                        561,
+                        268
+                    ],
+                    [
+                        561,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47481267,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.358Z",
+            "updatedAt": "2023-09-20T10:57:18.358Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        557,
+                        255
+                    ],
+                    [
+                        588,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47481266,
+            "classId": 6461800,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.356Z",
+            "updatedAt": "2023-09-20T10:57:18.356Z",
+            "tags": [],
+            "classTitle": "surfboard",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        186
+                    ],
+                    [
+                        297,
+                        187
+                    ],
+                    [
+                        310,
+                        190
+                    ],
+                    [
+                        324,
+                        193
+                    ],
+                    [
+                        338,
+                        195
+                    ],
+                    [
+                        345,
+                        197
+                    ],
+                    [
+                        352,
+                        197
+                    ],
+                    [
+                        351,
+                        201
+                    ],
+                    [
+                        346,
+                        206
+                    ],
+                    [
+                        339,
+                        208
+                    ],
+                    [
+                        329,
+                        208
+                    ],
+                    [
+                        319,
+                        208
+                    ],
+                    [
+                        305,
+                        205
+                    ],
+                    [
+                        293,
+                        201
+                    ],
+                    [
+                        286,
+                        199
+                    ],
+                    [
+                        279,
+                        194
+                    ],
+                    [
+                        278,
+                        190
+                    ],
+                    [
+                        281,
+                        186
+                    ],
+                    [
+                        284,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47481265,
+            "classId": 6461800,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.354Z",
+            "updatedAt": "2023-09-20T10:57:18.354Z",
+            "tags": [],
+            "classTitle": "surfboard",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        186
+                    ],
+                    [
+                        352,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47481264,
+            "classId": 6461800,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.354Z",
+            "updatedAt": "2023-09-20T10:57:18.354Z",
+            "tags": [],
+            "classTitle": "surfboard",
+            "points": {
+                "exterior": [
+                    [
+                        543,
+                        272
+                    ],
+                    [
+                        545,
+                        274
+                    ],
+                    [
+                        548,
+                        275
+                    ],
+                    [
+                        551,
+                        276
+                    ],
+                    [
+                        553,
+                        276
+                    ],
+                    [
+                        555,
+                        277
+                    ],
+                    [
+                        557,
+                        277
+                    ],
+                    [
+                        558,
+                        277
+                    ],
+                    [
+                        558,
+                        279
+                    ],
+                    [
+                        558,
+                        280
+                    ],
+                    [
+                        557,
+                        280
+                    ],
+                    [
+                        549,
+                        279
+                    ],
+                    [
+                        544,
+                        278
+                    ],
+                    [
+                        543,
+                        278
+                    ],
+                    [
+                        542,
+                        277
+                    ],
+                    [
+                        541,
+                        275
+                    ],
+                    [
+                        540,
+                        271
+                    ],
+                    [
+                        540,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47481263,
+            "classId": 6461800,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.353Z",
+            "updatedAt": "2023-09-20T10:57:18.353Z",
+            "tags": [],
+            "classTitle": "surfboard",
+            "points": {
+                "exterior": [
+                    [
+                        540,
+                        270
+                    ],
+                    [
+                        558,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47481262,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.352Z",
+            "updatedAt": "2023-09-20T10:57:18.352Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        197
+                    ],
+                    [
+                        351,
+                        188
+                    ],
+                    [
+                        350,
+                        187
+                    ],
+                    [
+                        352,
+                        185
+                    ],
+                    [
+                        356,
+                        176
+                    ],
+                    [
+                        358,
+                        169
+                    ],
+                    [
+                        357,
+                        164
+                    ],
+                    [
+                        351,
+                        149
+                    ],
+                    [
+                        346,
+                        144
+                    ],
+                    [
+                        344,
+                        144
+                    ],
+                    [
+                        340,
+                        137
+                    ],
+                    [
+                        336,
+                        137
+                    ],
+                    [
+                        334,
+                        139
+                    ],
+                    [
+                        333,
+                        141
+                    ],
+                    [
+                        332,
+                        146
+                    ],
+                    [
+                        334,
+                        149
+                    ],
+                    [
+                        336,
+                        150
+                    ],
+                    [
+                        338,
+                        151
+                    ],
+                    [
+                        339,
+                        152
+                    ],
+                    [
+                        339,
+                        157
+                    ],
+                    [
+                        340,
+                        161
+                    ],
+                    [
+                        343,
+                        163
+                    ],
+                    [
+                        343,
+                        166
+                    ],
+                    [
+                        340,
+                        172
+                    ],
+                    [
+                        337,
+                        176
+                    ],
+                    [
+                        332,
+                        179
+                    ],
+                    [
+                        330,
+                        182
+                    ],
+                    [
+                        332,
+                        183
+                    ],
+                    [
+                        333,
+                        183
+                    ],
+                    [
+                        332,
+                        188
+                    ],
+                    [
+                        333,
+                        188
+                    ],
+                    [
+                        335,
+                        186
+                    ],
+                    [
+                        339,
+                        179
+                    ],
+                    [
+                        341,
+                        178
+                    ],
+                    [
+                        341,
+                        185
+                    ],
+                    [
+                        343,
+                        195
+                    ],
+                    [
+                        343,
+                        198
+                    ],
+                    [
+                        347,
+                        198
+                    ],
+                    [
+                        348,
+                        197
+                    ],
+                    [
+                        348,
+                        194
+                    ],
+                    [
+                        350,
+                        197
+                    ],
+                    [
+                        356,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47481261,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:57:18.352Z",
+            "updatedAt": "2023-09-20T10:57:18.352Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        330,
+                        137
+                    ],
+                    [
+                        358,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

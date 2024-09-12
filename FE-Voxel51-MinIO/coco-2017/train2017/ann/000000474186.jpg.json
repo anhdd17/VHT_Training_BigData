@@ -1,0 +1,692 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4858230,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cut in half sandwich sitting on top of a basket.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.750Z",
+            "updatedAt": "2023-09-20T10:53:51.750Z"
+        },
+        {
+            "id": 4858231,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a sandwich with some bitten out of it and two carrot sticks ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.750Z",
+            "updatedAt": "2023-09-20T10:53:51.750Z"
+        },
+        {
+            "id": 4858232,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two grilled sandwiches on a brown paper wrapping",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.750Z",
+            "updatedAt": "2023-09-20T10:53:51.750Z"
+        },
+        {
+            "id": 4858233,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Sandwich with vegetables on side displayed on serving platter.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.750Z",
+            "updatedAt": "2023-09-20T10:53:51.750Z"
+        },
+        {
+            "id": 4858234,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "there is a sandwich that is cut in half in a bowl",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.750Z",
+            "updatedAt": "2023-09-20T10:53:51.750Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47283005,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.755Z",
+            "updatedAt": "2023-09-20T10:53:51.755Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        538,
+                        437
+                    ],
+                    [
+                        614,
+                        394
+                    ],
+                    [
+                        626,
+                        335
+                    ],
+                    [
+                        618,
+                        281
+                    ],
+                    [
+                        595,
+                        248
+                    ],
+                    [
+                        561,
+                        221
+                    ],
+                    [
+                        554,
+                        225
+                    ],
+                    [
+                        547,
+                        212
+                    ],
+                    [
+                        538,
+                        197
+                    ],
+                    [
+                        522,
+                        185
+                    ],
+                    [
+                        449,
+                        185
+                    ],
+                    [
+                        400,
+                        202
+                    ],
+                    [
+                        354,
+                        231
+                    ],
+                    [
+                        316,
+                        280
+                    ],
+                    [
+                        319,
+                        310
+                    ],
+                    [
+                        308,
+                        361
+                    ],
+                    [
+                        309,
+                        389
+                    ],
+                    [
+                        345,
+                        418
+                    ],
+                    [
+                        400,
+                        401
+                    ],
+                    [
+                        452,
+                        407
+                    ],
+                    [
+                        511,
+                        427
+                    ],
+                    [
+                        528,
+                        435
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47283004,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.754Z",
+            "updatedAt": "2023-09-20T10:53:51.754Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        185
+                    ],
+                    [
+                        626,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47283003,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.754Z",
+            "updatedAt": "2023-09-20T10:53:51.754Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        413
+                    ],
+                    [
+                        278,
+                        209
+                    ],
+                    [
+                        116,
+                        165
+                    ],
+                    [
+                        62,
+                        178
+                    ],
+                    [
+                        56,
+                        224
+                    ],
+                    [
+                        66,
+                        256
+                    ],
+                    [
+                        59,
+                        275
+                    ],
+                    [
+                        47,
+                        285
+                    ],
+                    [
+                        42,
+                        295
+                    ],
+                    [
+                        45,
+                        315
+                    ],
+                    [
+                        56,
+                        347
+                    ],
+                    [
+                        72,
+                        387
+                    ],
+                    [
+                        91,
+                        423
+                    ],
+                    [
+                        99,
+                        436
+                    ],
+                    [
+                        112,
+                        442
+                    ],
+                    [
+                        150,
+                        447
+                    ],
+                    [
+                        221,
+                        433
+                    ],
+                    [
+                        230,
+                        429
+                    ],
+                    [
+                        285,
+                        411
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47283002,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.754Z",
+            "updatedAt": "2023-09-20T10:53:51.754Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        42,
+                        165
+                    ],
+                    [
+                        285,
+                        447
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47283001,
+            "classId": 6461814,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.753Z",
+            "updatedAt": "2023-09-20T10:53:51.753Z",
+            "tags": [],
+            "classTitle": "carrot",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        354
+                    ],
+                    [
+                        288,
+                        371
+                    ],
+                    [
+                        253,
+                        427
+                    ],
+                    [
+                        234,
+                        455
+                    ],
+                    [
+                        256,
+                        475
+                    ],
+                    [
+                        278,
+                        484
+                    ],
+                    [
+                        301,
+                        460
+                    ],
+                    [
+                        344,
+                        404
+                    ],
+                    [
+                        339,
+                        379
+                    ],
+                    [
+                        318,
+                        354
+                    ],
+                    [
+                        291,
+                        361
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47283000,
+            "classId": 6461814,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.753Z",
+            "updatedAt": "2023-09-20T10:53:51.753Z",
+            "tags": [],
+            "classTitle": "carrot",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        354
+                    ],
+                    [
+                        344,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47282999,
+            "classId": 6461814,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.753Z",
+            "updatedAt": "2023-09-20T10:53:51.753Z",
+            "tags": [],
+            "classTitle": "carrot",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        398
+                    ],
+                    [
+                        462,
+                        417
+                    ],
+                    [
+                        501,
+                        428
+                    ],
+                    [
+                        501,
+                        437
+                    ],
+                    [
+                        501,
+                        442
+                    ],
+                    [
+                        502,
+                        448
+                    ],
+                    [
+                        487,
+                        460
+                    ],
+                    [
+                        483,
+                        470
+                    ],
+                    [
+                        478,
+                        471
+                    ],
+                    [
+                        455,
+                        475
+                    ],
+                    [
+                        423,
+                        467
+                    ],
+                    [
+                        387,
+                        451
+                    ],
+                    [
+                        378,
+                        445
+                    ],
+                    [
+                        330,
+                        425
+                    ],
+                    [
+                        336,
+                        420
+                    ],
+                    [
+                        340,
+                        415
+                    ],
+                    [
+                        347,
+                        418
+                    ],
+                    [
+                        351,
+                        415
+                    ],
+                    [
+                        363,
+                        417
+                    ],
+                    [
+                        361,
+                        411
+                    ],
+                    [
+                        365,
+                        407
+                    ],
+                    [
+                        364,
+                        406
+                    ],
+                    [
+                        375,
+                        401
+                    ],
+                    [
+                        384,
+                        400
+                    ],
+                    [
+                        389,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47282998,
+            "classId": 6461814,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.752Z",
+            "updatedAt": "2023-09-20T10:53:51.752Z",
+            "tags": [],
+            "classTitle": "carrot",
+            "points": {
+                "exterior": [
+                    [
+                        330,
+                        398
+                    ],
+                    [
+                        502,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47282997,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.751Z",
+            "updatedAt": "2023-09-20T10:53:51.751Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        266
+                    ],
+                    [
+                        326,
+                        301
+                    ],
+                    [
+                        321,
+                        324
+                    ],
+                    [
+                        311,
+                        337
+                    ],
+                    [
+                        311,
+                        355
+                    ],
+                    [
+                        318,
+                        378
+                    ],
+                    [
+                        326,
+                        401
+                    ],
+                    [
+                        335,
+                        422
+                    ],
+                    [
+                        346,
+                        420
+                    ],
+                    [
+                        425,
+                        390
+                    ],
+                    [
+                        453,
+                        407
+                    ],
+                    [
+                        472,
+                        417
+                    ],
+                    [
+                        492,
+                        423
+                    ],
+                    [
+                        501,
+                        432
+                    ],
+                    [
+                        507,
+                        451
+                    ],
+                    [
+                        533,
+                        449
+                    ],
+                    [
+                        616,
+                        405
+                    ],
+                    [
+                        618,
+                        296
+                    ],
+                    [
+                        613,
+                        264
+                    ],
+                    [
+                        586,
+                        248
+                    ],
+                    [
+                        558,
+                        232
+                    ],
+                    [
+                        539,
+                        209
+                    ],
+                    [
+                        487,
+                        187
+                    ],
+                    [
+                        476,
+                        188
+                    ],
+                    [
+                        442,
+                        186
+                    ],
+                    [
+                        424,
+                        185
+                    ],
+                    [
+                        397,
+                        196
+                    ],
+                    [
+                        382,
+                        200
+                    ],
+                    [
+                        355,
+                        215
+                    ],
+                    [
+                        330,
+                        241
+                    ],
+                    [
+                        315,
+                        254
+                    ],
+                    [
+                        311,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47282996,
+            "classId": 6461816,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:53:51.750Z",
+            "updatedAt": "2023-09-20T10:53:51.750Z",
+            "tags": [],
+            "classTitle": "pizza",
+            "points": {
+                "exterior": [
+                    [
+                        311,
+                        185
+                    ],
+                    [
+                        618,
+                        451
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

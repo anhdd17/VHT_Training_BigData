@@ -1,0 +1,176 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4692748,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A large passenger jet flying over the top of a large body of water.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:36.502Z",
+            "updatedAt": "2023-09-20T10:43:36.502Z"
+        },
+        {
+            "id": 4692749,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A large white airplane flying up in the sky.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:36.502Z",
+            "updatedAt": "2023-09-20T10:43:36.502Z"
+        },
+        {
+            "id": 4692750,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A commercial airplane flying low over a long bridge.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:36.502Z",
+            "updatedAt": "2023-09-20T10:43:36.502Z"
+        },
+        {
+            "id": 4692751,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cloudy sky looms over a dock and the water.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:36.502Z",
+            "updatedAt": "2023-09-20T10:43:36.502Z"
+        },
+        {
+            "id": 4692752,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An aircraft is taking off from the airport.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:36.502Z",
+            "updatedAt": "2023-09-20T10:43:36.502Z"
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46705256,
+            "classId": 6461767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:36.502Z",
+            "updatedAt": "2023-09-20T10:43:36.502Z",
+            "tags": [],
+            "classTitle": "airplane",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        60
+                    ],
+                    [
+                        287,
+                        56
+                    ],
+                    [
+                        302,
+                        60
+                    ],
+                    [
+                        326,
+                        75
+                    ],
+                    [
+                        341,
+                        76
+                    ],
+                    [
+                        391,
+                        66
+                    ],
+                    [
+                        361,
+                        78
+                    ],
+                    [
+                        356,
+                        90
+                    ],
+                    [
+                        382,
+                        93
+                    ],
+                    [
+                        361,
+                        98
+                    ],
+                    [
+                        344,
+                        103
+                    ],
+                    [
+                        313,
+                        93
+                    ],
+                    [
+                        310,
+                        92
+                    ],
+                    [
+                        309,
+                        98
+                    ],
+                    [
+                        300,
+                        99
+                    ],
+                    [
+                        300,
+                        93
+                    ],
+                    [
+                        273,
+                        96
+                    ],
+                    [
+                        288,
+                        86
+                    ],
+                    [
+                        288,
+                        77
+                    ],
+                    [
+                        270,
+                        67
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46705255,
+            "classId": 6461767,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:36.502Z",
+            "updatedAt": "2023-09-20T10:43:36.502Z",
+            "tags": [],
+            "classTitle": "airplane",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        56
+                    ],
+                    [
+                        391,
+                        103
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

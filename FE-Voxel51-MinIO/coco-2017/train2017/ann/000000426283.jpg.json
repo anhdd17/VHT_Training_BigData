@@ -1,0 +1,608 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4776160,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cat sitting on top of a bed with a purple blanket.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:46.467Z",
+            "updatedAt": "2023-09-20T10:48:46.467Z"
+        },
+        {
+            "id": 4776161,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A cat lying on an unmade bed near a teddy bear.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:46.467Z",
+            "updatedAt": "2023-09-20T10:48:46.467Z"
+        },
+        {
+            "id": 4776162,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a cat laying on a bed in a room with a shelf",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:46.467Z",
+            "updatedAt": "2023-09-20T10:48:46.467Z"
+        },
+        {
+            "id": 4776163,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The cat is sitting on an unmade bed.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:46.467Z",
+            "updatedAt": "2023-09-20T10:48:46.467Z"
+        },
+        {
+            "id": 4776164,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There is no image on this page to describe,",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:46.467Z",
+            "updatedAt": "2023-09-20T10:48:46.467Z"
+        }
+    ],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 46996410,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:46.469Z",
+            "updatedAt": "2023-09-20T10:48:46.469Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        164
+                    ],
+                    [
+                        145,
+                        141
+                    ],
+                    [
+                        157,
+                        128
+                    ],
+                    [
+                        171,
+                        113
+                    ],
+                    [
+                        172,
+                        111
+                    ],
+                    [
+                        188,
+                        109
+                    ],
+                    [
+                        213,
+                        113
+                    ],
+                    [
+                        208,
+                        134
+                    ],
+                    [
+                        197,
+                        154
+                    ],
+                    [
+                        195,
+                        154
+                    ],
+                    [
+                        189,
+                        198
+                    ],
+                    [
+                        187,
+                        213
+                    ],
+                    [
+                        180,
+                        241
+                    ],
+                    [
+                        166,
+                        246
+                    ],
+                    [
+                        156,
+                        280
+                    ],
+                    [
+                        135,
+                        294
+                    ],
+                    [
+                        107,
+                        296
+                    ],
+                    [
+                        107,
+                        287
+                    ],
+                    [
+                        142,
+                        275
+                    ],
+                    [
+                        145,
+                        249
+                    ],
+                    [
+                        131,
+                        235
+                    ],
+                    [
+                        125,
+                        224
+                    ],
+                    [
+                        124,
+                        180
+                    ],
+                    [
+                        123,
+                        174
+                    ],
+                    [
+                        125,
+                        165
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46996409,
+            "classId": 6461778,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:46.469Z",
+            "updatedAt": "2023-09-20T10:48:46.469Z",
+            "tags": [],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        109
+                    ],
+                    [
+                        213,
+                        296
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46996408,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:46.468Z",
+            "updatedAt": "2023-09-20T10:48:46.468Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        64,
+                        163
+                    ],
+                    [
+                        78,
+                        147
+                    ],
+                    [
+                        105,
+                        143
+                    ],
+                    [
+                        149,
+                        147
+                    ],
+                    [
+                        133,
+                        154
+                    ],
+                    [
+                        120,
+                        183
+                    ],
+                    [
+                        119,
+                        206
+                    ],
+                    [
+                        116,
+                        219
+                    ],
+                    [
+                        124,
+                        235
+                    ],
+                    [
+                        144,
+                        254
+                    ],
+                    [
+                        104,
+                        301
+                    ],
+                    [
+                        108,
+                        304
+                    ],
+                    [
+                        143,
+                        292
+                    ],
+                    [
+                        166,
+                        254
+                    ],
+                    [
+                        163,
+                        244
+                    ],
+                    [
+                        187,
+                        227
+                    ],
+                    [
+                        192,
+                        207
+                    ],
+                    [
+                        191,
+                        159
+                    ],
+                    [
+                        206,
+                        138
+                    ],
+                    [
+                        360,
+                        120
+                    ],
+                    [
+                        373,
+                        111
+                    ],
+                    [
+                        380,
+                        102
+                    ],
+                    [
+                        442,
+                        87
+                    ],
+                    [
+                        497,
+                        110
+                    ],
+                    [
+                        498,
+                        136
+                    ],
+                    [
+                        498,
+                        160
+                    ],
+                    [
+                        478,
+                        142
+                    ],
+                    [
+                        469,
+                        156
+                    ],
+                    [
+                        462,
+                        149
+                    ],
+                    [
+                        464,
+                        132
+                    ],
+                    [
+                        448,
+                        124
+                    ],
+                    [
+                        437,
+                        135
+                    ],
+                    [
+                        434,
+                        145
+                    ],
+                    [
+                        415,
+                        149
+                    ],
+                    [
+                        405,
+                        133
+                    ],
+                    [
+                        387,
+                        133
+                    ],
+                    [
+                        388,
+                        142
+                    ],
+                    [
+                        402,
+                        180
+                    ],
+                    [
+                        399,
+                        191
+                    ],
+                    [
+                        441,
+                        204
+                    ],
+                    [
+                        439,
+                        217
+                    ],
+                    [
+                        446,
+                        268
+                    ],
+                    [
+                        431,
+                        275
+                    ],
+                    [
+                        441,
+                        285
+                    ],
+                    [
+                        437,
+                        299
+                    ],
+                    [
+                        437,
+                        308
+                    ],
+                    [
+                        93,
+                        369
+                    ],
+                    [
+                        79,
+                        293
+                    ],
+                    [
+                        67,
+                        313
+                    ],
+                    [
+                        63,
+                        219
+                    ],
+                    [
+                        50,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46996407,
+            "classId": 6461822,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:46.468Z",
+            "updatedAt": "2023-09-20T10:48:46.468Z",
+            "tags": [],
+            "classTitle": "bed",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        87
+                    ],
+                    [
+                        498,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46996406,
+            "classId": 6461840,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:46.468Z",
+            "updatedAt": "2023-09-20T10:48:46.468Z",
+            "tags": [],
+            "classTitle": "teddy bear",
+            "points": {
+                "exterior": [
+                    [
+                        498,
+                        162
+                    ],
+                    [
+                        499,
+                        176
+                    ],
+                    [
+                        499,
+                        191
+                    ],
+                    [
+                        454,
+                        197
+                    ],
+                    [
+                        442,
+                        200
+                    ],
+                    [
+                        432,
+                        200
+                    ],
+                    [
+                        412,
+                        200
+                    ],
+                    [
+                        402,
+                        194
+                    ],
+                    [
+                        398,
+                        183
+                    ],
+                    [
+                        398,
+                        179
+                    ],
+                    [
+                        394,
+                        174
+                    ],
+                    [
+                        388,
+                        160
+                    ],
+                    [
+                        387,
+                        150
+                    ],
+                    [
+                        388,
+                        138
+                    ],
+                    [
+                        392,
+                        135
+                    ],
+                    [
+                        402,
+                        135
+                    ],
+                    [
+                        405,
+                        140
+                    ],
+                    [
+                        408,
+                        148
+                    ],
+                    [
+                        419,
+                        151
+                    ],
+                    [
+                        429,
+                        147
+                    ],
+                    [
+                        433,
+                        146
+                    ],
+                    [
+                        436,
+                        144
+                    ],
+                    [
+                        438,
+                        133
+                    ],
+                    [
+                        444,
+                        129
+                    ],
+                    [
+                        455,
+                        129
+                    ],
+                    [
+                        461,
+                        133
+                    ],
+                    [
+                        459,
+                        143
+                    ],
+                    [
+                        469,
+                        164
+                    ],
+                    [
+                        475,
+                        147
+                    ],
+                    [
+                        481,
+                        143
+                    ],
+                    [
+                        488,
+                        148
+                    ],
+                    [
+                        496,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46996405,
+            "classId": 6461840,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:48:46.468Z",
+            "updatedAt": "2023-09-20T10:48:46.468Z",
+            "tags": [],
+            "classTitle": "teddy bear",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        129
+                    ],
+                    [
+                        499,
+                        200
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

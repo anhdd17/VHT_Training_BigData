@@ -1,0 +1,2932 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5022644,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Man walking on sidewalk next to traffic light",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.327Z",
+            "updatedAt": "2023-09-20T11:04:04.327Z"
+        },
+        {
+            "id": 5022645,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A traffic light stands near a pedestrian footpath.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.327Z",
+            "updatedAt": "2023-09-20T11:04:04.327Z"
+        },
+        {
+            "id": 5022646,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A couple of men walk on a tree lined street while a traffic light stands near them.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.327Z",
+            "updatedAt": "2023-09-20T11:04:04.327Z"
+        },
+        {
+            "id": 5022647,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man walking down a street past a parking meter.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.327Z",
+            "updatedAt": "2023-09-20T11:04:04.327Z"
+        },
+        {
+            "id": 5022648,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A traffic signal at the end of a tree lined road.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.327Z",
+            "updatedAt": "2023-09-20T11:04:04.327Z"
+        }
+    ],
+    "size": {
+        "height": 471,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 47856888,
+            "classId": 6461768,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.338Z",
+            "updatedAt": "2023-09-20T11:04:04.338Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        515,
+                        376
+                    ],
+                    [
+                        516,
+                        362
+                    ],
+                    [
+                        509,
+                        366
+                    ],
+                    [
+                        511,
+                        361
+                    ],
+                    [
+                        525,
+                        357
+                    ],
+                    [
+                        541,
+                        351
+                    ],
+                    [
+                        569,
+                        351
+                    ],
+                    [
+                        569,
+                        402
+                    ],
+                    [
+                        551,
+                        394
+                    ],
+                    [
+                        544,
+                        402
+                    ],
+                    [
+                        522,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856887,
+            "classId": 6461768,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        603,
+                        351
+                    ],
+                    [
+                        639,
+                        352
+                    ],
+                    [
+                        639,
+                        403
+                    ],
+                    [
+                        603,
+                        398
+                    ],
+                    [
+                        601,
+                        356
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856886,
+            "classId": 6461768,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        509,
+                        351
+                    ],
+                    [
+                        569,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856885,
+            "classId": 6461768,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        601,
+                        351
+                    ],
+                    [
+                        639,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856884,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        411
+                    ],
+                    [
+                        197,
+                        390
+                    ],
+                    [
+                        202,
+                        374
+                    ],
+                    [
+                        204,
+                        357
+                    ],
+                    [
+                        212,
+                        338
+                    ],
+                    [
+                        211,
+                        323
+                    ],
+                    [
+                        207,
+                        305
+                    ],
+                    [
+                        219,
+                        301
+                    ],
+                    [
+                        234,
+                        302
+                    ],
+                    [
+                        244,
+                        322
+                    ],
+                    [
+                        249,
+                        331
+                    ],
+                    [
+                        260,
+                        342
+                    ],
+                    [
+                        265,
+                        370
+                    ],
+                    [
+                        265,
+                        382
+                    ],
+                    [
+                        262,
+                        398
+                    ],
+                    [
+                        259,
+                        410
+                    ],
+                    [
+                        249,
+                        416
+                    ],
+                    [
+                        227,
+                        420
+                    ],
+                    [
+                        224,
+                        434
+                    ],
+                    [
+                        203,
+                        450
+                    ],
+                    [
+                        195,
+                        450
+                    ],
+                    [
+                        201,
+                        427
+                    ],
+                    [
+                        192,
+                        408
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856883,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        301
+                    ],
+                    [
+                        265,
+                        450
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856882,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        496,
+                        396
+                    ],
+                    [
+                        520,
+                        396
+                    ],
+                    [
+                        517,
+                        386
+                    ],
+                    [
+                        512,
+                        379
+                    ],
+                    [
+                        509,
+                        375
+                    ],
+                    [
+                        505,
+                        368
+                    ],
+                    [
+                        501,
+                        367
+                    ],
+                    [
+                        498,
+                        373
+                    ],
+                    [
+                        498,
+                        379
+                    ],
+                    [
+                        501,
+                        382
+                    ],
+                    [
+                        498,
+                        387
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856881,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        498,
+                        402
+                    ],
+                    [
+                        494,
+                        416
+                    ],
+                    [
+                        500,
+                        422
+                    ],
+                    [
+                        515,
+                        421
+                    ],
+                    [
+                        515,
+                        407
+                    ],
+                    [
+                        517,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856880,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        496,
+                        367
+                    ],
+                    [
+                        520,
+                        396
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856879,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        494,
+                        402
+                    ],
+                    [
+                        517,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856878,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        314
+                    ],
+                    [
+                        71,
+                        308
+                    ],
+                    [
+                        86,
+                        312
+                    ],
+                    [
+                        89,
+                        324
+                    ],
+                    [
+                        96,
+                        336
+                    ],
+                    [
+                        106,
+                        350
+                    ],
+                    [
+                        72,
+                        347
+                    ],
+                    [
+                        59,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856877,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        308
+                    ],
+                    [
+                        106,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856876,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        369
+                    ],
+                    [
+                        489,
+                        365
+                    ],
+                    [
+                        489,
+                        362
+                    ],
+                    [
+                        491,
+                        360
+                    ],
+                    [
+                        493,
+                        362
+                    ],
+                    [
+                        495,
+                        366
+                    ],
+                    [
+                        497,
+                        370
+                    ],
+                    [
+                        498,
+                        374
+                    ],
+                    [
+                        498,
+                        378
+                    ],
+                    [
+                        496,
+                        384
+                    ],
+                    [
+                        493,
+                        384
+                    ],
+                    [
+                        491,
+                        386
+                    ],
+                    [
+                        488,
+                        386
+                    ],
+                    [
+                        487,
+                        379
+                    ],
+                    [
+                        485,
+                        374
+                    ],
+                    [
+                        483,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856875,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        360
+                    ],
+                    [
+                        498,
+                        386
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856874,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        460,
+                        369
+                    ],
+                    [
+                        458,
+                        366
+                    ],
+                    [
+                        456,
+                        367
+                    ],
+                    [
+                        455,
+                        370
+                    ],
+                    [
+                        455,
+                        372
+                    ],
+                    [
+                        455,
+                        374
+                    ],
+                    [
+                        454,
+                        376
+                    ],
+                    [
+                        450,
+                        377
+                    ],
+                    [
+                        455,
+                        377
+                    ],
+                    [
+                        459,
+                        377
+                    ],
+                    [
+                        465,
+                        380
+                    ],
+                    [
+                        467,
+                        382
+                    ],
+                    [
+                        474,
+                        385
+                    ],
+                    [
+                        475,
+                        380
+                    ],
+                    [
+                        473,
+                        378
+                    ],
+                    [
+                        468,
+                        376
+                    ],
+                    [
+                        466,
+                        375
+                    ],
+                    [
+                        464,
+                        374
+                    ],
+                    [
+                        463,
+                        374
+                    ],
+                    [
+                        461,
+                        370
+                    ],
+                    [
+                        459,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856873,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        450,
+                        366
+                    ],
+                    [
+                        475,
+                        385
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856872,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        372
+                    ],
+                    [
+                        398,
+                        375
+                    ],
+                    [
+                        398,
+                        376
+                    ],
+                    [
+                        397,
+                        378
+                    ],
+                    [
+                        396,
+                        380
+                    ],
+                    [
+                        395,
+                        383
+                    ],
+                    [
+                        394,
+                        389
+                    ],
+                    [
+                        394,
+                        391
+                    ],
+                    [
+                        393,
+                        392
+                    ],
+                    [
+                        393,
+                        393
+                    ],
+                    [
+                        392,
+                        394
+                    ],
+                    [
+                        404,
+                        396
+                    ],
+                    [
+                        405,
+                        396
+                    ],
+                    [
+                        405,
+                        387
+                    ],
+                    [
+                        405,
+                        383
+                    ],
+                    [
+                        405,
+                        380
+                    ],
+                    [
+                        405,
+                        379
+                    ],
+                    [
+                        406,
+                        375
+                    ],
+                    [
+                        406,
+                        373
+                    ],
+                    [
+                        404,
+                        371
+                    ],
+                    [
+                        404,
+                        371
+                    ],
+                    [
+                        401,
+                        370
+                    ],
+                    [
+                        400,
+                        370
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856871,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        392,
+                        370
+                    ],
+                    [
+                        406,
+                        396
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856870,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        394
+                    ],
+                    [
+                        365,
+                        387
+                    ],
+                    [
+                        368,
+                        381
+                    ],
+                    [
+                        370,
+                        377
+                    ],
+                    [
+                        376,
+                        376
+                    ],
+                    [
+                        376,
+                        384
+                    ],
+                    [
+                        379,
+                        395
+                    ],
+                    [
+                        364,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856869,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        376
+                    ],
+                    [
+                        379,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856868,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        36
+                    ],
+                    [
+                        287,
+                        38
+                    ],
+                    [
+                        288,
+                        168
+                    ],
+                    [
+                        332,
+                        168
+                    ],
+                    [
+                        331,
+                        37
+                    ],
+                    [
+                        319,
+                        37
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856867,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        287,
+                        36
+                    ],
+                    [
+                        332,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856866,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.337Z",
+            "updatedAt": "2023-09-20T11:04:04.337Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        600,
+                        397
+                    ],
+                    [
+                        598,
+                        374
+                    ],
+                    [
+                        602,
+                        374
+                    ],
+                    [
+                        604,
+                        378
+                    ],
+                    [
+                        604,
+                        380
+                    ],
+                    [
+                        607,
+                        383
+                    ],
+                    [
+                        611,
+                        390
+                    ],
+                    [
+                        607,
+                        396
+                    ],
+                    [
+                        607,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856865,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.336Z",
+            "updatedAt": "2023-09-20T11:04:04.336Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        598,
+                        374
+                    ],
+                    [
+                        611,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856864,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.336Z",
+            "updatedAt": "2023-09-20T11:04:04.336Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        430
+                    ],
+                    [
+                        460,
+                        432
+                    ],
+                    [
+                        460,
+                        453
+                    ],
+                    [
+                        447,
+                        441
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856863,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.336Z",
+            "updatedAt": "2023-09-20T11:04:04.336Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        468,
+                        435
+                    ],
+                    [
+                        489,
+                        441
+                    ],
+                    [
+                        487,
+                        447
+                    ],
+                    [
+                        472,
+                        441
+                    ],
+                    [
+                        488,
+                        455
+                    ],
+                    [
+                        480,
+                        455
+                    ],
+                    [
+                        469,
+                        455
+                    ],
+                    [
+                        467,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856862,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.336Z",
+            "updatedAt": "2023-09-20T11:04:04.336Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        496,
+                        444
+                    ],
+                    [
+                        512,
+                        451
+                    ],
+                    [
+                        516,
+                        454
+                    ],
+                    [
+                        508,
+                        455
+                    ],
+                    [
+                        497,
+                        450
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856861,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.336Z",
+            "updatedAt": "2023-09-20T11:04:04.336Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        525,
+                        437
+                    ],
+                    [
+                        535,
+                        441
+                    ],
+                    [
+                        544,
+                        439
+                    ],
+                    [
+                        545,
+                        456
+                    ],
+                    [
+                        524,
+                        456
+                    ],
+                    [
+                        524,
+                        436
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856860,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.336Z",
+            "updatedAt": "2023-09-20T11:04:04.336Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        551,
+                        440
+                    ],
+                    [
+                        567,
+                        443
+                    ],
+                    [
+                        573,
+                        448
+                    ],
+                    [
+                        572,
+                        457
+                    ],
+                    [
+                        552,
+                        456
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856859,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.336Z",
+            "updatedAt": "2023-09-20T11:04:04.336Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        581,
+                        452
+                    ],
+                    [
+                        581,
+                        457
+                    ],
+                    [
+                        585,
+                        457
+                    ],
+                    [
+                        583,
+                        455
+                    ],
+                    [
+                        581,
+                        452
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856858,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.336Z",
+            "updatedAt": "2023-09-20T11:04:04.336Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        572,
+                        461
+                    ],
+                    [
+                        573,
+                        470
+                    ],
+                    [
+                        552,
+                        470
+                    ],
+                    [
+                        551,
+                        460
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856857,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.336Z",
+            "updatedAt": "2023-09-20T11:04:04.336Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        524,
+                        460
+                    ],
+                    [
+                        542,
+                        460
+                    ],
+                    [
+                        542,
+                        470
+                    ],
+                    [
+                        524,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856856,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.336Z",
+            "updatedAt": "2023-09-20T11:04:04.336Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        472,
+                        459
+                    ],
+                    [
+                        487,
+                        458
+                    ],
+                    [
+                        488,
+                        470
+                    ],
+                    [
+                        485,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856855,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.336Z",
+            "updatedAt": "2023-09-20T11:04:04.336Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        494,
+                        459
+                    ],
+                    [
+                        517,
+                        460
+                    ],
+                    [
+                        517,
+                        470
+                    ],
+                    [
+                        494,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856854,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.336Z",
+            "updatedAt": "2023-09-20T11:04:04.336Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        458
+                    ],
+                    [
+                        460,
+                        459
+                    ],
+                    [
+                        460,
+                        470
+                    ],
+                    [
+                        446,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856853,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.335Z",
+            "updatedAt": "2023-09-20T11:04:04.335Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        458
+                    ],
+                    [
+                        412,
+                        457
+                    ],
+                    [
+                        412,
+                        470
+                    ],
+                    [
+                        401,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856852,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.335Z",
+            "updatedAt": "2023-09-20T11:04:04.335Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        451
+                    ],
+                    [
+                        408,
+                        446
+                    ],
+                    [
+                        412,
+                        447
+                    ],
+                    [
+                        412,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856851,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.335Z",
+            "updatedAt": "2023-09-20T11:04:04.335Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        447,
+                        430
+                    ],
+                    [
+                        460,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856850,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.335Z",
+            "updatedAt": "2023-09-20T11:04:04.335Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        467,
+                        435
+                    ],
+                    [
+                        489,
+                        455
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856849,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.335Z",
+            "updatedAt": "2023-09-20T11:04:04.335Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        496,
+                        444
+                    ],
+                    [
+                        516,
+                        455
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856848,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.335Z",
+            "updatedAt": "2023-09-20T11:04:04.335Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        524,
+                        436
+                    ],
+                    [
+                        545,
+                        456
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856847,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.335Z",
+            "updatedAt": "2023-09-20T11:04:04.335Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        551,
+                        440
+                    ],
+                    [
+                        573,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856846,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.335Z",
+            "updatedAt": "2023-09-20T11:04:04.335Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        581,
+                        452
+                    ],
+                    [
+                        585,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856845,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.334Z",
+            "updatedAt": "2023-09-20T11:04:04.334Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        551,
+                        460
+                    ],
+                    [
+                        573,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856844,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.334Z",
+            "updatedAt": "2023-09-20T11:04:04.334Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        524,
+                        460
+                    ],
+                    [
+                        542,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856843,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.334Z",
+            "updatedAt": "2023-09-20T11:04:04.334Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        472,
+                        458
+                    ],
+                    [
+                        488,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856842,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.334Z",
+            "updatedAt": "2023-09-20T11:04:04.334Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        494,
+                        459
+                    ],
+                    [
+                        517,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856841,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.333Z",
+            "updatedAt": "2023-09-20T11:04:04.333Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        458
+                    ],
+                    [
+                        460,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856840,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.333Z",
+            "updatedAt": "2023-09-20T11:04:04.333Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        457
+                    ],
+                    [
+                        412,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856839,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.333Z",
+            "updatedAt": "2023-09-20T11:04:04.333Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        446
+                    ],
+                    [
+                        412,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856838,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.333Z",
+            "updatedAt": "2023-09-20T11:04:04.333Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        401
+                    ],
+                    [
+                        481,
+                        410
+                    ],
+                    [
+                        476,
+                        406
+                    ],
+                    [
+                        474,
+                        400
+                    ],
+                    [
+                        472,
+                        402
+                    ],
+                    [
+                        474,
+                        411
+                    ],
+                    [
+                        479,
+                        414
+                    ],
+                    [
+                        480,
+                        417
+                    ],
+                    [
+                        481,
+                        417
+                    ],
+                    [
+                        487,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856837,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.333Z",
+            "updatedAt": "2023-09-20T11:04:04.333Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        465,
+                        390
+                    ],
+                    [
+                        471,
+                        392
+                    ],
+                    [
+                        473,
+                        392
+                    ],
+                    [
+                        473,
+                        396
+                    ],
+                    [
+                        474,
+                        396
+                    ],
+                    [
+                        477,
+                        390
+                    ],
+                    [
+                        477,
+                        388
+                    ],
+                    [
+                        465,
+                        388
+                    ],
+                    [
+                        464,
+                        388
+                    ],
+                    [
+                        465,
+                        391
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856836,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.333Z",
+            "updatedAt": "2023-09-20T11:04:04.333Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        394
+                    ],
+                    [
+                        490,
+                        391
+                    ],
+                    [
+                        496,
+                        391
+                    ],
+                    [
+                        496,
+                        393
+                    ],
+                    [
+                        490,
+                        394
+                    ],
+                    [
+                        489,
+                        396
+                    ],
+                    [
+                        488,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856835,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.333Z",
+            "updatedAt": "2023-09-20T11:04:04.333Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        514,
+                        408
+                    ],
+                    [
+                        524,
+                        409
+                    ],
+                    [
+                        528,
+                        413
+                    ],
+                    [
+                        528,
+                        414
+                    ],
+                    [
+                        520,
+                        413
+                    ],
+                    [
+                        515,
+                        413
+                    ],
+                    [
+                        515,
+                        412
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856834,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.333Z",
+            "updatedAt": "2023-09-20T11:04:04.333Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        472,
+                        400
+                    ],
+                    [
+                        487,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856833,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.333Z",
+            "updatedAt": "2023-09-20T11:04:04.333Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        464,
+                        388
+                    ],
+                    [
+                        477,
+                        396
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856832,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.332Z",
+            "updatedAt": "2023-09-20T11:04:04.332Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        391
+                    ],
+                    [
+                        496,
+                        396
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856831,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.332Z",
+            "updatedAt": "2023-09-20T11:04:04.332Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        514,
+                        408
+                    ],
+                    [
+                        528,
+                        414
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856830,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.332Z",
+            "updatedAt": "2023-09-20T11:04:04.332Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        518,
+                        402
+                    ],
+                    [
+                        523,
+                        404
+                    ],
+                    [
+                        528,
+                        405
+                    ],
+                    [
+                        532,
+                        406
+                    ],
+                    [
+                        537,
+                        406
+                    ],
+                    [
+                        542,
+                        406
+                    ],
+                    [
+                        545,
+                        410
+                    ],
+                    [
+                        548,
+                        419
+                    ],
+                    [
+                        543,
+                        421
+                    ],
+                    [
+                        541,
+                        423
+                    ],
+                    [
+                        522,
+                        422
+                    ],
+                    [
+                        523,
+                        418
+                    ],
+                    [
+                        524,
+                        414
+                    ],
+                    [
+                        519,
+                        410
+                    ],
+                    [
+                        514,
+                        409
+                    ],
+                    [
+                        514,
+                        406
+                    ],
+                    [
+                        514,
+                        404
+                    ],
+                    [
+                        517,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856829,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.332Z",
+            "updatedAt": "2023-09-20T11:04:04.332Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        528,
+                        431
+                    ],
+                    [
+                        531,
+                        434
+                    ],
+                    [
+                        533,
+                        435
+                    ],
+                    [
+                        536,
+                        433
+                    ],
+                    [
+                        543,
+                        431
+                    ],
+                    [
+                        544,
+                        430
+                    ],
+                    [
+                        540,
+                        442
+                    ],
+                    [
+                        535,
+                        443
+                    ],
+                    [
+                        527,
+                        441
+                    ],
+                    [
+                        524,
+                        435
+                    ],
+                    [
+                        524,
+                        432
+                    ],
+                    [
+                        526,
+                        427
+                    ],
+                    [
+                        533,
+                        427
+                    ],
+                    [
+                        532,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856828,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.331Z",
+            "updatedAt": "2023-09-20T11:04:04.331Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        552,
+                        429
+                    ],
+                    [
+                        565,
+                        431
+                    ],
+                    [
+                        573,
+                        436
+                    ],
+                    [
+                        573,
+                        442
+                    ],
+                    [
+                        572,
+                        444
+                    ],
+                    [
+                        565,
+                        443
+                    ],
+                    [
+                        552,
+                        439
+                    ],
+                    [
+                        552,
+                        436
+                    ],
+                    [
+                        551,
+                        431
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856827,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.331Z",
+            "updatedAt": "2023-09-20T11:04:04.331Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        502,
+                        428
+                    ],
+                    [
+                        516,
+                        432
+                    ],
+                    [
+                        516,
+                        434
+                    ],
+                    [
+                        513,
+                        434
+                    ],
+                    [
+                        497,
+                        428
+                    ],
+                    [
+                        500,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856826,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.331Z",
+            "updatedAt": "2023-09-20T11:04:04.331Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        514,
+                        402
+                    ],
+                    [
+                        548,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856825,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.331Z",
+            "updatedAt": "2023-09-20T11:04:04.331Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        524,
+                        427
+                    ],
+                    [
+                        544,
+                        443
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856824,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.330Z",
+            "updatedAt": "2023-09-20T11:04:04.330Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        551,
+                        429
+                    ],
+                    [
+                        573,
+                        444
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856823,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.330Z",
+            "updatedAt": "2023-09-20T11:04:04.330Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        497,
+                        427
+                    ],
+                    [
+                        516,
+                        434
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856822,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.330Z",
+            "updatedAt": "2023-09-20T11:04:04.330Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        532,
+                        400
+                    ],
+                    [
+                        543,
+                        400
+                    ],
+                    [
+                        549,
+                        403
+                    ],
+                    [
+                        550,
+                        406
+                    ],
+                    [
+                        550,
+                        410
+                    ],
+                    [
+                        548,
+                        412
+                    ],
+                    [
+                        545,
+                        410
+                    ],
+                    [
+                        538,
+                        406
+                    ],
+                    [
+                        526,
+                        406
+                    ],
+                    [
+                        514,
+                        404
+                    ],
+                    [
+                        516,
+                        400
+                    ],
+                    [
+                        518,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856821,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.330Z",
+            "updatedAt": "2023-09-20T11:04:04.330Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        514,
+                        400
+                    ],
+                    [
+                        550,
+                        412
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856820,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.330Z",
+            "updatedAt": "2023-09-20T11:04:04.330Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        523,
+                        422
+                    ],
+                    [
+                        523,
+                        417
+                    ],
+                    [
+                        523,
+                        414
+                    ],
+                    [
+                        522,
+                        413
+                    ],
+                    [
+                        515,
+                        413
+                    ],
+                    [
+                        515,
+                        419
+                    ],
+                    [
+                        515,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856819,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.330Z",
+            "updatedAt": "2023-09-20T11:04:04.330Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        512,
+                        451
+                    ],
+                    [
+                        512,
+                        443
+                    ],
+                    [
+                        493,
+                        437
+                    ],
+                    [
+                        480,
+                        433
+                    ],
+                    [
+                        465,
+                        429
+                    ],
+                    [
+                        468,
+                        435
+                    ],
+                    [
+                        514,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856818,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.329Z",
+            "updatedAt": "2023-09-20T11:04:04.329Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        515,
+                        413
+                    ],
+                    [
+                        523,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856817,
+            "classId": 6461764,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.328Z",
+            "updatedAt": "2023-09-20T11:04:04.328Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        465,
+                        429
+                    ],
+                    [
+                        514,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856816,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.328Z",
+            "updatedAt": "2023-09-20T11:04:04.328Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        133
+                    ],
+                    [
+                        358,
+                        91
+                    ],
+                    [
+                        358,
+                        57
+                    ],
+                    [
+                        360,
+                        40
+                    ],
+                    [
+                        360,
+                        36
+                    ],
+                    [
+                        363,
+                        35
+                    ],
+                    [
+                        368,
+                        35
+                    ],
+                    [
+                        380,
+                        36
+                    ],
+                    [
+                        394,
+                        39
+                    ],
+                    [
+                        394,
+                        41
+                    ],
+                    [
+                        424,
+                        44
+                    ],
+                    [
+                        428,
+                        54
+                    ],
+                    [
+                        426,
+                        65
+                    ],
+                    [
+                        424,
+                        66
+                    ],
+                    [
+                        398,
+                        69
+                    ],
+                    [
+                        393,
+                        72
+                    ],
+                    [
+                        393,
+                        84
+                    ],
+                    [
+                        421,
+                        88
+                    ],
+                    [
+                        425,
+                        97
+                    ],
+                    [
+                        426,
+                        110
+                    ],
+                    [
+                        421,
+                        110
+                    ],
+                    [
+                        404,
+                        113
+                    ],
+                    [
+                        392,
+                        114
+                    ],
+                    [
+                        391,
+                        129
+                    ],
+                    [
+                        413,
+                        130
+                    ],
+                    [
+                        422,
+                        132
+                    ],
+                    [
+                        424,
+                        143
+                    ],
+                    [
+                        424,
+                        152
+                    ],
+                    [
+                        419,
+                        154
+                    ],
+                    [
+                        391,
+                        157
+                    ],
+                    [
+                        391,
+                        169
+                    ],
+                    [
+                        370,
+                        169
+                    ],
+                    [
+                        361,
+                        170
+                    ],
+                    [
+                        354,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47856815,
+            "classId": 6461772,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:04.328Z",
+            "updatedAt": "2023-09-20T11:04:04.328Z",
+            "tags": [],
+            "classTitle": "traffic light",
+            "points": {
+                "exterior": [
+                    [
+                        354,
+                        35
+                    ],
+                    [
+                        428,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

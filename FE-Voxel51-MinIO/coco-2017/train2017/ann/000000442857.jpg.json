@@ -1,0 +1,360 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4579734,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A baby giraffe looking at its mother in an enclosure.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:28.925Z",
+            "updatedAt": "2023-09-20T10:36:28.925Z"
+        },
+        {
+            "id": 4579735,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A mother giraffe and her offspring in a zoo setting.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:28.925Z",
+            "updatedAt": "2023-09-20T10:36:28.925Z"
+        },
+        {
+            "id": 4579736,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The baby giraffe is standing in the middle there is also another giraffe to its side.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:28.925Z",
+            "updatedAt": "2023-09-20T10:36:28.925Z"
+        },
+        {
+            "id": 4579737,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Two captive giraffes stand in the sunlight in the zoo.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:28.925Z",
+            "updatedAt": "2023-09-20T10:36:28.925Z"
+        },
+        {
+            "id": 4579738,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The baby giraffe stands idly in his zoo habitat.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:28.925Z",
+            "updatedAt": "2023-09-20T10:36:28.925Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 46311467,
+            "classId": 6461786,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:28.927Z",
+            "updatedAt": "2023-09-20T10:36:28.927Z",
+            "tags": [],
+            "classTitle": "giraffe",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        587
+                    ],
+                    [
+                        224,
+                        472
+                    ],
+                    [
+                        217,
+                        433
+                    ],
+                    [
+                        234,
+                        373
+                    ],
+                    [
+                        244,
+                        342
+                    ],
+                    [
+                        233,
+                        268
+                    ],
+                    [
+                        231,
+                        246
+                    ],
+                    [
+                        250,
+                        255
+                    ],
+                    [
+                        259,
+                        240
+                    ],
+                    [
+                        289,
+                        253
+                    ],
+                    [
+                        323,
+                        295
+                    ],
+                    [
+                        307,
+                        298
+                    ],
+                    [
+                        275,
+                        290
+                    ],
+                    [
+                        282,
+                        383
+                    ],
+                    [
+                        290,
+                        463
+                    ],
+                    [
+                        288,
+                        597
+                    ],
+                    [
+                        272,
+                        600
+                    ],
+                    [
+                        264,
+                        472
+                    ],
+                    [
+                        250,
+                        535
+                    ],
+                    [
+                        232,
+                        612
+                    ],
+                    [
+                        221,
+                        617
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46311466,
+            "classId": 6461786,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:28.927Z",
+            "updatedAt": "2023-09-20T10:36:28.927Z",
+            "tags": [],
+            "classTitle": "giraffe",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        240
+                    ],
+                    [
+                        323,
+                        617
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46311465,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:28.927Z",
+            "updatedAt": "2023-09-20T10:36:28.927Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        477,
+                        587
+                    ],
+                    [
+                        433,
+                        577
+                    ],
+                    [
+                        400,
+                        503
+                    ],
+                    [
+                        414,
+                        426
+                    ],
+                    [
+                        479,
+                        289
+                    ],
+                    [
+                        479,
+                        581
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46311464,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:28.927Z",
+            "updatedAt": "2023-09-20T10:36:28.927Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        400,
+                        289
+                    ],
+                    [
+                        479,
+                        587
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46311463,
+            "classId": 6461786,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:28.927Z",
+            "updatedAt": "2023-09-20T10:36:28.927Z",
+            "tags": [],
+            "classTitle": "giraffe",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        139
+                    ],
+                    [
+                        387,
+                        155
+                    ],
+                    [
+                        374,
+                        162
+                    ],
+                    [
+                        365,
+                        172
+                    ],
+                    [
+                        350,
+                        176
+                    ],
+                    [
+                        349,
+                        162
+                    ],
+                    [
+                        356,
+                        144
+                    ],
+                    [
+                        371,
+                        103
+                    ],
+                    [
+                        383,
+                        85
+                    ],
+                    [
+                        387,
+                        73
+                    ],
+                    [
+                        400,
+                        74
+                    ],
+                    [
+                        401,
+                        85
+                    ],
+                    [
+                        402,
+                        90
+                    ],
+                    [
+                        411,
+                        87
+                    ],
+                    [
+                        470,
+                        119
+                    ],
+                    [
+                        479,
+                        124
+                    ],
+                    [
+                        479,
+                        181
+                    ],
+                    [
+                        421,
+                        145
+                    ],
+                    [
+                        419,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46311462,
+            "classId": 6461786,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:28.926Z",
+            "updatedAt": "2023-09-20T10:36:28.926Z",
+            "tags": [],
+            "classTitle": "giraffe",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        73
+                    ],
+                    [
+                        479,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

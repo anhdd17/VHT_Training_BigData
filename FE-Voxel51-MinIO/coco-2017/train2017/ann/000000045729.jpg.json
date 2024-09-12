@@ -1,0 +1,888 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4704433,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A snow covered forest on the side of a mountain.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.158Z",
+            "updatedAt": "2023-09-20T10:44:19.158Z"
+        },
+        {
+            "id": 4704434,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A forest with snow covered trees and people skiing",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.158Z",
+            "updatedAt": "2023-09-20T10:44:19.158Z"
+        },
+        {
+            "id": 4704435,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A groomed path in the snow near some slopes",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.158Z",
+            "updatedAt": "2023-09-20T10:44:19.158Z"
+        },
+        {
+            "id": 4704436,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A scenic mountain with a lot of trees and people skiing.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.158Z",
+            "updatedAt": "2023-09-20T10:44:19.158Z"
+        },
+        {
+            "id": 4704437,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "There is a snowy mountain range covered in trees",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.158Z",
+            "updatedAt": "2023-09-20T10:44:19.158Z"
+        }
+    ],
+    "size": {
+        "height": 384,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46745646,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.162Z",
+            "updatedAt": "2023-09-20T10:44:19.162Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        310
+                    ],
+                    [
+                        202,
+                        312
+                    ],
+                    [
+                        199,
+                        315
+                    ],
+                    [
+                        198,
+                        320
+                    ],
+                    [
+                        198,
+                        322
+                    ],
+                    [
+                        200,
+                        325
+                    ],
+                    [
+                        199,
+                        328
+                    ],
+                    [
+                        199,
+                        331
+                    ],
+                    [
+                        198,
+                        333
+                    ],
+                    [
+                        199,
+                        333
+                    ],
+                    [
+                        200,
+                        332
+                    ],
+                    [
+                        202,
+                        329
+                    ],
+                    [
+                        203,
+                        327
+                    ],
+                    [
+                        204,
+                        327
+                    ],
+                    [
+                        204,
+                        334
+                    ],
+                    [
+                        205,
+                        334
+                    ],
+                    [
+                        207,
+                        333
+                    ],
+                    [
+                        207,
+                        330
+                    ],
+                    [
+                        207,
+                        324
+                    ],
+                    [
+                        207,
+                        323
+                    ],
+                    [
+                        207,
+                        319
+                    ],
+                    [
+                        207,
+                        316
+                    ],
+                    [
+                        206,
+                        312
+                    ],
+                    [
+                        207,
+                        310
+                    ],
+                    [
+                        203,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745645,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.161Z",
+            "updatedAt": "2023-09-20T10:44:19.161Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        309
+                    ],
+                    [
+                        207,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745644,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.161Z",
+            "updatedAt": "2023-09-20T10:44:19.161Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        329
+                    ],
+                    [
+                        223,
+                        323
+                    ],
+                    [
+                        221,
+                        318
+                    ],
+                    [
+                        223,
+                        314
+                    ],
+                    [
+                        224,
+                        313
+                    ],
+                    [
+                        224,
+                        311
+                    ],
+                    [
+                        226,
+                        312
+                    ],
+                    [
+                        226,
+                        314
+                    ],
+                    [
+                        228,
+                        318
+                    ],
+                    [
+                        228,
+                        322
+                    ],
+                    [
+                        228,
+                        323
+                    ],
+                    [
+                        228,
+                        325
+                    ],
+                    [
+                        228,
+                        327
+                    ],
+                    [
+                        228,
+                        330
+                    ],
+                    [
+                        226,
+                        329
+                    ],
+                    [
+                        226,
+                        327
+                    ],
+                    [
+                        226,
+                        323
+                    ],
+                    [
+                        224,
+                        323
+                    ],
+                    [
+                        224,
+                        325
+                    ],
+                    [
+                        223,
+                        328
+                    ],
+                    [
+                        223,
+                        329
+                    ],
+                    [
+                        223,
+                        330
+                    ],
+                    [
+                        222,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745643,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.161Z",
+            "updatedAt": "2023-09-20T10:44:19.161Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        311
+                    ],
+                    [
+                        228,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745642,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.161Z",
+            "updatedAt": "2023-09-20T10:44:19.161Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        258
+                    ],
+                    [
+                        235,
+                        254
+                    ],
+                    [
+                        235,
+                        252
+                    ],
+                    [
+                        236,
+                        251
+                    ],
+                    [
+                        235,
+                        250
+                    ],
+                    [
+                        235,
+                        247
+                    ],
+                    [
+                        232,
+                        246
+                    ],
+                    [
+                        231,
+                        247
+                    ],
+                    [
+                        231,
+                        252
+                    ],
+                    [
+                        230,
+                        252
+                    ],
+                    [
+                        232,
+                        254
+                    ],
+                    [
+                        231,
+                        258
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745641,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.161Z",
+            "updatedAt": "2023-09-20T10:44:19.161Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        246
+                    ],
+                    [
+                        236,
+                        258
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745640,
+            "classId": 6461793,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.160Z",
+            "updatedAt": "2023-09-20T10:44:19.160Z",
+            "tags": [],
+            "classTitle": "skis",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        329
+                    ],
+                    [
+                        225,
+                        329
+                    ],
+                    [
+                        225,
+                        329
+                    ],
+                    [
+                        219,
+                        330
+                    ],
+                    [
+                        219,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745639,
+            "classId": 6461793,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.160Z",
+            "updatedAt": "2023-09-20T10:44:19.160Z",
+            "tags": [],
+            "classTitle": "skis",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        330
+                    ],
+                    [
+                        228,
+                        329
+                    ],
+                    [
+                        226,
+                        329
+                    ],
+                    [
+                        225,
+                        330
+                    ],
+                    [
+                        227,
+                        330
+                    ],
+                    [
+                        230,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745638,
+            "classId": 6461793,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.160Z",
+            "updatedAt": "2023-09-20T10:44:19.160Z",
+            "tags": [],
+            "classTitle": "skis",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        329
+                    ],
+                    [
+                        225,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745637,
+            "classId": 6461793,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.160Z",
+            "updatedAt": "2023-09-20T10:44:19.160Z",
+            "tags": [],
+            "classTitle": "skis",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        329
+                    ],
+                    [
+                        230,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745636,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.160Z",
+            "updatedAt": "2023-09-20T10:44:19.160Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        348,
+                        320
+                    ],
+                    [
+                        352,
+                        319
+                    ],
+                    [
+                        351,
+                        316
+                    ],
+                    [
+                        351,
+                        313
+                    ],
+                    [
+                        348,
+                        313
+                    ],
+                    [
+                        347,
+                        315
+                    ],
+                    [
+                        348,
+                        318
+                    ],
+                    [
+                        349,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745635,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.160Z",
+            "updatedAt": "2023-09-20T10:44:19.160Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        347,
+                        313
+                    ],
+                    [
+                        352,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745634,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.159Z",
+            "updatedAt": "2023-09-20T10:44:19.159Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        315
+                    ],
+                    [
+                        414,
+                        313
+                    ],
+                    [
+                        414,
+                        311
+                    ],
+                    [
+                        415,
+                        311
+                    ],
+                    [
+                        415,
+                        312
+                    ],
+                    [
+                        416,
+                        314
+                    ],
+                    [
+                        416,
+                        315
+                    ],
+                    [
+                        415,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745633,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.159Z",
+            "updatedAt": "2023-09-20T10:44:19.159Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        311
+                    ],
+                    [
+                        416,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745632,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.159Z",
+            "updatedAt": "2023-09-20T10:44:19.159Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        319
+                    ],
+                    [
+                        357,
+                        318
+                    ],
+                    [
+                        356,
+                        316
+                    ],
+                    [
+                        357,
+                        315
+                    ],
+                    [
+                        358,
+                        315
+                    ],
+                    [
+                        359,
+                        313
+                    ],
+                    [
+                        359,
+                        315
+                    ],
+                    [
+                        359,
+                        318
+                    ],
+                    [
+                        361,
+                        319
+                    ],
+                    [
+                        359,
+                        318
+                    ],
+                    [
+                        358,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745631,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.159Z",
+            "updatedAt": "2023-09-20T10:44:19.159Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        313
+                    ],
+                    [
+                        361,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745630,
+            "classId": 6461793,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.159Z",
+            "updatedAt": "2023-09-20T10:44:19.159Z",
+            "tags": [],
+            "classTitle": "skis",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        334
+                    ],
+                    [
+                        195,
+                        334
+                    ],
+                    [
+                        201,
+                        334
+                    ],
+                    [
+                        198,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745629,
+            "classId": 6461793,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.159Z",
+            "updatedAt": "2023-09-20T10:44:19.159Z",
+            "tags": [],
+            "classTitle": "skis",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        333
+                    ],
+                    [
+                        209,
+                        333
+                    ],
+                    [
+                        209,
+                        332
+                    ],
+                    [
+                        211,
+                        333
+                    ],
+                    [
+                        211,
+                        333
+                    ],
+                    [
+                        207,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745628,
+            "classId": 6461793,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.159Z",
+            "updatedAt": "2023-09-20T10:44:19.159Z",
+            "tags": [],
+            "classTitle": "skis",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        333
+                    ],
+                    [
+                        201,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46745627,
+            "classId": 6461793,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:44:19.158Z",
+            "updatedAt": "2023-09-20T10:44:19.158Z",
+            "tags": [],
+            "classTitle": "skis",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        332
+                    ],
+                    [
+                        211,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

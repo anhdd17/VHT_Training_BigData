@@ -1,0 +1,336 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4880162,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The view through the door of a small, tiled bathroom.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:11.571Z",
+            "updatedAt": "2023-09-20T10:55:11.571Z"
+        },
+        {
+            "id": 4880163,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The bathroom has an open window on the wall. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:11.571Z",
+            "updatedAt": "2023-09-20T10:55:11.571Z"
+        },
+        {
+            "id": 4880164,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a toilet and a tub in a bathroom",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:11.571Z",
+            "updatedAt": "2023-09-20T10:55:11.571Z"
+        },
+        {
+            "id": 4880165,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An entrance view of a three piece bathroom.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:11.571Z",
+            "updatedAt": "2023-09-20T10:55:11.571Z"
+        },
+        {
+            "id": 4880166,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An empty tiled bathroom with a sink, tub and toilet.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:11.571Z",
+            "updatedAt": "2023-09-20T10:55:11.571Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 47360671,
+            "classId": 6461824,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:11.572Z",
+            "updatedAt": "2023-09-20T10:55:11.572Z",
+            "tags": [],
+            "classTitle": "toilet",
+            "points": {
+                "exterior": [
+                    [
+                        212,
+                        386
+                    ],
+                    [
+                        229,
+                        392
+                    ],
+                    [
+                        229,
+                        398
+                    ],
+                    [
+                        229,
+                        404
+                    ],
+                    [
+                        229,
+                        418
+                    ],
+                    [
+                        228,
+                        430
+                    ],
+                    [
+                        223,
+                        443
+                    ],
+                    [
+                        221,
+                        461
+                    ],
+                    [
+                        205,
+                        476
+                    ],
+                    [
+                        166,
+                        484
+                    ],
+                    [
+                        151,
+                        480
+                    ],
+                    [
+                        153,
+                        448
+                    ],
+                    [
+                        156,
+                        441
+                    ],
+                    [
+                        160,
+                        434
+                    ],
+                    [
+                        174,
+                        424
+                    ],
+                    [
+                        187,
+                        418
+                    ],
+                    [
+                        208,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47360670,
+            "classId": 6461824,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:11.572Z",
+            "updatedAt": "2023-09-20T10:55:11.572Z",
+            "tags": [],
+            "classTitle": "toilet",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        386
+                    ],
+                    [
+                        229,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47360669,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:11.572Z",
+            "updatedAt": "2023-09-20T10:55:11.572Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        347
+                    ],
+                    [
+                        164,
+                        341
+                    ],
+                    [
+                        161,
+                        339
+                    ],
+                    [
+                        145,
+                        335
+                    ],
+                    [
+                        136,
+                        337
+                    ],
+                    [
+                        129,
+                        337
+                    ],
+                    [
+                        120,
+                        335
+                    ],
+                    [
+                        109,
+                        332
+                    ],
+                    [
+                        100,
+                        333
+                    ],
+                    [
+                        104,
+                        338
+                    ],
+                    [
+                        106,
+                        344
+                    ],
+                    [
+                        104,
+                        348
+                    ],
+                    [
+                        102,
+                        350
+                    ],
+                    [
+                        106,
+                        410
+                    ],
+                    [
+                        124,
+                        411
+                    ],
+                    [
+                        124,
+                        417
+                    ],
+                    [
+                        124,
+                        427
+                    ],
+                    [
+                        119,
+                        436
+                    ],
+                    [
+                        117,
+                        437
+                    ],
+                    [
+                        113,
+                        431
+                    ],
+                    [
+                        116,
+                        422
+                    ],
+                    [
+                        111,
+                        421
+                    ],
+                    [
+                        110,
+                        439
+                    ],
+                    [
+                        115,
+                        441
+                    ],
+                    [
+                        158,
+                        428
+                    ],
+                    [
+                        167,
+                        419
+                    ],
+                    [
+                        178,
+                        415
+                    ],
+                    [
+                        197,
+                        405
+                    ],
+                    [
+                        206,
+                        395
+                    ],
+                    [
+                        209,
+                        386
+                    ],
+                    [
+                        212,
+                        370
+                    ],
+                    [
+                        201,
+                        356
+                    ],
+                    [
+                        187,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47360668,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:55:11.571Z",
+            "updatedAt": "2023-09-20T10:55:11.571Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        332
+                    ],
+                    [
+                        212,
+                        441
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

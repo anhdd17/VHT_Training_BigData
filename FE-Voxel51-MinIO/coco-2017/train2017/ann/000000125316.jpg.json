@@ -1,0 +1,608 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5021462,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a large elephant is laying down near a person",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:00.468Z",
+            "updatedAt": "2023-09-20T11:04:00.468Z"
+        },
+        {
+            "id": 5021463,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a very large elephant that is siting on the ground",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:00.468Z",
+            "updatedAt": "2023-09-20T11:04:00.468Z"
+        },
+        {
+            "id": 5021464,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An elephant is bathed by his human keepers.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:00.468Z",
+            "updatedAt": "2023-09-20T11:04:00.468Z"
+        },
+        {
+            "id": 5021465,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "large elephant laying down beside two standing men",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:00.468Z",
+            "updatedAt": "2023-09-20T11:04:00.468Z"
+        },
+        {
+            "id": 5021466,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An elephant lays on its side in the water, trying to keep cool.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:00.468Z",
+            "updatedAt": "2023-09-20T11:04:00.468Z"
+        }
+    ],
+    "size": {
+        "height": 329,
+        "width": 585
+    },
+    "objects": [
+        {
+            "id": 47852737,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:00.470Z",
+            "updatedAt": "2023-09-20T11:04:00.470Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        507,
+                        160
+                    ],
+                    [
+                        522,
+                        146
+                    ],
+                    [
+                        527,
+                        146
+                    ],
+                    [
+                        538,
+                        139
+                    ],
+                    [
+                        548,
+                        139
+                    ],
+                    [
+                        554,
+                        148
+                    ],
+                    [
+                        542,
+                        163
+                    ],
+                    [
+                        540,
+                        165
+                    ],
+                    [
+                        535,
+                        179
+                    ],
+                    [
+                        528,
+                        185
+                    ],
+                    [
+                        530,
+                        188
+                    ],
+                    [
+                        528,
+                        193
+                    ],
+                    [
+                        523,
+                        208
+                    ],
+                    [
+                        525,
+                        227
+                    ],
+                    [
+                        525,
+                        244
+                    ],
+                    [
+                        514,
+                        267
+                    ],
+                    [
+                        512,
+                        271
+                    ],
+                    [
+                        505,
+                        267
+                    ],
+                    [
+                        507,
+                        256
+                    ],
+                    [
+                        512,
+                        249
+                    ],
+                    [
+                        508,
+                        242
+                    ],
+                    [
+                        495,
+                        239
+                    ],
+                    [
+                        490,
+                        246
+                    ],
+                    [
+                        488,
+                        245
+                    ],
+                    [
+                        503,
+                        188
+                    ],
+                    [
+                        505,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47852736,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:00.470Z",
+            "updatedAt": "2023-09-20T11:04:00.470Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        139
+                    ],
+                    [
+                        554,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47852735,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:00.469Z",
+            "updatedAt": "2023-09-20T11:04:00.469Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        130
+                    ],
+                    [
+                        135,
+                        117
+                    ],
+                    [
+                        132,
+                        112
+                    ],
+                    [
+                        143,
+                        92
+                    ],
+                    [
+                        156,
+                        78
+                    ],
+                    [
+                        157,
+                        67
+                    ],
+                    [
+                        164,
+                        49
+                    ],
+                    [
+                        180,
+                        53
+                    ],
+                    [
+                        186,
+                        66
+                    ],
+                    [
+                        180,
+                        78
+                    ],
+                    [
+                        178,
+                        89
+                    ],
+                    [
+                        178,
+                        98
+                    ],
+                    [
+                        180,
+                        104
+                    ],
+                    [
+                        152,
+                        115
+                    ],
+                    [
+                        141,
+                        121
+                    ],
+                    [
+                        138,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47852734,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:00.469Z",
+            "updatedAt": "2023-09-20T11:04:00.469Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        49
+                    ],
+                    [
+                        186,
+                        130
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47852733,
+            "classId": 6461783,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:00.468Z",
+            "updatedAt": "2023-09-20T11:04:00.468Z",
+            "tags": [],
+            "classTitle": "elephant",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        159
+                    ],
+                    [
+                        117,
+                        131
+                    ],
+                    [
+                        131,
+                        125
+                    ],
+                    [
+                        139,
+                        120
+                    ],
+                    [
+                        147,
+                        116
+                    ],
+                    [
+                        158,
+                        111
+                    ],
+                    [
+                        174,
+                        108
+                    ],
+                    [
+                        206,
+                        103
+                    ],
+                    [
+                        230,
+                        100
+                    ],
+                    [
+                        252,
+                        98
+                    ],
+                    [
+                        266,
+                        98
+                    ],
+                    [
+                        281,
+                        98
+                    ],
+                    [
+                        324,
+                        84
+                    ],
+                    [
+                        338,
+                        78
+                    ],
+                    [
+                        346,
+                        73
+                    ],
+                    [
+                        353,
+                        66
+                    ],
+                    [
+                        367,
+                        52
+                    ],
+                    [
+                        384,
+                        42
+                    ],
+                    [
+                        398,
+                        30
+                    ],
+                    [
+                        401,
+                        27
+                    ],
+                    [
+                        437,
+                        32
+                    ],
+                    [
+                        454,
+                        55
+                    ],
+                    [
+                        468,
+                        69
+                    ],
+                    [
+                        475,
+                        76
+                    ],
+                    [
+                        486,
+                        107
+                    ],
+                    [
+                        508,
+                        141
+                    ],
+                    [
+                        510,
+                        197
+                    ],
+                    [
+                        489,
+                        243
+                    ],
+                    [
+                        514,
+                        274
+                    ],
+                    [
+                        532,
+                        285
+                    ],
+                    [
+                        521,
+                        291
+                    ],
+                    [
+                        496,
+                        299
+                    ],
+                    [
+                        482,
+                        298
+                    ],
+                    [
+                        479,
+                        298
+                    ],
+                    [
+                        478,
+                        295
+                    ],
+                    [
+                        478,
+                        289
+                    ],
+                    [
+                        473,
+                        282
+                    ],
+                    [
+                        465,
+                        285
+                    ],
+                    [
+                        448,
+                        288
+                    ],
+                    [
+                        436,
+                        283
+                    ],
+                    [
+                        426,
+                        277
+                    ],
+                    [
+                        418,
+                        274
+                    ],
+                    [
+                        428,
+                        291
+                    ],
+                    [
+                        370,
+                        280
+                    ],
+                    [
+                        371,
+                        269
+                    ],
+                    [
+                        360,
+                        258
+                    ],
+                    [
+                        342,
+                        254
+                    ],
+                    [
+                        293,
+                        254
+                    ],
+                    [
+                        290,
+                        248
+                    ],
+                    [
+                        251,
+                        257
+                    ],
+                    [
+                        131,
+                        242
+                    ],
+                    [
+                        111,
+                        238
+                    ],
+                    [
+                        100,
+                        229
+                    ],
+                    [
+                        92,
+                        223
+                    ],
+                    [
+                        72,
+                        233
+                    ],
+                    [
+                        35,
+                        224
+                    ],
+                    [
+                        32,
+                        217
+                    ],
+                    [
+                        33,
+                        208
+                    ],
+                    [
+                        37,
+                        201
+                    ],
+                    [
+                        46,
+                        199
+                    ],
+                    [
+                        57,
+                        194
+                    ],
+                    [
+                        61,
+                        191
+                    ],
+                    [
+                        60,
+                        184
+                    ],
+                    [
+                        60,
+                        184
+                    ],
+                    [
+                        59,
+                        180
+                    ],
+                    [
+                        65,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47852732,
+            "classId": 6461783,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:04:00.468Z",
+            "updatedAt": "2023-09-20T11:04:00.468Z",
+            "tags": [],
+            "classTitle": "elephant",
+            "points": {
+                "exterior": [
+                    [
+                        32,
+                        27
+                    ],
+                    [
+                        532,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

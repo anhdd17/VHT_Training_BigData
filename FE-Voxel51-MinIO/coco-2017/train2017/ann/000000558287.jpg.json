@@ -1,0 +1,216 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4581085,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Most very small kitchens don't have as many drawers as this one has.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:33.233Z",
+            "updatedAt": "2023-09-20T10:36:33.233Z"
+        },
+        {
+            "id": 4581086,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An empty kitchen with gas burner stove, and washing machine.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:33.233Z",
+            "updatedAt": "2023-09-20T10:36:33.233Z"
+        },
+        {
+            "id": 4581087,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A kitchen with a white stove top oven sitting next to a dishwasher.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:33.233Z",
+            "updatedAt": "2023-09-20T10:36:33.233Z"
+        },
+        {
+            "id": 4581088,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "cabinets a sink dishwasher and stove and a window",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:33.233Z",
+            "updatedAt": "2023-09-20T10:36:33.233Z"
+        },
+        {
+            "id": 4581089,
+            "tagId": 20959,
+            "name": "caption",
+            "value": " couple of wood cabinets are hanging in a home kitchen",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:33.233Z",
+            "updatedAt": "2023-09-20T10:36:33.233Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46316227,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:33.234Z",
+            "updatedAt": "2023-09-20T10:36:33.234Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        294
+                    ],
+                    [
+                        273,
+                        307
+                    ],
+                    [
+                        221,
+                        321
+                    ],
+                    [
+                        154,
+                        326
+                    ],
+                    [
+                        135,
+                        328
+                    ],
+                    [
+                        125,
+                        312
+                    ],
+                    [
+                        116,
+                        307
+                    ],
+                    [
+                        170,
+                        298
+                    ],
+                    [
+                        197,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46316226,
+            "classId": 6461834,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:33.234Z",
+            "updatedAt": "2023-09-20T10:36:33.234Z",
+            "tags": [],
+            "classTitle": "sink",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        294
+                    ],
+                    [
+                        273,
+                        328
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46316225,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:33.233Z",
+            "updatedAt": "2023-09-20T10:36:33.233Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        255
+                    ],
+                    [
+                        490,
+                        238
+                    ],
+                    [
+                        494,
+                        255
+                    ],
+                    [
+                        569,
+                        277
+                    ],
+                    [
+                        575,
+                        456
+                    ],
+                    [
+                        546,
+                        468
+                    ],
+                    [
+                        459,
+                        470
+                    ],
+                    [
+                        462,
+                        295
+                    ],
+                    [
+                        394,
+                        274
+                    ],
+                    [
+                        389,
+                        270
+                    ],
+                    [
+                        389,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46316224,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:36:33.233Z",
+            "updatedAt": "2023-09-20T10:36:33.233Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        238
+                    ],
+                    [
+                        575,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

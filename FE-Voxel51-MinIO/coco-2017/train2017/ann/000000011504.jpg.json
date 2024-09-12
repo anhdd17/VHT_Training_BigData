@@ -1,0 +1,536 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4958222,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Sandwich served on plate at table with beverage.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.969Z",
+            "updatedAt": "2023-09-20T11:00:02.969Z"
+        },
+        {
+            "id": 4958223,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Looking down at a salad sandwich on a roll with a beer",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.969Z",
+            "updatedAt": "2023-09-20T11:00:02.969Z"
+        },
+        {
+            "id": 4958224,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Lunch is a fresh vegetable sandwich with eggs on a long bun.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.969Z",
+            "updatedAt": "2023-09-20T11:00:02.969Z"
+        },
+        {
+            "id": 4958225,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a plate that has a big sandwich on it",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.969Z",
+            "updatedAt": "2023-09-20T11:00:02.969Z"
+        },
+        {
+            "id": 4958226,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a close up of a sandwich on a plate ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.969Z",
+            "updatedAt": "2023-09-20T11:00:02.969Z"
+        }
+    ],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 47631390,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.973Z",
+            "updatedAt": "2023-09-20T11:00:02.973Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        499,
+                        7
+                    ],
+                    [
+                        499,
+                        370
+                    ],
+                    [
+                        7,
+                        368
+                    ],
+                    [
+                        7,
+                        91
+                    ],
+                    [
+                        8,
+                        6
+                    ],
+                    [
+                        66,
+                        5
+                    ],
+                    [
+                        349,
+                        2
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47631389,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.972Z",
+            "updatedAt": "2023-09-20T11:00:02.972Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        2
+                    ],
+                    [
+                        499,
+                        370
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47631388,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.972Z",
+            "updatedAt": "2023-09-20T11:00:02.972Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        92
+                    ],
+                    [
+                        336,
+                        48
+                    ],
+                    [
+                        342,
+                        0
+                    ],
+                    [
+                        494,
+                        0
+                    ],
+                    [
+                        484,
+                        22
+                    ],
+                    [
+                        437,
+                        100
+                    ],
+                    [
+                        423,
+                        122
+                    ],
+                    [
+                        415,
+                        156
+                    ],
+                    [
+                        414,
+                        160
+                    ],
+                    [
+                        423,
+                        190
+                    ],
+                    [
+                        418,
+                        202
+                    ],
+                    [
+                        412,
+                        209
+                    ],
+                    [
+                        391,
+                        215
+                    ],
+                    [
+                        368,
+                        215
+                    ],
+                    [
+                        359,
+                        203
+                    ],
+                    [
+                        339,
+                        183
+                    ],
+                    [
+                        327,
+                        173
+                    ],
+                    [
+                        327,
+                        160
+                    ],
+                    [
+                        338,
+                        143
+                    ],
+                    [
+                        343,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47631387,
+            "classId": 6461804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.971Z",
+            "updatedAt": "2023-09-20T11:00:02.971Z",
+            "tags": [],
+            "classTitle": "cup",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        0
+                    ],
+                    [
+                        494,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47631386,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.971Z",
+            "updatedAt": "2023-09-20T11:00:02.971Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        64,
+                        84
+                    ],
+                    [
+                        14,
+                        86
+                    ],
+                    [
+                        0,
+                        83
+                    ],
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        41,
+                        3
+                    ],
+                    [
+                        68,
+                        9
+                    ],
+                    [
+                        65,
+                        16
+                    ],
+                    [
+                        83,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47631385,
+            "classId": 6461836,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.971Z",
+            "updatedAt": "2023-09-20T11:00:02.971Z",
+            "tags": [],
+            "classTitle": "book",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        83,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47631384,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.970Z",
+            "updatedAt": "2023-09-20T11:00:02.970Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        179
+                    ],
+                    [
+                        153,
+                        149
+                    ],
+                    [
+                        47,
+                        132
+                    ],
+                    [
+                        14,
+                        131
+                    ],
+                    [
+                        2,
+                        140
+                    ],
+                    [
+                        1,
+                        216
+                    ],
+                    [
+                        51,
+                        254
+                    ],
+                    [
+                        101,
+                        290
+                    ],
+                    [
+                        152,
+                        307
+                    ],
+                    [
+                        179,
+                        322
+                    ],
+                    [
+                        196,
+                        356
+                    ],
+                    [
+                        206,
+                        370
+                    ],
+                    [
+                        269,
+                        362
+                    ],
+                    [
+                        289,
+                        354
+                    ],
+                    [
+                        295,
+                        335
+                    ],
+                    [
+                        319,
+                        322
+                    ],
+                    [
+                        340,
+                        300
+                    ],
+                    [
+                        351,
+                        255
+                    ],
+                    [
+                        345,
+                        218
+                    ],
+                    [
+                        304,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47631383,
+            "classId": 6461811,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.970Z",
+            "updatedAt": "2023-09-20T11:00:02.970Z",
+            "tags": [],
+            "classTitle": "sandwich",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        131
+                    ],
+                    [
+                        351,
+                        370
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47631382,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.970Z",
+            "updatedAt": "2023-09-20T11:00:02.970Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        137
+                    ],
+                    [
+                        154,
+                        112
+                    ],
+                    [
+                        151,
+                        89
+                    ],
+                    [
+                        170,
+                        62
+                    ],
+                    [
+                        189,
+                        56
+                    ],
+                    [
+                        233,
+                        50
+                    ],
+                    [
+                        267,
+                        54
+                    ],
+                    [
+                        287,
+                        68
+                    ],
+                    [
+                        296,
+                        84
+                    ],
+                    [
+                        296,
+                        103
+                    ],
+                    [
+                        292,
+                        137
+                    ],
+                    [
+                        270,
+                        146
+                    ],
+                    [
+                        238,
+                        138
+                    ],
+                    [
+                        209,
+                        136
+                    ],
+                    [
+                        185,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 47631381,
+            "classId": 6461808,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T11:00:02.969Z",
+            "updatedAt": "2023-09-20T11:00:02.969Z",
+            "tags": [],
+            "classTitle": "bowl",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        50
+                    ],
+                    [
+                        296,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

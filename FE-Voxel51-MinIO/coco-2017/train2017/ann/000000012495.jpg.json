@@ -1,0 +1,664 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4550789,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Several zebras standing in grass during the day. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.254Z",
+            "updatedAt": "2023-09-20T10:34:46.254Z"
+        },
+        {
+            "id": 4550790,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A group of zebras standing in a field",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.254Z",
+            "updatedAt": "2023-09-20T10:34:46.254Z"
+        },
+        {
+            "id": 4550791,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Close up photo of the heads of a few different zebras",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.254Z",
+            "updatedAt": "2023-09-20T10:34:46.254Z"
+        },
+        {
+            "id": 4550792,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Three zebras are standing in a grassy field.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.254Z",
+            "updatedAt": "2023-09-20T10:34:46.254Z"
+        },
+        {
+            "id": 4550793,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Three zebra standing next to each other on a field.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.254Z",
+            "updatedAt": "2023-09-20T10:34:46.254Z"
+        }
+    ],
+    "size": {
+        "height": 425,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46210551,
+            "classId": 6461785,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.260Z",
+            "updatedAt": "2023-09-20T10:34:46.260Z",
+            "tags": [],
+            "classTitle": "zebra",
+            "points": {
+                "exterior": [
+                    [
+                        96,
+                        417
+                    ],
+                    [
+                        80,
+                        348
+                    ],
+                    [
+                        58,
+                        335
+                    ],
+                    [
+                        38,
+                        305
+                    ],
+                    [
+                        6,
+                        222
+                    ],
+                    [
+                        1,
+                        203
+                    ],
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        103,
+                        2
+                    ],
+                    [
+                        144,
+                        38
+                    ],
+                    [
+                        160,
+                        63
+                    ],
+                    [
+                        198,
+                        83
+                    ],
+                    [
+                        217,
+                        85
+                    ],
+                    [
+                        262,
+                        98
+                    ],
+                    [
+                        248,
+                        110
+                    ],
+                    [
+                        261,
+                        143
+                    ],
+                    [
+                        243,
+                        181
+                    ],
+                    [
+                        220,
+                        218
+                    ],
+                    [
+                        202,
+                        244
+                    ],
+                    [
+                        188,
+                        267
+                    ],
+                    [
+                        179,
+                        299
+                    ],
+                    [
+                        182,
+                        334
+                    ],
+                    [
+                        210,
+                        363
+                    ],
+                    [
+                        195,
+                        370
+                    ],
+                    [
+                        194,
+                        412
+                    ],
+                    [
+                        183,
+                        418
+                    ],
+                    [
+                        166,
+                        418
+                    ],
+                    [
+                        94,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46210550,
+            "classId": 6461785,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.260Z",
+            "updatedAt": "2023-09-20T10:34:46.260Z",
+            "tags": [],
+            "classTitle": "zebra",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        365
+                    ],
+                    [
+                        247,
+                        345
+                    ],
+                    [
+                        301,
+                        305
+                    ],
+                    [
+                        326,
+                        295
+                    ],
+                    [
+                        355,
+                        300
+                    ],
+                    [
+                        378,
+                        282
+                    ],
+                    [
+                        413,
+                        318
+                    ],
+                    [
+                        422,
+                        350
+                    ],
+                    [
+                        372,
+                        368
+                    ],
+                    [
+                        303,
+                        373
+                    ],
+                    [
+                        260,
+                        371
+                    ],
+                    [
+                        240,
+                        361
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46210549,
+            "classId": 6461785,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.259Z",
+            "updatedAt": "2023-09-20T10:34:46.259Z",
+            "tags": [],
+            "classTitle": "zebra",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        262,
+                        418
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46210548,
+            "classId": 6461785,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.259Z",
+            "updatedAt": "2023-09-20T10:34:46.259Z",
+            "tags": [],
+            "classTitle": "zebra",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        282
+                    ],
+                    [
+                        422,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46210547,
+            "classId": 6461785,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.258Z",
+            "updatedAt": "2023-09-20T10:34:46.258Z",
+            "tags": [],
+            "classTitle": "zebra",
+            "points": {
+                "exterior": [
+                    [
+                        437,
+                        30
+                    ],
+                    [
+                        510,
+                        2
+                    ],
+                    [
+                        509,
+                        24
+                    ],
+                    [
+                        503,
+                        36
+                    ],
+                    [
+                        516,
+                        53
+                    ],
+                    [
+                        540,
+                        64
+                    ],
+                    [
+                        576,
+                        78
+                    ],
+                    [
+                        600,
+                        81
+                    ],
+                    [
+                        630,
+                        81
+                    ],
+                    [
+                        639,
+                        88
+                    ],
+                    [
+                        639,
+                        157
+                    ],
+                    [
+                        636,
+                        183
+                    ],
+                    [
+                        635,
+                        190
+                    ],
+                    [
+                        616,
+                        167
+                    ],
+                    [
+                        611,
+                        155
+                    ],
+                    [
+                        586,
+                        147
+                    ],
+                    [
+                        551,
+                        122
+                    ],
+                    [
+                        540,
+                        100
+                    ],
+                    [
+                        532,
+                        96
+                    ],
+                    [
+                        501,
+                        88
+                    ],
+                    [
+                        462,
+                        70
+                    ],
+                    [
+                        445,
+                        56
+                    ],
+                    [
+                        425,
+                        40
+                    ],
+                    [
+                        436,
+                        31
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46210546,
+            "classId": 6461785,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.258Z",
+            "updatedAt": "2023-09-20T10:34:46.258Z",
+            "tags": [],
+            "classTitle": "zebra",
+            "points": {
+                "exterior": [
+                    [
+                        425,
+                        2
+                    ],
+                    [
+                        639,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46210545,
+            "classId": 6461785,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.257Z",
+            "updatedAt": "2023-09-20T10:34:46.257Z",
+            "tags": [],
+            "classTitle": "zebra",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        24
+                    ],
+                    [
+                        364,
+                        2
+                    ],
+                    [
+                        525,
+                        0
+                    ],
+                    [
+                        587,
+                        45
+                    ],
+                    [
+                        604,
+                        86
+                    ],
+                    [
+                        538,
+                        59
+                    ],
+                    [
+                        504,
+                        36
+                    ],
+                    [
+                        510,
+                        6
+                    ],
+                    [
+                        508,
+                        3
+                    ],
+                    [
+                        446,
+                        24
+                    ],
+                    [
+                        414,
+                        40
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46210544,
+            "classId": 6461785,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.256Z",
+            "updatedAt": "2023-09-20T10:34:46.256Z",
+            "tags": [],
+            "classTitle": "zebra",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        0
+                    ],
+                    [
+                        604,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46210543,
+            "classId": 6461785,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.256Z",
+            "updatedAt": "2023-09-20T10:34:46.256Z",
+            "tags": [],
+            "classTitle": "zebra",
+            "points": {
+                "exterior": [
+                    [
+                        468,
+                        417
+                    ],
+                    [
+                        454,
+                        386
+                    ],
+                    [
+                        428,
+                        336
+                    ],
+                    [
+                        385,
+                        282
+                    ],
+                    [
+                        359,
+                        300
+                    ],
+                    [
+                        331,
+                        291
+                    ],
+                    [
+                        259,
+                        337
+                    ],
+                    [
+                        228,
+                        363
+                    ],
+                    [
+                        195,
+                        345
+                    ],
+                    [
+                        183,
+                        310
+                    ],
+                    [
+                        180,
+                        283
+                    ],
+                    [
+                        206,
+                        237
+                    ],
+                    [
+                        243,
+                        181
+                    ],
+                    [
+                        275,
+                        117
+                    ],
+                    [
+                        261,
+                        96
+                    ],
+                    [
+                        266,
+                        64
+                    ],
+                    [
+                        303,
+                        34
+                    ],
+                    [
+                        335,
+                        25
+                    ],
+                    [
+                        396,
+                        30
+                    ],
+                    [
+                        431,
+                        42
+                    ],
+                    [
+                        474,
+                        74
+                    ],
+                    [
+                        535,
+                        104
+                    ],
+                    [
+                        566,
+                        133
+                    ],
+                    [
+                        606,
+                        156
+                    ],
+                    [
+                        621,
+                        184
+                    ],
+                    [
+                        639,
+                        186
+                    ],
+                    [
+                        639,
+                        301
+                    ],
+                    [
+                        638,
+                        416
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46210542,
+            "classId": 6461785,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:34:46.255Z",
+            "updatedAt": "2023-09-20T10:34:46.255Z",
+            "tags": [],
+            "classTitle": "zebra",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        25
+                    ],
+                    [
+                        639,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

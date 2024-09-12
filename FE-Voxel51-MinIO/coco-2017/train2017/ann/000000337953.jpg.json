@@ -1,0 +1,1828 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4510624,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Four smiling adults holding glasses of red and white wine.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.126Z",
+            "updatedAt": "2023-09-20T10:32:27.126Z"
+        },
+        {
+            "id": 4510625,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Four friends are posing for the camera in an outdoor setting.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.126Z",
+            "updatedAt": "2023-09-20T10:32:27.126Z"
+        },
+        {
+            "id": 4510626,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A group of people are posing for a picture while drinking wine.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.126Z",
+            "updatedAt": "2023-09-20T10:32:27.126Z"
+        },
+        {
+            "id": 4510627,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A group of people with wine glasses stand together.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.126Z",
+            "updatedAt": "2023-09-20T10:32:27.126Z"
+        },
+        {
+            "id": 4510628,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Some people gathering to take a picture under a tent. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.126Z",
+            "updatedAt": "2023-09-20T10:32:27.126Z"
+        }
+    ],
+    "size": {
+        "height": 480,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46071987,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.137Z",
+            "updatedAt": "2023-09-20T10:32:27.137Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        258
+                    ],
+                    [
+                        190,
+                        300
+                    ],
+                    [
+                        195,
+                        346
+                    ],
+                    [
+                        193,
+                        385
+                    ],
+                    [
+                        197,
+                        410
+                    ],
+                    [
+                        193,
+                        444
+                    ],
+                    [
+                        316,
+                        476
+                    ],
+                    [
+                        331,
+                        449
+                    ],
+                    [
+                        337,
+                        399
+                    ],
+                    [
+                        359,
+                        375
+                    ],
+                    [
+                        347,
+                        277
+                    ],
+                    [
+                        345,
+                        251
+                    ],
+                    [
+                        329,
+                        242
+                    ],
+                    [
+                        333,
+                        212
+                    ],
+                    [
+                        314,
+                        178
+                    ],
+                    [
+                        308,
+                        124
+                    ],
+                    [
+                        300,
+                        110
+                    ],
+                    [
+                        276,
+                        96
+                    ],
+                    [
+                        237,
+                        99
+                    ],
+                    [
+                        232,
+                        134
+                    ],
+                    [
+                        223,
+                        169
+                    ],
+                    [
+                        215,
+                        192
+                    ],
+                    [
+                        204,
+                        231
+                    ],
+                    [
+                        193,
+                        247
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071986,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.136Z",
+            "updatedAt": "2023-09-20T10:32:27.136Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        96
+                    ],
+                    [
+                        359,
+                        476
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071985,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.136Z",
+            "updatedAt": "2023-09-20T10:32:27.136Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        122
+                    ],
+                    [
+                        325,
+                        112
+                    ],
+                    [
+                        345,
+                        104
+                    ],
+                    [
+                        351,
+                        75
+                    ],
+                    [
+                        353,
+                        63
+                    ],
+                    [
+                        359,
+                        61
+                    ],
+                    [
+                        376,
+                        57
+                    ],
+                    [
+                        399,
+                        57
+                    ],
+                    [
+                        412,
+                        62
+                    ],
+                    [
+                        416,
+                        72
+                    ],
+                    [
+                        422,
+                        79
+                    ],
+                    [
+                        424,
+                        88
+                    ],
+                    [
+                        434,
+                        89
+                    ],
+                    [
+                        448,
+                        89
+                    ],
+                    [
+                        465,
+                        98
+                    ],
+                    [
+                        476,
+                        108
+                    ],
+                    [
+                        461,
+                        138
+                    ],
+                    [
+                        441,
+                        152
+                    ],
+                    [
+                        436,
+                        156
+                    ],
+                    [
+                        436,
+                        169
+                    ],
+                    [
+                        442,
+                        165
+                    ],
+                    [
+                        455,
+                        176
+                    ],
+                    [
+                        461,
+                        183
+                    ],
+                    [
+                        468,
+                        183
+                    ],
+                    [
+                        479,
+                        192
+                    ],
+                    [
+                        484,
+                        237
+                    ],
+                    [
+                        490,
+                        248
+                    ],
+                    [
+                        494,
+                        254
+                    ],
+                    [
+                        496,
+                        258
+                    ],
+                    [
+                        496,
+                        275
+                    ],
+                    [
+                        505,
+                        288
+                    ],
+                    [
+                        491,
+                        303
+                    ],
+                    [
+                        485,
+                        331
+                    ],
+                    [
+                        485,
+                        356
+                    ],
+                    [
+                        478,
+                        370
+                    ],
+                    [
+                        450,
+                        377
+                    ],
+                    [
+                        454,
+                        400
+                    ],
+                    [
+                        455,
+                        412
+                    ],
+                    [
+                        445,
+                        415
+                    ],
+                    [
+                        441,
+                        422
+                    ],
+                    [
+                        438,
+                        436
+                    ],
+                    [
+                        438,
+                        444
+                    ],
+                    [
+                        442,
+                        453
+                    ],
+                    [
+                        451,
+                        456
+                    ],
+                    [
+                        450,
+                        466
+                    ],
+                    [
+                        448,
+                        476
+                    ],
+                    [
+                        327,
+                        474
+                    ],
+                    [
+                        326,
+                        453
+                    ],
+                    [
+                        335,
+                        440
+                    ],
+                    [
+                        335,
+                        402
+                    ],
+                    [
+                        361,
+                        373
+                    ],
+                    [
+                        345,
+                        252
+                    ],
+                    [
+                        341,
+                        244
+                    ],
+                    [
+                        348,
+                        227
+                    ],
+                    [
+                        371,
+                        195
+                    ],
+                    [
+                        374,
+                        189
+                    ],
+                    [
+                        369,
+                        183
+                    ],
+                    [
+                        360,
+                        168
+                    ],
+                    [
+                        357,
+                        164
+                    ],
+                    [
+                        334,
+                        161
+                    ],
+                    [
+                        321,
+                        150
+                    ],
+                    [
+                        305,
+                        140
+                    ],
+                    [
+                        310,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071984,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.135Z",
+            "updatedAt": "2023-09-20T10:32:27.135Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        57
+                    ],
+                    [
+                        505,
+                        476
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071983,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.135Z",
+            "updatedAt": "2023-09-20T10:32:27.135Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        479
+                    ],
+                    [
+                        453,
+                        460
+                    ],
+                    [
+                        445,
+                        454
+                    ],
+                    [
+                        438,
+                        444
+                    ],
+                    [
+                        441,
+                        427
+                    ],
+                    [
+                        456,
+                        402
+                    ],
+                    [
+                        462,
+                        412
+                    ],
+                    [
+                        477,
+                        423
+                    ],
+                    [
+                        495,
+                        418
+                    ],
+                    [
+                        506,
+                        403
+                    ],
+                    [
+                        507,
+                        380
+                    ],
+                    [
+                        491,
+                        369
+                    ],
+                    [
+                        478,
+                        371
+                    ],
+                    [
+                        483,
+                        349
+                    ],
+                    [
+                        492,
+                        310
+                    ],
+                    [
+                        503,
+                        295
+                    ],
+                    [
+                        502,
+                        285
+                    ],
+                    [
+                        498,
+                        261
+                    ],
+                    [
+                        483,
+                        243
+                    ],
+                    [
+                        478,
+                        215
+                    ],
+                    [
+                        476,
+                        173
+                    ],
+                    [
+                        478,
+                        138
+                    ],
+                    [
+                        503,
+                        104
+                    ],
+                    [
+                        526,
+                        97
+                    ],
+                    [
+                        543,
+                        92
+                    ],
+                    [
+                        567,
+                        90
+                    ],
+                    [
+                        587,
+                        109
+                    ],
+                    [
+                        613,
+                        139
+                    ],
+                    [
+                        618,
+                        175
+                    ],
+                    [
+                        632,
+                        189
+                    ],
+                    [
+                        637,
+                        216
+                    ],
+                    [
+                        626,
+                        240
+                    ],
+                    [
+                        639,
+                        253
+                    ],
+                    [
+                        639,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071982,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.135Z",
+            "updatedAt": "2023-09-20T10:32:27.135Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        438,
+                        90
+                    ],
+                    [
+                        639,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071981,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.134Z",
+            "updatedAt": "2023-09-20T10:32:27.134Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        185
+                    ],
+                    [
+                        199,
+                        179
+                    ],
+                    [
+                        189,
+                        172
+                    ],
+                    [
+                        191,
+                        166
+                    ],
+                    [
+                        189,
+                        165
+                    ],
+                    [
+                        189,
+                        161
+                    ],
+                    [
+                        193,
+                        153
+                    ],
+                    [
+                        199,
+                        144
+                    ],
+                    [
+                        214,
+                        146
+                    ],
+                    [
+                        217,
+                        166
+                    ],
+                    [
+                        214,
+                        172
+                    ],
+                    [
+                        221,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071980,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.134Z",
+            "updatedAt": "2023-09-20T10:32:27.134Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        144
+                    ],
+                    [
+                        221,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071979,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.133Z",
+            "updatedAt": "2023-09-20T10:32:27.133Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        622,
+                        168
+                    ],
+                    [
+                        629,
+                        166
+                    ],
+                    [
+                        629,
+                        162
+                    ],
+                    [
+                        626,
+                        159
+                    ],
+                    [
+                        624,
+                        151
+                    ],
+                    [
+                        624,
+                        138
+                    ],
+                    [
+                        625,
+                        125
+                    ],
+                    [
+                        627,
+                        116
+                    ],
+                    [
+                        638,
+                        113
+                    ],
+                    [
+                        639,
+                        113
+                    ],
+                    [
+                        639,
+                        248
+                    ],
+                    [
+                        631,
+                        243
+                    ],
+                    [
+                        628,
+                        238
+                    ],
+                    [
+                        627,
+                        231
+                    ],
+                    [
+                        628,
+                        219
+                    ],
+                    [
+                        629,
+                        210
+                    ],
+                    [
+                        630,
+                        199
+                    ],
+                    [
+                        628,
+                        190
+                    ],
+                    [
+                        625,
+                        182
+                    ],
+                    [
+                        621,
+                        172
+                    ],
+                    [
+                        621,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071978,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.133Z",
+            "updatedAt": "2023-09-20T10:32:27.133Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        621,
+                        113
+                    ],
+                    [
+                        639,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071977,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.133Z",
+            "updatedAt": "2023-09-20T10:32:27.133Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        466,
+                        353
+                    ],
+                    [
+                        458,
+                        368
+                    ],
+                    [
+                        454,
+                        384
+                    ],
+                    [
+                        456,
+                        397
+                    ],
+                    [
+                        462,
+                        409
+                    ],
+                    [
+                        467,
+                        417
+                    ],
+                    [
+                        481,
+                        426
+                    ],
+                    [
+                        485,
+                        425
+                    ],
+                    [
+                        499,
+                        415
+                    ],
+                    [
+                        507,
+                        403
+                    ],
+                    [
+                        510,
+                        382
+                    ],
+                    [
+                        508,
+                        366
+                    ],
+                    [
+                        507,
+                        358
+                    ],
+                    [
+                        499,
+                        354
+                    ],
+                    [
+                        489,
+                        352
+                    ],
+                    [
+                        475,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071976,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.132Z",
+            "updatedAt": "2023-09-20T10:32:27.132Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        462
+                    ],
+                    [
+                        492,
+                        466
+                    ],
+                    [
+                        498,
+                        474
+                    ],
+                    [
+                        497,
+                        479
+                    ],
+                    [
+                        453,
+                        479
+                    ],
+                    [
+                        448,
+                        472
+                    ],
+                    [
+                        450,
+                        466
+                    ],
+                    [
+                        458,
+                        462
+                    ],
+                    [
+                        470,
+                        466
+                    ],
+                    [
+                        479,
+                        463
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071975,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.131Z",
+            "updatedAt": "2023-09-20T10:32:27.131Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        349
+                    ],
+                    [
+                        510,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071974,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.131Z",
+            "updatedAt": "2023-09-20T10:32:27.131Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        462
+                    ],
+                    [
+                        498,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071973,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.130Z",
+            "updatedAt": "2023-09-20T10:32:27.130Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        276
+                    ],
+                    [
+                        261,
+                        289
+                    ],
+                    [
+                        261,
+                        301
+                    ],
+                    [
+                        266,
+                        316
+                    ],
+                    [
+                        271,
+                        324
+                    ],
+                    [
+                        280,
+                        323
+                    ],
+                    [
+                        282,
+                        321
+                    ],
+                    [
+                        293,
+                        311
+                    ],
+                    [
+                        296,
+                        302
+                    ],
+                    [
+                        297,
+                        282
+                    ],
+                    [
+                        295,
+                        278
+                    ],
+                    [
+                        290,
+                        274
+                    ],
+                    [
+                        278,
+                        273
+                    ],
+                    [
+                        271,
+                        273
+                    ],
+                    [
+                        265,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071972,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.130Z",
+            "updatedAt": "2023-09-20T10:32:27.130Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        341
+                    ],
+                    [
+                        270,
+                        351
+                    ],
+                    [
+                        266,
+                        352
+                    ],
+                    [
+                        259,
+                        352
+                    ],
+                    [
+                        257,
+                        354
+                    ],
+                    [
+                        256,
+                        356
+                    ],
+                    [
+                        255,
+                        360
+                    ],
+                    [
+                        260,
+                        363
+                    ],
+                    [
+                        266,
+                        365
+                    ],
+                    [
+                        272,
+                        365
+                    ],
+                    [
+                        274,
+                        365
+                    ],
+                    [
+                        280,
+                        365
+                    ],
+                    [
+                        281,
+                        365
+                    ],
+                    [
+                        284,
+                        364
+                    ],
+                    [
+                        287,
+                        364
+                    ],
+                    [
+                        288,
+                        363
+                    ],
+                    [
+                        288,
+                        360
+                    ],
+                    [
+                        288,
+                        357
+                    ],
+                    [
+                        283,
+                        356
+                    ],
+                    [
+                        282,
+                        355
+                    ],
+                    [
+                        281,
+                        355
+                    ],
+                    [
+                        280,
+                        354
+                    ],
+                    [
+                        278,
+                        352
+                    ],
+                    [
+                        277,
+                        350
+                    ],
+                    [
+                        277,
+                        346
+                    ],
+                    [
+                        277,
+                        344
+                    ],
+                    [
+                        277,
+                        341
+                    ],
+                    [
+                        276,
+                        340
+                    ],
+                    [
+                        274,
+                        340
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071971,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.130Z",
+            "updatedAt": "2023-09-20T10:32:27.130Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        273
+                    ],
+                    [
+                        297,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071970,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.130Z",
+            "updatedAt": "2023-09-20T10:32:27.130Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        340
+                    ],
+                    [
+                        288,
+                        365
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071969,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.129Z",
+            "updatedAt": "2023-09-20T10:32:27.129Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        362
+                    ],
+                    [
+                        369,
+                        385
+                    ],
+                    [
+                        375,
+                        397
+                    ],
+                    [
+                        380,
+                        395
+                    ],
+                    [
+                        407,
+                        392
+                    ],
+                    [
+                        407,
+                        384
+                    ],
+                    [
+                        396,
+                        383
+                    ],
+                    [
+                        392,
+                        377
+                    ],
+                    [
+                        392,
+                        374
+                    ],
+                    [
+                        395,
+                        373
+                    ],
+                    [
+                        396,
+                        373
+                    ],
+                    [
+                        398,
+                        375
+                    ],
+                    [
+                        401,
+                        376
+                    ],
+                    [
+                        405,
+                        373
+                    ],
+                    [
+                        403,
+                        357
+                    ],
+                    [
+                        389,
+                        356
+                    ],
+                    [
+                        376,
+                        358
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071968,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.129Z",
+            "updatedAt": "2023-09-20T10:32:27.129Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        356
+                    ],
+                    [
+                        407,
+                        397
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071967,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.128Z",
+            "updatedAt": "2023-09-20T10:32:27.128Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        186
+                    ],
+                    [
+                        20,
+                        172
+                    ],
+                    [
+                        55,
+                        147
+                    ],
+                    [
+                        71,
+                        135
+                    ],
+                    [
+                        62,
+                        71
+                    ],
+                    [
+                        81,
+                        52
+                    ],
+                    [
+                        94,
+                        47
+                    ],
+                    [
+                        108,
+                        40
+                    ],
+                    [
+                        146,
+                        42
+                    ],
+                    [
+                        151,
+                        85
+                    ],
+                    [
+                        160,
+                        108
+                    ],
+                    [
+                        156,
+                        141
+                    ],
+                    [
+                        160,
+                        163
+                    ],
+                    [
+                        198,
+                        194
+                    ],
+                    [
+                        212,
+                        222
+                    ],
+                    [
+                        194,
+                        247
+                    ],
+                    [
+                        190,
+                        279
+                    ],
+                    [
+                        196,
+                        466
+                    ],
+                    [
+                        9,
+                        473
+                    ],
+                    [
+                        21,
+                        388
+                    ],
+                    [
+                        2,
+                        368
+                    ],
+                    [
+                        2,
+                        368
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071966,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.128Z",
+            "updatedAt": "2023-09-20T10:32:27.128Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        40
+                    ],
+                    [
+                        212,
+                        473
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071965,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.128Z",
+            "updatedAt": "2023-09-20T10:32:27.128Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        473,
+                        188
+                    ],
+                    [
+                        467,
+                        183
+                    ],
+                    [
+                        459,
+                        183
+                    ],
+                    [
+                        445,
+                        165
+                    ],
+                    [
+                        447,
+                        160
+                    ],
+                    [
+                        450,
+                        157
+                    ],
+                    [
+                        453,
+                        154
+                    ],
+                    [
+                        459,
+                        152
+                    ],
+                    [
+                        469,
+                        148
+                    ],
+                    [
+                        474,
+                        151
+                    ],
+                    [
+                        477,
+                        152
+                    ],
+                    [
+                        476,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071964,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.127Z",
+            "updatedAt": "2023-09-20T10:32:27.127Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        445,
+                        148
+                    ],
+                    [
+                        477,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071963,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.127Z",
+            "updatedAt": "2023-09-20T10:32:27.127Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        381
+                    ],
+                    [
+                        101,
+                        374
+                    ],
+                    [
+                        99,
+                        367
+                    ],
+                    [
+                        100,
+                        356
+                    ],
+                    [
+                        102,
+                        347
+                    ],
+                    [
+                        106,
+                        341
+                    ],
+                    [
+                        117,
+                        340
+                    ],
+                    [
+                        127,
+                        341
+                    ],
+                    [
+                        130,
+                        343
+                    ],
+                    [
+                        134,
+                        369
+                    ],
+                    [
+                        132,
+                        378
+                    ],
+                    [
+                        126,
+                        386
+                    ],
+                    [
+                        120,
+                        388
+                    ],
+                    [
+                        109,
+                        383
+                    ],
+                    [
+                        103,
+                        381
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071962,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.126Z",
+            "updatedAt": "2023-09-20T10:32:27.126Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        408
+                    ],
+                    [
+                        127,
+                        419
+                    ],
+                    [
+                        132,
+                        419
+                    ],
+                    [
+                        140,
+                        422
+                    ],
+                    [
+                        134,
+                        425
+                    ],
+                    [
+                        116,
+                        432
+                    ],
+                    [
+                        110,
+                        430
+                    ],
+                    [
+                        106,
+                        427
+                    ],
+                    [
+                        109,
+                        423
+                    ],
+                    [
+                        113,
+                        420
+                    ],
+                    [
+                        120,
+                        419
+                    ],
+                    [
+                        119,
+                        413
+                    ],
+                    [
+                        122,
+                        409
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071961,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.126Z",
+            "updatedAt": "2023-09-20T10:32:27.126Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        340
+                    ],
+                    [
+                        134,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46071960,
+            "classId": 6461803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:32:27.126Z",
+            "updatedAt": "2023-09-20T10:32:27.126Z",
+            "tags": [],
+            "classTitle": "wine glass",
+            "points": {
+                "exterior": [
+                    [
+                        106,
+                        408
+                    ],
+                    [
+                        140,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

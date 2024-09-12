@@ -1,0 +1,1036 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4760581,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Inside the archway is a glimpse into the other rooms of the house.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.704Z",
+            "updatedAt": "2023-09-20T10:47:49.704Z"
+        },
+        {
+            "id": 4760582,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "an arched door way leading into the kitchen ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.704Z",
+            "updatedAt": "2023-09-20T10:47:49.704Z"
+        },
+        {
+            "id": 4760583,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A view of a living room through a window",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.704Z",
+            "updatedAt": "2023-09-20T10:47:49.704Z"
+        },
+        {
+            "id": 4760584,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An arched doorway leading into the kitchen and tv room of a home",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.704Z",
+            "updatedAt": "2023-09-20T10:47:49.704Z"
+        },
+        {
+            "id": 4760585,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An arched doorway leads to a furnished living area.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.704Z",
+            "updatedAt": "2023-09-20T10:47:49.704Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 46942624,
+            "classId": 6461825,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.720Z",
+            "updatedAt": "2023-09-20T10:47:49.720Z",
+            "tags": [],
+            "classTitle": "tv",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        298
+                    ],
+                    [
+                        317,
+                        295
+                    ],
+                    [
+                        316,
+                        291
+                    ],
+                    [
+                        314,
+                        242
+                    ],
+                    [
+                        317,
+                        237
+                    ],
+                    [
+                        325,
+                        235
+                    ],
+                    [
+                        337,
+                        235
+                    ],
+                    [
+                        340,
+                        241
+                    ],
+                    [
+                        339,
+                        297
+                    ],
+                    [
+                        336,
+                        301
+                    ],
+                    [
+                        327,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942623,
+            "classId": 6461825,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.720Z",
+            "updatedAt": "2023-09-20T10:47:49.720Z",
+            "tags": [],
+            "classTitle": "tv",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        235
+                    ],
+                    [
+                        340,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942622,
+            "classId": 6461820,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.719Z",
+            "updatedAt": "2023-09-20T10:47:49.719Z",
+            "tags": [],
+            "classTitle": "couch",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        348
+                    ],
+                    [
+                        120,
+                        351
+                    ],
+                    [
+                        119,
+                        315
+                    ],
+                    [
+                        119,
+                        315
+                    ],
+                    [
+                        119,
+                        311
+                    ],
+                    [
+                        160,
+                        312
+                    ],
+                    [
+                        165,
+                        319
+                    ],
+                    [
+                        167,
+                        326
+                    ],
+                    [
+                        165,
+                        331
+                    ],
+                    [
+                        162,
+                        333
+                    ],
+                    [
+                        162,
+                        336
+                    ],
+                    [
+                        161,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942621,
+            "classId": 6461820,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.716Z",
+            "updatedAt": "2023-09-20T10:47:49.716Z",
+            "tags": [],
+            "classTitle": "couch",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        311
+                    ],
+                    [
+                        167,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942620,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.716Z",
+            "updatedAt": "2023-09-20T10:47:49.716Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        371
+                    ],
+                    [
+                        237,
+                        389
+                    ],
+                    [
+                        238,
+                        389
+                    ],
+                    [
+                        241,
+                        371
+                    ],
+                    [
+                        247,
+                        370
+                    ],
+                    [
+                        259,
+                        368
+                    ],
+                    [
+                        265,
+                        367
+                    ],
+                    [
+                        277,
+                        368
+                    ],
+                    [
+                        278,
+                        368
+                    ],
+                    [
+                        279,
+                        379
+                    ],
+                    [
+                        281,
+                        379
+                    ],
+                    [
+                        280,
+                        368
+                    ],
+                    [
+                        284,
+                        368
+                    ],
+                    [
+                        283,
+                        387
+                    ],
+                    [
+                        286,
+                        387
+                    ],
+                    [
+                        286,
+                        375
+                    ],
+                    [
+                        287,
+                        350
+                    ],
+                    [
+                        286,
+                        337
+                    ],
+                    [
+                        284,
+                        332
+                    ],
+                    [
+                        280,
+                        327
+                    ],
+                    [
+                        273,
+                        327
+                    ],
+                    [
+                        252,
+                        328
+                    ],
+                    [
+                        247,
+                        328
+                    ],
+                    [
+                        243,
+                        315
+                    ],
+                    [
+                        241,
+                        299
+                    ],
+                    [
+                        238,
+                        296
+                    ],
+                    [
+                        235,
+                        300
+                    ],
+                    [
+                        240,
+                        320
+                    ],
+                    [
+                        240,
+                        328
+                    ],
+                    [
+                        238,
+                        332
+                    ],
+                    [
+                        237,
+                        335
+                    ],
+                    [
+                        239,
+                        344
+                    ],
+                    [
+                        238,
+                        347
+                    ],
+                    [
+                        238,
+                        357
+                    ],
+                    [
+                        236,
+                        381
+                    ],
+                    [
+                        237,
+                        379
+                    ],
+                    [
+                        238,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942619,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.715Z",
+            "updatedAt": "2023-09-20T10:47:49.715Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        296
+                    ],
+                    [
+                        287,
+                        389
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942618,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.712Z",
+            "updatedAt": "2023-09-20T10:47:49.712Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        296,
+                        399
+                    ],
+                    [
+                        298,
+                        387
+                    ],
+                    [
+                        296,
+                        389
+                    ],
+                    [
+                        294,
+                        388
+                    ],
+                    [
+                        295,
+                        384
+                    ],
+                    [
+                        297,
+                        380
+                    ],
+                    [
+                        298,
+                        371
+                    ],
+                    [
+                        299,
+                        348
+                    ],
+                    [
+                        299,
+                        319
+                    ],
+                    [
+                        298,
+                        304
+                    ],
+                    [
+                        307,
+                        305
+                    ],
+                    [
+                        315,
+                        309
+                    ],
+                    [
+                        324,
+                        309
+                    ],
+                    [
+                        332,
+                        306
+                    ],
+                    [
+                        340,
+                        303
+                    ],
+                    [
+                        338,
+                        335
+                    ],
+                    [
+                        341,
+                        363
+                    ],
+                    [
+                        342,
+                        372
+                    ],
+                    [
+                        340,
+                        388
+                    ],
+                    [
+                        339,
+                        387
+                    ],
+                    [
+                        336,
+                        377
+                    ],
+                    [
+                        328,
+                        365
+                    ],
+                    [
+                        319,
+                        364
+                    ],
+                    [
+                        312,
+                        365
+                    ],
+                    [
+                        305,
+                        370
+                    ],
+                    [
+                        301,
+                        376
+                    ],
+                    [
+                        301,
+                        387
+                    ],
+                    [
+                        299,
+                        401
+                    ],
+                    [
+                        297,
+                        401
+                    ],
+                    [
+                        297,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942617,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.712Z",
+            "updatedAt": "2023-09-20T10:47:49.712Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        303
+                    ],
+                    [
+                        342,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942616,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.711Z",
+            "updatedAt": "2023-09-20T10:47:49.711Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        295
+                    ],
+                    [
+                        285,
+                        290
+                    ],
+                    [
+                        296,
+                        286
+                    ],
+                    [
+                        309,
+                        286
+                    ],
+                    [
+                        322,
+                        289
+                    ],
+                    [
+                        327,
+                        295
+                    ],
+                    [
+                        325,
+                        299
+                    ],
+                    [
+                        286,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942615,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.711Z",
+            "updatedAt": "2023-09-20T10:47:49.711Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        309
+                    ],
+                    [
+                        286,
+                        329
+                    ],
+                    [
+                        291,
+                        342
+                    ],
+                    [
+                        289,
+                        362
+                    ],
+                    [
+                        288,
+                        380
+                    ],
+                    [
+                        299,
+                        367
+                    ],
+                    [
+                        301,
+                        337
+                    ],
+                    [
+                        300,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942614,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.709Z",
+            "updatedAt": "2023-09-20T10:47:49.709Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        286
+                    ],
+                    [
+                        327,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942613,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.709Z",
+            "updatedAt": "2023-09-20T10:47:49.709Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        309
+                    ],
+                    [
+                        301,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942612,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.708Z",
+            "updatedAt": "2023-09-20T10:47:49.708Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        283
+                    ],
+                    [
+                        103,
+                        268
+                    ],
+                    [
+                        108,
+                        265
+                    ],
+                    [
+                        110,
+                        264
+                    ],
+                    [
+                        136,
+                        259
+                    ],
+                    [
+                        144,
+                        258
+                    ],
+                    [
+                        148,
+                        282
+                    ],
+                    [
+                        182,
+                        287
+                    ],
+                    [
+                        186,
+                        286
+                    ],
+                    [
+                        185,
+                        293
+                    ],
+                    [
+                        183,
+                        299
+                    ],
+                    [
+                        185,
+                        328
+                    ],
+                    [
+                        185,
+                        334
+                    ],
+                    [
+                        177,
+                        335
+                    ],
+                    [
+                        175,
+                        330
+                    ],
+                    [
+                        175,
+                        312
+                    ],
+                    [
+                        165,
+                        311
+                    ],
+                    [
+                        150,
+                        311
+                    ],
+                    [
+                        139,
+                        311
+                    ],
+                    [
+                        121,
+                        311
+                    ],
+                    [
+                        119,
+                        297
+                    ],
+                    [
+                        123,
+                        290
+                    ],
+                    [
+                        122,
+                        285
+                    ],
+                    [
+                        113,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942611,
+            "classId": 6461819,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.708Z",
+            "updatedAt": "2023-09-20T10:47:49.708Z",
+            "tags": [],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        103,
+                        258
+                    ],
+                    [
+                        186,
+                        335
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942610,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.706Z",
+            "updatedAt": "2023-09-20T10:47:49.706Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        312
+                    ],
+                    [
+                        400,
+                        306
+                    ],
+                    [
+                        400,
+                        332
+                    ],
+                    [
+                        390,
+                        342
+                    ],
+                    [
+                        390,
+                        422
+                    ],
+                    [
+                        387,
+                        473
+                    ],
+                    [
+                        387,
+                        484
+                    ],
+                    [
+                        383,
+                        490
+                    ],
+                    [
+                        358,
+                        446
+                    ],
+                    [
+                        358,
+                        405
+                    ],
+                    [
+                        360,
+                        350
+                    ],
+                    [
+                        352,
+                        337
+                    ],
+                    [
+                        355,
+                        329
+                    ],
+                    [
+                        359,
+                        321
+                    ],
+                    [
+                        361,
+                        314
+                    ],
+                    [
+                        363,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942609,
+            "classId": 6461832,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.706Z",
+            "updatedAt": "2023-09-20T10:47:49.706Z",
+            "tags": [],
+            "classTitle": "oven",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        306
+                    ],
+                    [
+                        400,
+                        490
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942608,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.705Z",
+            "updatedAt": "2023-09-20T10:47:49.705Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        297,
+                        312
+                    ],
+                    [
+                        276,
+                        309
+                    ],
+                    [
+                        266,
+                        307
+                    ],
+                    [
+                        267,
+                        304
+                    ],
+                    [
+                        281,
+                        300
+                    ],
+                    [
+                        294,
+                        300
+                    ],
+                    [
+                        299,
+                        300
+                    ],
+                    [
+                        299,
+                        300
+                    ],
+                    [
+                        300,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46942607,
+            "classId": 6461823,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:47:49.704Z",
+            "updatedAt": "2023-09-20T10:47:49.704Z",
+            "tags": [],
+            "classTitle": "dining table",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        300
+                    ],
+                    [
+                        300,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

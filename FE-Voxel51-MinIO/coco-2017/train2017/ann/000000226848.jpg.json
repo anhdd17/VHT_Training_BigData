@@ -1,0 +1,732 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4605687,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a person riding a skateboard at a skate park",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.879Z",
+            "updatedAt": "2023-09-20T10:38:00.879Z"
+        },
+        {
+            "id": 4605688,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a person skating on a skateboard at night.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.879Z",
+            "updatedAt": "2023-09-20T10:38:00.879Z"
+        },
+        {
+            "id": 4605689,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A bearded skateboarder rolls down a slope at night",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.879Z",
+            "updatedAt": "2023-09-20T10:38:00.879Z"
+        },
+        {
+            "id": 4605690,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A guy on a skateboard skating down a ramp.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.879Z",
+            "updatedAt": "2023-09-20T10:38:00.879Z"
+        },
+        {
+            "id": 4605691,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "A man rides on a skateboard at night time. ",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.879Z",
+            "updatedAt": "2023-09-20T10:38:00.879Z"
+        }
+    ],
+    "size": {
+        "height": 640,
+        "width": 427
+    },
+    "objects": [
+        {
+            "id": 46401574,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.883Z",
+            "updatedAt": "2023-09-20T10:38:00.883Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        499
+                    ],
+                    [
+                        201,
+                        487
+                    ],
+                    [
+                        187,
+                        423
+                    ],
+                    [
+                        201,
+                        369
+                    ],
+                    [
+                        196,
+                        336
+                    ],
+                    [
+                        187,
+                        343
+                    ],
+                    [
+                        180,
+                        410
+                    ],
+                    [
+                        174,
+                        450
+                    ],
+                    [
+                        178,
+                        474
+                    ],
+                    [
+                        165,
+                        496
+                    ],
+                    [
+                        154,
+                        492
+                    ],
+                    [
+                        148,
+                        443
+                    ],
+                    [
+                        145,
+                        346
+                    ],
+                    [
+                        147,
+                        273
+                    ],
+                    [
+                        170,
+                        257
+                    ],
+                    [
+                        167,
+                        213
+                    ],
+                    [
+                        188,
+                        182
+                    ],
+                    [
+                        216,
+                        213
+                    ],
+                    [
+                        219,
+                        234
+                    ],
+                    [
+                        270,
+                        244
+                    ],
+                    [
+                        298,
+                        320
+                    ],
+                    [
+                        324,
+                        398
+                    ],
+                    [
+                        314,
+                        454
+                    ],
+                    [
+                        292,
+                        466
+                    ],
+                    [
+                        296,
+                        516
+                    ],
+                    [
+                        292,
+                        542
+                    ],
+                    [
+                        256,
+                        553
+                    ],
+                    [
+                        242,
+                        545
+                    ],
+                    [
+                        244,
+                        526
+                    ],
+                    [
+                        263,
+                        502
+                    ],
+                    [
+                        257,
+                        474
+                    ],
+                    [
+                        249,
+                        503
+                    ],
+                    [
+                        227,
+                        509
+                    ],
+                    [
+                        196,
+                        518
+                    ],
+                    [
+                        190,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46401573,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.882Z",
+            "updatedAt": "2023-09-20T10:38:00.882Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        145,
+                        182
+                    ],
+                    [
+                        324,
+                        553
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46401572,
+            "classId": 6461799,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.882Z",
+            "updatedAt": "2023-09-20T10:38:00.882Z",
+            "tags": [],
+            "classTitle": "skateboard",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        516
+                    ],
+                    [
+                        216,
+                        511
+                    ],
+                    [
+                        224,
+                        509
+                    ],
+                    [
+                        228,
+                        506
+                    ],
+                    [
+                        234,
+                        503
+                    ],
+                    [
+                        253,
+                        514
+                    ],
+                    [
+                        230,
+                        536
+                    ],
+                    [
+                        218,
+                        529
+                    ],
+                    [
+                        205,
+                        535
+                    ],
+                    [
+                        201,
+                        537
+                    ],
+                    [
+                        197,
+                        534
+                    ],
+                    [
+                        197,
+                        529
+                    ],
+                    [
+                        201,
+                        526
+                    ],
+                    [
+                        207,
+                        523
+                    ],
+                    [
+                        207,
+                        522
+                    ],
+                    [
+                        203,
+                        516
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46401571,
+            "classId": 6461799,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.882Z",
+            "updatedAt": "2023-09-20T10:38:00.882Z",
+            "tags": [],
+            "classTitle": "skateboard",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        549
+                    ],
+                    [
+                        253,
+                        551
+                    ],
+                    [
+                        265,
+                        547
+                    ],
+                    [
+                        273,
+                        540
+                    ],
+                    [
+                        279,
+                        535
+                    ],
+                    [
+                        284,
+                        535
+                    ],
+                    [
+                        292,
+                        540
+                    ],
+                    [
+                        300,
+                        543
+                    ],
+                    [
+                        301,
+                        546
+                    ],
+                    [
+                        295,
+                        550
+                    ],
+                    [
+                        291,
+                        551
+                    ],
+                    [
+                        290,
+                        557
+                    ],
+                    [
+                        282,
+                        561
+                    ],
+                    [
+                        279,
+                        559
+                    ],
+                    [
+                        252,
+                        566
+                    ],
+                    [
+                        247,
+                        570
+                    ],
+                    [
+                        239,
+                        571
+                    ],
+                    [
+                        236,
+                        567
+                    ],
+                    [
+                        235,
+                        561
+                    ],
+                    [
+                        236,
+                        557
+                    ],
+                    [
+                        242,
+                        556
+                    ],
+                    [
+                        247,
+                        556
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46401570,
+            "classId": 6461799,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.882Z",
+            "updatedAt": "2023-09-20T10:38:00.882Z",
+            "tags": [],
+            "classTitle": "skateboard",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        503
+                    ],
+                    [
+                        253,
+                        537
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46401569,
+            "classId": 6461799,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.881Z",
+            "updatedAt": "2023-09-20T10:38:00.881Z",
+            "tags": [],
+            "classTitle": "skateboard",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        535
+                    ],
+                    [
+                        301,
+                        571
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46401568,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.881Z",
+            "updatedAt": "2023-09-20T10:38:00.881Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        140
+                    ],
+                    [
+                        69,
+                        140
+                    ],
+                    [
+                        75,
+                        146
+                    ],
+                    [
+                        76,
+                        151
+                    ],
+                    [
+                        76,
+                        162
+                    ],
+                    [
+                        90,
+                        168
+                    ],
+                    [
+                        98,
+                        180
+                    ],
+                    [
+                        101,
+                        189
+                    ],
+                    [
+                        105,
+                        196
+                    ],
+                    [
+                        107,
+                        205
+                    ],
+                    [
+                        113,
+                        224
+                    ],
+                    [
+                        112,
+                        233
+                    ],
+                    [
+                        106,
+                        236
+                    ],
+                    [
+                        108,
+                        231
+                    ],
+                    [
+                        105,
+                        233
+                    ],
+                    [
+                        100,
+                        222
+                    ],
+                    [
+                        95,
+                        214
+                    ],
+                    [
+                        96,
+                        243
+                    ],
+                    [
+                        97,
+                        262
+                    ],
+                    [
+                        94,
+                        279
+                    ],
+                    [
+                        84,
+                        280
+                    ],
+                    [
+                        79,
+                        266
+                    ],
+                    [
+                        74,
+                        259
+                    ],
+                    [
+                        71,
+                        267
+                    ],
+                    [
+                        75,
+                        297
+                    ],
+                    [
+                        67,
+                        303
+                    ],
+                    [
+                        58,
+                        300
+                    ],
+                    [
+                        50,
+                        257
+                    ],
+                    [
+                        55,
+                        220
+                    ],
+                    [
+                        51,
+                        233
+                    ],
+                    [
+                        43,
+                        236
+                    ],
+                    [
+                        38,
+                        210
+                    ],
+                    [
+                        43,
+                        178
+                    ],
+                    [
+                        52,
+                        169
+                    ],
+                    [
+                        55,
+                        167
+                    ],
+                    [
+                        59,
+                        165
+                    ],
+                    [
+                        57,
+                        157
+                    ],
+                    [
+                        55,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46401567,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.880Z",
+            "updatedAt": "2023-09-20T10:38:00.880Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        38,
+                        140
+                    ],
+                    [
+                        113,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46401566,
+            "classId": 6461799,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.880Z",
+            "updatedAt": "2023-09-20T10:38:00.880Z",
+            "tags": [],
+            "classTitle": "skateboard",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        328
+                    ],
+                    [
+                        66,
+                        328
+                    ],
+                    [
+                        56,
+                        328
+                    ],
+                    [
+                        55,
+                        323
+                    ],
+                    [
+                        59,
+                        323
+                    ],
+                    [
+                        74,
+                        322
+                    ],
+                    [
+                        75,
+                        327
+                    ],
+                    [
+                        75,
+                        328
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46401565,
+            "classId": 6461799,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:38:00.879Z",
+            "updatedAt": "2023-09-20T10:38:00.879Z",
+            "tags": [],
+            "classTitle": "skateboard",
+            "points": {
+                "exterior": [
+                    [
+                        55,
+                        322
+                    ],
+                    [
+                        76,
+                        328
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

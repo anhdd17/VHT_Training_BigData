@@ -1,0 +1,1868 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 4698999,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "Orange streetcar stopped at a pick up point along a line.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.469Z",
+            "updatedAt": "2023-09-20T10:43:58.469Z"
+        },
+        {
+            "id": 4699000,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "a yellow bus that is a trolly car",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.469Z",
+            "updatedAt": "2023-09-20T10:43:58.469Z"
+        },
+        {
+            "id": 4699001,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "An orange trolley traveling down a city street.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.469Z",
+            "updatedAt": "2023-09-20T10:43:58.469Z"
+        },
+        {
+            "id": 4699002,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "an orange trolley car sitting on the side of the road",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.469Z",
+            "updatedAt": "2023-09-20T10:43:58.469Z"
+        },
+        {
+            "id": 4699003,
+            "tagId": 20959,
+            "name": "caption",
+            "value": "The street trolley car is painted bright yellow.",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.469Z",
+            "updatedAt": "2023-09-20T10:43:58.469Z"
+        }
+    ],
+    "size": {
+        "height": 426,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 46726598,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.486Z",
+            "updatedAt": "2023-09-20T10:43:58.486Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        565,
+                        211
+                    ],
+                    [
+                        569,
+                        215
+                    ],
+                    [
+                        571,
+                        223
+                    ],
+                    [
+                        571,
+                        225
+                    ],
+                    [
+                        569,
+                        227
+                    ],
+                    [
+                        567,
+                        224
+                    ],
+                    [
+                        566,
+                        228
+                    ],
+                    [
+                        562,
+                        231
+                    ],
+                    [
+                        561,
+                        228
+                    ],
+                    [
+                        559,
+                        224
+                    ],
+                    [
+                        546,
+                        222
+                    ],
+                    [
+                        545,
+                        213
+                    ],
+                    [
+                        545,
+                        210
+                    ],
+                    [
+                        546,
+                        209
+                    ],
+                    [
+                        564,
+                        207
+                    ],
+                    [
+                        565,
+                        207
+                    ],
+                    [
+                        565,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726597,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.486Z",
+            "updatedAt": "2023-09-20T10:43:58.486Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        545,
+                        207
+                    ],
+                    [
+                        571,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726596,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.486Z",
+            "updatedAt": "2023-09-20T10:43:58.486Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        547,
+                        136
+                    ],
+                    [
+                        542,
+                        268
+                    ],
+                    [
+                        537,
+                        295
+                    ],
+                    [
+                        481,
+                        312
+                    ],
+                    [
+                        482,
+                        286
+                    ],
+                    [
+                        429,
+                        290
+                    ],
+                    [
+                        429,
+                        323
+                    ],
+                    [
+                        358,
+                        351
+                    ],
+                    [
+                        349,
+                        351
+                    ],
+                    [
+                        341,
+                        320
+                    ],
+                    [
+                        301,
+                        323
+                    ],
+                    [
+                        294,
+                        323
+                    ],
+                    [
+                        251,
+                        319
+                    ],
+                    [
+                        251,
+                        351
+                    ],
+                    [
+                        247,
+                        360
+                    ],
+                    [
+                        239,
+                        363
+                    ],
+                    [
+                        226,
+                        359
+                    ],
+                    [
+                        228,
+                        344
+                    ],
+                    [
+                        232,
+                        342
+                    ],
+                    [
+                        228,
+                        323
+                    ],
+                    [
+                        162,
+                        316
+                    ],
+                    [
+                        148,
+                        312
+                    ],
+                    [
+                        149,
+                        302
+                    ],
+                    [
+                        149,
+                        257
+                    ],
+                    [
+                        157,
+                        120
+                    ],
+                    [
+                        162,
+                        117
+                    ],
+                    [
+                        157,
+                        92
+                    ],
+                    [
+                        163,
+                        85
+                    ],
+                    [
+                        163,
+                        78
+                    ],
+                    [
+                        199,
+                        70
+                    ],
+                    [
+                        216,
+                        67
+                    ],
+                    [
+                        239,
+                        56
+                    ],
+                    [
+                        312,
+                        56
+                    ],
+                    [
+                        316,
+                        46
+                    ],
+                    [
+                        509,
+                        106
+                    ],
+                    [
+                        516,
+                        114
+                    ],
+                    [
+                        537,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726595,
+            "classId": 6461769,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.486Z",
+            "updatedAt": "2023-09-20T10:43:58.486Z",
+            "tags": [],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        46
+                    ],
+                    [
+                        547,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726594,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.485Z",
+            "updatedAt": "2023-09-20T10:43:58.485Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        171
+                    ],
+                    [
+                        344,
+                        163
+                    ],
+                    [
+                        342,
+                        162
+                    ],
+                    [
+                        339,
+                        159
+                    ],
+                    [
+                        340,
+                        154
+                    ],
+                    [
+                        344,
+                        153
+                    ],
+                    [
+                        347,
+                        153
+                    ],
+                    [
+                        350,
+                        157
+                    ],
+                    [
+                        353,
+                        162
+                    ],
+                    [
+                        357,
+                        166
+                    ],
+                    [
+                        359,
+                        176
+                    ],
+                    [
+                        359,
+                        185
+                    ],
+                    [
+                        356,
+                        189
+                    ],
+                    [
+                        352,
+                        194
+                    ],
+                    [
+                        345,
+                        197
+                    ],
+                    [
+                        340,
+                        198
+                    ],
+                    [
+                        339,
+                        195
+                    ],
+                    [
+                        341,
+                        191
+                    ],
+                    [
+                        346,
+                        187
+                    ],
+                    [
+                        349,
+                        185
+                    ],
+                    [
+                        345,
+                        180
+                    ],
+                    [
+                        344,
+                        178
+                    ],
+                    [
+                        339,
+                        179
+                    ],
+                    [
+                        338,
+                        174
+                    ],
+                    [
+                        340,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726593,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.485Z",
+            "updatedAt": "2023-09-20T10:43:58.485Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        153
+                    ],
+                    [
+                        359,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726592,
+            "classId": 6461770,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.485Z",
+            "updatedAt": "2023-09-20T10:43:58.485Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        243
+                    ],
+                    [
+                        2,
+                        237
+                    ],
+                    [
+                        12,
+                        231
+                    ],
+                    [
+                        18,
+                        228
+                    ],
+                    [
+                        21,
+                        222
+                    ],
+                    [
+                        24,
+                        216
+                    ],
+                    [
+                        32,
+                        215
+                    ],
+                    [
+                        43,
+                        215
+                    ],
+                    [
+                        53,
+                        214
+                    ],
+                    [
+                        62,
+                        215
+                    ],
+                    [
+                        63,
+                        220
+                    ],
+                    [
+                        68,
+                        227
+                    ],
+                    [
+                        76,
+                        224
+                    ],
+                    [
+                        80,
+                        224
+                    ],
+                    [
+                        87,
+                        223
+                    ],
+                    [
+                        95,
+                        224
+                    ],
+                    [
+                        95,
+                        229
+                    ],
+                    [
+                        94,
+                        236
+                    ],
+                    [
+                        95,
+                        242
+                    ],
+                    [
+                        92,
+                        244
+                    ],
+                    [
+                        89,
+                        244
+                    ],
+                    [
+                        88,
+                        246
+                    ],
+                    [
+                        87,
+                        251
+                    ],
+                    [
+                        78,
+                        254
+                    ],
+                    [
+                        75,
+                        252
+                    ],
+                    [
+                        65,
+                        248
+                    ],
+                    [
+                        61,
+                        251
+                    ],
+                    [
+                        58,
+                        254
+                    ],
+                    [
+                        51,
+                        256
+                    ],
+                    [
+                        50,
+                        259
+                    ],
+                    [
+                        46,
+                        259
+                    ],
+                    [
+                        35,
+                        253
+                    ],
+                    [
+                        23,
+                        254
+                    ],
+                    [
+                        20,
+                        254
+                    ],
+                    [
+                        12,
+                        255
+                    ],
+                    [
+                        8,
+                        255
+                    ],
+                    [
+                        6,
+                        252
+                    ],
+                    [
+                        4,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726591,
+            "classId": 6461770,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.484Z",
+            "updatedAt": "2023-09-20T10:43:58.484Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        214
+                    ],
+                    [
+                        95,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726590,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.484Z",
+            "updatedAt": "2023-09-20T10:43:58.484Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        234
+                    ],
+                    [
+                        112,
+                        232
+                    ],
+                    [
+                        112,
+                        222
+                    ],
+                    [
+                        109,
+                        216
+                    ],
+                    [
+                        109,
+                        216
+                    ],
+                    [
+                        114,
+                        219
+                    ],
+                    [
+                        114,
+                        215
+                    ],
+                    [
+                        114,
+                        211
+                    ],
+                    [
+                        116,
+                        210
+                    ],
+                    [
+                        122,
+                        216
+                    ],
+                    [
+                        121,
+                        219
+                    ],
+                    [
+                        121,
+                        224
+                    ],
+                    [
+                        116,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726589,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.483Z",
+            "updatedAt": "2023-09-20T10:43:58.483Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        109,
+                        210
+                    ],
+                    [
+                        122,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726588,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.483Z",
+            "updatedAt": "2023-09-20T10:43:58.483Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        93,
+                        201
+                    ],
+                    [
+                        93,
+                        200
+                    ],
+                    [
+                        94,
+                        199
+                    ],
+                    [
+                        95,
+                        199
+                    ],
+                    [
+                        95,
+                        199
+                    ],
+                    [
+                        96,
+                        200
+                    ],
+                    [
+                        96,
+                        200
+                    ],
+                    [
+                        96,
+                        201
+                    ],
+                    [
+                        96,
+                        202
+                    ],
+                    [
+                        96,
+                        203
+                    ],
+                    [
+                        96,
+                        203
+                    ],
+                    [
+                        96,
+                        204
+                    ],
+                    [
+                        96,
+                        204
+                    ],
+                    [
+                        96,
+                        205
+                    ],
+                    [
+                        96,
+                        206
+                    ],
+                    [
+                        95,
+                        207
+                    ],
+                    [
+                        95,
+                        208
+                    ],
+                    [
+                        95,
+                        209
+                    ],
+                    [
+                        94,
+                        210
+                    ],
+                    [
+                        94,
+                        213
+                    ],
+                    [
+                        94,
+                        214
+                    ],
+                    [
+                        94,
+                        214
+                    ],
+                    [
+                        94,
+                        214
+                    ],
+                    [
+                        93,
+                        214
+                    ],
+                    [
+                        92,
+                        214
+                    ],
+                    [
+                        92,
+                        211
+                    ],
+                    [
+                        91,
+                        208
+                    ],
+                    [
+                        91,
+                        207
+                    ],
+                    [
+                        91,
+                        205
+                    ],
+                    [
+                        91,
+                        204
+                    ],
+                    [
+                        92,
+                        204
+                    ],
+                    [
+                        93,
+                        203
+                    ],
+                    [
+                        93,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726587,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.483Z",
+            "updatedAt": "2023-09-20T10:43:58.483Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        91,
+                        199
+                    ],
+                    [
+                        96,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726586,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.482Z",
+            "updatedAt": "2023-09-20T10:43:58.482Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        193
+                    ],
+                    [
+                        389,
+                        194
+                    ],
+                    [
+                        391,
+                        200
+                    ],
+                    [
+                        391,
+                        208
+                    ],
+                    [
+                        390,
+                        212
+                    ],
+                    [
+                        390,
+                        213
+                    ],
+                    [
+                        385,
+                        211
+                    ],
+                    [
+                        384,
+                        212
+                    ],
+                    [
+                        382,
+                        210
+                    ],
+                    [
+                        379,
+                        210
+                    ],
+                    [
+                        377,
+                        207
+                    ],
+                    [
+                        379,
+                        203
+                    ],
+                    [
+                        381,
+                        201
+                    ],
+                    [
+                        382,
+                        200
+                    ],
+                    [
+                        379,
+                        199
+                    ],
+                    [
+                        378,
+                        195
+                    ],
+                    [
+                        381,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726585,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.482Z",
+            "updatedAt": "2023-09-20T10:43:58.482Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        178
+                    ],
+                    [
+                        385,
+                        176
+                    ],
+                    [
+                        389,
+                        176
+                    ],
+                    [
+                        391,
+                        180
+                    ],
+                    [
+                        391,
+                        184
+                    ],
+                    [
+                        391,
+                        188
+                    ],
+                    [
+                        382,
+                        189
+                    ],
+                    [
+                        380,
+                        186
+                    ],
+                    [
+                        381,
+                        183
+                    ],
+                    [
+                        380,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726584,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.482Z",
+            "updatedAt": "2023-09-20T10:43:58.482Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        193
+                    ],
+                    [
+                        391,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726583,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.482Z",
+            "updatedAt": "2023-09-20T10:43:58.482Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        176
+                    ],
+                    [
+                        391,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726582,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.481Z",
+            "updatedAt": "2023-09-20T10:43:58.481Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        178
+                    ],
+                    [
+                        436,
+                        178
+                    ],
+                    [
+                        441,
+                        179
+                    ],
+                    [
+                        441,
+                        181
+                    ],
+                    [
+                        441,
+                        191
+                    ],
+                    [
+                        441,
+                        194
+                    ],
+                    [
+                        442,
+                        195
+                    ],
+                    [
+                        442,
+                        208
+                    ],
+                    [
+                        430,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726581,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.481Z",
+            "updatedAt": "2023-09-20T10:43:58.481Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        430,
+                        210
+                    ],
+                    [
+                        438,
+                        210
+                    ],
+                    [
+                        438,
+                        216
+                    ],
+                    [
+                        429,
+                        217
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726580,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.481Z",
+            "updatedAt": "2023-09-20T10:43:58.481Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        430,
+                        178
+                    ],
+                    [
+                        442,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726579,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.479Z",
+            "updatedAt": "2023-09-20T10:43:58.479Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        429,
+                        210
+                    ],
+                    [
+                        438,
+                        217
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726578,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.479Z",
+            "updatedAt": "2023-09-20T10:43:58.479Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        197
+                    ],
+                    [
+                        450,
+                        203
+                    ],
+                    [
+                        451,
+                        208
+                    ],
+                    [
+                        451,
+                        214
+                    ],
+                    [
+                        445,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726577,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.479Z",
+            "updatedAt": "2023-09-20T10:43:58.479Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        445,
+                        197
+                    ],
+                    [
+                        451,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726576,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.479Z",
+            "updatedAt": "2023-09-20T10:43:58.479Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        205
+                    ],
+                    [
+                        226,
+                        200
+                    ],
+                    [
+                        222,
+                        194
+                    ],
+                    [
+                        215,
+                        198
+                    ],
+                    [
+                        210,
+                        210
+                    ],
+                    [
+                        202,
+                        202
+                    ],
+                    [
+                        202,
+                        181
+                    ],
+                    [
+                        206,
+                        157
+                    ],
+                    [
+                        207,
+                        142
+                    ],
+                    [
+                        211,
+                        133
+                    ],
+                    [
+                        220,
+                        130
+                    ],
+                    [
+                        229,
+                        145
+                    ],
+                    [
+                        238,
+                        154
+                    ],
+                    [
+                        241,
+                        173
+                    ],
+                    [
+                        242,
+                        203
+                    ],
+                    [
+                        239,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726575,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.478Z",
+            "updatedAt": "2023-09-20T10:43:58.478Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        130
+                    ],
+                    [
+                        242,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726574,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.478Z",
+            "updatedAt": "2023-09-20T10:43:58.478Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        482,
+                        204
+                    ],
+                    [
+                        478,
+                        197
+                    ],
+                    [
+                        472,
+                        200
+                    ],
+                    [
+                        472,
+                        195
+                    ],
+                    [
+                        474,
+                        192
+                    ],
+                    [
+                        474,
+                        189
+                    ],
+                    [
+                        473,
+                        184
+                    ],
+                    [
+                        476,
+                        182
+                    ],
+                    [
+                        481,
+                        184
+                    ],
+                    [
+                        482,
+                        186
+                    ],
+                    [
+                        481,
+                        191
+                    ],
+                    [
+                        487,
+                        194
+                    ],
+                    [
+                        486,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726573,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.478Z",
+            "updatedAt": "2023-09-20T10:43:58.478Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        472,
+                        182
+                    ],
+                    [
+                        487,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726572,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.477Z",
+            "updatedAt": "2023-09-20T10:43:58.477Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        492,
+                        200
+                    ],
+                    [
+                        495,
+                        202
+                    ],
+                    [
+                        496,
+                        203
+                    ],
+                    [
+                        497,
+                        206
+                    ],
+                    [
+                        498,
+                        209
+                    ],
+                    [
+                        499,
+                        211
+                    ],
+                    [
+                        498,
+                        213
+                    ],
+                    [
+                        495,
+                        215
+                    ],
+                    [
+                        492,
+                        215
+                    ],
+                    [
+                        491,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726571,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.474Z",
+            "updatedAt": "2023-09-20T10:43:58.474Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        491,
+                        200
+                    ],
+                    [
+                        499,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726570,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.474Z",
+            "updatedAt": "2023-09-20T10:43:58.474Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        579,
+                        222
+                    ],
+                    [
+                        579,
+                        211
+                    ],
+                    [
+                        588,
+                        209
+                    ],
+                    [
+                        590,
+                        217
+                    ],
+                    [
+                        590,
+                        226
+                    ],
+                    [
+                        588,
+                        225
+                    ],
+                    [
+                        579,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726569,
+            "classId": 6461765,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.473Z",
+            "updatedAt": "2023-09-20T10:43:58.473Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        579,
+                        209
+                    ],
+                    [
+                        590,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726568,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.473Z",
+            "updatedAt": "2023-09-20T10:43:58.473Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        96,
+                        224
+                    ],
+                    [
+                        96,
+                        221
+                    ],
+                    [
+                        96,
+                        219
+                    ],
+                    [
+                        94,
+                        218
+                    ],
+                    [
+                        95,
+                        214
+                    ],
+                    [
+                        96,
+                        213
+                    ],
+                    [
+                        97,
+                        210
+                    ],
+                    [
+                        99,
+                        210
+                    ],
+                    [
+                        100,
+                        212
+                    ],
+                    [
+                        101,
+                        214
+                    ],
+                    [
+                        102,
+                        215
+                    ],
+                    [
+                        102,
+                        217
+                    ],
+                    [
+                        101,
+                        218
+                    ],
+                    [
+                        100,
+                        219
+                    ],
+                    [
+                        101,
+                        222
+                    ],
+                    [
+                        101,
+                        222
+                    ],
+                    [
+                        99,
+                        223
+                    ],
+                    [
+                        98,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726567,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.471Z",
+            "updatedAt": "2023-09-20T10:43:58.471Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        210
+                    ],
+                    [
+                        102,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726566,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.471Z",
+            "updatedAt": "2023-09-20T10:43:58.471Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        207
+                    ],
+                    [
+                        25,
+                        209
+                    ],
+                    [
+                        23,
+                        210
+                    ],
+                    [
+                        25,
+                        216
+                    ],
+                    [
+                        30,
+                        216
+                    ],
+                    [
+                        30,
+                        214
+                    ],
+                    [
+                        29,
+                        211
+                    ],
+                    [
+                        29,
+                        210
+                    ],
+                    [
+                        30,
+                        209
+                    ],
+                    [
+                        29,
+                        208
+                    ],
+                    [
+                        28,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 46726565,
+            "classId": 6461763,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-09-20T10:43:58.470Z",
+            "updatedAt": "2023-09-20T10:43:58.470Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        23,
+                        207
+                    ],
+                    [
+                        30,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
